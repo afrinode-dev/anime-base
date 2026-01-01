@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:38:48.731Z",
+  "lastUpdated": "2026-01-01T09:38:50.774Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 502,
@@ -725,17 +725,22 @@
     "a-i-c-o-incarnation": {
       "id": "a-i-c-o-incarnation",
       "title": "A.I.C.O. Incarnation",
-      "originalLink": "https://anime-sama.tv/catalogue/a-i-c-o-incarnation",
       "slug": "a-i-c-o-incarnation",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-i-c-o-incarnation.jpg",
-      "banner": null,
-      "description": "Japon, an 2035. Grâce au Centre de Recherches en Biotechnologies Kiryû, la médecine a fait de fabuleux progrès au Pays du Soleil Levant. Mais un jour, quelque chose tourne mal et le laboratoire est englouti par une substance",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/a-i-c-o-incarnation/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:11:56.875Z",
-      "lastUpdated": "2026-01-01T09:11:56.875Z"
+      "scrapedAt": "2026-01-01T09:38:50.774Z",
+      "lastUpdated": "2026-01-01T09:38:50.774Z"
     },
     "absolute-duo": {
       "id": "absolute-duo",
@@ -16373,8 +16378,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 125,
-      "vostfr": 24
+      "vf": 124,
+      "vostfr": 25
     },
     "byType": {
       "anime": 149,
@@ -16387,7 +16392,7 @@
       "Sendvid": 34,
       "OneUpload": 2
     },
-    "lastUpdate": "2026-01-01T09:38:48.730Z"
+    "lastUpdate": "2026-01-01T09:38:50.774Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
