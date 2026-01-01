@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:10:41.345Z",
-  "totalAnimes": 18,
+  "lastUpdated": "2026-01-01T10:10:42.988Z",
+  "totalAnimes": 19,
   "totalScans": 0,
   "totalEpisodes": 342,
   "totalChapters": 0,
@@ -384,6 +384,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:10:37.647Z"
+    },
+    "a-destructive-god-sits-next-to-me": {
+      "id": "a-destructive-god-sits-next-to-me",
+      "title": "A Destructive God Sits Next to Me",
+      "slug": "a-destructive-god-sits-next-to-me",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/a-destructive-god-sits-next-to-me/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/a-destructive-god-sits-next-to-me/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/a-destructive-god-sits-next-to-me/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "a-destructive-god-sits-next-to-me_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:10:42.988Z"
     }
   },
   "scans": {},
@@ -10848,10 +10869,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 4,
-      "vostfr": 14
+      "vostfr": 15
     },
     "byType": {
-      "anime": 18,
+      "anime": 19,
       "scan": 0
     },
     "byPlayer": {
@@ -10861,6 +10882,6 @@
       "Sendvid": 21,
       "OneUpload": 1
     },
-    "lastUpdate": "2026-01-01T10:10:41.345Z"
+    "lastUpdate": "2026-01-01T10:10:42.988Z"
   }
 }
