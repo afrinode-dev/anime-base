@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:39:11.007Z",
+  "lastUpdated": "2026-01-01T09:39:12.871Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 539,
@@ -830,17 +830,22 @@
     "acca-13-ku-kansatsu-ka": {
       "id": "acca-13-ku-kansatsu-ka",
       "title": "ACCA 13-Ku Kansatsu-Ka",
-      "originalLink": "https://anime-sama.tv/catalogue/acca-13-ku-kansatsu-ka",
       "slug": "acca-13-ku-kansatsu-ka",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/acca-13-ku-kansatsu-ka.jpg",
-      "banner": null,
-      "description": "Jean Otus, connu pour ses habitudes de fumeur, est membre du bureau d'inspection d'ACCA. Son travail consiste à visiter les différentes branches de l'organisation afin de déceler fraudes, corruptions et autre délits empêchant son bon fonctionnement. Le problème, c'est que ses aptitudes sont telles qu'il s'attire l'animosité de nombreuses personnes.",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/acca-13-ku-kansatsu-ka/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:00.214Z",
-      "lastUpdated": "2026-01-01T09:12:00.214Z"
+      "scrapedAt": "2026-01-01T09:39:12.871Z",
+      "lastUpdated": "2026-01-01T09:39:12.871Z"
     },
     "accel-world": {
       "id": "accel-world",
@@ -17507,8 +17512,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 123,
-      "vostfr": 26
+      "vf": 122,
+      "vostfr": 27
     },
     "byType": {
       "anime": 149,
@@ -17521,7 +17526,7 @@
       "Sendvid": 38,
       "OneUpload": 2
     },
-    "lastUpdate": "2026-01-01T09:39:11.007Z"
+    "lastUpdate": "2026-01-01T09:39:12.871Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
