@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:42:58.360Z",
+  "lastUpdated": "2026-01-01T09:42:59.753Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1517,
@@ -1855,17 +1855,22 @@
     "anime-de-wakaru-shinryounaika": {
       "id": "anime-de-wakaru-shinryounaika",
       "title": "Anime de Wakaru Shinryounaika",
-      "originalLink": "https://anime-sama.tv/catalogue/anime-de-wakaru-shinryounaika",
       "slug": "anime-de-wakaru-shinryounaika",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/anime-de-wakaru-shinryounaika.jpg",
-      "banner": null,
-      "description": "L'histoire suit Ryo, un psychologue, et sa joyeuse infirmière Asuna qui nous expliquent les différentes pathologies liées à la psychologie. Ils couvrent des sujets tels que la validité, la prévalence et l'origine de troubles mentaux, en plus d'aborder des troubles spécifiques comme la dépression, le harcèlement, l'addiction à internet ou encore le syndrome d'Asperger. L'information est communiquée sur un ton léger et humoristique avec diverses blagues, jeux de mots et les références à la culture",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/anime-de-wakaru-shinryounaika/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:31.428Z",
-      "lastUpdated": "2026-01-01T09:12:31.428Z"
+      "scrapedAt": "2026-01-01T09:42:59.753Z",
+      "lastUpdated": "2026-01-01T09:42:59.753Z"
     },
     "anne-shirley": {
       "id": "anne-shirley",
@@ -43969,8 +43974,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 90,
-      "vostfr": 59
+      "vf": 89,
+      "vostfr": 60
     },
     "byType": {
       "anime": 149,
@@ -43984,7 +43989,7 @@
       "OneUpload": 8,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T09:42:58.358Z"
+    "lastUpdate": "2026-01-01T09:42:59.753Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
