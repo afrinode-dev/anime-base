@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:36:29.046Z",
+  "lastUpdated": "2026-01-01T09:36:30.556Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 12,
@@ -70,17 +70,22 @@
     "tis-time-for-torture-princess": {
       "id": "tis-time-for-torture-princess",
       "title": "'Tis Time for Torture Princess",
-      "originalLink": "https://anime-sama.tv/catalogue/tis-time-for-torture-princess",
       "slug": "tis-time-for-torture-princess",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/tis-time-for-torture-princess.jpg",
-      "banner": null,
-      "description": "Hime-sama, princesse de l'armée royale, et son épée sacré Ex, ont été capturées par l'armée du Roi démon; Afin de connaître tous les secrets détenus par cette dernière, le bourreau de l'armée du Roi démon décide de la",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/tis-time-for-torture-princess/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:11:39.765Z",
-      "lastUpdated": "2026-01-01T09:11:39.765Z"
+      "scrapedAt": "2026-01-01T09:36:30.556Z",
+      "lastUpdated": "2026-01-01T09:36:30.556Z"
     },
     "5-cm-per-second": {
       "id": "5-cm-per-second",
@@ -2726,8 +2731,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 147,
-      "vostfr": 2
+      "vf": 146,
+      "vostfr": 3
     },
     "byType": {
       "anime": 149,
@@ -2739,7 +2744,7 @@
       "Scan": 1,
       "Sendvid": 1
     },
-    "lastUpdate": "2026-01-01T09:36:29.046Z"
+    "lastUpdate": "2026-01-01T09:36:30.556Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
