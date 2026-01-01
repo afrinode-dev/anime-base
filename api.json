@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:40:21.983Z",
+  "lastUpdated": "2026-01-01T09:40:23.763Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 899,
@@ -1105,17 +1105,22 @@
     "aho-girl": {
       "id": "aho-girl",
       "title": "Aho Girl",
-      "originalLink": "https://anime-sama.tv/catalogue/aho-girl",
       "slug": "aho-girl",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/aho-girl.jpg",
-      "banner": null,
-      "description": "Hanabatake Yoshiko est une jeune lycéenne vraiment étourdie et stupide.\n\nElle passe ses journées au lycée avec son meilleur ami d'enfance, Akutsu Akuru. Cette dernière clame, haut et fort, qu'elle est amoureuse de Akuru.\n\nAyant le don pour se mettre dans des situations plus farfelues les unes que les autres, Akuru sera là pour",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/aho-girl/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:08.577Z",
-      "lastUpdated": "2026-01-01T09:12:08.577Z"
+      "scrapedAt": "2026-01-01T09:40:23.763Z",
+      "lastUpdated": "2026-01-01T09:40:23.763Z"
     },
     "ai-no-idenshi": {
       "id": "ai-no-idenshi",
@@ -25500,8 +25505,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 114,
-      "vostfr": 35
+      "vf": 113,
+      "vostfr": 36
     },
     "byType": {
       "anime": 149,
@@ -25515,7 +25520,7 @@
       "OneUpload": 3,
       "Smoothpre": 2
     },
-    "lastUpdate": "2026-01-01T09:40:21.983Z"
+    "lastUpdate": "2026-01-01T09:40:23.763Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
