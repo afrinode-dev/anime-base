@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:09:51.079Z",
-  "totalAnimes": 8,
+  "lastUpdated": "2026-01-01T10:09:52.471Z",
+  "totalAnimes": 9,
   "totalScans": 0,
   "totalEpisodes": 147,
   "totalChapters": 0,
@@ -174,6 +174,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:09:49.038Z"
+    },
+    "86-eighty-six": {
+      "id": "86-eighty-six",
+      "title": "86 Eighty Six",
+      "slug": "86-eighty-six",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/86-eighty-six/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/86-eighty-six/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/86-eighty-six/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "86-eighty-six_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:09:52.471Z"
     }
   },
   "scans": {},
@@ -5012,10 +5033,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 1,
-      "vostfr": 7
+      "vostfr": 8
     },
     "byType": {
-      "anime": 8,
+      "anime": 9,
       "scan": 0
     },
     "byPlayer": {
@@ -5025,6 +5046,6 @@
       "Sendvid": 10,
       "OneUpload": 1
     },
-    "lastUpdate": "2026-01-01T10:09:51.079Z"
+    "lastUpdate": "2026-01-01T10:09:52.471Z"
   }
 }
