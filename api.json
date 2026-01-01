@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:39:48.919Z",
+  "lastUpdated": "2026-01-01T09:39:50.487Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 750,
@@ -985,17 +985,22 @@
     "adventure-time": {
       "id": "adventure-time",
       "title": "Adventure Time",
-      "originalLink": "https://anime-sama.tv/catalogue/adventure-time",
       "slug": "adventure-time",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/adventure-time.jpg",
-      "banner": null,
-      "description": "La série suit les aventures de Finn l'humain, un jeune garçon, et de son meilleur ami Jake le chien, un chien anthropomorphe aux pouvoirs magiques capable de changer de taille et de forme à volonté. Finn et Jake vivent sur l'île post-apocalyptique de Ooo.",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/adventure-time/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:05.272Z",
-      "lastUpdated": "2026-01-01T09:12:05.272Z"
+      "scrapedAt": "2026-01-01T09:39:50.487Z",
+      "lastUpdated": "2026-01-01T09:39:50.487Z"
     },
     "afro-samurai": {
       "id": "afro-samurai",
@@ -21425,8 +21430,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 117,
-      "vostfr": 32
+      "vf": 116,
+      "vostfr": 33
     },
     "byType": {
       "anime": 149,
@@ -21440,7 +21445,7 @@
       "OneUpload": 3,
       "Smoothpre": 1
     },
-    "lastUpdate": "2026-01-01T09:39:48.918Z"
+    "lastUpdate": "2026-01-01T09:39:50.487Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
