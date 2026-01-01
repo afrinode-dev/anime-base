@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:48:30.114Z",
-  "totalAnimes": 176,
+  "lastUpdated": "2026-01-01T09:48:32.008Z",
+  "totalAnimes": 177,
   "totalScans": 0,
   "totalEpisodes": 2718,
   "totalChapters": 0,
@@ -3371,6 +3371,26 @@
       "availableScans": [],
       "scrapedAt": "2026-01-01T09:48:27.678Z",
       "lastUpdated": "2026-01-01T09:48:27.678Z"
+    },
+    "beck": {
+      "id": "beck",
+      "title": "Beck",
+      "slug": "beck",
+      "language": "vostfr",
+      "type": "anime",
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/beck/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
+      "availableScans": [],
+      "scrapedAt": "2026-01-01T09:48:32.008Z",
+      "lastUpdated": "2026-01-01T09:48:32.008Z"
     }
   },
   "scans": {},
@@ -78891,10 +78911,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 66,
-      "vostfr": 110
+      "vostfr": 111
     },
     "byType": {
-      "anime": 176,
+      "anime": 177,
       "scan": 0
     },
     "byPlayer": {
@@ -78905,7 +78925,7 @@
       "OneUpload": 17,
       "Smoothpre": 11
     },
-    "lastUpdate": "2026-01-01T09:48:30.112Z"
+    "lastUpdate": "2026-01-01T09:48:32.008Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
