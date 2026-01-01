@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:37:20.939Z",
+  "lastUpdated": "2026-01-01T09:37:22.586Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 197,
@@ -355,17 +355,22 @@
     "a-centaurs-life": {
       "id": "a-centaurs-life",
       "title": "A Centaur's Life",
-      "originalLink": "https://anime-sama.tv/catalogue/a-centaurs-life",
       "slug": "a-centaurs-life",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-centaurs-life.jpg",
-      "banner": null,
-      "description": "Être une adolescente n'est jamais facile...encore plus pour une centaure ! Kimihara Himeno est une jeune centaure douce et timide, qui comme beaucoup d'adolescentes de son âge, ne se sent pas toujours bien dans sa peau. Toute sa classe est remplie de diverses créatures : sirènes, anges, démons, dragons, homme-chat... Pourtant, en dehors de ce côté fantastique, Himeno et ses deux meilleurs amies, Gokuraku Nozomi & Narau Kyoko, ont une vie tout ce qui a plus de normal, avec son lot de joies et ses",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/a-centaurs-life/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:11:46.344Z",
-      "lastUpdated": "2026-01-01T09:11:46.344Z"
+      "scrapedAt": "2026-01-01T09:37:22.586Z",
+      "lastUpdated": "2026-01-01T09:37:22.586Z"
     },
     "a-certain-magical-index": {
       "id": "a-certain-magical-index",
@@ -7849,8 +7854,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 137,
-      "vostfr": 12
+      "vf": 136,
+      "vostfr": 13
     },
     "byType": {
       "anime": 149,
@@ -7863,7 +7868,7 @@
       "Sendvid": 15,
       "OneUpload": 1
     },
-    "lastUpdate": "2026-01-01T09:37:20.939Z"
+    "lastUpdate": "2026-01-01T09:37:22.586Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
