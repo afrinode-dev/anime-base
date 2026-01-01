@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:49:37.496Z",
-  "totalAnimes": 188,
+  "lastUpdated": "2026-01-01T09:49:39.195Z",
+  "totalAnimes": 189,
   "totalScans": 0,
   "totalEpisodes": 3039,
   "totalChapters": 0,
@@ -3611,6 +3611,26 @@
       "availableScans": [],
       "scrapedAt": "2026-01-01T09:49:35.579Z",
       "lastUpdated": "2026-01-01T09:49:35.579Z"
+    },
+    "black-butler": {
+      "id": "black-butler",
+      "title": "Black Butler",
+      "slug": "black-butler",
+      "language": "vostfr",
+      "type": "anime",
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/black-butler/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
+      "availableScans": [],
+      "scrapedAt": "2026-01-01T09:49:39.194Z",
+      "lastUpdated": "2026-01-01T09:49:39.194Z"
     }
   },
   "scans": {},
@@ -86744,10 +86764,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 71,
-      "vostfr": 117
+      "vostfr": 118
     },
     "byType": {
-      "anime": 188,
+      "anime": 189,
       "scan": 0
     },
     "byPlayer": {
@@ -86758,7 +86778,7 @@
       "OneUpload": 18,
       "Smoothpre": 11
     },
-    "lastUpdate": "2026-01-01T09:49:37.495Z"
+    "lastUpdate": "2026-01-01T09:49:39.194Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
