@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:40:17.322Z",
+  "lastUpdated": "2026-01-01T09:40:19.052Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 887,
@@ -1085,17 +1085,22 @@
     "ahiru-no-sora": {
       "id": "ahiru-no-sora",
       "title": "Ahiru no Sora",
-      "originalLink": "https://anime-sama.tv/catalogue/ahiru-no-sora",
       "slug": "ahiru-no-sora",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ahiru-no-sora.jpg",
-      "banner": null,
-      "description": "Complexé par sa petite taille, Sora est passionné de basket. Lorsqu'il entre en seconde, il décide naturellement d'intégrer l'équipe du lycée, mais découvre vite que le club est le repaire des pires voyous de l'école et qu'ils n'ont aucune intention de s'entraîner. L'enthousiasme sans limite de Sora pour le basket, déterminé à prouver que son talent dépasse son physique chétif, lui crée bientôt autant d'amis que d'ennemis...",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/ahiru-no-sora/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:07.995Z",
-      "lastUpdated": "2026-01-01T09:12:07.995Z"
+      "scrapedAt": "2026-01-01T09:40:19.052Z",
+      "lastUpdated": "2026-01-01T09:40:19.052Z"
     },
     "aho-girl": {
       "id": "aho-girl",
@@ -25257,8 +25262,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 115,
-      "vostfr": 34
+      "vf": 114,
+      "vostfr": 35
     },
     "byType": {
       "anime": 149,
@@ -25272,7 +25277,7 @@
       "OneUpload": 3,
       "Smoothpre": 2
     },
-    "lastUpdate": "2026-01-01T09:40:17.322Z"
+    "lastUpdate": "2026-01-01T09:40:19.052Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
