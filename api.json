@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:43:01.973Z",
+  "lastUpdated": "2026-01-01T09:43:03.564Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1541,
@@ -1875,17 +1875,22 @@
     "anne-shirley": {
       "id": "anne-shirley",
       "title": "Anne Shirley",
-      "originalLink": "https://anime-sama.tv/catalogue/anne-shirley",
       "slug": "anne-shirley",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/anne-shirley.jpg",
-      "banner": null,
-      "description": "Il s'agit d'une nouvelle adaptation du roman Anne... la maison aux pignons verts de Lucy Maud Montgomery. Marilla et Matthew Cuthbert sont frère et sœur et travaillent la terre à Avonlea, sur l'Île-du-Prince-Édouard, au Canada. L'âge avançant, ils décident d'adopter un garçon pour les aider aux travaux des champs. La surprise est grande quand l'orphelinat, par erreur, leur envoie Anne Shirley, une jeune fille de 11 ans au caractère bien trempé et à l'imagination fertile.",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/anne-shirley/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:31.618Z",
-      "lastUpdated": "2026-01-01T09:12:31.618Z"
+      "scrapedAt": "2026-01-01T09:43:03.562Z",
+      "lastUpdated": "2026-01-01T09:43:03.562Z"
     },
     "ano-natsu-de-matteru": {
       "id": "ano-natsu-de-matteru",
@@ -45022,8 +45027,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 89,
-      "vostfr": 60
+      "vf": 88,
+      "vostfr": 61
     },
     "byType": {
       "anime": 149,
@@ -45037,7 +45042,7 @@
       "OneUpload": 9,
       "Smoothpre": 4
     },
-    "lastUpdate": "2026-01-01T09:43:01.973Z"
+    "lastUpdate": "2026-01-01T09:43:03.562Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
