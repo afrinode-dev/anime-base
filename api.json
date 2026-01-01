@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:12:32.529Z",
-  "totalAnimes": 102,
+  "lastUpdated": "2026-01-01T09:12:34.156Z",
+  "totalAnimes": 105,
   "totalScans": 0,
   "totalEpisodes": 0,
   "totalChapters": 0,
@@ -1512,30 +1512,75 @@
       "title": "Anohana",
       "originalLink": "https://anime-sama.tv/catalogue/anohana",
       "slug": "anohana",
-      "language": "vostfr",
+      "language": "vf",
       "type": "anime",
       "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/anohana.jpg",
       "banner": null,
       "description": "L'histoire nous entraîne aux côtés de Jin-tan, Anaru, Yukiatsu, Tsuruko, Poppo et Menma, 3 jeunes filles et 3 jeunes garçons inséparables vivant à la campagne.\n\nMalheureusement, après un accident mortel qui est arrivé à Menma, le groupe d'amis se sépare. Suite à ces événements, chacun a choisi un chemin différent : Anaru passe la plupart de son temps avec ses amies, Poppo rêve de voyage, Yukiatsu et Tsuruko sont dans le même lycée et restent toujours ensemble et Jin-tan est devenu un Hikikomori.",
       "availableSeasons": [],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:31.676Z",
-      "lastUpdated": "2026-01-01T09:12:31.676Z"
+      "scrapedAt": "2026-01-01T09:12:32.996Z",
+      "lastUpdated": "2026-01-01T09:12:32.996Z"
     },
     "another": {
       "id": "another",
       "title": "Another",
       "originalLink": "https://anime-sama.tv/catalogue/another/",
       "slug": "another",
-      "language": "vostfr",
+      "language": "vf",
       "type": "anime",
       "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/another.jpg",
       "banner": null,
       "description": "En 1972, dans l'établissement de Yomiyama au Japon, un jeune nommé Misaki Yomiyama meurt dans un accident mystérieux. Ses camarades de la classe 3-3, très attristés et ne voulant pas y croire, décident de faire comme si il était encore en vie jusqu'à la fin de l'année, lors de la remise des diplômes. C'est alors le début d'une longue histoire...",
       "availableSeasons": [],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:32.499Z",
-      "lastUpdated": "2026-01-01T09:12:32.499Z"
+      "scrapedAt": "2026-01-01T09:12:33.900Z",
+      "lastUpdated": "2026-01-01T09:12:33.900Z"
+    },
+    "anti-gods-dragon-system": {
+      "id": "anti-gods-dragon-system",
+      "title": "Anti Gods Dragon System",
+      "originalLink": "https://anime-sama.tv/catalogue/anti-gods-dragon-system",
+      "slug": "anti-gods-dragon-system",
+      "language": "vostfr",
+      "type": "anime",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/anti-gods-dragon-system.jpg",
+      "banner": null,
+      "description": "Tian Ling, un jeune homme persécuté par un camarade de classe de son clan, s'est débarrassé de Tian Ling d'une manière tragique qui l'a conduit à la mort. Au moment de sa mort, son sang a réveillé les vestiges d'un dragon d'il y a des millions d'années, connu sous le nom de Dragon System. Il l'a fait revivre afin de se venger en détruisant les dieux et de devenir le maître suprême... dans un voyage d'entraînement pour chercher à détruire les cieux !",
+      "availableSeasons": [],
+      "availableScans": [],
+      "scrapedAt": "2026-01-01T09:12:32.925Z",
+      "lastUpdated": "2026-01-01T09:12:32.925Z"
+    },
+    "ao-ashi": {
+      "id": "ao-ashi",
+      "title": "Ao Ashi",
+      "originalLink": "https://anime-sama.tv/catalogue/ao-ashi",
+      "slug": "ao-ashi",
+      "language": "vostfr",
+      "type": "anime",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ao-ashi.jpg",
+      "banner": null,
+      "description": "Doté d'un tempérament de feu, le jeune Ashito Aoi aime le football plus que quiconque. Son rêve : devenir joueur professionnel ! Mais ses dons ne lui évitent pas une terrible déconvenue lors d'un match de coupe inter collèges. C'est à ce moment précis qu'un mystérieux inconnu l'interpelle, et lui propose de prendre son avenir en mains. Le destin du garçon qui s'apprête à révolutionner les sommets du football japonais opère alors un tournant décisif !",
+      "availableSeasons": [],
+      "availableScans": [],
+      "scrapedAt": "2026-01-01T09:12:33.055Z",
+      "lastUpdated": "2026-01-01T09:12:33.055Z"
+    },
+    "ao-haru-ride": {
+      "id": "ao-haru-ride",
+      "title": "Ao Haru Ride",
+      "originalLink": "https://anime-sama.tv/catalogue/ao-haru-ride",
+      "slug": "ao-haru-ride",
+      "language": "vostfr",
+      "type": "anime",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ao-haru-ride.jpg",
+      "banner": null,
+      "description": "Du collège, Futaba Yoshioka n'a pas vraiment de bon souvenirs. Jugée",
+      "availableSeasons": [],
+      "availableScans": [],
+      "scrapedAt": "2026-01-01T09:12:34.156Z",
+      "lastUpdated": "2026-01-01T09:12:34.156Z"
     }
   },
   "scans": {},
@@ -1545,15 +1590,15 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 100,
-      "vostfr": 2
+      "vf": 102,
+      "vostfr": 3
     },
     "byType": {
-      "anime": 102,
+      "anime": 105,
       "scan": 0
     },
     "byPlayer": {},
-    "lastUpdate": "2026-01-01T09:12:32.529Z"
+    "lastUpdate": "2026-01-01T09:12:34.156Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
