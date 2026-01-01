@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:37:30.652Z",
+  "lastUpdated": "2026-01-01T09:37:32.124Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 233,
@@ -395,17 +395,22 @@
     "a-certain-scientific-accelerator": {
       "id": "a-certain-scientific-accelerator",
       "title": "A Certain Scientific Accelerator",
-      "originalLink": "https://anime-sama.tv/catalogue/a-certain-scientific-accelerator",
       "slug": "a-certain-scientific-accelerator",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-certain-scientific-accelerator.jpg",
-      "banner": null,
-      "description": "Les Espers de la Cité Académique sont classés en six différents niveaux. Le niveau",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/a-certain-scientific-accelerator/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:11:48.635Z",
-      "lastUpdated": "2026-01-01T09:11:48.635Z"
+      "scrapedAt": "2026-01-01T09:37:32.124Z",
+      "lastUpdated": "2026-01-01T09:37:32.124Z"
     },
     "a-certain-scientific-railgun": {
       "id": "a-certain-scientific-railgun",
@@ -8443,8 +8448,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 135,
-      "vostfr": 14
+      "vf": 134,
+      "vostfr": 15
     },
     "byType": {
       "anime": 149,
@@ -8457,7 +8462,7 @@
       "Sendvid": 16,
       "OneUpload": 1
     },
-    "lastUpdate": "2026-01-01T09:37:30.651Z"
+    "lastUpdate": "2026-01-01T09:37:32.124Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
