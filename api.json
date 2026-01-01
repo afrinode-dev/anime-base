@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:13:23.302Z",
-  "totalAnimes": 47,
+  "lastUpdated": "2026-01-01T10:13:25.558Z",
+  "totalAnimes": 48,
   "totalScans": 0,
   "totalEpisodes": 937,
   "totalChapters": 0,
@@ -993,6 +993,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:13:18.993Z"
+    },
+    "air-gear": {
+      "id": "air-gear",
+      "title": "Air Gear",
+      "slug": "air-gear",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/air-gear/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/air-gear/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/air-gear/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "air-gear_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:13:25.556Z"
     }
   },
   "scans": {},
@@ -29510,10 +29531,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 12,
-      "vostfr": 35
+      "vostfr": 36
     },
     "byType": {
-      "anime": 47,
+      "anime": 48,
       "scan": 0
     },
     "byPlayer": {
@@ -29524,6 +29545,6 @@
       "OneUpload": 3,
       "Smoothpre": 2
     },
-    "lastUpdate": "2026-01-01T10:13:23.302Z"
+    "lastUpdate": "2026-01-01T10:13:25.556Z"
   }
 }
