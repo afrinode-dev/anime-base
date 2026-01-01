@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:15:12.475Z",
-  "totalAnimes": 69,
+  "lastUpdated": "2026-01-01T10:15:13.987Z",
+  "totalAnimes": 70,
   "totalScans": 0,
   "totalEpisodes": 1386,
   "totalChapters": 0,
@@ -1455,6 +1455,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:15:10.715Z"
+    },
+    "amagi-brillant-park": {
+      "id": "amagi-brillant-park",
+      "title": "Amagi Brilliant Park",
+      "slug": "amagi-brillant-park",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/amagi-brillant-park/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/amagi-brillant-park/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/amagi-brillant-park/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "amagi-brillant-park_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:15:13.987Z"
     }
   },
   "scans": {},
@@ -45068,10 +45089,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 19,
-      "vostfr": 50
+      "vostfr": 51
     },
     "byType": {
-      "anime": 69,
+      "anime": 70,
       "scan": 0
     },
     "byPlayer": {
@@ -45082,6 +45103,6 @@
       "OneUpload": 6,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T10:15:12.475Z"
+    "lastUpdate": "2026-01-01T10:15:13.987Z"
   }
 }
