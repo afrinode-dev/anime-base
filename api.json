@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:19:18.657Z",
-  "totalAnimes": 120,
+  "lastUpdated": "2026-01-01T10:19:20.459Z",
+  "totalAnimes": 121,
   "totalScans": 0,
   "totalEpisodes": 2157,
   "totalChapters": 0,
@@ -2526,6 +2526,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:19:16.248Z"
+    },
+    "b-the-beginning": {
+      "id": "b-the-beginning",
+      "title": "B The Beginning",
+      "slug": "b-the-beginning",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/b-the-beginning/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/b-the-beginning/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/b-the-beginning/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "b-the-beginning_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:19:20.457Z"
     }
   },
   "scans": {},
@@ -71961,10 +71982,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 26,
-      "vostfr": 94
+      "vostfr": 95
     },
     "byType": {
-      "anime": 120,
+      "anime": 121,
       "scan": 0
     },
     "byPlayer": {
@@ -71975,6 +71996,6 @@
       "OneUpload": 14,
       "Smoothpre": 10
     },
-    "lastUpdate": "2026-01-01T10:19:18.657Z"
+    "lastUpdate": "2026-01-01T10:19:20.457Z"
   }
 }
