@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:41:52.157Z",
+  "lastUpdated": "2026-01-01T09:41:53.640Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1238,
@@ -1525,17 +1525,22 @@
     "all-out": {
       "id": "all-out",
       "title": "All Out",
-      "originalLink": "https://anime-sama.tv/catalogue/all-out",
       "slug": "all-out",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/all-out.jpg",
-      "banner": null,
-      "description": "L'histoire suit Kenji Gion, un lycéen de petite taille fraichement accueilli dans un lycée de la préfecture de Kanagawa. Ce dernier va rencontrer un lycéen durant un match de rugby et va petit à petit devenir ami avec lui. Avec ce lycéen nommé Sumiaki Iwashimizu, ils vont rejoindre le club de rugby du lycée. Cette série narre leurs exploits en tant que rugbyman.",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/all-out/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:20.756Z",
-      "lastUpdated": "2026-01-01T09:12:20.756Z"
+      "scrapedAt": "2026-01-01T09:41:53.640Z",
+      "lastUpdated": "2026-01-01T09:41:53.640Z"
     },
     "all-you-need-is-kill": {
       "id": "all-you-need-is-kill",
@@ -34947,8 +34952,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 101,
-      "vostfr": 48
+      "vf": 100,
+      "vostfr": 49
     },
     "byType": {
       "anime": 149,
@@ -34962,7 +34967,7 @@
       "OneUpload": 4,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T09:41:52.156Z"
+    "lastUpdate": "2026-01-01T09:41:53.640Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
