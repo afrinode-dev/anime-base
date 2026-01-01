@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:21:18.293Z",
-  "totalAnimes": 140,
+  "lastUpdated": "2026-01-01T10:21:20.076Z",
+  "totalAnimes": 141,
   "totalScans": 0,
   "totalEpisodes": 2626,
   "totalChapters": 0,
@@ -2946,6 +2946,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:21:14.710Z"
+    },
+    "battle-royale": {
+      "id": "battle-royale",
+      "title": "Battle Royale",
+      "slug": "battle-royale",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/battle-royale/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/battle-royale/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/battle-royale/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "battle-royale_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:21:20.076Z"
     }
   },
   "scans": {},
@@ -87678,10 +87699,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 33,
-      "vostfr": 107
+      "vostfr": 108
     },
     "byType": {
-      "anime": 140,
+      "anime": 141,
       "scan": 0
     },
     "byPlayer": {
@@ -87692,6 +87713,6 @@
       "OneUpload": 16,
       "Smoothpre": 11
     },
-    "lastUpdate": "2026-01-01T10:21:18.292Z"
+    "lastUpdate": "2026-01-01T10:21:20.076Z"
   }
 }
