@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:11:44.344Z",
-  "totalAnimes": 30,
+  "lastUpdated": "2026-01-01T10:11:46.071Z",
+  "totalAnimes": 31,
   "totalScans": 0,
   "totalEpisodes": 526,
   "totalChapters": 0,
@@ -636,6 +636,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:11:41.336Z"
+    },
+    "absolute-duo": {
+      "id": "absolute-duo",
+      "title": "Absolute Duo",
+      "slug": "absolute-duo",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/absolute-duo/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/absolute-duo/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/absolute-duo/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "absolute-duo_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:11:46.071Z"
     }
   },
   "scans": {},
@@ -17754,10 +17775,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 8,
-      "vostfr": 22
+      "vostfr": 23
     },
     "byType": {
-      "anime": 30,
+      "anime": 31,
       "scan": 0
     },
     "byPlayer": {
@@ -17767,6 +17788,6 @@
       "Sendvid": 36,
       "OneUpload": 2
     },
-    "lastUpdate": "2026-01-01T10:11:44.343Z"
+    "lastUpdate": "2026-01-01T10:11:46.071Z"
   }
 }
