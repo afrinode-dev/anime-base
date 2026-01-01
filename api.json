@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:15:53.239Z",
-  "totalAnimes": 78,
+  "lastUpdated": "2026-01-01T10:15:54.780Z",
+  "totalAnimes": 79,
   "totalScans": 0,
   "totalEpisodes": 1517,
   "totalChapters": 0,
@@ -1644,6 +1644,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:15:50.783Z"
+    },
+    "anime-de-wakaru-shinryounaika": {
+      "id": "anime-de-wakaru-shinryounaika",
+      "title": "Anime de Wakaru Shinryounaika",
+      "slug": "anime-de-wakaru-shinryounaika",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/anime-de-wakaru-shinryounaika/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/anime-de-wakaru-shinryounaika/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/anime-de-wakaru-shinryounaika/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "anime-de-wakaru-shinryounaika_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:15:54.780Z"
     }
   },
   "scans": {},
@@ -49903,10 +49924,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 21,
-      "vostfr": 57
+      "vostfr": 58
     },
     "byType": {
-      "anime": 78,
+      "anime": 79,
       "scan": 0
     },
     "byPlayer": {
@@ -49917,6 +49938,6 @@
       "OneUpload": 8,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T10:15:53.239Z"
+    "lastUpdate": "2026-01-01T10:15:54.780Z"
   }
 }
