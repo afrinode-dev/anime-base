@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:43:35.786Z",
+  "lastUpdated": "2026-01-01T09:43:37.095Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1662,
@@ -2030,17 +2030,22 @@
     "aoharu-x-kikanjuu": {
       "id": "aoharu-x-kikanjuu",
       "title": "Aoharu x Kikanjuu",
-      "originalLink": "https://anime-sama.tv/catalogue/aoharu-x-kikanjuu",
       "slug": "aoharu-x-kikanjuu",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/aoharu-x-kikanjuu.jpg",
-      "banner": null,
-      "description": "Hotaru Tachibana est une fille qui se fait passer pour un garçon. Dû à des circonstances liées aux retrouvailles avec son voisin Masamune Matsuoka, elle se retrouve dans des sortes de parties d'air soft, avec également un auteur d'ero-manga (hentai), où elle se découvre d'incroyables capacités pour cette pratique. Après avoir pris de l'affection pour cette pratique, elle va y retourner plusieurs fois et va rencontrer de nombreux adversaires plus forts les uns que les autres.",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/aoharu-x-kikanjuu/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:37.462Z",
-      "lastUpdated": "2026-01-01T09:12:37.462Z"
+      "scrapedAt": "2026-01-01T09:43:37.094Z",
+      "lastUpdated": "2026-01-01T09:43:37.094Z"
     },
     "aoi-hana": {
       "id": "aoi-hana",
@@ -48778,8 +48783,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 84,
-      "vostfr": 65
+      "vf": 83,
+      "vostfr": 66
     },
     "byType": {
       "anime": 149,
@@ -48793,7 +48798,7 @@
       "OneUpload": 9,
       "Smoothpre": 8
     },
-    "lastUpdate": "2026-01-01T09:43:35.786Z"
+    "lastUpdate": "2026-01-01T09:43:37.094Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
