@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:37:34.163Z",
+  "lastUpdated": "2026-01-01T09:37:36.047Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 258,
@@ -415,17 +415,22 @@
     "a-certain-scientific-railgun": {
       "id": "a-certain-scientific-railgun",
       "title": "A Certain Scientific Railgun",
-      "originalLink": "https://anime-sama.tv/catalogue/a-certain-scientific-railgun",
       "slug": "a-certain-scientific-railgun",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-certain-scientific-railgun.jpg",
-      "banner": null,
-      "description": "L'histoire se déroule dans un monde où se mêle pouvoir surnaturel et magie.\nDans la cité académique comptant pas moins de 2,3 millions d'habitants, 80% sont des étudiants travaillent pour un programme de développement du cerveau humain.\n\nMikoto Misaka est une étudiante de la Cité Scolaire. Cette grande ville universitaire accueille les étudiants pourvus de dons qu'on appelle espers. Ils sont classés par niveau; de 0, absence de don, à 5, les dons les plus puissants. Misaka est la troisième plus ",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/a-certain-scientific-railgun/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:11:49.063Z",
-      "lastUpdated": "2026-01-01T09:11:49.063Z"
+      "scrapedAt": "2026-01-01T09:37:36.047Z",
+      "lastUpdated": "2026-01-01T09:37:36.047Z"
     },
     "a-couple-of-cuckoos": {
       "id": "a-couple-of-cuckoos",
@@ -8697,8 +8702,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 134,
-      "vostfr": 15
+      "vf": 133,
+      "vostfr": 16
     },
     "byType": {
       "anime": 149,
@@ -8711,7 +8716,7 @@
       "Sendvid": 16,
       "OneUpload": 1
     },
-    "lastUpdate": "2026-01-01T09:37:34.163Z"
+    "lastUpdate": "2026-01-01T09:37:36.047Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
