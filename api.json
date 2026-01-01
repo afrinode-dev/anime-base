@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:41:16.630Z",
+  "lastUpdated": "2026-01-01T09:41:18.057Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1110,
@@ -1335,17 +1335,22 @@
     "akuma-no-riddle": {
       "id": "akuma-no-riddle",
       "title": "Akuma no Riddle",
-      "originalLink": "https://anime-sama.tv/catalogue/akuma-no-riddle",
       "slug": "akuma-no-riddle",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/akuma-no-riddle.jpg",
-      "banner": null,
-      "description": "L'Académie Myôjô est une prestigieuse école privée qui réunit primaire, collège, lycée et université. Au sein de cette académie, il existe une classe spécial, la 'Black Class', qui ne compte que 13 lycéennes. C'est là que Tokaku Azuma, assassin entrainée depuis son plus jeune âge, rencontre sa nouvelle cible : Haru Ichinose. Mais Tokaku n'est pas la seule à vouloir assassiner Haru : toutes les filles de la classe, à l'exception de la cible, sont des assassins hors pairs.",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/akuma-no-riddle/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:14.745Z",
-      "lastUpdated": "2026-01-01T09:12:14.745Z"
+      "scrapedAt": "2026-01-01T09:41:18.057Z",
+      "lastUpdated": "2026-01-01T09:41:18.057Z"
     },
     "akuyaku-reijou-tensei-ojisan": {
       "id": "akuyaku-reijou-tensei-ojisan",
@@ -31485,8 +31490,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 107,
-      "vostfr": 42
+      "vf": 106,
+      "vostfr": 43
     },
     "byType": {
       "anime": 149,
@@ -31500,7 +31505,7 @@
       "OneUpload": 3,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T09:41:16.629Z"
+    "lastUpdate": "2026-01-01T09:41:18.057Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
