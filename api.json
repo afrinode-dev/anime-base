@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:10:03.139Z",
-  "totalAnimes": 10,
+  "lastUpdated": "2026-01-01T10:10:04.562Z",
+  "totalAnimes": 11,
   "totalScans": 0,
   "totalEpisodes": 184,
   "totalChapters": 0,
@@ -216,6 +216,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:09:59.817Z"
+    },
+    "a-barbarian-was-admitted-to-the-academy": {
+      "id": "a-barbarian-was-admitted-to-the-academy",
+      "title": "A Barbarian Was Admitted to the Academy",
+      "slug": "a-barbarian-was-admitted-to-the-academy",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/a-barbarian-was-admitted-to-the-academy/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/a-barbarian-was-admitted-to-the-academy/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/a-barbarian-was-admitted-to-the-academy/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "a-barbarian-was-admitted-to-the-academy_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:10:04.562Z"
     }
   },
   "scans": {},
@@ -6297,10 +6318,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 2,
-      "vostfr": 8
+      "vostfr": 9
     },
     "byType": {
-      "anime": 10,
+      "anime": 11,
       "scan": 0
     },
     "byPlayer": {
@@ -6310,6 +6331,6 @@
       "Sendvid": 13,
       "OneUpload": 1
     },
-    "lastUpdate": "2026-01-01T10:10:03.139Z"
+    "lastUpdate": "2026-01-01T10:10:04.562Z"
   }
 }
