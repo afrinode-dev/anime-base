@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:40:32.561Z",
+  "lastUpdated": "2026-01-01T09:40:34.768Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 937,
@@ -1145,17 +1145,22 @@
     "air-gear": {
       "id": "air-gear",
       "title": "Air Gear",
-      "originalLink": "https://anime-sama.tv/catalogue/air-gear",
       "slug": "air-gear",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/air-gear.jpg",
-      "banner": null,
-      "description": "Itsuki",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/air-gear/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:09.609Z",
-      "lastUpdated": "2026-01-01T09:12:09.609Z"
+      "scrapedAt": "2026-01-01T09:40:34.768Z",
+      "lastUpdated": "2026-01-01T09:40:34.768Z"
     },
     "akame-ga-kill": {
       "id": "akame-ga-kill",
@@ -26548,8 +26553,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 112,
-      "vostfr": 37
+      "vf": 111,
+      "vostfr": 38
     },
     "byType": {
       "anime": 149,
@@ -26563,7 +26568,7 @@
       "OneUpload": 3,
       "Smoothpre": 2
     },
-    "lastUpdate": "2026-01-01T09:40:32.561Z"
+    "lastUpdate": "2026-01-01T09:40:34.768Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
