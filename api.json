@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:17:21.418Z",
-  "totalAnimes": 97,
+  "lastUpdated": "2026-01-01T10:17:22.738Z",
+  "totalAnimes": 98,
   "totalScans": 0,
   "totalEpisodes": 1783,
   "totalChapters": 0,
@@ -2043,6 +2043,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:17:18.955Z"
+    },
+    "arcane": {
+      "id": "arcane",
+      "title": "Arcane",
+      "slug": "arcane",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/arcane/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/arcane/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/arcane/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "arcane_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:17:22.738Z"
     }
   },
   "scans": {},
@@ -59877,10 +59898,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 23,
-      "vostfr": 74
+      "vostfr": 75
     },
     "byType": {
-      "anime": 97,
+      "anime": 98,
       "scan": 0
     },
     "byPlayer": {
@@ -59891,6 +59912,6 @@
       "OneUpload": 12,
       "Smoothpre": 9
     },
-    "lastUpdate": "2026-01-01T10:17:21.418Z"
+    "lastUpdate": "2026-01-01T10:17:22.738Z"
   }
 }
