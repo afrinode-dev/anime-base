@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:45:29.957Z",
+  "lastUpdated": "2026-01-01T09:45:31.490Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 2025,
@@ -2650,17 +2650,22 @@
     "astro-note": {
       "id": "astro-note",
       "title": "Astro Note",
-      "originalLink": "https://anime-sama.tv/catalogue/astro-note",
       "slug": "astro-note",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/astro-note.jpg",
-      "banner": null,
-      "description": "Après avoir perdu son emploi, Takumi Miyasaki postule pour préparer les repas dans une vieille pension connue sous le nom d'Astro-sou. Il y a toutefois une condition : il doit lui-même s'installer à la pension pour obtenir le job. D'abord réticent, il accepte après avoir rencontré la gérante, Mira, dont il tombe fou amoureux. Mais la jeune femme cache un secret qui pourrait bien le surprendre...",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/astro-note/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:57.686Z",
-      "lastUpdated": "2026-01-01T09:12:57.686Z"
+      "scrapedAt": "2026-01-01T09:45:31.487Z",
+      "lastUpdated": "2026-01-01T09:45:31.487Z"
     },
     "astro-royale": {
       "id": "astro-royale",
@@ -59038,8 +59043,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 61,
-      "vostfr": 88
+      "vf": 60,
+      "vostfr": 89
     },
     "byType": {
       "anime": 149,
@@ -59053,7 +59058,7 @@
       "OneUpload": 13,
       "Smoothpre": 10
     },
-    "lastUpdate": "2026-01-01T09:45:29.957Z"
+    "lastUpdate": "2026-01-01T09:45:31.487Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
