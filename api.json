@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:41:58.859Z",
+  "lastUpdated": "2026-01-01T09:42:00.475Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1274,
@@ -1560,17 +1560,22 @@
     "almachan-wa-kazoku-ni-naritai": {
       "id": "almachan-wa-kazoku-ni-naritai",
       "title": "Alma-chan wa Kazoku ni Naritai",
-      "originalLink": "https://anime-sama.tv/catalogue/almachan-wa-kazoku-ni-naritai",
       "slug": "almachan-wa-kazoku-ni-naritai",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/almachan-wa-kazoku-ni-naritai.jpg",
-      "banner": null,
-      "description": "Enji Kamisato et Suzume Yobane sont deux scientifiques de génies, spécialistes de l'intelligence artificielle pour l'un, et de la robotique pour l'autre. Après avoir été la cible de moqueries de la part de collègues, ils décident d'allier leurs compétences pour créer Alma. Alma est un succès mais alors qu'elle découvre le monde, elle se questionne et cherche sa place. Petit à petit, ses liens avec Enji et Suzume se renforcent et les deux chercheurs la soutiennent de leur mieux... entre deux disp",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/almachan-wa-kazoku-ni-naritai/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:22.360Z",
-      "lastUpdated": "2026-01-01T09:12:22.360Z"
+      "scrapedAt": "2026-01-01T09:42:00.475Z",
+      "lastUpdated": "2026-01-01T09:42:00.475Z"
     },
     "am-i-actually-the-strongest": {
       "id": "am-i-actually-the-strongest",
@@ -35828,8 +35833,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 101,
-      "vostfr": 48
+      "vf": 100,
+      "vostfr": 49
     },
     "byType": {
       "anime": 149,
@@ -35843,7 +35848,7 @@
       "OneUpload": 4,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T09:41:58.859Z"
+    "lastUpdate": "2026-01-01T09:42:00.475Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
