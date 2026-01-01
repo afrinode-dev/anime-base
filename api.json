@@ -1,9 +1,9 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:10:04.562Z",
+  "lastUpdated": "2026-01-01T10:10:06.792Z",
   "totalAnimes": 11,
   "totalScans": 0,
-  "totalEpisodes": 184,
+  "totalEpisodes": 185,
   "totalChapters": 0,
   "mainDomain": "anime-sama.tv",
   "animes": {
@@ -244,8 +244,8 @@
     "Sibnet": {
       "name": "Sibnet",
       "type": "video",
-      "count": 11,
-      "lastUsed": "2026-01-01T10:10:03.139Z",
+      "count": 12,
+      "lastUsed": "2026-01-01T10:10:06.791Z",
       "exampleUrls": [
         "https://video.sibnet.ru/shell.php?videoid=5390320",
         "https://video.sibnet.ru/shell.php?videoid=4291083",
@@ -257,8 +257,8 @@
     "Vidmoly": {
       "name": "Vidmoly",
       "type": "video",
-      "count": 8,
-      "lastUsed": "2026-01-01T10:10:03.139Z",
+      "count": 9,
+      "lastUsed": "2026-01-01T10:10:06.791Z",
       "exampleUrls": [
         "https://vidmoly.to/embed-qogk4au80yk4.html",
         "https://vidmoly.to/embed-9ltzxkhdi1qm.html",
@@ -270,8 +270,8 @@
     "Scan": {
       "name": "Scan",
       "type": "video",
-      "count": 7,
-      "lastUsed": "2026-01-01T10:10:03.139Z",
+      "count": 8,
+      "lastUsed": "2026-01-01T10:10:06.791Z",
       "exampleUrls": [
         "https://www.myvi.top/embed/k5wrhbz84o6rxeqh4fc8uzshur",
         "https://www.myvi.top/embed/9e6wu9oed7prfgrboqwm9tc7qa",
@@ -283,8 +283,8 @@
     "Sendvid": {
       "name": "Sendvid",
       "type": "video",
-      "count": 13,
-      "lastUsed": "2026-01-01T10:10:03.139Z",
+      "count": 14,
+      "lastUsed": "2026-01-01T10:10:06.791Z",
       "exampleUrls": [
         "https://sendvid.com/embed/f5bvzdrk",
         "https://sendvid.com/embed/gcs9j2t5",
@@ -6312,6 +6312,103 @@
       },
       "scrapedAt": "2026-01-01T10:10:03.139Z",
       "lastUpdated": "2026-01-01T10:10:03.139Z"
+    },
+    "a-barbarians-adventure-in-a-fantasy-world_saison1_vostfr": {
+      "episodeId": "a-barbarians-adventure-in-a-fantasy-world_saison1_vostfr",
+      "animeId": "a-barbarians-adventure-in-a-fantasy-world",
+      "title": "A Barbarian's Adventure in a Fantasy World",
+      "slug": "a-barbarians-adventure-in-a-fantasy-world",
+      "season": "saison1",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/a-barbarians-adventure-in-a-fantasy-world/saison1/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/a-barbarians-adventure-in-a-fantasy-world/saison1/vostfr/",
+      "totalEpisodes": 1,
+      "episodesList": [
+        1
+      ],
+      "players": {
+        "Sibnet": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Sibnet",
+          "totalEpisodes": 1,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "lastUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "isScan": false
+        },
+        "Vidmoly": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vidmoly.to/embed-.html",
+          "lastUrl": "https://vidmoly.to/embed-.html",
+          "isScan": false
+        },
+        "Sendvid": {
+          "playerId": "player_2",
+          "playerKey": "eps3",
+          "playerType": "Sendvid",
+          "totalEpisodes": 1,
+          "firstUrl": "https://sendvid.com/embed/",
+          "lastUrl": "https://sendvid.com/embed/",
+          "isScan": false
+        },
+        "Scan": {
+          "playerId": "player_3",
+          "playerKey": "eps4",
+          "playerType": "Scan",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "lastUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "isScan": false
+        }
+      },
+      "availablePlayers": [
+        "Sibnet",
+        "Vidmoly",
+        "Sendvid",
+        "Scan"
+      ],
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=",
+              "type": "video",
+              "player": "Sibnet",
+              "scrapedAt": "2026-01-01T10:10:06.791Z"
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-.html",
+              "embedUrl": "https://vidmoly.to/embed-.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:10:06.791Z"
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/",
+              "embedUrl": "https://sendvid.com/embed/",
+              "type": "video",
+              "player": "Sendvid",
+              "scrapedAt": "2026-01-01T10:10:06.791Z"
+            },
+            "Scan": {
+              "url": "https://vk.com/video_ext.php?oid=&hd=3",
+              "embedUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "scrapedAt": "2026-01-01T10:10:06.791Z"
+            }
+          },
+          "totalOptions": 4,
+          "scrapedAt": "2026-01-01T10:10:06.791Z"
+        }
+      },
+      "scrapedAt": "2026-01-01T10:10:06.791Z",
+      "lastUpdated": "2026-01-01T10:10:06.791Z"
     }
   },
   "chapters": {},
@@ -6325,12 +6422,12 @@
       "scan": 0
     },
     "byPlayer": {
-      "Sibnet": 11,
-      "Vidmoly": 8,
-      "Scan": 7,
-      "Sendvid": 13,
+      "Sibnet": 12,
+      "Vidmoly": 9,
+      "Scan": 8,
+      "Sendvid": 14,
       "OneUpload": 1
     },
-    "lastUpdate": "2026-01-01T10:10:04.562Z"
+    "lastUpdate": "2026-01-01T10:10:06.791Z"
   }
 }
