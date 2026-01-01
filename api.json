@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:14:07.269Z",
-  "totalAnimes": 56,
+  "lastUpdated": "2026-01-01T10:14:08.679Z",
+  "totalAnimes": 57,
   "totalScans": 0,
   "totalEpisodes": 1122,
   "totalChapters": 0,
@@ -1182,6 +1182,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:14:04.969Z"
+    },
+    "akuyaku-reijou-tensei-ojisan": {
+      "id": "akuyaku-reijou-tensei-ojisan",
+      "title": "Akuyaku Reijou Tensei Ojisan",
+      "slug": "akuyaku-reijou-tensei-ojisan",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/akuyaku-reijou-tensei-ojisan/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/akuyaku-reijou-tensei-ojisan/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/akuyaku-reijou-tensei-ojisan/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "akuyaku-reijou-tensei-ojisan_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:14:08.679Z"
     }
   },
   "scans": {},
@@ -35936,10 +35957,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 15,
-      "vostfr": 41
+      "vostfr": 42
     },
     "byType": {
-      "anime": 56,
+      "anime": 57,
       "scan": 0
     },
     "byPlayer": {
@@ -35950,6 +35971,6 @@
       "OneUpload": 4,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T10:14:07.267Z"
+    "lastUpdate": "2026-01-01T10:14:08.679Z"
   }
 }
