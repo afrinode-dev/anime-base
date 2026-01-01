@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:14:14.618Z",
-  "totalAnimes": 58,
+  "lastUpdated": "2026-01-01T10:14:16.152Z",
+  "totalAnimes": 59,
   "totalScans": 0,
   "totalEpisodes": 1159,
   "totalChapters": 0,
@@ -1224,6 +1224,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:14:12.471Z"
+    },
+    "aldnoah-zero": {
+      "id": "aldnoah-zero",
+      "title": "Aldnoah.Zero",
+      "slug": "aldnoah-zero",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/aldnoah-zero/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/aldnoah-zero/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/aldnoah-zero/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "aldnoah-zero_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:14:16.151Z"
     }
   },
   "scans": {},
@@ -36951,10 +36972,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 15,
-      "vostfr": 43
+      "vostfr": 44
     },
     "byType": {
-      "anime": 58,
+      "anime": 59,
       "scan": 0
     },
     "byPlayer": {
@@ -36965,6 +36986,6 @@
       "OneUpload": 4,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T10:14:14.618Z"
+    "lastUpdate": "2026-01-01T10:14:16.151Z"
   }
 }
