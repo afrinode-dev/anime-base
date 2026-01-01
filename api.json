@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:46:04.705Z",
-  "totalAnimes": 149,
+  "lastUpdated": "2026-01-01T09:46:06.598Z",
+  "totalAnimes": 150,
   "totalScans": 0,
   "totalEpisodes": 2133,
   "totalChapters": 0,
@@ -2831,6 +2831,26 @@
       "availableScans": [],
       "scrapedAt": "2026-01-01T09:45:59.879Z",
       "lastUpdated": "2026-01-01T09:45:59.879Z"
+    },
+    "azumanga-daioh": {
+      "id": "azumanga-daioh",
+      "title": "Azumanga Daioh",
+      "slug": "azumanga-daioh",
+      "language": "vostfr",
+      "type": "anime",
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/azumanga-daioh/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
+      "availableScans": [],
+      "scrapedAt": "2026-01-01T09:46:06.598Z",
+      "lastUpdated": "2026-01-01T09:46:06.598Z"
     }
   },
   "scans": {},
@@ -61808,10 +61828,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 57,
-      "vostfr": 92
+      "vostfr": 93
     },
     "byType": {
-      "anime": 149,
+      "anime": 150,
       "scan": 0
     },
     "byPlayer": {
@@ -61822,7 +61842,7 @@
       "OneUpload": 14,
       "Smoothpre": 10
     },
-    "lastUpdate": "2026-01-01T09:46:04.705Z"
+    "lastUpdate": "2026-01-01T09:46:06.598Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
