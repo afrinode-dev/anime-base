@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:41:41.767Z",
+  "lastUpdated": "2026-01-01T09:41:42.957Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1189,
@@ -1485,17 +1485,22 @@
     "all-my-alter-egos-are-tycoons": {
       "id": "all-my-alter-egos-are-tycoons",
       "title": "All My Alter Egos Are Tycoons",
-      "originalLink": "https://anime-sama.tv/catalogue/all-my-alter-egos-are-tycoons",
       "slug": "all-my-alter-egos-are-tycoons",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/all-my-alter-egos-are-tycoons.jpg",
-      "banner": null,
-      "description": "Cloîtré chez lui depuis deux ans, Seonghyeon voit sa vie changer du tout au tout lorsqu'il s'éveille et obtient un super-pouvoir. Désormais capable de créer des avatars, il se lance à l'aventure dans le monde parallèle d'Aüterika... tout en restant confortablement dans sa chambre. À ses clones de faire le sale boulot et à lui d'en récolter les bénéfices !",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/all-my-alter-egos-are-tycoons/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:19.168Z",
-      "lastUpdated": "2026-01-01T09:12:19.168Z"
+      "scrapedAt": "2026-01-01T09:41:42.956Z",
+      "lastUpdated": "2026-01-01T09:41:42.956Z"
     },
     "all-of-us-are-dead": {
       "id": "all-of-us-are-dead",
@@ -33792,8 +33797,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 102,
-      "vostfr": 47
+      "vf": 101,
+      "vostfr": 48
     },
     "byType": {
       "anime": 149,
@@ -33807,7 +33812,7 @@
       "OneUpload": 4,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T09:41:41.767Z"
+    "lastUpdate": "2026-01-01T09:41:42.956Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
