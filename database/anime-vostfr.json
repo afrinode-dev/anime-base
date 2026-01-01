@@ -6242,6 +6242,50 @@
       "totalSeasons": 4,
       "scrapedAt": "2026-01-01T14:22:04.711Z",
       "lastUpdated": "2026-01-01T14:22:04.711Z"
+    },
+    "apocalyptic-thief": {
+      "id": "apocalyptic-thief",
+      "title": "Apocalyptic Thief",
+      "slug": "apocalyptic-thief",
+      "language": "vostfr",
+      "type": "anime",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/apocalyptic-thief.jpg",
+      "banner": null,
+      "description": "Un mouvement dans l'univers a apporté des mutations au niveau des espèces vivantes. Un poison, des morts vivants, des géants et des monstres rugissent dans la ville en agitant leurs armes. Alors que des bêtes dans les bois se battent pour des territoires, certains humains éveillent une capacité spéciale connue sous le nom de pouvoir des étoiles... Zhou Zheng, déficient de ce pouvoir, va traverser ce nouveau monde post apocalyptique. Utilisant ses capacités de voleur issues d'un autre jeu, il dét",
+      "pageUrl": "https://anime-sama.tv/catalogue/apocalyptic-thief/",
+      "seasons": [
+        {
+          "name": "saison1",
+          "number": 1,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/apocalyptic-thief/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/apocalyptic-thief/saison1/vostfr/episodes.js"
+        },
+        {
+          "name": "saison2",
+          "number": 2,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/apocalyptic-thief/saison2/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/apocalyptic-thief/saison2/vostfr/episodes.js"
+        },
+        {
+          "name": "saison3",
+          "number": 3,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/apocalyptic-thief/saison3/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/apocalyptic-thief/saison3/vostfr/episodes.js"
+        },
+        {
+          "name": "saison4",
+          "number": 4,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/apocalyptic-thief/saison4/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/apocalyptic-thief/saison4/vostfr/episodes.js"
+        }
+      ],
+      "totalSeasons": 4,
+      "scrapedAt": "2026-01-01T14:24:00.419Z",
+      "lastUpdated": "2026-01-01T14:24:00.419Z"
     }
   },
   "seasons": {
@@ -18875,6 +18919,298 @@
       ],
       "scrapedAt": "2026-01-01T14:22:04.642Z",
       "lastUpdated": "2026-01-01T14:22:04.642Z"
+    },
+    "apocalyptic-thief_saison1_vostfr": {
+      "seasonId": "apocalyptic-thief_saison1_vostfr",
+      "animeId": "apocalyptic-thief",
+      "title": "Apocalyptic Thief",
+      "slug": "apocalyptic-thief",
+      "season": "saison1",
+      "seasonNumber": 1,
+      "seasonSuffix": "",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/apocalyptic-thief/saison1/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/apocalyptic-thief/saison1/vostfr/",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/apocalyptic-thief.jpg",
+      "banner": null,
+      "description": "Apocalyptic Thief - Saison 1 | Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "totalEpisodes": 1,
+      "episodesList": [
+        1
+      ],
+      "players": {
+        "Sibnet": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Sibnet",
+          "playerProvider": "sibnet",
+          "totalEpisodes": 1,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "lastUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:23:59.845Z"
+        },
+        "Vidmoly": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "playerProvider": "vidmoly",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vidmoly.to/embed-.html",
+          "lastUrl": "https://vidmoly.to/embed-.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:23:59.845Z"
+        },
+        "Sendvid": {
+          "playerId": "player_2",
+          "playerKey": "eps3",
+          "playerType": "Sendvid",
+          "playerProvider": "sendvid",
+          "totalEpisodes": 1,
+          "firstUrl": "https://sendvid.com/embed/",
+          "lastUrl": "https://sendvid.com/embed/",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:23:59.846Z"
+        },
+        "Scan": {
+          "playerId": "player_3",
+          "playerKey": "eps4",
+          "playerType": "Scan",
+          "playerProvider": "",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "lastUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:23:59.846Z"
+        }
+      },
+      "availablePlayers": [
+        "Sibnet",
+        "Vidmoly",
+        "Sendvid",
+        "Scan"
+      ],
+      "scrapedAt": "2026-01-01T14:24:00.021Z",
+      "lastUpdated": "2026-01-01T14:24:00.021Z"
+    },
+    "apocalyptic-thief_saison2_vostfr": {
+      "seasonId": "apocalyptic-thief_saison2_vostfr",
+      "animeId": "apocalyptic-thief",
+      "title": "Apocalyptic Thief",
+      "slug": "apocalyptic-thief",
+      "season": "saison2",
+      "seasonNumber": 2,
+      "seasonSuffix": "",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/apocalyptic-thief/saison2/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/apocalyptic-thief/saison2/vostfr/",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/apocalyptic-thief.jpg",
+      "banner": null,
+      "description": "Apocalyptic Thief - Saison 2 | Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "totalEpisodes": 1,
+      "episodesList": [
+        1
+      ],
+      "players": {
+        "Sibnet": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Sibnet",
+          "playerProvider": "sibnet",
+          "totalEpisodes": 1,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "lastUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:24:00.053Z"
+        },
+        "Vidmoly": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "playerProvider": "vidmoly",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vidmoly.to/embed-.html",
+          "lastUrl": "https://vidmoly.to/embed-.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:24:00.053Z"
+        },
+        "Sendvid": {
+          "playerId": "player_2",
+          "playerKey": "eps3",
+          "playerType": "Sendvid",
+          "playerProvider": "sendvid",
+          "totalEpisodes": 1,
+          "firstUrl": "https://sendvid.com/embed/",
+          "lastUrl": "https://sendvid.com/embed/",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:24:00.053Z"
+        },
+        "Scan": {
+          "playerId": "player_3",
+          "playerKey": "eps4",
+          "playerType": "Scan",
+          "playerProvider": "",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "lastUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:24:00.053Z"
+        }
+      },
+      "availablePlayers": [
+        "Sibnet",
+        "Vidmoly",
+        "Sendvid",
+        "Scan"
+      ],
+      "scrapedAt": "2026-01-01T14:24:00.143Z",
+      "lastUpdated": "2026-01-01T14:24:00.143Z"
+    },
+    "apocalyptic-thief_saison3_vostfr": {
+      "seasonId": "apocalyptic-thief_saison3_vostfr",
+      "animeId": "apocalyptic-thief",
+      "title": "Apocalyptic Thief",
+      "slug": "apocalyptic-thief",
+      "season": "saison3",
+      "seasonNumber": 3,
+      "seasonSuffix": "",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/apocalyptic-thief/saison3/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/apocalyptic-thief/saison3/vostfr/",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/apocalyptic-thief.jpg",
+      "banner": null,
+      "description": "Apocalyptic Thief - Saison 3 | Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "totalEpisodes": 1,
+      "episodesList": [
+        1
+      ],
+      "players": {
+        "Sibnet": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Sibnet",
+          "playerProvider": "sibnet",
+          "totalEpisodes": 1,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "lastUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:24:00.171Z"
+        },
+        "Vidmoly": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "playerProvider": "vidmoly",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vidmoly.to/embed-.html",
+          "lastUrl": "https://vidmoly.to/embed-.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:24:00.171Z"
+        },
+        "Sendvid": {
+          "playerId": "player_2",
+          "playerKey": "eps3",
+          "playerType": "Sendvid",
+          "playerProvider": "sendvid",
+          "totalEpisodes": 1,
+          "firstUrl": "https://sendvid.com/embed/",
+          "lastUrl": "https://sendvid.com/embed/",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:24:00.171Z"
+        },
+        "Scan": {
+          "playerId": "player_3",
+          "playerKey": "eps4",
+          "playerType": "Scan",
+          "playerProvider": "",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "lastUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:24:00.171Z"
+        }
+      },
+      "availablePlayers": [
+        "Sibnet",
+        "Vidmoly",
+        "Sendvid",
+        "Scan"
+      ],
+      "scrapedAt": "2026-01-01T14:24:00.259Z",
+      "lastUpdated": "2026-01-01T14:24:00.259Z"
+    },
+    "apocalyptic-thief_saison4_vostfr": {
+      "seasonId": "apocalyptic-thief_saison4_vostfr",
+      "animeId": "apocalyptic-thief",
+      "title": "Apocalyptic Thief",
+      "slug": "apocalyptic-thief",
+      "season": "saison4",
+      "seasonNumber": 4,
+      "seasonSuffix": "",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/apocalyptic-thief/saison4/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/apocalyptic-thief/saison4/vostfr/",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/apocalyptic-thief.jpg",
+      "banner": null,
+      "description": "Apocalyptic Thief - Saison 4 | Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "totalEpisodes": 1,
+      "episodesList": [
+        1
+      ],
+      "players": {
+        "Sibnet": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Sibnet",
+          "playerProvider": "sibnet",
+          "totalEpisodes": 1,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "lastUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:24:00.289Z"
+        },
+        "Vidmoly": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "playerProvider": "vidmoly",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vidmoly.to/embed-.html",
+          "lastUrl": "https://vidmoly.to/embed-.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:24:00.289Z"
+        },
+        "Sendvid": {
+          "playerId": "player_2",
+          "playerKey": "eps3",
+          "playerType": "Sendvid",
+          "playerProvider": "sendvid",
+          "totalEpisodes": 1,
+          "firstUrl": "https://sendvid.com/embed/",
+          "lastUrl": "https://sendvid.com/embed/",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:24:00.289Z"
+        },
+        "Scan": {
+          "playerId": "player_3",
+          "playerKey": "eps4",
+          "playerType": "Scan",
+          "playerProvider": "",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "lastUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:24:00.289Z"
+        }
+      },
+      "availablePlayers": [
+        "Sibnet",
+        "Vidmoly",
+        "Sendvid",
+        "Scan"
+      ],
+      "scrapedAt": "2026-01-01T14:24:00.355Z",
+      "lastUpdated": "2026-01-01T14:24:00.355Z"
     }
   },
   "episodes": {
@@ -82418,13 +82754,221 @@
       "totalPlayers": 4,
       "scrapedAt": "2026-01-01T14:22:04.642Z",
       "lastUpdated": "2026-01-01T14:22:04.642Z"
+    },
+    "apocalyptic-thief_saison1_vostfr": {
+      "seasonId": "apocalyptic-thief_saison1_vostfr",
+      "animeId": "apocalyptic-thief",
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T14:23:59.845Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-.html",
+              "embedUrl": "https://vidmoly.to/embed-.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:23:59.845Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/",
+              "embedUrl": "https://sendvid.com/embed/",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T14:23:59.846Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vk.com/video_ext.php?oid=&hd=3",
+              "embedUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T14:23:59.846Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 4,
+          "scrapedAt": "2026-01-01T14:23:59.845Z"
+        }
+      },
+      "totalPlayers": 4,
+      "scrapedAt": "2026-01-01T14:24:00.021Z",
+      "lastUpdated": "2026-01-01T14:24:00.021Z"
+    },
+    "apocalyptic-thief_saison2_vostfr": {
+      "seasonId": "apocalyptic-thief_saison2_vostfr",
+      "animeId": "apocalyptic-thief",
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T14:24:00.053Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-.html",
+              "embedUrl": "https://vidmoly.to/embed-.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:24:00.053Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/",
+              "embedUrl": "https://sendvid.com/embed/",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T14:24:00.053Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vk.com/video_ext.php?oid=&hd=3",
+              "embedUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T14:24:00.053Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 4,
+          "scrapedAt": "2026-01-01T14:24:00.053Z"
+        }
+      },
+      "totalPlayers": 4,
+      "scrapedAt": "2026-01-01T14:24:00.143Z",
+      "lastUpdated": "2026-01-01T14:24:00.143Z"
+    },
+    "apocalyptic-thief_saison3_vostfr": {
+      "seasonId": "apocalyptic-thief_saison3_vostfr",
+      "animeId": "apocalyptic-thief",
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T14:24:00.171Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-.html",
+              "embedUrl": "https://vidmoly.to/embed-.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:24:00.171Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/",
+              "embedUrl": "https://sendvid.com/embed/",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T14:24:00.171Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vk.com/video_ext.php?oid=&hd=3",
+              "embedUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T14:24:00.171Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 4,
+          "scrapedAt": "2026-01-01T14:24:00.171Z"
+        }
+      },
+      "totalPlayers": 4,
+      "scrapedAt": "2026-01-01T14:24:00.259Z",
+      "lastUpdated": "2026-01-01T14:24:00.259Z"
+    },
+    "apocalyptic-thief_saison4_vostfr": {
+      "seasonId": "apocalyptic-thief_saison4_vostfr",
+      "animeId": "apocalyptic-thief",
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T14:24:00.289Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-.html",
+              "embedUrl": "https://vidmoly.to/embed-.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:24:00.289Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/",
+              "embedUrl": "https://sendvid.com/embed/",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T14:24:00.289Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vk.com/video_ext.php?oid=&hd=3",
+              "embedUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T14:24:00.289Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 4,
+          "scrapedAt": "2026-01-01T14:24:00.289Z"
+        }
+      },
+      "totalPlayers": 4,
+      "scrapedAt": "2026-01-01T14:24:00.355Z",
+      "lastUpdated": "2026-01-01T14:24:00.355Z"
     }
   },
   "players": {
     "Sibnet": {
       "name": "Sibnet",
       "type": "video",
-      "count": 139,
+      "count": 143,
       "exampleUrls": [
         "https://video.sibnet.ru/shell.php?videoid=5868842",
         "https://video.sibnet.ru/shell.php?videoid=4928246",
@@ -82437,12 +82981,12 @@
         "https://video.sibnet.ru/shell.php?videoid=4942237",
         "https://video.sibnet.ru/shell.php?videoid=5872352"
       ],
-      "lastUsed": "2026-01-01T14:22:04.642Z"
+      "lastUsed": "2026-01-01T14:24:00.355Z"
     },
     "Vidmoly": {
       "name": "Vidmoly",
       "type": "video",
-      "count": 127,
+      "count": 131,
       "exampleUrls": [
         "https://vidmoly.to/embed-hr7f4ct44va7.html",
         "https://vidmoly.to/embed-.html",
@@ -82455,12 +82999,12 @@
         "https://vidmoly.to/embed-x7cdfx3amtrt.html",
         "https://vidmoly.to/embed-drqea7xze4bx.html"
       ],
-      "lastUsed": "2026-01-01T14:22:04.642Z"
+      "lastUsed": "2026-01-01T14:24:00.355Z"
     },
     "Scan": {
       "name": "Scan",
       "type": "video",
-      "count": 115,
+      "count": 119,
       "exampleUrls": [
         "https://www.myvi.tv/embed/z89rwhpikrcrpnwbis9es87aic",
         "https://movearnpre.com/embed/ab2hehvt03fo",
@@ -82473,12 +83017,12 @@
         "https://www.myvi.tv/embed/jnnw8kz9tcjr3fscokgukqox8r",
         "https://www.myvi.top/embed/nyqo1opx4btrde88dzy41454na"
       ],
-      "lastUsed": "2026-01-01T14:22:04.642Z"
+      "lastUsed": "2026-01-01T14:24:00.355Z"
     },
     "Sendvid": {
       "name": "Sendvid",
       "type": "video",
-      "count": 147,
+      "count": 151,
       "exampleUrls": [
         "https://sendvid.com/embed/iykbt5qd",
         "https://sendvid.com/embed/2ylkzh9l",
@@ -82491,7 +83035,7 @@
         "https://sendvid.com/embed/064huz4h",
         "https://sendvid.com/embed/yqhryne6"
       ],
-      "lastUsed": "2026-01-01T14:22:04.642Z"
+      "lastUsed": "2026-01-01T14:24:00.355Z"
     },
     "OneUpload": {
       "name": "OneUpload",
