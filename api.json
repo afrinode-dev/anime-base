@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:45:00.200Z",
+  "lastUpdated": "2026-01-01T09:45:01.744Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1863,
@@ -2495,17 +2495,22 @@
     "asagao-to-kase-san": {
       "id": "asagao-to-kase-san",
       "title": "Asagao to Kase-san",
-      "originalLink": "https://anime-sama.tv/catalogue/asagao-to-kase-san",
       "slug": "asagao-to-kase-san",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/asagao-to-kase-san.jpg",
-      "banner": null,
-      "description": "Yui Yamada, jeune fille discrète passionnée par le jardinage, sort avec Kase-san, la meilleure coureuse du club d'athlétisme. Mais elle va vite se rendre compte que ce n'est pas si facile de sortir avec une personne populaire.",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/asagao-to-kase-san/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:53.567Z",
-      "lastUpdated": "2026-01-01T09:12:53.567Z"
+      "scrapedAt": "2026-01-01T09:45:01.743Z",
+      "lastUpdated": "2026-01-01T09:45:01.743Z"
     },
     "ascendance-of-a-bookworm": {
       "id": "ascendance-of-a-bookworm",
@@ -55053,8 +55058,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 67,
-      "vostfr": 82
+      "vf": 66,
+      "vostfr": 83
     },
     "byType": {
       "anime": 149,
@@ -55068,7 +55073,7 @@
       "OneUpload": 13,
       "Smoothpre": 10
     },
-    "lastUpdate": "2026-01-01T09:45:00.200Z"
+    "lastUpdate": "2026-01-01T09:45:01.743Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
