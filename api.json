@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:19:27.340Z",
-  "totalAnimes": 121,
+  "lastUpdated": "2026-01-01T10:19:29.034Z",
+  "totalAnimes": 122,
   "totalScans": 0,
   "totalEpisodes": 2194,
   "totalChapters": 0,
@@ -2547,6 +2547,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:19:23.980Z"
+    },
+    "baby-steps": {
+      "id": "baby-steps",
+      "title": "Baby Steps",
+      "slug": "baby-steps",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/baby-steps/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/baby-steps/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/baby-steps/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "baby-steps_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:19:29.033Z"
     }
   },
   "scans": {},
@@ -73063,10 +73084,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 27,
-      "vostfr": 94
+      "vostfr": 95
     },
     "byType": {
-      "anime": 121,
+      "anime": 122,
       "scan": 0
     },
     "byPlayer": {
@@ -73077,6 +73098,6 @@
       "OneUpload": 14,
       "Smoothpre": 10
     },
-    "lastUpdate": "2026-01-01T10:19:27.339Z"
+    "lastUpdate": "2026-01-01T10:19:29.033Z"
   }
 }
