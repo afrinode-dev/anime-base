@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:45:41.789Z",
+  "lastUpdated": "2026-01-01T09:45:43.539Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 2050,
@@ -2720,17 +2720,22 @@
     "atri-my-dear-moments": {
       "id": "atri-my-dear-moments",
       "title": "ATRI My Dear Moments",
-      "originalLink": "https://anime-sama.tv/catalogue/atri-my-dear-moments",
       "slug": "atri-my-dear-moments",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/atri-my-dear-moments.jpg",
-      "banner": null,
-      "description": "Ikaruga Natsuki est un jeune homme désabusé par la vie qui a perdu sa mère et une de ses jambes dans un accident de voiture. Après plusieurs années difficiles en ville, il décide de retourner dans sa ville natale, située en bord de mer. Afin d'éponger ses dettes, il décide de partir à la recherche d'un trésor familial qui serait englouti sous les eaux dans l'ancien laboratoire d'océanologie de sa grand-mère. Mais contre toute attente, il tombe sur un mystérieux robot ayant l'apparence d'une jeun",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/atri-my-dear-moments/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:13:00.122Z",
-      "lastUpdated": "2026-01-01T09:13:00.122Z"
+      "scrapedAt": "2026-01-01T09:45:43.539Z",
+      "lastUpdated": "2026-01-01T09:45:43.539Z"
     },
     "shingeki-kyojin-chuugakkou": {
       "id": "shingeki-kyojin-chuugakkou",
@@ -59761,8 +59766,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 59,
-      "vostfr": 90
+      "vf": 58,
+      "vostfr": 91
     },
     "byType": {
       "anime": 149,
@@ -59776,7 +59781,7 @@
       "OneUpload": 13,
       "Smoothpre": 10
     },
-    "lastUpdate": "2026-01-01T09:45:41.788Z"
+    "lastUpdate": "2026-01-01T09:45:43.539Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
