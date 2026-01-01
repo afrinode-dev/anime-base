@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:12:20.381Z",
-  "totalAnimes": 36,
+  "lastUpdated": "2026-01-01T10:12:21.990Z",
+  "totalAnimes": 37,
   "totalScans": 0,
   "totalEpisodes": 699,
   "totalChapters": 0,
@@ -762,6 +762,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:12:17.463Z"
+    },
+    "ace-of-diamond": {
+      "id": "ace-of-diamond",
+      "title": "Ace of Diamond",
+      "slug": "ace-of-diamond",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/ace-of-diamond/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/ace-of-diamond/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/ace-of-diamond/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "ace-of-diamond_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:12:21.990Z"
     }
   },
   "scans": {},
@@ -21924,10 +21945,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 9,
-      "vostfr": 27
+      "vostfr": 28
     },
     "byType": {
-      "anime": 36,
+      "anime": 37,
       "scan": 0
     },
     "byPlayer": {
@@ -21937,6 +21958,6 @@
       "Sendvid": 41,
       "OneUpload": 3
     },
-    "lastUpdate": "2026-01-01T10:12:20.380Z"
+    "lastUpdate": "2026-01-01T10:12:21.990Z"
   }
 }
