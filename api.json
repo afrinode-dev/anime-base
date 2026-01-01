@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:45:58.273Z",
+  "lastUpdated": "2026-01-01T09:45:59.881Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 2107,
@@ -2815,17 +2815,22 @@
     "ayakashi-triangle": {
       "id": "ayakashi-triangle",
       "title": "Ayakashi Triangle",
-      "originalLink": "https://anime-sama.tv/catalogue/ayakashi-triangle",
       "slug": "ayakashi-triangle",
       "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ayakashi-triangle.jpg",
-      "banner": null,
-      "description": "Le Japon regorge de mystérieux monstres appelés Ayakashi. Pour les exorciser et contrer la menace une organisation ninja s'est formée. Matsuri est un jeune ninja exorciste qui affronte régulièrement ces créatures et protège son amie d'enfance Suzu, qui possède elle aussi la capacité de les voir. Mais lorsqu'elle s'attache à un chat Ayakashi nommé Shirogane, les choses basculent.",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/ayakashi-triangle/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:13:01.606Z",
-      "lastUpdated": "2026-01-01T09:13:01.606Z"
+      "scrapedAt": "2026-01-01T09:45:59.879Z",
+      "lastUpdated": "2026-01-01T09:45:59.879Z"
     }
   },
   "scans": {},
@@ -61341,7 +61346,7 @@
       "OneUpload": 14,
       "Smoothpre": 10
     },
-    "lastUpdate": "2026-01-01T09:45:58.273Z"
+    "lastUpdate": "2026-01-01T09:45:59.879Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
