@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:38:04.696Z",
+  "lastUpdated": "2026-01-01T09:38:06.523Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 368,
@@ -535,17 +535,22 @@
     "a-girl-and-her-guard-dog": {
       "id": "a-girl-and-her-guard-dog",
       "title": "A Girl & Her Guard Dog",
-      "originalLink": "https://anime-sama.tv/catalogue/a-girl-and-her-guard-dog",
       "slug": "a-girl-and-her-guard-dog",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-girl-and-her-guard-dog.jpg",
-      "banner": null,
-      "description": "Senagaki Isaku sera une lycéenne à partir de printemps. Son grand-père est le troisième chef du groupe Senagaki, une organisation de yakuza; c'est pourquoi elle est redoutée par ceux qui l'entourent. Admise dans un lycée éloigné de sa ville natale à partir du printemps, elle espère se faire des amis normaux et tomber amoureuse normalement Néanmoins, le jeune chef surprotecteur du groupe Senagaki, Utou Keiya, falsifie son âge et entre à l'école avec elle par une admission détournée... Keiya procl",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/a-girl-and-her-guard-dog/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:11:51.651Z",
-      "lastUpdated": "2026-01-01T09:11:51.651Z"
+      "scrapedAt": "2026-01-01T09:38:06.523Z",
+      "lastUpdated": "2026-01-01T09:38:06.523Z"
     },
     "a-mountain-of-corpses-a-sea-of-blood": {
       "id": "a-mountain-of-corpses-a-sea-of-blood",
@@ -12067,8 +12072,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 130,
-      "vostfr": 19
+      "vf": 129,
+      "vostfr": 20
     },
     "byType": {
       "anime": 149,
@@ -12081,7 +12086,7 @@
       "Sendvid": 24,
       "OneUpload": 1
     },
-    "lastUpdate": "2026-01-01T09:38:04.695Z"
+    "lastUpdate": "2026-01-01T09:38:06.523Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
