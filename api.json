@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:18:49.841Z",
-  "totalAnimes": 114,
+  "lastUpdated": "2026-01-01T10:18:51.599Z",
+  "totalAnimes": 115,
   "totalScans": 0,
   "totalEpisodes": 2062,
   "totalChapters": 0,
@@ -2400,6 +2400,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:18:47.596Z"
+    },
+    "shingeki-kyojin-chuugakkou": {
+      "id": "shingeki-kyojin-chuugakkou",
+      "title": "Attaque des Titans Junior High-school",
+      "slug": "shingeki-kyojin-chuugakkou",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/shingeki-kyojin-chuugakkou/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/shingeki-kyojin-chuugakkou/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/shingeki-kyojin-chuugakkou/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "shingeki-kyojin-chuugakkou_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:18:51.599Z"
     }
   },
   "scans": {},
@@ -69015,10 +69036,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 25,
-      "vostfr": 89
+      "vostfr": 90
     },
     "byType": {
-      "anime": 114,
+      "anime": 115,
       "scan": 0
     },
     "byPlayer": {
@@ -69029,6 +69050,6 @@
       "OneUpload": 13,
       "Smoothpre": 10
     },
-    "lastUpdate": "2026-01-01T10:18:49.840Z"
+    "lastUpdate": "2026-01-01T10:18:51.599Z"
   }
 }
