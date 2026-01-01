@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:16:42.103Z",
-  "totalAnimes": 88,
+  "lastUpdated": "2026-01-01T10:16:43.604Z",
+  "totalAnimes": 89,
   "totalScans": 0,
   "totalEpisodes": 1685,
   "totalChapters": 0,
@@ -1854,6 +1854,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:16:39.564Z"
+    },
+    "apocalypse-hotel": {
+      "id": "apocalypse-hotel",
+      "title": "Apocalypse Hotel",
+      "slug": "apocalypse-hotel",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/apocalypse-hotel/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/apocalypse-hotel/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/apocalypse-hotel/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "apocalypse-hotel_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:16:43.603Z"
     }
   },
   "scans": {},
@@ -56408,10 +56429,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 23,
-      "vostfr": 65
+      "vostfr": 66
     },
     "byType": {
-      "anime": 88,
+      "anime": 89,
       "scan": 0
     },
     "byPlayer": {
@@ -56422,6 +56443,6 @@
       "OneUpload": 10,
       "Smoothpre": 9
     },
-    "lastUpdate": "2026-01-01T10:16:42.103Z"
+    "lastUpdate": "2026-01-01T10:16:43.603Z"
   }
 }
