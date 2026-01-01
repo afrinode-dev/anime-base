@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:10:22.882Z",
-  "totalAnimes": 15,
+  "lastUpdated": "2026-01-01T10:10:24.827Z",
+  "totalAnimes": 16,
   "totalScans": 0,
   "totalEpisodes": 258,
   "totalChapters": 0,
@@ -321,6 +321,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:10:20.624Z"
+    },
+    "a-certain-scientific-railgun": {
+      "id": "a-certain-scientific-railgun",
+      "title": "A Certain Scientific Railgun",
+      "slug": "a-certain-scientific-railgun",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/a-certain-scientific-railgun/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/a-certain-scientific-railgun/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/a-certain-scientific-railgun/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "a-certain-scientific-railgun_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:10:24.827Z"
     }
   },
   "scans": {},
@@ -8000,10 +8021,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 2,
-      "vostfr": 13
+      "vostfr": 14
     },
     "byType": {
-      "anime": 15,
+      "anime": 16,
       "scan": 0
     },
     "byPlayer": {
@@ -8013,6 +8034,6 @@
       "Sendvid": 16,
       "OneUpload": 1
     },
-    "lastUpdate": "2026-01-01T10:10:22.882Z"
+    "lastUpdate": "2026-01-01T10:10:24.827Z"
   }
 }
