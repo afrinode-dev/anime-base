@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:39:44.240Z",
+  "lastUpdated": "2026-01-01T09:39:46.186Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 724,
@@ -965,17 +965,22 @@
     "adachi-to-shimamura": {
       "id": "adachi-to-shimamura",
       "title": "Adachi to Shimamura",
-      "originalLink": "https://anime-sama.tv/catalogue/adachi-to-shimamura",
       "slug": "adachi-to-shimamura",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/adachi-to-shimamura.jpg",
-      "banner": null,
-      "description": "Le gymnase du lycée, c'était là où nous nous rencontrions toujours. C'était sur le temps des cours, mais bien sûr aucune classe ne passait par ici. C'était là où Hôgetsu Shimamura et moi sommes devenues amies. Là où nous parlons d'émissions de télévision. C'était là où nous avons fait grandir notre amitié. Hier soir j'ai rêvé que j'embrassai Shimamura. Je ne suis pas comme ça et je suis sûre qu'elle non plus. Je veux juste que lorsqu'elle entend le mot 'amie', elle pense à moi.",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/adachi-to-shimamura/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:05.249Z",
-      "lastUpdated": "2026-01-01T09:12:05.249Z"
+      "scrapedAt": "2026-01-01T09:39:46.186Z",
+      "lastUpdated": "2026-01-01T09:39:46.186Z"
     },
     "adventure-time": {
       "id": "adventure-time",
@@ -20938,8 +20943,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 118,
-      "vostfr": 31
+      "vf": 117,
+      "vostfr": 32
     },
     "byType": {
       "anime": 149,
@@ -20952,7 +20957,7 @@
       "Sendvid": 43,
       "OneUpload": 3
     },
-    "lastUpdate": "2026-01-01T09:39:44.238Z"
+    "lastUpdate": "2026-01-01T09:39:46.186Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
