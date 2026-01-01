@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:40:26.081Z",
+  "lastUpdated": "2026-01-01T09:40:27.820Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 911,
@@ -1125,17 +1125,22 @@
     "ai-no-idenshi": {
       "id": "ai-no-idenshi",
       "title": "AI no Idenshi",
-      "originalLink": "https://anime-sama.tv/catalogue/ai-no-idenshi",
       "slug": "ai-no-idenshi",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ai-no-idenshi.jpg",
-      "banner": null,
-      "description": "L'histoire se déroule dans un futur proche où environ 10% des gens sont des",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/ai-no-idenshi/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:08.863Z",
-      "lastUpdated": "2026-01-01T09:12:08.863Z"
+      "scrapedAt": "2026-01-01T09:40:27.819Z",
+      "lastUpdated": "2026-01-01T09:40:27.819Z"
     },
     "air-gear": {
       "id": "air-gear",
@@ -25849,8 +25854,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 113,
-      "vostfr": 36
+      "vf": 112,
+      "vostfr": 37
     },
     "byType": {
       "anime": 149,
@@ -25864,7 +25869,7 @@
       "OneUpload": 3,
       "Smoothpre": 2
     },
-    "lastUpdate": "2026-01-01T09:40:26.080Z"
+    "lastUpdate": "2026-01-01T09:40:27.819Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
