@@ -1,9 +1,9 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:10:54.386Z",
+  "lastUpdated": "2026-01-01T10:10:56.631Z",
   "totalAnimes": 22,
   "totalScans": 0,
-  "totalEpisodes": 368,
+  "totalEpisodes": 369,
   "totalChapters": 0,
   "mainDomain": "anime-sama.tv",
   "animes": {
@@ -475,8 +475,8 @@
     "Sibnet": {
       "name": "Sibnet",
       "type": "video",
-      "count": 22,
-      "lastUsed": "2026-01-01T10:10:52.868Z",
+      "count": 23,
+      "lastUsed": "2026-01-01T10:10:56.631Z",
       "exampleUrls": [
         "https://video.sibnet.ru/shell.php?videoid=4712976",
         "https://video.sibnet.ru/shell.php?videoid=3799321",
@@ -488,8 +488,8 @@
     "Vidmoly": {
       "name": "Vidmoly",
       "type": "video",
-      "count": 18,
-      "lastUsed": "2026-01-01T10:10:52.868Z",
+      "count": 19,
+      "lastUsed": "2026-01-01T10:10:56.631Z",
       "exampleUrls": [
         "https://vidmoly.to/embed-l6izth0uq841.html",
         "https://vidmoly.to/embed-n4ijx5qnu7sp.html",
@@ -501,8 +501,8 @@
     "Scan": {
       "name": "Scan",
       "type": "video",
-      "count": 13,
-      "lastUsed": "2026-01-01T10:10:52.868Z",
+      "count": 14,
+      "lastUsed": "2026-01-01T10:10:56.631Z",
       "exampleUrls": [
         "https://vk.com/video_ext.php?oid=&hd=3",
         "https://www.myvi.top/embed/s1y3iwi8z6hr3dbb75z59jjy3r",
@@ -514,8 +514,8 @@
     "Sendvid": {
       "name": "Sendvid",
       "type": "video",
-      "count": 24,
-      "lastUsed": "2026-01-01T10:10:52.868Z",
+      "count": 25,
+      "lastUsed": "2026-01-01T10:10:56.631Z",
       "exampleUrls": [
         "https://sendvid.com/embed/2mi100f3",
         "https://sendvid.com/embed/xioxlcnb",
@@ -11951,6 +11951,103 @@
       },
       "scrapedAt": "2026-01-01T10:10:52.868Z",
       "lastUpdated": "2026-01-01T10:10:52.868Z"
+    },
+    "a-mountain-of-corpses-a-sea-of-blood_saison1_vostfr": {
+      "episodeId": "a-mountain-of-corpses-a-sea-of-blood_saison1_vostfr",
+      "animeId": "a-mountain-of-corpses-a-sea-of-blood",
+      "title": "A Mountain of Corpses a Sea of Blood",
+      "slug": "a-mountain-of-corpses-a-sea-of-blood",
+      "season": "saison1",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/a-mountain-of-corpses-a-sea-of-blood/saison1/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/a-mountain-of-corpses-a-sea-of-blood/saison1/vostfr/",
+      "totalEpisodes": 1,
+      "episodesList": [
+        1
+      ],
+      "players": {
+        "Sibnet": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Sibnet",
+          "totalEpisodes": 1,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "lastUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "isScan": false
+        },
+        "Vidmoly": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vidmoly.to/embed-.html",
+          "lastUrl": "https://vidmoly.to/embed-.html",
+          "isScan": false
+        },
+        "Sendvid": {
+          "playerId": "player_2",
+          "playerKey": "eps3",
+          "playerType": "Sendvid",
+          "totalEpisodes": 1,
+          "firstUrl": "https://sendvid.com/embed/",
+          "lastUrl": "https://sendvid.com/embed/",
+          "isScan": false
+        },
+        "Scan": {
+          "playerId": "player_3",
+          "playerKey": "eps4",
+          "playerType": "Scan",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "lastUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "isScan": false
+        }
+      },
+      "availablePlayers": [
+        "Sibnet",
+        "Vidmoly",
+        "Sendvid",
+        "Scan"
+      ],
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=",
+              "type": "video",
+              "player": "Sibnet",
+              "scrapedAt": "2026-01-01T10:10:56.630Z"
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-.html",
+              "embedUrl": "https://vidmoly.to/embed-.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:10:56.630Z"
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/",
+              "embedUrl": "https://sendvid.com/embed/",
+              "type": "video",
+              "player": "Sendvid",
+              "scrapedAt": "2026-01-01T10:10:56.630Z"
+            },
+            "Scan": {
+              "url": "https://vk.com/video_ext.php?oid=&hd=3",
+              "embedUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "scrapedAt": "2026-01-01T10:10:56.631Z"
+            }
+          },
+          "totalOptions": 4,
+          "scrapedAt": "2026-01-01T10:10:56.630Z"
+        }
+      },
+      "scrapedAt": "2026-01-01T10:10:56.631Z",
+      "lastUpdated": "2026-01-01T10:10:56.631Z"
     }
   },
   "chapters": {},
@@ -11964,12 +12061,12 @@
       "scan": 0
     },
     "byPlayer": {
-      "Sibnet": 22,
-      "Vidmoly": 18,
-      "Scan": 13,
-      "Sendvid": 24,
+      "Sibnet": 23,
+      "Vidmoly": 19,
+      "Scan": 14,
+      "Sendvid": 25,
       "OneUpload": 1
     },
-    "lastUpdate": "2026-01-01T10:10:54.386Z"
+    "lastUpdate": "2026-01-01T10:10:56.631Z"
   }
 }
