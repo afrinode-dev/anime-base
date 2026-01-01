@@ -6286,6 +6286,50 @@
       "totalSeasons": 4,
       "scrapedAt": "2026-01-01T14:24:00.419Z",
       "lastUpdated": "2026-01-01T14:24:00.419Z"
+    },
+    "appare-ranman": {
+      "id": "appare-ranman",
+      "title": "Appare-Ranman",
+      "slug": "appare-ranman",
+      "language": "vostfr",
+      "type": "anime",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/appare-ranman.jpg",
+      "banner": null,
+      "description": "Suite à une certaine mésaventure, le brillant mais insociable ingénieur Sorano Appare et le malin mais lâche samouraï Isshiki Kosame se retrouvent à la dérive sur un bateau du Japon vers l'Amérique. Fauchés, ils décident de prendre part à la Trans-America Wild Race pour gagner le prix et retourner dans leur pays. Équipés d'une voiture à vapeur qu'ils ont construite, les deux hommes vont partir de Los Angeles, sur la côte ouest, et vont devoir affronter des rivaux sur leur chemin jusqu'au franchi",
+      "pageUrl": "https://anime-sama.tv/catalogue/appare-ranman/",
+      "seasons": [
+        {
+          "name": "saison1",
+          "number": 1,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/appare-ranman/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/appare-ranman/saison1/vostfr/episodes.js"
+        },
+        {
+          "name": "saison2",
+          "number": 2,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/appare-ranman/saison2/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/appare-ranman/saison2/vostfr/episodes.js"
+        },
+        {
+          "name": "saison3",
+          "number": 3,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/appare-ranman/saison3/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/appare-ranman/saison3/vostfr/episodes.js"
+        },
+        {
+          "name": "saison4",
+          "number": 4,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/appare-ranman/saison4/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/appare-ranman/saison4/vostfr/episodes.js"
+        }
+      ],
+      "totalSeasons": 4,
+      "scrapedAt": "2026-01-01T14:27:53.649Z",
+      "lastUpdated": "2026-01-01T14:27:53.649Z"
     }
   },
   "seasons": {
@@ -19211,6 +19255,298 @@
       ],
       "scrapedAt": "2026-01-01T14:24:00.355Z",
       "lastUpdated": "2026-01-01T14:24:00.355Z"
+    },
+    "appare-ranman_saison1_vostfr": {
+      "seasonId": "appare-ranman_saison1_vostfr",
+      "animeId": "appare-ranman",
+      "title": "Appare-Ranman",
+      "slug": "appare-ranman",
+      "season": "saison1",
+      "seasonNumber": 1,
+      "seasonSuffix": "",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/appare-ranman/saison1/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/appare-ranman/saison1/vostfr/",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/appare-ranman.jpg",
+      "banner": null,
+      "description": "Appare-Ranman! - Saison 1 | Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "totalEpisodes": 13,
+      "episodesList": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "players": {
+        "Sibnet": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Sibnet",
+          "playerProvider": "sibnet",
+          "totalEpisodes": 13,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=5828791",
+          "lastUrl": "https://video.sibnet.ru/shell.php?videoid=5828821",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:27:53.106Z"
+        },
+        "Vidmoly": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "playerProvider": "vidmoly",
+          "totalEpisodes": 13,
+          "firstUrl": "https://vidmoly.to/embed-fsw6r3vc1zeo.html",
+          "lastUrl": "https://vidmoly.to/embed-bywv355ei2th.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:27:53.106Z"
+        },
+        "OneUpload": {
+          "playerId": "player_2",
+          "playerKey": "eps3",
+          "playerType": "OneUpload",
+          "playerProvider": "oneupload",
+          "totalEpisodes": 13,
+          "firstUrl": "https://oneupload.to/embed-xrk8x1p93q4n.html",
+          "lastUrl": "https://oneupload.to/embed-ukvdj4ufebrn.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:27:53.106Z"
+        }
+      },
+      "availablePlayers": [
+        "Sibnet",
+        "Vidmoly",
+        "OneUpload"
+      ],
+      "scrapedAt": "2026-01-01T14:27:53.248Z",
+      "lastUpdated": "2026-01-01T14:27:53.248Z"
+    },
+    "appare-ranman_saison2_vostfr": {
+      "seasonId": "appare-ranman_saison2_vostfr",
+      "animeId": "appare-ranman",
+      "title": "Appare-Ranman",
+      "slug": "appare-ranman",
+      "season": "saison2",
+      "seasonNumber": 2,
+      "seasonSuffix": "",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/appare-ranman/saison2/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/appare-ranman/saison2/vostfr/",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/appare-ranman.jpg",
+      "banner": null,
+      "description": "Appare-Ranman! - Saison 2 | Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "totalEpisodes": 1,
+      "episodesList": [
+        1
+      ],
+      "players": {
+        "Sibnet": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Sibnet",
+          "playerProvider": "sibnet",
+          "totalEpisodes": 1,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "lastUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:27:53.277Z"
+        },
+        "Vidmoly": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "playerProvider": "vidmoly",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vidmoly.to/embed-.html",
+          "lastUrl": "https://vidmoly.to/embed-.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:27:53.277Z"
+        },
+        "Sendvid": {
+          "playerId": "player_2",
+          "playerKey": "eps3",
+          "playerType": "Sendvid",
+          "playerProvider": "sendvid",
+          "totalEpisodes": 1,
+          "firstUrl": "https://sendvid.com/embed/",
+          "lastUrl": "https://sendvid.com/embed/",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:27:53.277Z"
+        },
+        "Scan": {
+          "playerId": "player_3",
+          "playerKey": "eps4",
+          "playerType": "Scan",
+          "playerProvider": "",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "lastUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:27:53.277Z"
+        }
+      },
+      "availablePlayers": [
+        "Sibnet",
+        "Vidmoly",
+        "Sendvid",
+        "Scan"
+      ],
+      "scrapedAt": "2026-01-01T14:27:53.372Z",
+      "lastUpdated": "2026-01-01T14:27:53.372Z"
+    },
+    "appare-ranman_saison3_vostfr": {
+      "seasonId": "appare-ranman_saison3_vostfr",
+      "animeId": "appare-ranman",
+      "title": "Appare-Ranman",
+      "slug": "appare-ranman",
+      "season": "saison3",
+      "seasonNumber": 3,
+      "seasonSuffix": "",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/appare-ranman/saison3/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/appare-ranman/saison3/vostfr/",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/appare-ranman.jpg",
+      "banner": null,
+      "description": "Appare-Ranman! - Saison 3 | Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "totalEpisodes": 1,
+      "episodesList": [
+        1
+      ],
+      "players": {
+        "Sibnet": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Sibnet",
+          "playerProvider": "sibnet",
+          "totalEpisodes": 1,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "lastUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:27:53.416Z"
+        },
+        "Vidmoly": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "playerProvider": "vidmoly",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vidmoly.to/embed-.html",
+          "lastUrl": "https://vidmoly.to/embed-.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:27:53.416Z"
+        },
+        "Sendvid": {
+          "playerId": "player_2",
+          "playerKey": "eps3",
+          "playerType": "Sendvid",
+          "playerProvider": "sendvid",
+          "totalEpisodes": 1,
+          "firstUrl": "https://sendvid.com/embed/",
+          "lastUrl": "https://sendvid.com/embed/",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:27:53.416Z"
+        },
+        "Scan": {
+          "playerId": "player_3",
+          "playerKey": "eps4",
+          "playerType": "Scan",
+          "playerProvider": "",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "lastUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:27:53.416Z"
+        }
+      },
+      "availablePlayers": [
+        "Sibnet",
+        "Vidmoly",
+        "Sendvid",
+        "Scan"
+      ],
+      "scrapedAt": "2026-01-01T14:27:53.490Z",
+      "lastUpdated": "2026-01-01T14:27:53.490Z"
+    },
+    "appare-ranman_saison4_vostfr": {
+      "seasonId": "appare-ranman_saison4_vostfr",
+      "animeId": "appare-ranman",
+      "title": "Appare-Ranman",
+      "slug": "appare-ranman",
+      "season": "saison4",
+      "seasonNumber": 4,
+      "seasonSuffix": "",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/appare-ranman/saison4/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/appare-ranman/saison4/vostfr/",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/appare-ranman.jpg",
+      "banner": null,
+      "description": "Appare-Ranman! - Saison 4 | Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "totalEpisodes": 1,
+      "episodesList": [
+        1
+      ],
+      "players": {
+        "Sibnet": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Sibnet",
+          "playerProvider": "sibnet",
+          "totalEpisodes": 1,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "lastUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:27:53.518Z"
+        },
+        "Vidmoly": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "playerProvider": "vidmoly",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vidmoly.to/embed-.html",
+          "lastUrl": "https://vidmoly.to/embed-.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:27:53.518Z"
+        },
+        "Sendvid": {
+          "playerId": "player_2",
+          "playerKey": "eps3",
+          "playerType": "Sendvid",
+          "playerProvider": "sendvid",
+          "totalEpisodes": 1,
+          "firstUrl": "https://sendvid.com/embed/",
+          "lastUrl": "https://sendvid.com/embed/",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:27:53.518Z"
+        },
+        "Scan": {
+          "playerId": "player_3",
+          "playerKey": "eps4",
+          "playerType": "Scan",
+          "playerProvider": "",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "lastUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:27:53.518Z"
+        }
+      },
+      "availablePlayers": [
+        "Sibnet",
+        "Vidmoly",
+        "Sendvid",
+        "Scan"
+      ],
+      "scrapedAt": "2026-01-01T14:27:53.593Z",
+      "lastUpdated": "2026-01-01T14:27:53.593Z"
     }
   },
   "episodes": {
@@ -82962,15 +83298,621 @@
       "totalPlayers": 4,
       "scrapedAt": "2026-01-01T14:24:00.355Z",
       "lastUpdated": "2026-01-01T14:24:00.355Z"
+    },
+    "appare-ranman_saison1_vostfr": {
+      "seasonId": "appare-ranman_saison1_vostfr",
+      "animeId": "appare-ranman",
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5828791",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5828791",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T14:27:53.106Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-fsw6r3vc1zeo.html",
+              "embedUrl": "https://vidmoly.to/embed-fsw6r3vc1zeo.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:27:53.106Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-xrk8x1p93q4n.html",
+              "embedUrl": "https://oneupload.to/embed-xrk8x1p93q4n.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T14:27:53.106Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 3,
+          "scrapedAt": "2026-01-01T14:27:53.106Z"
+        },
+        "2": {
+          "number": 2,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5828794",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5828794",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T14:27:53.106Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-6quhdxvop417.html",
+              "embedUrl": "https://vidmoly.to/embed-6quhdxvop417.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:27:53.106Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-je9wxgacoj13.html",
+              "embedUrl": "https://oneupload.to/embed-je9wxgacoj13.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T14:27:53.106Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 3,
+          "scrapedAt": "2026-01-01T14:27:53.106Z"
+        },
+        "3": {
+          "number": 3,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5828796",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5828796",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T14:27:53.106Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-idgwkbb71673.html",
+              "embedUrl": "https://vidmoly.to/embed-idgwkbb71673.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:27:53.106Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-d2voed3c7vto.html",
+              "embedUrl": "https://oneupload.to/embed-d2voed3c7vto.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T14:27:53.106Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 3,
+          "scrapedAt": "2026-01-01T14:27:53.106Z"
+        },
+        "4": {
+          "number": 4,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5828798",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5828798",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T14:27:53.106Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-vkc34zeofe4w.html",
+              "embedUrl": "https://vidmoly.to/embed-vkc34zeofe4w.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:27:53.106Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-qcev520xf4r4.html",
+              "embedUrl": "https://oneupload.to/embed-qcev520xf4r4.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T14:27:53.106Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 3,
+          "scrapedAt": "2026-01-01T14:27:53.106Z"
+        },
+        "5": {
+          "number": 5,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5828800",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5828800",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T14:27:53.106Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-uipqdv0wrx6d.html",
+              "embedUrl": "https://vidmoly.to/embed-uipqdv0wrx6d.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:27:53.106Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-p5gaffyxbipj.html",
+              "embedUrl": "https://oneupload.to/embed-p5gaffyxbipj.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T14:27:53.106Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 3,
+          "scrapedAt": "2026-01-01T14:27:53.106Z"
+        },
+        "6": {
+          "number": 6,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5828804",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5828804",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T14:27:53.106Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-fobcy490lm20.html",
+              "embedUrl": "https://vidmoly.to/embed-fobcy490lm20.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:27:53.106Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-dp1yesp3z6cc.html",
+              "embedUrl": "https://oneupload.to/embed-dp1yesp3z6cc.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T14:27:53.106Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 3,
+          "scrapedAt": "2026-01-01T14:27:53.106Z"
+        },
+        "7": {
+          "number": 7,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5828805",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5828805",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T14:27:53.106Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-4qvxua48crb0.html",
+              "embedUrl": "https://vidmoly.to/embed-4qvxua48crb0.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:27:53.106Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-8b9sx1w3v3t5.html",
+              "embedUrl": "https://oneupload.to/embed-8b9sx1w3v3t5.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T14:27:53.106Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 3,
+          "scrapedAt": "2026-01-01T14:27:53.106Z"
+        },
+        "8": {
+          "number": 8,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5828809",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5828809",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T14:27:53.106Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-fuwbzyh35abm.html",
+              "embedUrl": "https://vidmoly.to/embed-fuwbzyh35abm.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:27:53.106Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-titb7gbor6ck.html",
+              "embedUrl": "https://oneupload.to/embed-titb7gbor6ck.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T14:27:53.106Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 3,
+          "scrapedAt": "2026-01-01T14:27:53.106Z"
+        },
+        "9": {
+          "number": 9,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5828811",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5828811",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T14:27:53.106Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-7hda1abvg400.html",
+              "embedUrl": "https://vidmoly.to/embed-7hda1abvg400.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:27:53.106Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-1nr5qcfg498i.html",
+              "embedUrl": "https://oneupload.to/embed-1nr5qcfg498i.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T14:27:53.106Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 3,
+          "scrapedAt": "2026-01-01T14:27:53.106Z"
+        },
+        "10": {
+          "number": 10,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5828813",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5828813",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T14:27:53.106Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-m6760vjxmq45.html",
+              "embedUrl": "https://vidmoly.to/embed-m6760vjxmq45.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:27:53.106Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-t9e9y2ck5zgr.html",
+              "embedUrl": "https://oneupload.to/embed-t9e9y2ck5zgr.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T14:27:53.106Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 3,
+          "scrapedAt": "2026-01-01T14:27:53.106Z"
+        },
+        "11": {
+          "number": 11,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5828816",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5828816",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T14:27:53.106Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-f5o446z3ja03.html",
+              "embedUrl": "https://vidmoly.to/embed-f5o446z3ja03.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:27:53.106Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-67w21cxuit2c.html",
+              "embedUrl": "https://oneupload.to/embed-67w21cxuit2c.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T14:27:53.106Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 3,
+          "scrapedAt": "2026-01-01T14:27:53.106Z"
+        },
+        "12": {
+          "number": 12,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5828819",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5828819",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T14:27:53.106Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-b0eqn1rbkhaj.html",
+              "embedUrl": "https://vidmoly.to/embed-b0eqn1rbkhaj.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:27:53.106Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-sl4he2600ckr.html",
+              "embedUrl": "https://oneupload.to/embed-sl4he2600ckr.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T14:27:53.106Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 3,
+          "scrapedAt": "2026-01-01T14:27:53.106Z"
+        },
+        "13": {
+          "number": 13,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5828821",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5828821",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T14:27:53.106Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-bywv355ei2th.html",
+              "embedUrl": "https://vidmoly.to/embed-bywv355ei2th.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:27:53.106Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-ukvdj4ufebrn.html",
+              "embedUrl": "https://oneupload.to/embed-ukvdj4ufebrn.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T14:27:53.106Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 3,
+          "scrapedAt": "2026-01-01T14:27:53.106Z"
+        }
+      },
+      "totalPlayers": 3,
+      "scrapedAt": "2026-01-01T14:27:53.248Z",
+      "lastUpdated": "2026-01-01T14:27:53.248Z"
+    },
+    "appare-ranman_saison2_vostfr": {
+      "seasonId": "appare-ranman_saison2_vostfr",
+      "animeId": "appare-ranman",
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T14:27:53.277Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-.html",
+              "embedUrl": "https://vidmoly.to/embed-.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:27:53.277Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/",
+              "embedUrl": "https://sendvid.com/embed/",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T14:27:53.277Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vk.com/video_ext.php?oid=&hd=3",
+              "embedUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T14:27:53.277Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 4,
+          "scrapedAt": "2026-01-01T14:27:53.277Z"
+        }
+      },
+      "totalPlayers": 4,
+      "scrapedAt": "2026-01-01T14:27:53.372Z",
+      "lastUpdated": "2026-01-01T14:27:53.372Z"
+    },
+    "appare-ranman_saison3_vostfr": {
+      "seasonId": "appare-ranman_saison3_vostfr",
+      "animeId": "appare-ranman",
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T14:27:53.416Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-.html",
+              "embedUrl": "https://vidmoly.to/embed-.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:27:53.416Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/",
+              "embedUrl": "https://sendvid.com/embed/",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T14:27:53.416Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vk.com/video_ext.php?oid=&hd=3",
+              "embedUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T14:27:53.416Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 4,
+          "scrapedAt": "2026-01-01T14:27:53.416Z"
+        }
+      },
+      "totalPlayers": 4,
+      "scrapedAt": "2026-01-01T14:27:53.490Z",
+      "lastUpdated": "2026-01-01T14:27:53.490Z"
+    },
+    "appare-ranman_saison4_vostfr": {
+      "seasonId": "appare-ranman_saison4_vostfr",
+      "animeId": "appare-ranman",
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T14:27:53.518Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-.html",
+              "embedUrl": "https://vidmoly.to/embed-.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:27:53.518Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/",
+              "embedUrl": "https://sendvid.com/embed/",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T14:27:53.518Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vk.com/video_ext.php?oid=&hd=3",
+              "embedUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T14:27:53.518Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 4,
+          "scrapedAt": "2026-01-01T14:27:53.518Z"
+        }
+      },
+      "totalPlayers": 4,
+      "scrapedAt": "2026-01-01T14:27:53.593Z",
+      "lastUpdated": "2026-01-01T14:27:53.593Z"
     }
   },
   "players": {
     "Sibnet": {
       "name": "Sibnet",
       "type": "video",
-      "count": 143,
+      "count": 147,
       "exampleUrls": [
-        "https://video.sibnet.ru/shell.php?videoid=5868842",
         "https://video.sibnet.ru/shell.php?videoid=4928246",
         "https://video.sibnet.ru/shell.php?videoid=4868497",
         "https://video.sibnet.ru/shell.php?videoid=4668321",
@@ -82979,16 +83921,16 @@
         "https://video.sibnet.ru/shell.php?videoid=5870867",
         "https://video.sibnet.ru/shell.php?videoid=",
         "https://video.sibnet.ru/shell.php?videoid=4942237",
-        "https://video.sibnet.ru/shell.php?videoid=5872352"
+        "https://video.sibnet.ru/shell.php?videoid=5872352",
+        "https://video.sibnet.ru/shell.php?videoid=5828791"
       ],
-      "lastUsed": "2026-01-01T14:24:00.355Z"
+      "lastUsed": "2026-01-01T14:27:53.593Z"
     },
     "Vidmoly": {
       "name": "Vidmoly",
       "type": "video",
-      "count": 131,
+      "count": 135,
       "exampleUrls": [
-        "https://vidmoly.to/embed-hr7f4ct44va7.html",
         "https://vidmoly.to/embed-.html",
         "https://vidmoly.to/embed-zsjkbjfvq08y.html",
         "https://vidmoly.to/embed-iohfko6pvl8v.html",
@@ -82997,14 +83939,15 @@
         "https://vidmoly.to/embed-gv0rlmn43jyo.html",
         "https://vidmoly.to/embed-13vw530w5dpw.html",
         "https://vidmoly.to/embed-x7cdfx3amtrt.html",
-        "https://vidmoly.to/embed-drqea7xze4bx.html"
+        "https://vidmoly.to/embed-drqea7xze4bx.html",
+        "https://vidmoly.to/embed-fsw6r3vc1zeo.html"
       ],
-      "lastUsed": "2026-01-01T14:24:00.355Z"
+      "lastUsed": "2026-01-01T14:27:53.593Z"
     },
     "Scan": {
       "name": "Scan",
       "type": "video",
-      "count": 119,
+      "count": 122,
       "exampleUrls": [
         "https://www.myvi.tv/embed/z89rwhpikrcrpnwbis9es87aic",
         "https://movearnpre.com/embed/ab2hehvt03fo",
@@ -83017,12 +83960,12 @@
         "https://www.myvi.tv/embed/jnnw8kz9tcjr3fscokgukqox8r",
         "https://www.myvi.top/embed/nyqo1opx4btrde88dzy41454na"
       ],
-      "lastUsed": "2026-01-01T14:24:00.355Z"
+      "lastUsed": "2026-01-01T14:27:53.593Z"
     },
     "Sendvid": {
       "name": "Sendvid",
       "type": "video",
-      "count": 151,
+      "count": 154,
       "exampleUrls": [
         "https://sendvid.com/embed/iykbt5qd",
         "https://sendvid.com/embed/2ylkzh9l",
@@ -83035,14 +83978,13 @@
         "https://sendvid.com/embed/064huz4h",
         "https://sendvid.com/embed/yqhryne6"
       ],
-      "lastUsed": "2026-01-01T14:24:00.355Z"
+      "lastUsed": "2026-01-01T14:27:53.593Z"
     },
     "OneUpload": {
       "name": "OneUpload",
       "type": "video",
-      "count": 11,
+      "count": 12,
       "exampleUrls": [
-        "https://oneupload.to/embed-mm8v9f1na7uz.html",
         "https://oneupload.to/embed-pkmrpyk7hxfz.html",
         "https://oneupload.to/embed-jc3xew51tb18.html",
         "https://oneupload.to/embed-ob1ep8z9gbo5.html",
@@ -83051,9 +83993,10 @@
         "https://oneupload.to/embed-nhr6pqt6ukfp.html",
         "https://oneupload.to/embed-p95421f6iw76.html",
         "https://oneupload.to/embed-6445imewm1dz.html",
-        "https://oneupload.to/embed-to2do0flzlow.html"
+        "https://oneupload.to/embed-to2do0flzlow.html",
+        "https://oneupload.to/embed-xrk8x1p93q4n.html"
       ],
-      "lastUsed": "2026-01-01T14:22:04.195Z"
+      "lastUsed": "2026-01-01T14:27:53.248Z"
     },
     "Smoothpre": {
       "name": "Smoothpre",
