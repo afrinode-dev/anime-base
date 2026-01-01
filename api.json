@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:21:08.845Z",
-  "totalAnimes": 139,
+  "lastUpdated": "2026-01-01T10:21:10.680Z",
+  "totalAnimes": 140,
   "totalScans": 0,
   "totalEpisodes": 2613,
   "totalChapters": 0,
@@ -2925,6 +2925,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:21:06.005Z"
+    },
+    "battle-game-in-5-seconds": {
+      "id": "battle-game-in-5-seconds",
+      "title": "Battle Game in 5 Seconds",
+      "slug": "battle-game-in-5-seconds",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/battle-game-in-5-seconds/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/battle-game-in-5-seconds/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/battle-game-in-5-seconds/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "battle-game-in-5-seconds_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:21:10.679Z"
     }
   },
   "scans": {},
@@ -87161,10 +87182,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 32,
-      "vostfr": 107
+      "vostfr": 108
     },
     "byType": {
-      "anime": 139,
+      "anime": 140,
       "scan": 0
     },
     "byPlayer": {
@@ -87175,6 +87196,6 @@
       "OneUpload": 16,
       "Smoothpre": 11
     },
-    "lastUpdate": "2026-01-01T10:21:08.845Z"
+    "lastUpdate": "2026-01-01T10:21:10.679Z"
   }
 }
