@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:11:35.991Z",
-  "totalAnimes": 29,
+  "lastUpdated": "2026-01-01T10:11:37.742Z",
+  "totalAnimes": 30,
   "totalScans": 0,
   "totalEpisodes": 502,
   "totalChapters": 0,
@@ -615,6 +615,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:11:33.391Z"
+    },
+    "a-i-c-o-incarnation": {
+      "id": "a-i-c-o-incarnation",
+      "title": "A.I.C.O. Incarnation",
+      "slug": "a-i-c-o-incarnation",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/a-i-c-o-incarnation/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/a-i-c-o-incarnation/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/a-i-c-o-incarnation/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "a-i-c-o-incarnation_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:11:37.741Z"
     }
   },
   "scans": {},
@@ -16935,10 +16956,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 7,
-      "vostfr": 22
+      "vostfr": 23
     },
     "byType": {
-      "anime": 29,
+      "anime": 30,
       "scan": 0
     },
     "byPlayer": {
@@ -16948,6 +16969,6 @@
       "Sendvid": 34,
       "OneUpload": 2
     },
-    "lastUpdate": "2026-01-01T10:11:35.991Z"
+    "lastUpdate": "2026-01-01T10:11:37.742Z"
   }
 }
