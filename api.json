@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:19:33.550Z",
-  "totalAnimes": 122,
+  "lastUpdated": "2026-01-01T10:19:35.598Z",
+  "totalAnimes": 123,
   "totalScans": 0,
   "totalEpisodes": 2210,
   "totalChapters": 0,
@@ -2568,6 +2568,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:19:29.033Z"
+    },
+    "baccano": {
+      "id": "baccano",
+      "title": "Baccano",
+      "slug": "baccano",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/baccano/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/baccano/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/baccano/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "baccano_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:19:35.598Z"
     }
   },
   "scans": {},
@@ -73599,10 +73620,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 27,
-      "vostfr": 95
+      "vostfr": 96
     },
     "byType": {
-      "anime": 122,
+      "anime": 123,
       "scan": 0
     },
     "byPlayer": {
@@ -73613,6 +73634,6 @@
       "OneUpload": 14,
       "Smoothpre": 10
     },
-    "lastUpdate": "2026-01-01T10:19:33.548Z"
+    "lastUpdate": "2026-01-01T10:19:35.598Z"
   }
 }
