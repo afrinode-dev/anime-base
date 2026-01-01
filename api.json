@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:44:49.919Z",
+  "lastUpdated": "2026-01-01T09:44:51.404Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1850,
@@ -2440,17 +2440,22 @@
     "aru-majo-ga-shinu-made": {
       "id": "aru-majo-ga-shinu-made",
       "title": "Aru Majo ga Shinu Made",
-      "originalLink": "https://anime-sama.tv/catalogue/aru-majo-ga-shinu-made",
       "slug": "aru-majo-ga-shinu-made",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/aru-majo-ga-shinu-made.jpg",
-      "banner": null,
-      "description": "Alors qu'elle vient tout juste de fêter ses 17 ans, Meg Raspberry apprend qu'elle est victime d'une malédiction et qu'il ne lui reste plus qu'un an à vivre. Désespérée, elle consulte Faust, une sorcière chevronnée qui est aussi sa mentor. Cette dernière lui révèle alors qu'elle peut lever la malédiction en collectant des larmes de joie, afin d'obtenir une",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/aru-majo-ga-shinu-made/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:50.310Z",
-      "lastUpdated": "2026-01-01T09:12:50.310Z"
+      "scrapedAt": "2026-01-01T09:44:51.402Z",
+      "lastUpdated": "2026-01-01T09:44:51.402Z"
     },
     "as-miss-beelzebub-likes-it": {
       "id": "as-miss-beelzebub-likes-it",
@@ -54648,8 +54653,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 69,
-      "vostfr": 80
+      "vf": 68,
+      "vostfr": 81
     },
     "byType": {
       "anime": 149,
@@ -54663,7 +54668,7 @@
       "OneUpload": 13,
       "Smoothpre": 10
     },
-    "lastUpdate": "2026-01-01T09:44:49.919Z"
+    "lastUpdate": "2026-01-01T09:44:51.402Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
