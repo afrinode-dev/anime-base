@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:12:11.176Z",
-  "totalAnimes": 34,
+  "lastUpdated": "2026-01-01T10:12:13.291Z",
+  "totalAnimes": 35,
   "totalScans": 0,
   "totalEpisodes": 600,
   "totalChapters": 0,
@@ -720,6 +720,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:12:09.124Z"
+    },
+    "acchi-kocchi": {
+      "id": "acchi-kocchi",
+      "title": "Acchi Kocchi",
+      "slug": "acchi-kocchi",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/acchi-kocchi/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/acchi-kocchi/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/acchi-kocchi/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "acchi-kocchi_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:12:13.290Z"
     }
   },
   "scans": {},
@@ -19622,10 +19643,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 9,
-      "vostfr": 25
+      "vostfr": 26
     },
     "byType": {
-      "anime": 34,
+      "anime": 35,
       "scan": 0
     },
     "byPlayer": {
@@ -19635,6 +19656,6 @@
       "Sendvid": 39,
       "OneUpload": 3
     },
-    "lastUpdate": "2026-01-01T10:12:11.176Z"
+    "lastUpdate": "2026-01-01T10:12:13.291Z"
   }
 }
