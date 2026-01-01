@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:40:50.044Z",
+  "lastUpdated": "2026-01-01T09:40:52.356Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1013,
@@ -1165,17 +1165,22 @@
     "akame-ga-kill": {
       "id": "akame-ga-kill",
       "title": "Akame Ga Kill",
-      "originalLink": "https://anime-sama.tv/catalogue/akame-ga-kill/",
       "slug": "akame-ga-kill",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/akame-ga-kill.jpg",
-      "banner": null,
-      "description": "Tatsumi, jeune combattant, se rendait à la capitale dans l'optique de sauver son village. Mais, naïf, il se fait dérober tout ce qu'il possède par une mystérieuse jeune fille et se retrouve sans un sou. Heureusement, une autre jeune fille, une noble, propose de l'accueillir chez elle pendant quelque temps.\nCependant, la poisse semble coller à la peau de Tatsumi quand un groupe d'assassins débarque pour s'en prendre à sa protectrice... qui n'est pas aussi innocente qu'elle en a l'air.",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/akame-ga-kill/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:10.641Z",
-      "lastUpdated": "2026-01-01T09:12:10.641Z"
+      "scrapedAt": "2026-01-01T09:40:52.355Z",
+      "lastUpdated": "2026-01-01T09:40:52.355Z"
     },
     "ajin": {
       "id": "ajin",
@@ -28836,8 +28841,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 112,
-      "vostfr": 37
+      "vf": 111,
+      "vostfr": 38
     },
     "byType": {
       "anime": 149,
@@ -28851,7 +28856,7 @@
       "OneUpload": 3,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T09:40:50.044Z"
+    "lastUpdate": "2026-01-01T09:40:52.355Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
