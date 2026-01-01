@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:12:58.641Z",
-  "totalAnimes": 42,
+  "lastUpdated": "2026-01-01T10:13:00.447Z",
+  "totalAnimes": 43,
   "totalScans": 0,
   "totalEpisodes": 825,
   "totalChapters": 0,
@@ -888,6 +888,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:12:53.566Z"
+    },
+    "aggretsuko": {
+      "id": "aggretsuko",
+      "title": "Aggretsuko",
+      "slug": "aggretsuko",
+      "language": "vf",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/aggretsuko/saison1/vf/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/aggretsuko/saison1/vf/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/aggretsuko/saison1/vf/episodes.js",
+          "language": "vf",
+          "type": "anime",
+          "episodeId": "aggretsuko_saison1_vf"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:13:00.447Z"
     }
   },
   "scans": {},
@@ -25900,11 +25921,11 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 11,
+      "vf": 12,
       "vostfr": 31
     },
     "byType": {
-      "anime": 42,
+      "anime": 43,
       "scan": 0
     },
     "byPlayer": {
@@ -25915,6 +25936,6 @@
       "OneUpload": 3,
       "Smoothpre": 1
     },
-    "lastUpdate": "2026-01-01T10:12:58.640Z"
+    "lastUpdate": "2026-01-01T10:13:00.447Z"
   }
 }
