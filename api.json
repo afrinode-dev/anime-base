@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:38:37.649Z",
+  "lastUpdated": "2026-01-01T09:38:39.352Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 466,
@@ -670,17 +670,22 @@
     "a-star-brighter-than-the-sun": {
       "id": "a-star-brighter-than-the-sun",
       "title": "A Star Brighter Than the Sun",
-      "originalLink": "https://anime-sama.tv/catalogue/a-star-brighter-than-the-sun",
       "slug": "a-star-brighter-than-the-sun",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-star-brighter-than-the-sun.jpg",
-      "banner": null,
-      "description": "Même si nous sommes séparés, tu brilleras toujours... Sae a toujours été plus grande et plus forte que la moyenne des filles. Koki était plus petit et plus faible que la moyenne des garçons. Mais avec le temps, Koki est devenu grand et super populaire, et une figure distante pour Sae qui réalise qu'elle a des sentiments pour lui. Alors qu'ils se retrouvent au lycée, leur amitié d'enfance va-t-elle se raviver... Ou même se transformer en quelque chose de plus ?Même si nous sommes séparés, tu bril",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/a-star-brighter-than-the-sun/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:11:55.650Z",
-      "lastUpdated": "2026-01-01T09:11:55.650Z"
+      "scrapedAt": "2026-01-01T09:38:39.352Z",
+      "lastUpdated": "2026-01-01T09:38:39.352Z"
     },
     "a-wild-last-boss-appeared": {
       "id": "a-wild-last-boss-appeared",
@@ -15119,8 +15124,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 126,
-      "vostfr": 23
+      "vf": 125,
+      "vostfr": 24
     },
     "byType": {
       "anime": 149,
@@ -15133,7 +15138,7 @@
       "Sendvid": 31,
       "OneUpload": 2
     },
-    "lastUpdate": "2026-01-01T09:38:37.649Z"
+    "lastUpdate": "2026-01-01T09:38:39.352Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
