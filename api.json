@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:37:45.454Z",
+  "lastUpdated": "2026-01-01T09:37:47.216Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 306,
@@ -435,17 +435,22 @@
     "a-couple-of-cuckoos": {
       "id": "a-couple-of-cuckoos",
       "title": "A Couple of Cuckoos",
-      "originalLink": "https://anime-sama.tv/catalogue/a-couple-of-cuckoos",
       "slug": "a-couple-of-cuckoos",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-couple-of-cuckoos.jpg",
-      "banner": null,
-      "description": "Nagi est un élève sérieux passionné par ses études. Un jour, alors qu'il est en deuxième année, il découvre qu'il a été échangé à la naissance avec une fille.\nEspérant garder leurs enfants biologiques et adoptifs, leurs parents décident qu'ils vont se fiancer pour pouvoir rester en famille. Mais Nagi est déjà amoureux d'une autre fille...",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/a-couple-of-cuckoos/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:11:48.959Z",
-      "lastUpdated": "2026-01-01T09:11:48.959Z"
+      "scrapedAt": "2026-01-01T09:37:47.216Z",
+      "lastUpdated": "2026-01-01T09:37:47.216Z"
     },
     "a-condition-called-love": {
       "id": "a-condition-called-love",
@@ -10145,8 +10150,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 133,
-      "vostfr": 16
+      "vf": 132,
+      "vostfr": 17
     },
     "byType": {
       "anime": 149,
@@ -10159,7 +10164,7 @@
       "Sendvid": 19,
       "OneUpload": 1
     },
-    "lastUpdate": "2026-01-01T09:37:45.454Z"
+    "lastUpdate": "2026-01-01T09:37:47.216Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
