@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:36:33.372Z",
+  "lastUpdated": "2026-01-01T09:36:34.803Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 25,
@@ -55,17 +55,22 @@
     "16bit-sensation-another-layer": {
       "id": "16bit-sensation-another-layer",
       "title": "16bit Sensation Another Layer",
-      "originalLink": "https://anime-sama.tv/catalogue/16bit-sensation-another-layer",
       "slug": "16bit-sensation-another-layer",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/16bit-sensation-another-layer.jpg",
-      "banner": null,
-      "description": "En 1992, une étudiante universitaire, Meiko Uehara, commence à travailler à temps partiel chez un fabricant de jeux érotiques. Elle est douée pour le dessin et est nommée graphiste, mais elle n'a jamais dessiné d'illustrations pour adultes auparavant et n'a aucune idée de ce qu'il faut faire... Sera-t-elle capable de mener à bien son jeu érotique ?",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/16bit-sensation-another-layer/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:11:39.926Z",
-      "lastUpdated": "2026-01-01T09:11:39.926Z"
+      "scrapedAt": "2026-01-01T09:36:34.803Z",
+      "lastUpdated": "2026-01-01T09:36:34.803Z"
     },
     "tis-time-for-torture-princess": {
       "id": "tis-time-for-torture-princess",
@@ -3100,8 +3105,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 146,
-      "vostfr": 3
+      "vf": 145,
+      "vostfr": 4
     },
     "byType": {
       "anime": 149,
@@ -3113,7 +3118,7 @@
       "Scan": 2,
       "Sendvid": 2
     },
-    "lastUpdate": "2026-01-01T09:36:33.372Z"
+    "lastUpdate": "2026-01-01T09:36:34.803Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
