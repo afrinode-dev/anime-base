@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:20:11.897Z",
-  "totalAnimes": 128,
+  "lastUpdated": "2026-01-01T10:20:13.565Z",
+  "totalAnimes": 129,
   "totalScans": 0,
   "totalEpisodes": 2393,
   "totalChapters": 0,
@@ -2694,6 +2694,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:20:10.143Z"
+    },
+    "bakuman": {
+      "id": "bakuman",
+      "title": "Bakuman",
+      "slug": "bakuman",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/bakuman/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/bakuman/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/bakuman/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "bakuman_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:20:13.564Z"
     }
   },
   "scans": {},
@@ -79494,10 +79515,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 30,
-      "vostfr": 98
+      "vostfr": 99
     },
     "byType": {
-      "anime": 128,
+      "anime": 129,
       "scan": 0
     },
     "byPlayer": {
@@ -79508,6 +79529,6 @@
       "OneUpload": 15,
       "Smoothpre": 10
     },
-    "lastUpdate": "2026-01-01T10:20:11.895Z"
+    "lastUpdate": "2026-01-01T10:20:13.564Z"
   }
 }
