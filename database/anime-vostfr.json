@@ -747,6 +747,50 @@
       "totalSeasons": 6,
       "scrapedAt": "2026-01-01T11:20:31.676Z",
       "lastUpdated": "2026-01-01T11:20:31.676Z"
+    },
+    "a-barbarian-was-admitted-to-the-academy": {
+      "id": "a-barbarian-was-admitted-to-the-academy",
+      "title": "A Barbarian Was Admitted to the Academy",
+      "slug": "a-barbarian-was-admitted-to-the-academy",
+      "language": "vostfr",
+      "type": "anime",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-barbarian-was-admitted-to-the-academy.jpg",
+      "banner": null,
+      "description": "Je me suis retrouvée possédée dans un jeu auquel je jouais occasionnellement. Et pour couronner le tout, je suis la guerrière d'une tribu barbare qui ne connaît que de mauvaises fins. ... Très bien, échappons-nous.",
+      "pageUrl": "https://anime-sama.tv/catalogue/a-barbarian-was-admitted-to-the-academy/",
+      "seasons": [
+        {
+          "name": "saison1",
+          "number": 1,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/a-barbarian-was-admitted-to-the-academy/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/a-barbarian-was-admitted-to-the-academy/saison1/vostfr/episodes.js"
+        },
+        {
+          "name": "saison2",
+          "number": 2,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/a-barbarian-was-admitted-to-the-academy/saison2/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/a-barbarian-was-admitted-to-the-academy/saison2/vostfr/episodes.js"
+        },
+        {
+          "name": "saison3",
+          "number": 3,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/a-barbarian-was-admitted-to-the-academy/saison3/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/a-barbarian-was-admitted-to-the-academy/saison3/vostfr/episodes.js"
+        },
+        {
+          "name": "saison4",
+          "number": 4,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/a-barbarian-was-admitted-to-the-academy/saison4/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/a-barbarian-was-admitted-to-the-academy/saison4/vostfr/episodes.js"
+        }
+      ],
+      "totalSeasons": 4,
+      "scrapedAt": "2026-01-01T11:24:19.100Z",
+      "lastUpdated": "2026-01-01T11:24:19.100Z"
     }
   },
   "seasons": {
@@ -1713,6 +1757,298 @@
       ],
       "scrapedAt": "2026-01-01T11:20:31.475Z",
       "lastUpdated": "2026-01-01T11:20:31.475Z"
+    },
+    "a-barbarian-was-admitted-to-the-academy_saison1_vostfr": {
+      "seasonId": "a-barbarian-was-admitted-to-the-academy_saison1_vostfr",
+      "animeId": "a-barbarian-was-admitted-to-the-academy",
+      "title": "A Barbarian Was Admitted to the Academy",
+      "slug": "a-barbarian-was-admitted-to-the-academy",
+      "season": "saison1",
+      "seasonNumber": 1,
+      "seasonSuffix": "",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/a-barbarian-was-admitted-to-the-academy/saison1/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/a-barbarian-was-admitted-to-the-academy/saison1/vostfr/",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-barbarian-was-admitted-to-the-academy.jpg",
+      "banner": null,
+      "description": "A Barbarian Was Admitted to the Academy - Saison 1 | Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "totalEpisodes": 1,
+      "episodesList": [
+        1
+      ],
+      "players": {
+        "Sibnet": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Sibnet",
+          "playerProvider": "sibnet",
+          "totalEpisodes": 1,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "lastUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T11:24:18.560Z"
+        },
+        "Vidmoly": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "playerProvider": "vidmoly",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vidmoly.to/embed-.html",
+          "lastUrl": "https://vidmoly.to/embed-.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T11:24:18.560Z"
+        },
+        "Sendvid": {
+          "playerId": "player_2",
+          "playerKey": "eps3",
+          "playerType": "Sendvid",
+          "playerProvider": "sendvid",
+          "totalEpisodes": 1,
+          "firstUrl": "https://sendvid.com/embed/",
+          "lastUrl": "https://sendvid.com/embed/",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T11:24:18.560Z"
+        },
+        "Scan": {
+          "playerId": "player_3",
+          "playerKey": "eps4",
+          "playerType": "Scan",
+          "playerProvider": "",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "lastUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T11:24:18.560Z"
+        }
+      },
+      "availablePlayers": [
+        "Sibnet",
+        "Vidmoly",
+        "Sendvid",
+        "Scan"
+      ],
+      "scrapedAt": "2026-01-01T11:24:18.712Z",
+      "lastUpdated": "2026-01-01T11:24:18.712Z"
+    },
+    "a-barbarian-was-admitted-to-the-academy_saison2_vostfr": {
+      "seasonId": "a-barbarian-was-admitted-to-the-academy_saison2_vostfr",
+      "animeId": "a-barbarian-was-admitted-to-the-academy",
+      "title": "A Barbarian Was Admitted to the Academy",
+      "slug": "a-barbarian-was-admitted-to-the-academy",
+      "season": "saison2",
+      "seasonNumber": 2,
+      "seasonSuffix": "",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/a-barbarian-was-admitted-to-the-academy/saison2/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/a-barbarian-was-admitted-to-the-academy/saison2/vostfr/",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-barbarian-was-admitted-to-the-academy.jpg",
+      "banner": null,
+      "description": "A Barbarian Was Admitted to the Academy - Saison 2 | Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "totalEpisodes": 1,
+      "episodesList": [
+        1
+      ],
+      "players": {
+        "Sibnet": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Sibnet",
+          "playerProvider": "sibnet",
+          "totalEpisodes": 1,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "lastUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T11:24:18.740Z"
+        },
+        "Vidmoly": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "playerProvider": "vidmoly",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vidmoly.to/embed-.html",
+          "lastUrl": "https://vidmoly.to/embed-.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T11:24:18.741Z"
+        },
+        "Sendvid": {
+          "playerId": "player_2",
+          "playerKey": "eps3",
+          "playerType": "Sendvid",
+          "playerProvider": "sendvid",
+          "totalEpisodes": 1,
+          "firstUrl": "https://sendvid.com/embed/",
+          "lastUrl": "https://sendvid.com/embed/",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T11:24:18.741Z"
+        },
+        "Scan": {
+          "playerId": "player_3",
+          "playerKey": "eps4",
+          "playerType": "Scan",
+          "playerProvider": "",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "lastUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T11:24:18.741Z"
+        }
+      },
+      "availablePlayers": [
+        "Sibnet",
+        "Vidmoly",
+        "Sendvid",
+        "Scan"
+      ],
+      "scrapedAt": "2026-01-01T11:24:18.835Z",
+      "lastUpdated": "2026-01-01T11:24:18.835Z"
+    },
+    "a-barbarian-was-admitted-to-the-academy_saison3_vostfr": {
+      "seasonId": "a-barbarian-was-admitted-to-the-academy_saison3_vostfr",
+      "animeId": "a-barbarian-was-admitted-to-the-academy",
+      "title": "A Barbarian Was Admitted to the Academy",
+      "slug": "a-barbarian-was-admitted-to-the-academy",
+      "season": "saison3",
+      "seasonNumber": 3,
+      "seasonSuffix": "",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/a-barbarian-was-admitted-to-the-academy/saison3/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/a-barbarian-was-admitted-to-the-academy/saison3/vostfr/",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-barbarian-was-admitted-to-the-academy.jpg",
+      "banner": null,
+      "description": "A Barbarian Was Admitted to the Academy - Saison 3 | Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "totalEpisodes": 1,
+      "episodesList": [
+        1
+      ],
+      "players": {
+        "Sibnet": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Sibnet",
+          "playerProvider": "sibnet",
+          "totalEpisodes": 1,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "lastUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T11:24:18.863Z"
+        },
+        "Vidmoly": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "playerProvider": "vidmoly",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vidmoly.to/embed-.html",
+          "lastUrl": "https://vidmoly.to/embed-.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T11:24:18.863Z"
+        },
+        "Sendvid": {
+          "playerId": "player_2",
+          "playerKey": "eps3",
+          "playerType": "Sendvid",
+          "playerProvider": "sendvid",
+          "totalEpisodes": 1,
+          "firstUrl": "https://sendvid.com/embed/",
+          "lastUrl": "https://sendvid.com/embed/",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T11:24:18.863Z"
+        },
+        "Scan": {
+          "playerId": "player_3",
+          "playerKey": "eps4",
+          "playerType": "Scan",
+          "playerProvider": "",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "lastUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T11:24:18.863Z"
+        }
+      },
+      "availablePlayers": [
+        "Sibnet",
+        "Vidmoly",
+        "Sendvid",
+        "Scan"
+      ],
+      "scrapedAt": "2026-01-01T11:24:18.940Z",
+      "lastUpdated": "2026-01-01T11:24:18.940Z"
+    },
+    "a-barbarian-was-admitted-to-the-academy_saison4_vostfr": {
+      "seasonId": "a-barbarian-was-admitted-to-the-academy_saison4_vostfr",
+      "animeId": "a-barbarian-was-admitted-to-the-academy",
+      "title": "A Barbarian Was Admitted to the Academy",
+      "slug": "a-barbarian-was-admitted-to-the-academy",
+      "season": "saison4",
+      "seasonNumber": 4,
+      "seasonSuffix": "",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/a-barbarian-was-admitted-to-the-academy/saison4/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/a-barbarian-was-admitted-to-the-academy/saison4/vostfr/",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-barbarian-was-admitted-to-the-academy.jpg",
+      "banner": null,
+      "description": "A Barbarian Was Admitted to the Academy - Saison 4 | Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "totalEpisodes": 1,
+      "episodesList": [
+        1
+      ],
+      "players": {
+        "Sibnet": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Sibnet",
+          "playerProvider": "sibnet",
+          "totalEpisodes": 1,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "lastUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T11:24:18.970Z"
+        },
+        "Vidmoly": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "playerProvider": "vidmoly",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vidmoly.to/embed-.html",
+          "lastUrl": "https://vidmoly.to/embed-.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T11:24:18.970Z"
+        },
+        "Sendvid": {
+          "playerId": "player_2",
+          "playerKey": "eps3",
+          "playerType": "Sendvid",
+          "playerProvider": "sendvid",
+          "totalEpisodes": 1,
+          "firstUrl": "https://sendvid.com/embed/",
+          "lastUrl": "https://sendvid.com/embed/",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T11:24:18.970Z"
+        },
+        "Scan": {
+          "playerId": "player_3",
+          "playerKey": "eps4",
+          "playerType": "Scan",
+          "playerProvider": "",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "lastUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T11:24:18.970Z"
+        }
+      },
+      "availablePlayers": [
+        "Sibnet",
+        "Vidmoly",
+        "Sendvid",
+        "Scan"
+      ],
+      "scrapedAt": "2026-01-01T11:24:19.032Z",
+      "lastUpdated": "2026-01-01T11:24:19.032Z"
     }
   },
   "episodes": {
@@ -8079,15 +8415,222 @@
       "totalPlayers": 3,
       "scrapedAt": "2026-01-01T11:20:31.475Z",
       "lastUpdated": "2026-01-01T11:20:31.475Z"
+    },
+    "a-barbarian-was-admitted-to-the-academy_saison1_vostfr": {
+      "seasonId": "a-barbarian-was-admitted-to-the-academy_saison1_vostfr",
+      "animeId": "a-barbarian-was-admitted-to-the-academy",
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T11:24:18.560Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-.html",
+              "embedUrl": "https://vidmoly.to/embed-.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T11:24:18.560Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/",
+              "embedUrl": "https://sendvid.com/embed/",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T11:24:18.560Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vk.com/video_ext.php?oid=&hd=3",
+              "embedUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T11:24:18.560Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 4,
+          "scrapedAt": "2026-01-01T11:24:18.560Z"
+        }
+      },
+      "totalPlayers": 4,
+      "scrapedAt": "2026-01-01T11:24:18.712Z",
+      "lastUpdated": "2026-01-01T11:24:18.712Z"
+    },
+    "a-barbarian-was-admitted-to-the-academy_saison2_vostfr": {
+      "seasonId": "a-barbarian-was-admitted-to-the-academy_saison2_vostfr",
+      "animeId": "a-barbarian-was-admitted-to-the-academy",
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T11:24:18.740Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-.html",
+              "embedUrl": "https://vidmoly.to/embed-.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T11:24:18.741Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/",
+              "embedUrl": "https://sendvid.com/embed/",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T11:24:18.741Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vk.com/video_ext.php?oid=&hd=3",
+              "embedUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T11:24:18.741Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 4,
+          "scrapedAt": "2026-01-01T11:24:18.740Z"
+        }
+      },
+      "totalPlayers": 4,
+      "scrapedAt": "2026-01-01T11:24:18.835Z",
+      "lastUpdated": "2026-01-01T11:24:18.835Z"
+    },
+    "a-barbarian-was-admitted-to-the-academy_saison3_vostfr": {
+      "seasonId": "a-barbarian-was-admitted-to-the-academy_saison3_vostfr",
+      "animeId": "a-barbarian-was-admitted-to-the-academy",
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T11:24:18.863Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-.html",
+              "embedUrl": "https://vidmoly.to/embed-.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T11:24:18.863Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/",
+              "embedUrl": "https://sendvid.com/embed/",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T11:24:18.863Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vk.com/video_ext.php?oid=&hd=3",
+              "embedUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T11:24:18.863Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 4,
+          "scrapedAt": "2026-01-01T11:24:18.863Z"
+        }
+      },
+      "totalPlayers": 4,
+      "scrapedAt": "2026-01-01T11:24:18.940Z",
+      "lastUpdated": "2026-01-01T11:24:18.940Z"
+    },
+    "a-barbarian-was-admitted-to-the-academy_saison4_vostfr": {
+      "seasonId": "a-barbarian-was-admitted-to-the-academy_saison4_vostfr",
+      "animeId": "a-barbarian-was-admitted-to-the-academy",
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T11:24:18.970Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-.html",
+              "embedUrl": "https://vidmoly.to/embed-.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T11:24:18.970Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/",
+              "embedUrl": "https://sendvid.com/embed/",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T11:24:18.970Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vk.com/video_ext.php?oid=&hd=3",
+              "embedUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T11:24:18.970Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 4,
+          "scrapedAt": "2026-01-01T11:24:18.970Z"
+        }
+      },
+      "totalPlayers": 4,
+      "scrapedAt": "2026-01-01T11:24:19.032Z",
+      "lastUpdated": "2026-01-01T11:24:19.032Z"
     }
   },
   "players": {
     "Sibnet": {
       "name": "Sibnet",
       "type": "video",
-      "count": 11,
+      "count": 15,
       "exampleUrls": [
-        "https://video.sibnet.ru/shell.php?videoid=5268117",
         "https://video.sibnet.ru/shell.php?videoid=4206093",
         "https://video.sibnet.ru/shell.php?videoid=5094012",
         "https://video.sibnet.ru/shell.php?videoid=5586966",
@@ -8096,28 +8639,30 @@
         "https://video.sibnet.ru/shell.php?videoid=4734149",
         "https://video.sibnet.ru/shell.php?videoid=5390320",
         "https://video.sibnet.ru/shell.php?videoid=4291083",
-        "https://video.sibnet.ru/shell.php?videoid=4821344"
+        "https://video.sibnet.ru/shell.php?videoid=4821344",
+        "https://video.sibnet.ru/shell.php?videoid="
       ],
-      "lastUsed": "2026-01-01T11:20:31.475Z"
+      "lastUsed": "2026-01-01T11:24:19.032Z"
     },
     "Vidmoly": {
       "name": "Vidmoly",
       "type": "video",
-      "count": 6,
+      "count": 10,
       "exampleUrls": [
         "https://vidmoly.to/embed-dbx2jrfg1svz.html",
         "https://vidmoly.to/embed-6jskj9kg7ina.html",
         "https://vidmoly.to/embed-bxuk8718bdw8.html",
         "https://vidmoly.to/embed-qogk4au80yk4.html",
         "https://vidmoly.to/embed-9ltzxkhdi1qm.html",
-        "https://vidmoly.to/embed-2ybi9fxnwl96.html"
+        "https://vidmoly.to/embed-2ybi9fxnwl96.html",
+        "https://vidmoly.to/embed-.html"
       ],
-      "lastUsed": "2026-01-01T11:20:31.475Z"
+      "lastUsed": "2026-01-01T11:24:19.032Z"
     },
     "Scan": {
       "name": "Scan",
       "type": "video",
-      "count": 8,
+      "count": 12,
       "exampleUrls": [
         "https://vk.com/video_ext.php?oid=755747641&id=456240670&hd=3",
         "https://vk.com/video_ext.php?oid=755747641&id=456240187&hd=3",
@@ -8126,16 +8671,16 @@
         "https://www.myvi.tv/embed/tmu8p4jspttrxypmsugxw6pfdr",
         "https://www.myvi.top/embed/9e6wu9oed7prfgrboqwm9tc7qa",
         "https://www.myvi.top/embed/esbmgs754smwif73psiai3mkhr",
-        "https://vk.com/video_ext.php?oid=755747641&id=456240667&hd=3"
+        "https://vk.com/video_ext.php?oid=755747641&id=456240667&hd=3",
+        "https://vk.com/video_ext.php?oid=&hd=3"
       ],
-      "lastUsed": "2026-01-01T11:16:39.061Z"
+      "lastUsed": "2026-01-01T11:24:19.032Z"
     },
     "Sendvid": {
       "name": "Sendvid",
       "type": "video",
-      "count": 13,
+      "count": 17,
       "exampleUrls": [
-        "https://sendvid.com/embed/knjbkll7",
         "https://sendvid.com/embed/bo0spsdo",
         "https://sendvid.com/embed/4dhdt75q",
         "https://sendvid.com/embed/7oy1a06v",
@@ -8144,9 +8689,10 @@
         "https://sendvid.com/embed/lsfbvki4",
         "https://sendvid.com/embed/f5bvzdrk",
         "https://sendvid.com/embed/gcs9j2t5",
-        "https://sendvid.com/embed/mqeqvezo"
+        "https://sendvid.com/embed/mqeqvezo",
+        "https://sendvid.com/embed/"
       ],
-      "lastUsed": "2026-01-01T11:20:31.475Z"
+      "lastUsed": "2026-01-01T11:24:19.032Z"
     },
     "OneUpload": {
       "name": "OneUpload",
