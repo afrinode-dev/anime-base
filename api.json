@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:38:44.451Z",
+  "lastUpdated": "2026-01-01T09:38:46.374Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 490,
@@ -690,17 +690,22 @@
     "a-wild-last-boss-appeared": {
       "id": "a-wild-last-boss-appeared",
       "title": "A Wild Last Boss Appeared",
-      "originalLink": "https://anime-sama.tv/catalogue/a-wild-last-boss-appeared",
       "slug": "a-wild-last-boss-appeared",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-wild-last-boss-appeared.jpg",
-      "banner": null,
-      "description": "Après un superbe final, j'ai atteint le sommet dans le célèbre jeu en ligne Exgate Online. Mon personnage s'appelait Luphas Mafahl, une femme redoutée pour sa puissance et sa férocité... Malheureusement, j'ai été vaincu par l'union des Sept Héros. Mais depuis, un événement inattendu est survenu : j'ai été invoqué dans le jeu vidéo et je suis devenu mon personnage, 200 ans plus tard... Pire, depuis mon absence, le monde n'est plus que chaos à cause des exactions de mes sbires et des monstres qui ",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/a-wild-last-boss-appeared/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:11:56.634Z",
-      "lastUpdated": "2026-01-01T09:11:56.634Z"
+      "scrapedAt": "2026-01-01T09:38:46.374Z",
+      "lastUpdated": "2026-01-01T09:38:46.374Z"
     },
     "absolute-dominion": {
       "id": "absolute-dominion",
@@ -16024,8 +16029,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 126,
-      "vostfr": 23
+      "vf": 125,
+      "vostfr": 24
     },
     "byType": {
       "anime": 149,
@@ -16038,7 +16043,7 @@
       "Sendvid": 33,
       "OneUpload": 2
     },
-    "lastUpdate": "2026-01-01T09:38:44.451Z"
+    "lastUpdate": "2026-01-01T09:38:46.374Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
