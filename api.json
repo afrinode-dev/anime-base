@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:38:01.021Z",
+  "lastUpdated": "2026-01-01T09:38:02.303Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 355,
@@ -515,17 +515,22 @@
     "a-galaxy-next-door": {
       "id": "a-galaxy-next-door",
       "title": "A Galaxy Next Door",
-      "originalLink": "https://anime-sama.tv/catalogue/a-galaxy-next-door",
       "slug": "a-galaxy-next-door",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-galaxy-next-door.jpg",
-      "banner": null,
-      "description": "Depuis la mort de ses parents, Ichiro Kuga s'en sort à peine et subvient difficilement aux besoins de ses deux jeunes frères et sœurs avec ses faibles revenus de mangaka. Après le départ de ses deux assistants, Ichiro, qui doit jongler avec les délais, sa famille et la peur constante de perdre son emploi, est au bord de la dépression. Cependant, la candidature de Shiori Goshiki, une talentueuse et magnifique jeune femme, va changer sa vie.",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/a-galaxy-next-door/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:11:51.456Z",
-      "lastUpdated": "2026-01-01T09:11:51.456Z"
+      "scrapedAt": "2026-01-01T09:38:02.303Z",
+      "lastUpdated": "2026-01-01T09:38:02.303Z"
     },
     "a-girl-and-her-guard-dog": {
       "id": "a-girl-and-her-guard-dog",
@@ -11579,8 +11584,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 131,
-      "vostfr": 18
+      "vf": 130,
+      "vostfr": 19
     },
     "byType": {
       "anime": 149,
@@ -11593,7 +11598,7 @@
       "Sendvid": 23,
       "OneUpload": 1
     },
-    "lastUpdate": "2026-01-01T09:38:01.021Z"
+    "lastUpdate": "2026-01-01T09:38:02.303Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
