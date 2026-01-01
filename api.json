@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:50:23.565Z",
-  "totalAnimes": 195,
+  "lastUpdated": "2026-01-01T09:50:25.403Z",
+  "totalAnimes": 196,
   "totalScans": 0,
   "totalEpisodes": 3522,
   "totalChapters": 0,
@@ -3751,6 +3751,26 @@
       "availableScans": [],
       "scrapedAt": "2026-01-01T09:50:21.501Z",
       "lastUpdated": "2026-01-01T09:50:21.501Z"
+    },
+    "blade-of-the-immortal": {
+      "id": "blade-of-the-immortal",
+      "title": "Blade of the Immortal",
+      "slug": "blade-of-the-immortal",
+      "language": "vostfr",
+      "type": "anime",
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/blade-of-the-immortal/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
+      "availableScans": [],
+      "scrapedAt": "2026-01-01T09:50:25.401Z",
+      "lastUpdated": "2026-01-01T09:50:25.401Z"
     }
   },
   "scans": {},
@@ -102209,10 +102229,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 75,
-      "vostfr": 120
+      "vostfr": 121
     },
     "byType": {
-      "anime": 195,
+      "anime": 196,
       "scan": 0
     },
     "byPlayer": {
@@ -102223,7 +102243,7 @@
       "OneUpload": 19,
       "Smoothpre": 13
     },
-    "lastUpdate": "2026-01-01T09:50:23.563Z"
+    "lastUpdate": "2026-01-01T09:50:25.402Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
