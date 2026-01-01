@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:17:42.694Z",
-  "totalAnimes": 100,
+  "lastUpdated": "2026-01-01T10:17:44.298Z",
+  "totalAnimes": 101,
   "totalScans": 0,
   "totalEpisodes": 1826,
   "totalChapters": 0,
@@ -2106,6 +2106,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:17:38.614Z"
+    },
+    "arknights": {
+      "id": "arknights",
+      "title": "Arknights",
+      "slug": "arknights",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/arknights/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/arknights/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/arknights/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "arknights_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:17:44.298Z"
     }
   },
   "scans": {},
@@ -61245,10 +61266,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 24,
-      "vostfr": 76
+      "vostfr": 77
     },
     "byType": {
-      "anime": 100,
+      "anime": 101,
       "scan": 0
     },
     "byPlayer": {
@@ -61259,6 +61280,6 @@
       "OneUpload": 12,
       "Smoothpre": 9
     },
-    "lastUpdate": "2026-01-01T10:17:42.693Z"
+    "lastUpdate": "2026-01-01T10:17:44.298Z"
   }
 }
