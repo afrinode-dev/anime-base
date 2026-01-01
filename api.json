@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:42:51.301Z",
+  "lastUpdated": "2026-01-01T09:42:52.742Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1481,
@@ -1815,17 +1815,22 @@
     "angel-voice": {
       "id": "angel-voice",
       "title": "Angel Voice",
-      "originalLink": "https://anime-sama.tv/catalogue/angel-voice",
       "slug": "angel-voice",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/angel-voice.jpg",
-      "banner": null,
-      "description": "Au lycée Razan, les voyous se battent pour obtenir le titre du meilleur bagarreur sous les ordres d'un délinquant appelé Seiichi Hironao. Ce délinquant et tous ceux qui se sont rangés de son côté occupent la salle du club de football du lycée. La seule règle à respecter dans ce repère de voyous est de ne pas toucher aux ballons : toujours les laisser rangés à leur place habituelle. Vu que le club de foot est inutile, il sert juste de repère aux délinquants, quelques professeurs du lycée décident",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/angel-voice/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:29.974Z",
-      "lastUpdated": "2026-01-01T09:12:29.974Z"
+      "scrapedAt": "2026-01-01T09:42:52.742Z",
+      "lastUpdated": "2026-01-01T09:42:52.742Z"
     },
     "angels-of-death": {
       "id": "angels-of-death",
@@ -43141,8 +43146,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 92,
-      "vostfr": 57
+      "vf": 91,
+      "vostfr": 58
     },
     "byType": {
       "anime": 149,
@@ -43156,7 +43161,7 @@
       "OneUpload": 8,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T09:42:51.299Z"
+    "lastUpdate": "2026-01-01T09:42:52.742Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
