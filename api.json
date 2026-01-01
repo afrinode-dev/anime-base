@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:46:53.645Z",
-  "totalAnimes": 158,
+  "lastUpdated": "2026-01-01T09:46:55.076Z",
+  "totalAnimes": 159,
   "totalScans": 0,
   "totalEpisodes": 2320,
   "totalChapters": 0,
@@ -3011,6 +3011,26 @@
       "availableScans": [],
       "scrapedAt": "2026-01-01T09:46:51.381Z",
       "lastUpdated": "2026-01-01T09:46:51.381Z"
+    },
+    "baki": {
+      "id": "baki",
+      "title": "Baki",
+      "slug": "baki",
+      "language": "vostfr",
+      "type": "anime",
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/baki/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
+      "availableScans": [],
+      "scrapedAt": "2026-01-01T09:46:55.075Z",
+      "lastUpdated": "2026-01-01T09:46:55.075Z"
     }
   },
   "scans": {},
@@ -67087,10 +67107,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 60,
-      "vostfr": 98
+      "vostfr": 99
     },
     "byType": {
-      "anime": 158,
+      "anime": 159,
       "scan": 0
     },
     "byPlayer": {
@@ -67101,7 +67121,7 @@
       "OneUpload": 15,
       "Smoothpre": 10
     },
-    "lastUpdate": "2026-01-01T09:46:53.645Z"
+    "lastUpdate": "2026-01-01T09:46:55.075Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
