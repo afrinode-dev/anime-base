@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:19:00.331Z",
-  "totalAnimes": 116,
+  "lastUpdated": "2026-01-01T10:19:01.344Z",
+  "totalAnimes": 117,
   "totalScans": 0,
   "totalEpisodes": 2094,
   "totalChapters": 0,
@@ -2442,6 +2442,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:18:58.583Z"
+    },
+    "ayaka": {
+      "id": "ayaka",
+      "title": "AYAKA",
+      "slug": "ayaka",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/ayaka/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/ayaka/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/ayaka/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "ayaka_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:19:01.343Z"
     }
   },
   "scans": {},
@@ -69937,10 +69958,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 26,
-      "vostfr": 90
+      "vostfr": 91
     },
     "byType": {
-      "anime": 116,
+      "anime": 117,
       "scan": 0
     },
     "byPlayer": {
@@ -69951,6 +69972,6 @@
       "OneUpload": 14,
       "Smoothpre": 10
     },
-    "lastUpdate": "2026-01-01T10:19:00.329Z"
+    "lastUpdate": "2026-01-01T10:19:01.343Z"
   }
 }
