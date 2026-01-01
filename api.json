@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:20:46.172Z",
-  "totalAnimes": 135,
+  "lastUpdated": "2026-01-01T10:20:47.843Z",
+  "totalAnimes": 136,
   "totalScans": 0,
   "totalEpisodes": 2540,
   "totalChapters": 0,
@@ -2841,6 +2841,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:20:43.677Z"
+    },
+    "baraou-no-souretsu": {
+      "id": "baraou-no-souretsu",
+      "title": "Baraou no Souretsu",
+      "slug": "baraou-no-souretsu",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/baraou-no-souretsu/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/baraou-no-souretsu/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/baraou-no-souretsu/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "baraou-no-souretsu_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:20:47.843Z"
     }
   },
   "scans": {},
@@ -84594,10 +84615,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 31,
-      "vostfr": 104
+      "vostfr": 105
     },
     "byType": {
-      "anime": 135,
+      "anime": 136,
       "scan": 0
     },
     "byPlayer": {
@@ -84608,6 +84629,6 @@
       "OneUpload": 16,
       "Smoothpre": 11
     },
-    "lastUpdate": "2026-01-01T10:20:46.171Z"
+    "lastUpdate": "2026-01-01T10:20:47.843Z"
   }
 }
