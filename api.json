@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:42:02.609Z",
+  "lastUpdated": "2026-01-01T09:42:04.058Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1286,
@@ -1580,17 +1580,22 @@
     "am-i-actually-the-strongest": {
       "id": "am-i-actually-the-strongest",
       "title": "Am I Actually the Strongest",
-      "originalLink": "https://anime-sama.tv/catalogue/am-i-actually-the-strongest",
       "slug": "am-i-actually-the-strongest",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/am-i-actually-the-strongest.jpg",
-      "banner": null,
-      "description": "Suite à son décès, Haruto se voit proposer la possibilité de se réincarner dans un autre monde où la magie est omniprésente. Il renaît ainsi sous les traits d'un bébé royal mais ses parents, estimant que ses compétences magiques sont trop faibles, l'abandonnent. Pourtant, il révèle rapidement de surprenants pouvoirs.",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/am-i-actually-the-strongest/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:22.222Z",
-      "lastUpdated": "2026-01-01T09:12:22.222Z"
+      "scrapedAt": "2026-01-01T09:42:04.058Z",
+      "lastUpdated": "2026-01-01T09:42:04.058Z"
     },
     "amagami-ss": {
       "id": "amagami-ss",
@@ -36283,8 +36288,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 100,
-      "vostfr": 49
+      "vf": 99,
+      "vostfr": 50
     },
     "byType": {
       "anime": 149,
@@ -36298,7 +36303,7 @@
       "OneUpload": 4,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T09:42:02.609Z"
+    "lastUpdate": "2026-01-01T09:42:04.058Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
