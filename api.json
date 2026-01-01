@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:10:06.792Z",
-  "totalAnimes": 11,
+  "lastUpdated": "2026-01-01T10:10:08.169Z",
+  "totalAnimes": 12,
   "totalScans": 0,
   "totalEpisodes": 185,
   "totalChapters": 0,
@@ -237,6 +237,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:10:04.562Z"
+    },
+    "a-barbarians-adventure-in-a-fantasy-world": {
+      "id": "a-barbarians-adventure-in-a-fantasy-world",
+      "title": "A Barbarian's Adventure in a Fantasy World",
+      "slug": "a-barbarians-adventure-in-a-fantasy-world",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/a-barbarians-adventure-in-a-fantasy-world/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/a-barbarians-adventure-in-a-fantasy-world/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/a-barbarians-adventure-in-a-fantasy-world/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "a-barbarians-adventure-in-a-fantasy-world_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:10:08.168Z"
     }
   },
   "scans": {},
@@ -6415,10 +6436,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 2,
-      "vostfr": 9
+      "vostfr": 10
     },
     "byType": {
-      "anime": 11,
+      "anime": 12,
       "scan": 0
     },
     "byPlayer": {
@@ -6428,6 +6449,6 @@
       "Sendvid": 14,
       "OneUpload": 1
     },
-    "lastUpdate": "2026-01-01T10:10:06.791Z"
+    "lastUpdate": "2026-01-01T10:10:08.169Z"
   }
 }
