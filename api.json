@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:17:13.501Z",
-  "totalAnimes": 95,
+  "lastUpdated": "2026-01-01T10:17:15.034Z",
+  "totalAnimes": 96,
   "totalScans": 0,
   "totalEpisodes": 1761,
   "totalChapters": 0,
@@ -2001,6 +2001,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:17:11.233Z"
+    },
+    "arata-kangatari": {
+      "id": "arata-kangatari",
+      "title": "Arata Kangatari",
+      "slug": "arata-kangatari",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/arata-kangatari/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/arata-kangatari/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/arata-kangatari/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "arata-kangatari_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:17:15.034Z"
     }
   },
   "scans": {},
@@ -59241,10 +59262,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 23,
-      "vostfr": 72
+      "vostfr": 73
     },
     "byType": {
-      "anime": 95,
+      "anime": 96,
       "scan": 0
     },
     "byPlayer": {
@@ -59255,6 +59276,6 @@
       "OneUpload": 12,
       "Smoothpre": 9
     },
-    "lastUpdate": "2026-01-01T10:17:13.501Z"
+    "lastUpdate": "2026-01-01T10:17:15.034Z"
   }
 }
