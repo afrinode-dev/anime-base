@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:15:16.339Z",
-  "totalAnimes": 70,
+  "lastUpdated": "2026-01-01T10:15:17.841Z",
+  "totalAnimes": 71,
   "totalScans": 0,
   "totalEpisodes": 1398,
   "totalChapters": 0,
@@ -1476,6 +1476,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:15:13.987Z"
+    },
+    "ame-to-kimi-to": {
+      "id": "ame-to-kimi-to",
+      "title": "Ame to Kimi to",
+      "slug": "ame-to-kimi-to",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/ame-to-kimi-to/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/ame-to-kimi-to/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/ame-to-kimi-to/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "ame-to-kimi-to_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:15:17.841Z"
     }
   },
   "scans": {},
@@ -45676,10 +45697,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 19,
-      "vostfr": 51
+      "vostfr": 52
     },
     "byType": {
-      "anime": 70,
+      "anime": 71,
       "scan": 0
     },
     "byPlayer": {
@@ -45690,6 +45711,6 @@
       "OneUpload": 7,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T10:15:16.339Z"
+    "lastUpdate": "2026-01-01T10:15:17.841Z"
   }
 }
