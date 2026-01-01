@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:39:37.011Z",
+  "lastUpdated": "2026-01-01T09:39:38.773Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 712,
@@ -930,17 +930,22 @@
     "actually-i-am": {
       "id": "actually-i-am",
       "title": "Actually I am",
-      "originalLink": "https://anime-sama.tv/catalogue/actually-i-am",
       "slug": "actually-i-am",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/actually-i-am.jpg",
-      "banner": null,
-      "description": "Asahi Kuromine est un lycéen incapable de garder un secret pour lui. Et lorsqu'il avoue ses sentiments à sa camarade de classe Youko Shiragami, il découvre qu'elle est un vampire. Il lui jure alors de ne pas divulguer son secret, mais cela ne va pas être facile surtout face aux autres élèves du lycée !",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/actually-i-am/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:03.255Z",
-      "lastUpdated": "2026-01-01T09:12:03.255Z"
+      "scrapedAt": "2026-01-01T09:39:38.772Z",
+      "lastUpdated": "2026-01-01T09:39:38.772Z"
     },
     "adabana": {
       "id": "adabana",
@@ -20589,8 +20594,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 119,
-      "vostfr": 30
+      "vf": 118,
+      "vostfr": 31
     },
     "byType": {
       "anime": 149,
@@ -20603,7 +20608,7 @@
       "Sendvid": 42,
       "OneUpload": 3
     },
-    "lastUpdate": "2026-01-01T09:39:37.009Z"
+    "lastUpdate": "2026-01-01T09:39:38.772Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
