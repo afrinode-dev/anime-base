@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:15:49.291Z",
-  "totalAnimes": 77,
+  "lastUpdated": "2026-01-01T10:15:50.784Z",
+  "totalAnimes": 78,
   "totalScans": 0,
   "totalEpisodes": 1497,
   "totalChapters": 0,
@@ -1623,6 +1623,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:15:46.789Z"
+    },
+    "angels-of-death": {
+      "id": "angels-of-death",
+      "title": "Angels of Death",
+      "slug": "angels-of-death",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/angels-of-death/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/angels-of-death/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/angels-of-death/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "angels-of-death_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:15:50.783Z"
     }
   },
   "scans": {},
@@ -49401,10 +49422,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 21,
-      "vostfr": 56
+      "vostfr": 57
     },
     "byType": {
-      "anime": 77,
+      "anime": 78,
       "scan": 0
     },
     "byPlayer": {
@@ -49415,6 +49436,6 @@
       "OneUpload": 8,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T10:15:49.291Z"
+    "lastUpdate": "2026-01-01T10:15:50.783Z"
   }
 }
