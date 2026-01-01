@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:38:09.327Z",
+  "lastUpdated": "2026-01-01T09:38:11.231Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 369,
@@ -555,17 +555,22 @@
     "a-mountain-of-corpses-a-sea-of-blood": {
       "id": "a-mountain-of-corpses-a-sea-of-blood",
       "title": "A Mountain of Corpses a Sea of Blood",
-      "originalLink": "https://anime-sama.tv/catalogue/a-mountain-of-corpses-a-sea-of-blood",
       "slug": "a-mountain-of-corpses-a-sea-of-blood",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-mountain-of-corpses-a-sea-of-blood.jpg",
-      "banner": null,
-      "description": "La guerre ultime entre les humains et les démons toucha à sa fin lorsque le plus puissant des héros, Gron, périt en entraînant le Roi Démon avec lui. Cinq ans plus tard, Gron se réveille au coeur du camp des démons et découvre que son âme s'est réincarnée dans le corps du plus faible d'entre eux. Cependant, il ne tarde pas à réaliser que son esprit a éveillé en ce corps une puissance cachée : le pouvoir d'évolution du Dieu Serpent antique. Autrefois célèbre pour sa justice extrême, quel carnage ",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/a-mountain-of-corpses-a-sea-of-blood/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:11:51.540Z",
-      "lastUpdated": "2026-01-01T09:11:51.540Z"
+      "scrapedAt": "2026-01-01T09:38:11.231Z",
+      "lastUpdated": "2026-01-01T09:38:11.231Z"
     },
     "a-place-further-than-the-universe": {
       "id": "a-place-further-than-the-universe",
@@ -12159,8 +12164,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 129,
-      "vostfr": 20
+      "vf": 128,
+      "vostfr": 21
     },
     "byType": {
       "anime": 149,
@@ -12173,7 +12178,7 @@
       "Sendvid": 25,
       "OneUpload": 1
     },
-    "lastUpdate": "2026-01-01T09:38:09.327Z"
+    "lastUpdate": "2026-01-01T09:38:11.231Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
