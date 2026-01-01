@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:20:41.787Z",
-  "totalAnimes": 134,
+  "lastUpdated": "2026-01-01T10:20:43.677Z",
+  "totalAnimes": 135,
   "totalScans": 0,
   "totalEpisodes": 2515,
   "totalChapters": 0,
@@ -2820,6 +2820,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:20:39.330Z"
+    },
+    "barakamon": {
+      "id": "barakamon",
+      "title": "Barakamon",
+      "slug": "barakamon",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/barakamon/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/barakamon/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/barakamon/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "barakamon_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:20:43.677Z"
     }
   },
   "scans": {},
@@ -83797,10 +83818,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 31,
-      "vostfr": 103
+      "vostfr": 104
     },
     "byType": {
-      "anime": 134,
+      "anime": 135,
       "scan": 0
     },
     "byPlayer": {
@@ -83811,6 +83832,6 @@
       "OneUpload": 16,
       "Smoothpre": 11
     },
-    "lastUpdate": "2026-01-01T10:20:41.787Z"
+    "lastUpdate": "2026-01-01T10:20:43.677Z"
   }
 }
