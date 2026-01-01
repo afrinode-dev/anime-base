@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:14:18.310Z",
-  "totalAnimes": 59,
+  "lastUpdated": "2026-01-01T10:14:19.666Z",
+  "totalAnimes": 60,
   "totalScans": 0,
   "totalEpisodes": 1172,
   "totalChapters": 0,
@@ -1245,6 +1245,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:14:16.151Z"
+    },
+    "alice-and-zoroku": {
+      "id": "alice-and-zoroku",
+      "title": "Alice & Zoroku",
+      "slug": "alice-and-zoroku",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/alice-and-zoroku/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/alice-and-zoroku/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/alice-and-zoroku/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "alice-and-zoroku_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:14:19.665Z"
     }
   },
   "scans": {},
@@ -37400,10 +37421,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 15,
-      "vostfr": 44
+      "vostfr": 45
     },
     "byType": {
-      "anime": 59,
+      "anime": 60,
       "scan": 0
     },
     "byPlayer": {
@@ -37414,6 +37435,6 @@
       "OneUpload": 4,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T10:14:18.310Z"
+    "lastUpdate": "2026-01-01T10:14:19.665Z"
   }
 }
