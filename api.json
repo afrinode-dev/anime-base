@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:23:19.399Z",
-  "totalAnimes": 159,
+  "lastUpdated": "2026-01-01T10:23:21.171Z",
+  "totalAnimes": 160,
   "totalScans": 0,
   "totalEpisodes": 3282,
   "totalChapters": 0,
@@ -3345,6 +3345,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:23:15.295Z"
+    },
+    "black-clover": {
+      "id": "black-clover",
+      "title": "Black Clover",
+      "slug": "black-clover",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/black-clover/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/black-clover/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/black-clover/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "black-clover_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:23:21.171Z"
     }
   },
   "scans": {},
@@ -109895,10 +109916,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 42,
-      "vostfr": 117
+      "vostfr": 118
     },
     "byType": {
-      "anime": 159,
+      "anime": 160,
       "scan": 0
     },
     "byPlayer": {
@@ -109909,6 +109930,6 @@
       "OneUpload": 19,
       "Smoothpre": 12
     },
-    "lastUpdate": "2026-01-01T10:23:19.399Z"
+    "lastUpdate": "2026-01-01T10:23:21.171Z"
   }
 }
