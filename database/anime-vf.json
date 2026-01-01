@@ -955,6 +955,85 @@
       "totalSeasons": 10,
       "scrapedAt": "2026-01-01T13:22:08.713Z",
       "lastUpdated": "2026-01-01T13:22:08.713Z"
+    },
+    "all-of-us-are-dead": {
+      "id": "all-of-us-are-dead",
+      "title": "All of Us Are Dead",
+      "slug": "all-of-us-are-dead",
+      "language": "vf",
+      "type": "anime",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/all-of-us-are-dead.jpg",
+      "banner": null,
+      "description": "Dans une petite ville tranquille, où rien ne se passe habituellement, un étrange virus apparaît, transformant les personnes en zombies. Sa propagation se multiplie d'heure en heure. Et alors que la population essaye d'y faire face, un groupe de jeunes, dont Cheong San et On Jo, se retrouve piégé dans son école. S'ensuit alors une course pour sortir d'ici, tout en évitant d'être contaminé.",
+      "pageUrl": "https://anime-sama.tv/catalogue/all-of-us-are-dead/",
+      "seasons": [
+        {
+          "name": "saison1",
+          "number": 1,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/all-of-us-are-dead/saison1/vf/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/all-of-us-are-dead/saison1/vf/episodes.js"
+        },
+        {
+          "name": "saison2",
+          "number": 2,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/all-of-us-are-dead/saison2/vf/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/all-of-us-are-dead/saison2/vf/episodes.js"
+        },
+        {
+          "name": "saison3",
+          "number": 3,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/all-of-us-are-dead/saison3/vf/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/all-of-us-are-dead/saison3/vf/episodes.js"
+        },
+        {
+          "name": "saison4",
+          "number": 4,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/all-of-us-are-dead/saison4/vf/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/all-of-us-are-dead/saison4/vf/episodes.js"
+        },
+        {
+          "name": "saison5",
+          "number": 5,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/all-of-us-are-dead/saison5/vf/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/all-of-us-are-dead/saison5/vf/episodes.js"
+        },
+        {
+          "name": "saison6",
+          "number": 6,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/all-of-us-are-dead/saison6/vf/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/all-of-us-are-dead/saison6/vf/episodes.js"
+        },
+        {
+          "name": "saison7",
+          "number": 7,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/all-of-us-are-dead/saison7/vf/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/all-of-us-are-dead/saison7/vf/episodes.js"
+        },
+        {
+          "name": "saison8",
+          "number": 8,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/all-of-us-are-dead/saison8/vf/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/all-of-us-are-dead/saison8/vf/episodes.js"
+        },
+        {
+          "name": "saison10",
+          "number": 10,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/all-of-us-are-dead/saison10/vf/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/all-of-us-are-dead/saison10/vf/episodes.js"
+        }
+      ],
+      "totalSeasons": 9,
+      "scrapedAt": "2026-01-01T13:26:03.813Z",
+      "lastUpdated": "2026-01-01T13:26:03.813Z"
     }
   },
   "seasons": {
@@ -3483,6 +3562,66 @@
       ],
       "scrapedAt": "2026-01-01T13:22:08.478Z",
       "lastUpdated": "2026-01-01T13:22:08.478Z"
+    },
+    "all-of-us-are-dead_saison1_vf": {
+      "seasonId": "all-of-us-are-dead_saison1_vf",
+      "animeId": "all-of-us-are-dead",
+      "title": "All of Us Are Dead",
+      "slug": "all-of-us-are-dead",
+      "season": "saison1",
+      "seasonNumber": 1,
+      "seasonSuffix": "",
+      "language": "vf",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/all-of-us-are-dead/saison1/vf/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/all-of-us-are-dead/saison1/vf/",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/all-of-us-are-dead.jpg",
+      "banner": null,
+      "description": "All of Us Are Dead - Saison 1 | Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "totalEpisodes": 12,
+      "episodesList": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "players": {
+        "Vidmoly": {
+          "playerId": "player_0",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "playerProvider": "vidmoly",
+          "totalEpisodes": 12,
+          "firstUrl": "https://vidmoly.net/embed-ka5hoh1lzhgw.html",
+          "lastUrl": "https://vidmoly.net/embed-myw5pzxwnk4k.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:26:03.515Z"
+        },
+        "Sendvid": {
+          "playerId": "player_1",
+          "playerKey": "eps1",
+          "playerType": "Sendvid",
+          "playerProvider": "sendvid",
+          "totalEpisodes": 12,
+          "firstUrl": "https://sendvid.com/embed/jn621y0i",
+          "lastUrl": "https://sendvid.com/embed/emfxs9gs",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:26:03.515Z"
+        }
+      },
+      "availablePlayers": [
+        "Vidmoly",
+        "Sendvid"
+      ],
+      "scrapedAt": "2026-01-01T13:26:03.572Z",
+      "lastUpdated": "2026-01-01T13:26:03.572Z"
     }
   },
   "episodes": {
@@ -23120,6 +23259,315 @@
       "totalPlayers": 3,
       "scrapedAt": "2026-01-01T13:22:08.478Z",
       "lastUpdated": "2026-01-01T13:22:08.478Z"
+    },
+    "all-of-us-are-dead_saison1_vf": {
+      "seasonId": "all-of-us-are-dead_saison1_vf",
+      "animeId": "all-of-us-are-dead",
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.net/embed-ka5hoh1lzhgw.html",
+              "embedUrl": "https://vidmoly.net/embed-ka5hoh1lzhgw.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:26:03.515Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/jn621y0i",
+              "embedUrl": "https://sendvid.com/embed/jn621y0i",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:26:03.515Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T13:26:03.515Z"
+        },
+        "2": {
+          "number": 2,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.net/embed-14ecpc27maxb.html",
+              "embedUrl": "https://vidmoly.net/embed-14ecpc27maxb.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:26:03.515Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/n3r34an0",
+              "embedUrl": "https://sendvid.com/embed/n3r34an0",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:26:03.515Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T13:26:03.515Z"
+        },
+        "3": {
+          "number": 3,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.net/embed-lmqzcnb5w3ml.html",
+              "embedUrl": "https://vidmoly.net/embed-lmqzcnb5w3ml.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:26:03.515Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/4dwt4q1a",
+              "embedUrl": "https://sendvid.com/embed/4dwt4q1a",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:26:03.515Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T13:26:03.515Z"
+        },
+        "4": {
+          "number": 4,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.net/embed-fb0i864xv3ic.html",
+              "embedUrl": "https://vidmoly.net/embed-fb0i864xv3ic.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:26:03.515Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/jwws20xs",
+              "embedUrl": "https://sendvid.com/embed/jwws20xs",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:26:03.515Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T13:26:03.515Z"
+        },
+        "5": {
+          "number": 5,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.net/embed-1rbn01b8h87q.html",
+              "embedUrl": "https://vidmoly.net/embed-1rbn01b8h87q.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:26:03.515Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/9gsf4xb4",
+              "embedUrl": "https://sendvid.com/embed/9gsf4xb4",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:26:03.515Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T13:26:03.515Z"
+        },
+        "6": {
+          "number": 6,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.net/embed-n9ipbfvm7hpt.html",
+              "embedUrl": "https://vidmoly.net/embed-n9ipbfvm7hpt.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:26:03.515Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/1ucl0dur",
+              "embedUrl": "https://sendvid.com/embed/1ucl0dur",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:26:03.515Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T13:26:03.515Z"
+        },
+        "7": {
+          "number": 7,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.net/embed-6v3m3cisq09x.html",
+              "embedUrl": "https://vidmoly.net/embed-6v3m3cisq09x.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:26:03.515Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/590ul2fc",
+              "embedUrl": "https://sendvid.com/embed/590ul2fc",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:26:03.515Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T13:26:03.515Z"
+        },
+        "8": {
+          "number": 8,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.net/embed-ufwylk0io5y8.html",
+              "embedUrl": "https://vidmoly.net/embed-ufwylk0io5y8.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:26:03.515Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/xrm8wmjc",
+              "embedUrl": "https://sendvid.com/embed/xrm8wmjc",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:26:03.515Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T13:26:03.515Z"
+        },
+        "9": {
+          "number": 9,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.net/embed-8az15mxmh8qq.html",
+              "embedUrl": "https://vidmoly.net/embed-8az15mxmh8qq.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:26:03.515Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/jv1kok3k",
+              "embedUrl": "https://sendvid.com/embed/jv1kok3k",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:26:03.515Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T13:26:03.515Z"
+        },
+        "10": {
+          "number": 10,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.net/embed-pyko53mcyj97.html",
+              "embedUrl": "https://vidmoly.net/embed-pyko53mcyj97.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:26:03.515Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/bhp5kcuc",
+              "embedUrl": "https://sendvid.com/embed/bhp5kcuc",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:26:03.515Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T13:26:03.515Z"
+        },
+        "11": {
+          "number": 11,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.net/embed-7t0ncp2zqbxu.html",
+              "embedUrl": "https://vidmoly.net/embed-7t0ncp2zqbxu.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:26:03.515Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/reoczjta",
+              "embedUrl": "https://sendvid.com/embed/reoczjta",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:26:03.515Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T13:26:03.515Z"
+        },
+        "12": {
+          "number": 12,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.net/embed-myw5pzxwnk4k.html",
+              "embedUrl": "https://vidmoly.net/embed-myw5pzxwnk4k.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:26:03.515Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/emfxs9gs",
+              "embedUrl": "https://sendvid.com/embed/emfxs9gs",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:26:03.515Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T13:26:03.515Z"
+        }
+      },
+      "totalPlayers": 2,
+      "scrapedAt": "2026-01-01T13:26:03.572Z",
+      "lastUpdated": "2026-01-01T13:26:03.572Z"
     }
   },
   "players": {
@@ -23143,9 +23591,8 @@
     "Sendvid": {
       "name": "Sendvid",
       "type": "video",
-      "count": 31,
+      "count": 32,
       "exampleUrls": [
-        "https://sendvid.com/embed/v922wksx",
         "https://sendvid.com/embed/1uxddide",
         "https://sendvid.com/embed/beb1r7hp",
         "https://sendvid.com/embed/12nkydbk",
@@ -23154,16 +23601,16 @@
         "https://sendvid.com/embed/x732wz82",
         "https://sendvid.com/embed/vq6oauzb",
         "https://sendvid.com/embed/ljn2yg1z",
-        "https://sendvid.com/embed/igi6xufu"
+        "https://sendvid.com/embed/igi6xufu",
+        "https://sendvid.com/embed/jn621y0i"
       ],
-      "lastUsed": "2026-01-01T13:22:08.478Z"
+      "lastUsed": "2026-01-01T13:26:03.572Z"
     },
     "Vidmoly": {
       "name": "Vidmoly",
       "type": "video",
-      "count": 25,
+      "count": 26,
       "exampleUrls": [
-        "https://vidmoly.to/embed-jrlpe0jsepfx.html",
         "https://vidmoly.to/embed-wdrkr0wrla82.html",
         "https://vidmoly.to/embed-ctnjiqytd8gv.html",
         "https://vidmoly.to/embed-6366hrm5mfya.html",
@@ -23172,9 +23619,10 @@
         "https://vidmoly.to/embed-egn6n7dkz8ef.html",
         "https://vidmoly.to/embed-05fj1ybfn9mj.html",
         "https://vidmoly.to/embed-b63c9db0oycy.html",
-        "https://vidmoly.to/embed-jvop1dhnycfb.html"
+        "https://vidmoly.to/embed-jvop1dhnycfb.html",
+        "https://vidmoly.net/embed-ka5hoh1lzhgw.html"
       ],
-      "lastUsed": "2026-01-01T12:51:01.224Z"
+      "lastUsed": "2026-01-01T13:26:03.572Z"
     },
     "Sibnet": {
       "name": "Sibnet",
