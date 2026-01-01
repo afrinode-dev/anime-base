@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:36:36.745Z",
+  "lastUpdated": "2026-01-01T09:36:37.795Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 37,
@@ -40,17 +40,22 @@
     "2.43-seiin-koukou-danshi-volley-bu": {
       "id": "2.43-seiin-koukou-danshi-volley-bu",
       "title": "2.43 Seiin Koukou Danshi Volley-bu",
-      "originalLink": "https://anime-sama.tv/catalogue/2.43-seiin-koukou-danshi-volley-bu/",
       "slug": "2.43-seiin-koukou-danshi-volley-bu",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/2.43-seiin-koukou-danshi-volley-bu.jpg",
-      "banner": null,
-      "description": "Kimichika Haijima, étudiant au secondaire, retourne dans sa ville natale, Fukui, après avoir causé des ennuis à son équipe de volley-ball du collège. Il y retrouve son ami d'enfance, Yuni Kuroba, qui possède des capacités physiques remarquables, mais qui est vulnérable sous la pression. Haijima, avec sa passion débordante et son talent indéniable pour le volley-ball, forme une combinaison d'as avec Kuroba.\n\nLes deux intègrent le lycée Seîn où ils rejoignent le club de volley-ball. Ils y font la ",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/2.43-seiin-koukou-danshi-volley-bu/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:11:39.638Z",
-      "lastUpdated": "2026-01-01T09:11:39.638Z"
+      "scrapedAt": "2026-01-01T09:36:37.795Z",
+      "lastUpdated": "2026-01-01T09:36:37.795Z"
     },
     "16bit-sensation-another-layer": {
       "id": "16bit-sensation-another-layer",
@@ -3449,8 +3454,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 145,
-      "vostfr": 4
+      "vf": 144,
+      "vostfr": 5
     },
     "byType": {
       "anime": 149,
@@ -3462,7 +3467,7 @@
       "Scan": 3,
       "Sendvid": 3
     },
-    "lastUpdate": "2026-01-01T09:36:36.745Z"
+    "lastUpdate": "2026-01-01T09:36:37.795Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
