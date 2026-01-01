@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:41:23.756Z",
+  "lastUpdated": "2026-01-01T09:41:25.188Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1135,
@@ -1375,17 +1375,22 @@
     "alderamin-on-the-sky": {
       "id": "alderamin-on-the-sky",
       "title": "Alderamin on the Sky",
-      "originalLink": "https://anime-sama.tv/catalogue/alderamin-on-the-sky",
       "slug": "alderamin-on-the-sky",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/alderamin-on-the-sky.jpg",
-      "banner": null,
-      "description": "L'histoire se passe dans un monde où deux grandes puissances se font la guerre, l'empire de Katjvarna et la république Kioka. L'empire Katjvarna est actuellement en train de subir de fortes attaques par Kioka et doit donc se contenter de défendre ses frontières. Dans l'empire de Katjvarna, il existe une famille très influente dont une fille nommée Yatorishino Igsem en fait partie. Cette famille de militaires s'occupe de faire passer des examens de haut rang pour les officiers. Un jour, elle conv",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/alderamin-on-the-sky/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:16.208Z",
-      "lastUpdated": "2026-01-01T09:12:16.208Z"
+      "scrapedAt": "2026-01-01T09:41:25.187Z",
+      "lastUpdated": "2026-01-01T09:41:25.187Z"
     },
     "aldnoah-zero": {
       "id": "aldnoah-zero",
@@ -32184,8 +32189,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 105,
-      "vostfr": 44
+      "vf": 104,
+      "vostfr": 45
     },
     "byType": {
       "anime": 149,
@@ -32199,7 +32204,7 @@
       "OneUpload": 4,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T09:41:23.754Z"
+    "lastUpdate": "2026-01-01T09:41:25.187Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
