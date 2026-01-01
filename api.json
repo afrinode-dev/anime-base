@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:15:02.039Z",
-  "totalAnimes": 67,
+  "lastUpdated": "2026-01-01T10:15:03.710Z",
+  "totalAnimes": 68,
   "totalScans": 0,
   "totalEpisodes": 1324,
   "totalChapters": 0,
@@ -1413,6 +1413,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:14:58.419Z"
+    },
+    "amagami-ss": {
+      "id": "amagami-ss",
+      "title": "Amagami SS",
+      "slug": "amagami-ss",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/amagami-ss/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/amagami-ss/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/amagami-ss/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "amagami-ss_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:15:03.710Z"
     }
   },
   "scans": {},
@@ -42362,10 +42383,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 18,
-      "vostfr": 49
+      "vostfr": 50
     },
     "byType": {
-      "anime": 67,
+      "anime": 68,
       "scan": 0
     },
     "byPlayer": {
@@ -42376,6 +42397,6 @@
       "OneUpload": 4,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T10:15:02.039Z"
+    "lastUpdate": "2026-01-01T10:15:03.710Z"
   }
 }
