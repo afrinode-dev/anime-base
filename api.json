@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:10:27.159Z",
-  "totalAnimes": 16,
+  "lastUpdated": "2026-01-01T10:10:28.667Z",
+  "totalAnimes": 17,
   "totalScans": 0,
   "totalEpisodes": 270,
   "totalChapters": 0,
@@ -342,6 +342,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:10:24.827Z"
+    },
+    "a-condition-called-love": {
+      "id": "a-condition-called-love",
+      "title": "A Condition Called Love",
+      "slug": "a-condition-called-love",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/a-condition-called-love/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/a-condition-called-love/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/a-condition-called-love/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "a-condition-called-love_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:10:28.667Z"
     }
   },
   "scans": {},
@@ -8514,10 +8535,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 2,
-      "vostfr": 14
+      "vostfr": 15
     },
     "byType": {
-      "anime": 16,
+      "anime": 17,
       "scan": 0
     },
     "byPlayer": {
@@ -8527,6 +8548,6 @@
       "Sendvid": 17,
       "OneUpload": 1
     },
-    "lastUpdate": "2026-01-01T10:10:27.159Z"
+    "lastUpdate": "2026-01-01T10:10:28.667Z"
   }
 }
