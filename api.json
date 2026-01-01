@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:13:51.040Z",
-  "totalAnimes": 52,
+  "lastUpdated": "2026-01-01T10:13:52.355Z",
+  "totalAnimes": 53,
   "totalScans": 0,
   "totalEpisodes": 1073,
   "totalChapters": 0,
@@ -1098,6 +1098,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:13:48.918Z"
+    },
+    "akebi-chan-no-sailor-fuku": {
+      "id": "akebi-chan-no-sailor-fuku",
+      "title": "Akebi-chan no Sailor Fuku",
+      "slug": "akebi-chan-no-sailor-fuku",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/akebi-chan-no-sailor-fuku/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/akebi-chan-no-sailor-fuku/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/akebi-chan-no-sailor-fuku/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "akebi-chan-no-sailor-fuku_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:13:52.354Z"
     }
   },
   "scans": {},
@@ -34045,10 +34066,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 15,
-      "vostfr": 37
+      "vostfr": 38
     },
     "byType": {
-      "anime": 52,
+      "anime": 53,
       "scan": 0
     },
     "byPlayer": {
@@ -34059,6 +34080,6 @@
       "OneUpload": 3,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T10:13:51.040Z"
+    "lastUpdate": "2026-01-01T10:13:52.354Z"
   }
 }
