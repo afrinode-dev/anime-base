@@ -1,9 +1,9 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:15:43.649Z",
+  "lastUpdated": "2026-01-01T10:15:45.307Z",
   "totalAnimes": 76,
   "totalScans": 0,
-  "totalEpisodes": 1480,
+  "totalEpisodes": 1481,
   "totalChapters": 0,
   "mainDomain": "anime-sama.tv",
   "animes": {
@@ -1609,53 +1609,53 @@
     "Sibnet": {
       "name": "Sibnet",
       "type": "video",
-      "count": 82,
-      "lastUsed": "2026-01-01T10:15:40.431Z",
+      "count": 83,
+      "lastUsed": "2026-01-01T10:15:45.307Z",
       "exampleUrls": [
-        "https://video.sibnet.ru/shell.php?videoid=5255664",
         "https://video.sibnet.ru/shell.php?videoid=5528547",
         "https://video.sibnet.ru/shell.php?videoid=5493329",
         "https://video.sibnet.ru/shell.php?videoid=4731007",
-        "https://video.sibnet.ru/shell.php?videoid=5385560"
+        "https://video.sibnet.ru/shell.php?videoid=5385560",
+        "https://video.sibnet.ru/shell.php?videoid="
       ]
     },
     "Vidmoly": {
       "name": "Vidmoly",
       "type": "video",
-      "count": 59,
-      "lastUsed": "2026-01-01T10:15:40.431Z",
+      "count": 60,
+      "lastUsed": "2026-01-01T10:15:45.307Z",
       "exampleUrls": [
-        "https://vidmoly.to/embed-mbcbori7t80z.html",
         "https://vidmoly.to/embed-4m1v006cltib.html",
         "https://vidmoly.to/embed-6h4w3yhawgnn.html",
         "https://vidmoly.to/embed-hr7f4ct44va7.html",
-        "https://vidmoly.to/embed-eproqywnlwp9.html"
+        "https://vidmoly.to/embed-eproqywnlwp9.html",
+        "https://vidmoly.to/embed-.html"
       ]
     },
     "Scan": {
       "name": "Scan",
       "type": "video",
-      "count": 53,
-      "lastUsed": "2026-01-01T10:15:33.407Z",
+      "count": 54,
+      "lastUsed": "2026-01-01T10:15:45.307Z",
       "exampleUrls": [
-        "https://www.myvi.tv/embed/z89rwhpikrcrpnwbis9es87aic",
         "https://movearnpre.com/embed/ab2hehvt03fo",
         "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241096&hd=3",
         "https://www.myvi.tv/embed/tg14rjnw6gfr7jsek5ymray81w",
-        "https://vk.com/video_ext.php?oid=751474887&id=456239411&hd=3"
+        "https://vk.com/video_ext.php?oid=751474887&id=456239411&hd=3",
+        "https://vk.com/video_ext.php?oid=&hd=3"
       ]
     },
     "Sendvid": {
       "name": "Sendvid",
       "type": "video",
-      "count": 87,
-      "lastUsed": "2026-01-01T10:15:40.431Z",
+      "count": 88,
+      "lastUsed": "2026-01-01T10:15:45.307Z",
       "exampleUrls": [
-        "https://sendvid.com/embed/2hop7rro",
         "https://sendvid.com/embed/0i4on7hd",
         "https://sendvid.com/embed/xyxrrjio",
         "https://sendvid.com/embed/nnvcdckw",
-        "https://sendvid.com/embed/56hk84rz"
+        "https://sendvid.com/embed/56hk84rz",
+        "https://sendvid.com/embed/"
       ]
     },
     "OneUpload": {
@@ -48762,6 +48762,103 @@
       },
       "scrapedAt": "2026-01-01T10:15:40.431Z",
       "lastUpdated": "2026-01-01T10:15:40.431Z"
+    },
+    "angel-voice_saison1_vostfr": {
+      "episodeId": "angel-voice_saison1_vostfr",
+      "animeId": "angel-voice",
+      "title": "Angel Voice",
+      "slug": "angel-voice",
+      "season": "saison1",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/angel-voice/saison1/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/angel-voice/saison1/vostfr/",
+      "totalEpisodes": 1,
+      "episodesList": [
+        1
+      ],
+      "players": {
+        "Sibnet": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Sibnet",
+          "totalEpisodes": 1,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "lastUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "isScan": false
+        },
+        "Vidmoly": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vidmoly.to/embed-.html",
+          "lastUrl": "https://vidmoly.to/embed-.html",
+          "isScan": false
+        },
+        "Sendvid": {
+          "playerId": "player_2",
+          "playerKey": "eps3",
+          "playerType": "Sendvid",
+          "totalEpisodes": 1,
+          "firstUrl": "https://sendvid.com/embed/",
+          "lastUrl": "https://sendvid.com/embed/",
+          "isScan": false
+        },
+        "Scan": {
+          "playerId": "player_3",
+          "playerKey": "eps4",
+          "playerType": "Scan",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "lastUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "isScan": false
+        }
+      },
+      "availablePlayers": [
+        "Sibnet",
+        "Vidmoly",
+        "Sendvid",
+        "Scan"
+      ],
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=",
+              "type": "video",
+              "player": "Sibnet",
+              "scrapedAt": "2026-01-01T10:15:45.307Z"
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-.html",
+              "embedUrl": "https://vidmoly.to/embed-.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:15:45.307Z"
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/",
+              "embedUrl": "https://sendvid.com/embed/",
+              "type": "video",
+              "player": "Sendvid",
+              "scrapedAt": "2026-01-01T10:15:45.307Z"
+            },
+            "Scan": {
+              "url": "https://vk.com/video_ext.php?oid=&hd=3",
+              "embedUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "scrapedAt": "2026-01-01T10:15:45.307Z"
+            }
+          },
+          "totalOptions": 4,
+          "scrapedAt": "2026-01-01T10:15:45.307Z"
+        }
+      },
+      "scrapedAt": "2026-01-01T10:15:45.307Z",
+      "lastUpdated": "2026-01-01T10:15:45.307Z"
     }
   },
   "chapters": {},
@@ -48775,13 +48872,13 @@
       "scan": 0
     },
     "byPlayer": {
-      "Sibnet": 82,
-      "Vidmoly": 59,
-      "Scan": 53,
-      "Sendvid": 87,
+      "Sibnet": 83,
+      "Vidmoly": 60,
+      "Scan": 54,
+      "Sendvid": 88,
       "OneUpload": 8,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T10:15:43.649Z"
+    "lastUpdate": "2026-01-01T10:15:45.307Z"
   }
 }
