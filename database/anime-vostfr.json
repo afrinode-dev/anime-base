@@ -6198,6 +6198,50 @@
       "totalSeasons": 10,
       "scrapedAt": "2026-01-01T14:20:08.767Z",
       "lastUpdated": "2026-01-01T14:20:08.767Z"
+    },
+    "apocalypse-hotel": {
+      "id": "apocalypse-hotel",
+      "title": "Apocalypse Hotel",
+      "slug": "apocalypse-hotel",
+      "language": "vostfr",
+      "type": "anime",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/apocalypse-hotel.jpg",
+      "banner": null,
+      "description": "Dans un monde où les civilisations se sont effondrées et l'humanité a disparu, un hôtel demeure...",
+      "pageUrl": "https://anime-sama.tv/catalogue/apocalypse-hotel/",
+      "seasons": [
+        {
+          "name": "saison1",
+          "number": 1,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/apocalypse-hotel/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/apocalypse-hotel/saison1/vostfr/episodes.js"
+        },
+        {
+          "name": "saison2",
+          "number": 2,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/apocalypse-hotel/saison2/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/apocalypse-hotel/saison2/vostfr/episodes.js"
+        },
+        {
+          "name": "saison3",
+          "number": 3,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/apocalypse-hotel/saison3/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/apocalypse-hotel/saison3/vostfr/episodes.js"
+        },
+        {
+          "name": "saison4",
+          "number": 4,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/apocalypse-hotel/saison4/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/apocalypse-hotel/saison4/vostfr/episodes.js"
+        }
+      ],
+      "totalSeasons": 4,
+      "scrapedAt": "2026-01-01T14:22:04.711Z",
+      "lastUpdated": "2026-01-01T14:22:04.711Z"
     }
   },
   "seasons": {
@@ -18516,6 +18560,321 @@
       ],
       "scrapedAt": "2026-01-01T14:20:08.422Z",
       "lastUpdated": "2026-01-01T14:20:08.422Z"
+    },
+    "apocalypse-hotel_saison1_vostfr": {
+      "seasonId": "apocalypse-hotel_saison1_vostfr",
+      "animeId": "apocalypse-hotel",
+      "title": "Apocalypse Hotel",
+      "slug": "apocalypse-hotel",
+      "season": "saison1",
+      "seasonNumber": 1,
+      "seasonSuffix": "",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/apocalypse-hotel/saison1/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/apocalypse-hotel/saison1/vostfr/",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/apocalypse-hotel.jpg",
+      "banner": null,
+      "description": "Apocalypse Hotel - Saison 1 | Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "totalEpisodes": 12,
+      "episodesList": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "players": {
+        "Smoothpre": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Smoothpre",
+          "playerProvider": "smoothpre",
+          "totalEpisodes": 12,
+          "firstUrl": "https://Smoothpre.com/embed/302ccgc0i8u6",
+          "lastUrl": "https://Smoothpre.com/embed/o82i07o76gkn",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:22:03.992Z"
+        },
+        "Vidmoly": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "playerProvider": "vidmoly",
+          "totalEpisodes": 12,
+          "firstUrl": "https://vidmoly.to/embed-drqea7xze4bx.html",
+          "lastUrl": "https://vidmoly.to/embed-epe61msklfqq.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:22:03.992Z"
+        },
+        "Sibnet": {
+          "playerId": "player_2",
+          "playerKey": "eps3",
+          "playerType": "Sibnet",
+          "playerProvider": "sibnet",
+          "totalEpisodes": 12,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=5872352",
+          "lastUrl": "https://video.sibnet.ru/shell.php?videoid=5945399",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:22:03.992Z"
+        },
+        "OneUpload": {
+          "playerId": "player_3",
+          "playerKey": "eps4",
+          "playerType": "OneUpload",
+          "playerProvider": "oneupload",
+          "totalEpisodes": 12,
+          "firstUrl": "https://oneupload.to/embed-to2do0flzlow.html",
+          "lastUrl": "https://oneupload.to/embed-x783u52nedrk.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:22:03.992Z"
+        },
+        "Sendvid": {
+          "playerId": "player_4",
+          "playerKey": "eps5",
+          "playerType": "Sendvid",
+          "playerProvider": "sendvid",
+          "totalEpisodes": 12,
+          "firstUrl": "https://sendvid.com/embed/yqhryne6",
+          "lastUrl": "https://vidmoly.to/embed-epe61msklfqq.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:22:03.992Z"
+        }
+      },
+      "availablePlayers": [
+        "Smoothpre",
+        "Vidmoly",
+        "Sibnet",
+        "OneUpload",
+        "Sendvid"
+      ],
+      "scrapedAt": "2026-01-01T14:22:04.195Z",
+      "lastUpdated": "2026-01-01T14:22:04.195Z"
+    },
+    "apocalypse-hotel_saison2_vostfr": {
+      "seasonId": "apocalypse-hotel_saison2_vostfr",
+      "animeId": "apocalypse-hotel",
+      "title": "Apocalypse Hotel",
+      "slug": "apocalypse-hotel",
+      "season": "saison2",
+      "seasonNumber": 2,
+      "seasonSuffix": "",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/apocalypse-hotel/saison2/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/apocalypse-hotel/saison2/vostfr/",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/apocalypse-hotel.jpg",
+      "banner": null,
+      "description": "Apocalypse Hotel - Saison 2 | Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "totalEpisodes": 1,
+      "episodesList": [
+        1
+      ],
+      "players": {
+        "Sibnet": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Sibnet",
+          "playerProvider": "sibnet",
+          "totalEpisodes": 1,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "lastUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:22:04.225Z"
+        },
+        "Vidmoly": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "playerProvider": "vidmoly",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vidmoly.to/embed-.html",
+          "lastUrl": "https://vidmoly.to/embed-.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:22:04.225Z"
+        },
+        "Sendvid": {
+          "playerId": "player_2",
+          "playerKey": "eps3",
+          "playerType": "Sendvid",
+          "playerProvider": "sendvid",
+          "totalEpisodes": 1,
+          "firstUrl": "https://sendvid.com/embed/",
+          "lastUrl": "https://sendvid.com/embed/",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:22:04.225Z"
+        },
+        "Scan": {
+          "playerId": "player_3",
+          "playerKey": "eps4",
+          "playerType": "Scan",
+          "playerProvider": "",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "lastUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:22:04.230Z"
+        }
+      },
+      "availablePlayers": [
+        "Sibnet",
+        "Vidmoly",
+        "Sendvid",
+        "Scan"
+      ],
+      "scrapedAt": "2026-01-01T14:22:04.425Z",
+      "lastUpdated": "2026-01-01T14:22:04.425Z"
+    },
+    "apocalypse-hotel_saison3_vostfr": {
+      "seasonId": "apocalypse-hotel_saison3_vostfr",
+      "animeId": "apocalypse-hotel",
+      "title": "Apocalypse Hotel",
+      "slug": "apocalypse-hotel",
+      "season": "saison3",
+      "seasonNumber": 3,
+      "seasonSuffix": "",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/apocalypse-hotel/saison3/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/apocalypse-hotel/saison3/vostfr/",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/apocalypse-hotel.jpg",
+      "banner": null,
+      "description": "Apocalypse Hotel - Saison 3 | Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "totalEpisodes": 1,
+      "episodesList": [
+        1
+      ],
+      "players": {
+        "Sibnet": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Sibnet",
+          "playerProvider": "sibnet",
+          "totalEpisodes": 1,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "lastUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:22:04.455Z"
+        },
+        "Vidmoly": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "playerProvider": "vidmoly",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vidmoly.to/embed-.html",
+          "lastUrl": "https://vidmoly.to/embed-.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:22:04.455Z"
+        },
+        "Sendvid": {
+          "playerId": "player_2",
+          "playerKey": "eps3",
+          "playerType": "Sendvid",
+          "playerProvider": "sendvid",
+          "totalEpisodes": 1,
+          "firstUrl": "https://sendvid.com/embed/",
+          "lastUrl": "https://sendvid.com/embed/",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:22:04.455Z"
+        },
+        "Scan": {
+          "playerId": "player_3",
+          "playerKey": "eps4",
+          "playerType": "Scan",
+          "playerProvider": "",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "lastUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:22:04.455Z"
+        }
+      },
+      "availablePlayers": [
+        "Sibnet",
+        "Vidmoly",
+        "Sendvid",
+        "Scan"
+      ],
+      "scrapedAt": "2026-01-01T14:22:04.533Z",
+      "lastUpdated": "2026-01-01T14:22:04.533Z"
+    },
+    "apocalypse-hotel_saison4_vostfr": {
+      "seasonId": "apocalypse-hotel_saison4_vostfr",
+      "animeId": "apocalypse-hotel",
+      "title": "Apocalypse Hotel",
+      "slug": "apocalypse-hotel",
+      "season": "saison4",
+      "seasonNumber": 4,
+      "seasonSuffix": "",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/apocalypse-hotel/saison4/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/apocalypse-hotel/saison4/vostfr/",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/apocalypse-hotel.jpg",
+      "banner": null,
+      "description": "Apocalypse Hotel - Saison 4 | Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "totalEpisodes": 1,
+      "episodesList": [
+        1
+      ],
+      "players": {
+        "Sibnet": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Sibnet",
+          "playerProvider": "sibnet",
+          "totalEpisodes": 1,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "lastUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:22:04.563Z"
+        },
+        "Vidmoly": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "playerProvider": "vidmoly",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vidmoly.to/embed-.html",
+          "lastUrl": "https://vidmoly.to/embed-.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:22:04.563Z"
+        },
+        "Sendvid": {
+          "playerId": "player_2",
+          "playerKey": "eps3",
+          "playerType": "Sendvid",
+          "playerProvider": "sendvid",
+          "totalEpisodes": 1,
+          "firstUrl": "https://sendvid.com/embed/",
+          "lastUrl": "https://sendvid.com/embed/",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:22:04.563Z"
+        },
+        "Scan": {
+          "playerId": "player_3",
+          "playerKey": "eps4",
+          "playerType": "Scan",
+          "playerProvider": "",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "lastUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:22:04.563Z"
+        }
+      },
+      "availablePlayers": [
+        "Sibnet",
+        "Vidmoly",
+        "Sendvid",
+        "Scan"
+      ],
+      "scrapedAt": "2026-01-01T14:22:04.642Z",
+      "lastUpdated": "2026-01-01T14:22:04.642Z"
     }
   },
   "episodes": {
@@ -81270,15 +81629,803 @@
       "totalPlayers": 3,
       "scrapedAt": "2026-01-01T14:20:08.422Z",
       "lastUpdated": "2026-01-01T14:20:08.422Z"
+    },
+    "apocalypse-hotel_saison1_vostfr": {
+      "seasonId": "apocalypse-hotel_saison1_vostfr",
+      "animeId": "apocalypse-hotel",
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Smoothpre": {
+              "url": "https://Smoothpre.com/embed/302ccgc0i8u6",
+              "embedUrl": "https://Smoothpre.com/embed/302ccgc0i8u6",
+              "type": "video",
+              "player": "Smoothpre",
+              "playerProvider": "smoothpre",
+              "scrapedAt": "2026-01-01T14:22:03.991Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-drqea7xze4bx.html",
+              "embedUrl": "https://vidmoly.to/embed-drqea7xze4bx.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5872352",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5872352",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-to2do0flzlow.html",
+              "embedUrl": "https://oneupload.to/embed-to2do0flzlow.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/yqhryne6",
+              "embedUrl": "https://sendvid.com/embed/yqhryne6",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 5,
+          "scrapedAt": "2026-01-01T14:22:03.991Z"
+        },
+        "2": {
+          "number": 2,
+          "players": {
+            "Smoothpre": {
+              "url": "https://Smoothpre.com/embed/d1h7y0nqs6na",
+              "embedUrl": "https://Smoothpre.com/embed/d1h7y0nqs6na",
+              "type": "video",
+              "player": "Smoothpre",
+              "playerProvider": "smoothpre",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-n2gf63p0ef4i.html",
+              "embedUrl": "https://vidmoly.to/embed-n2gf63p0ef4i.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5880300",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5880300",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://vidmoly.to/embed-n2gf63p0ef4i.html",
+              "embedUrl": "https://vidmoly.to/embed-n2gf63p0ef4i.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/vti49v82",
+              "embedUrl": "https://sendvid.com/embed/vti49v82",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 5,
+          "scrapedAt": "2026-01-01T14:22:03.992Z"
+        },
+        "3": {
+          "number": 3,
+          "players": {
+            "Smoothpre": {
+              "url": "https://Smoothpre.com/embed/wdytmhadydhv",
+              "embedUrl": "https://Smoothpre.com/embed/wdytmhadydhv",
+              "type": "video",
+              "player": "Smoothpre",
+              "playerProvider": "smoothpre",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-6x4x2pwt54xh.html",
+              "embedUrl": "https://vidmoly.to/embed-6x4x2pwt54xh.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5888591",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5888591",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-4061g1qqbvb2.html",
+              "embedUrl": "https://oneupload.to/embed-4061g1qqbvb2.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/8pdk0td7",
+              "embedUrl": "https://sendvid.com/embed/8pdk0td7",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 5,
+          "scrapedAt": "2026-01-01T14:22:03.992Z"
+        },
+        "4": {
+          "number": 4,
+          "players": {
+            "Smoothpre": {
+              "url": "https://Smoothpre.com/embed/io9p6chakcrt",
+              "embedUrl": "https://Smoothpre.com/embed/io9p6chakcrt",
+              "type": "video",
+              "player": "Smoothpre",
+              "playerProvider": "smoothpre",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-xv4ieuw5v3zc.html",
+              "embedUrl": "https://vidmoly.to/embed-xv4ieuw5v3zc.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5896434",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5896434",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-jdzz27gea5ch.html",
+              "embedUrl": "https://oneupload.to/embed-jdzz27gea5ch.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/fyjh8yrq",
+              "embedUrl": "https://sendvid.com/embed/fyjh8yrq",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 5,
+          "scrapedAt": "2026-01-01T14:22:03.992Z"
+        },
+        "5": {
+          "number": 5,
+          "players": {
+            "Smoothpre": {
+              "url": "https://Smoothpre.com/embed/c5vu9joehwe6",
+              "embedUrl": "https://Smoothpre.com/embed/c5vu9joehwe6",
+              "type": "video",
+              "player": "Smoothpre",
+              "playerProvider": "smoothpre",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-dzrb4tr89m42.html",
+              "embedUrl": "https://vidmoly.to/embed-dzrb4tr89m42.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5903619",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5903619",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-694nt0kpqw6k.html",
+              "embedUrl": "https://oneupload.to/embed-694nt0kpqw6k.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/uu2l4kgk",
+              "embedUrl": "https://sendvid.com/embed/uu2l4kgk",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 5,
+          "scrapedAt": "2026-01-01T14:22:03.992Z"
+        },
+        "6": {
+          "number": 6,
+          "players": {
+            "Smoothpre": {
+              "url": "https://Smoothpre.com/embed/peyb2dj4tl0e",
+              "embedUrl": "https://Smoothpre.com/embed/peyb2dj4tl0e",
+              "type": "video",
+              "player": "Smoothpre",
+              "playerProvider": "smoothpre",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-ks9c4slemy7q.html",
+              "embedUrl": "https://vidmoly.to/embed-ks9c4slemy7q.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5910576",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5910576",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-yw2fy7bhwo5s.html",
+              "embedUrl": "https://oneupload.to/embed-yw2fy7bhwo5s.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/ib6lshva",
+              "embedUrl": "https://sendvid.com/embed/ib6lshva",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 5,
+          "scrapedAt": "2026-01-01T14:22:03.992Z"
+        },
+        "7": {
+          "number": 7,
+          "players": {
+            "Smoothpre": {
+              "url": "https://Smoothpre.com/embed/9r2ii288jeeq",
+              "embedUrl": "https://Smoothpre.com/embed/9r2ii288jeeq",
+              "type": "video",
+              "player": "Smoothpre",
+              "playerProvider": "smoothpre",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-rt5mejflit8z.html",
+              "embedUrl": "https://vidmoly.to/embed-rt5mejflit8z.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5917094",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5917094",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-xrts5bwnabsz.html",
+              "embedUrl": "https://oneupload.to/embed-xrts5bwnabsz.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/3182u47r",
+              "embedUrl": "https://sendvid.com/embed/3182u47r",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 5,
+          "scrapedAt": "2026-01-01T14:22:03.992Z"
+        },
+        "8": {
+          "number": 8,
+          "players": {
+            "Smoothpre": {
+              "url": "https://Smoothpre.com/embed/nzw4wby1zkb9",
+              "embedUrl": "https://Smoothpre.com/embed/nzw4wby1zkb9",
+              "type": "video",
+              "player": "Smoothpre",
+              "playerProvider": "smoothpre",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-6dcnfp8uhmzn.html",
+              "embedUrl": "https://vidmoly.to/embed-6dcnfp8uhmzn.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5923229",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5923229",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-kkevg7u4zmtd.html",
+              "embedUrl": "https://oneupload.to/embed-kkevg7u4zmtd.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/b6wpb992",
+              "embedUrl": "https://sendvid.com/embed/b6wpb992",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 5,
+          "scrapedAt": "2026-01-01T14:22:03.992Z"
+        },
+        "9": {
+          "number": 9,
+          "players": {
+            "Smoothpre": {
+              "url": "https://Smoothpre.com/embed/bu97rib8z6xp",
+              "embedUrl": "https://Smoothpre.com/embed/bu97rib8z6xp",
+              "type": "video",
+              "player": "Smoothpre",
+              "playerProvider": "smoothpre",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-cdoc0cm593nx.html",
+              "embedUrl": "https://vidmoly.to/embed-cdoc0cm593nx.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5928597",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5928597",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-v0njy5cg34ew.html",
+              "embedUrl": "https://oneupload.to/embed-v0njy5cg34ew.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/9cbtuaqs",
+              "embedUrl": "https://sendvid.com/embed/9cbtuaqs",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 5,
+          "scrapedAt": "2026-01-01T14:22:03.992Z"
+        },
+        "10": {
+          "number": 10,
+          "players": {
+            "Smoothpre": {
+              "url": "https://Smoothpre.com/embed/i5oqxrc0nxkv",
+              "embedUrl": "https://Smoothpre.com/embed/i5oqxrc0nxkv",
+              "type": "video",
+              "player": "Smoothpre",
+              "playerProvider": "smoothpre",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-4q4zmyul9blq.html",
+              "embedUrl": "https://vidmoly.to/embed-4q4zmyul9blq.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5934258",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5934258",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-imk4fdehb3qc.html",
+              "embedUrl": "https://oneupload.to/embed-imk4fdehb3qc.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://vidmoly.to/embed-4q4zmyul9blq.html",
+              "embedUrl": "https://vidmoly.to/embed-4q4zmyul9blq.html",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 5,
+          "scrapedAt": "2026-01-01T14:22:03.992Z"
+        },
+        "11": {
+          "number": 11,
+          "players": {
+            "Smoothpre": {
+              "url": "https://Smoothpre.com/embed/apvzwfsjof6f",
+              "embedUrl": "https://Smoothpre.com/embed/apvzwfsjof6f",
+              "type": "video",
+              "player": "Smoothpre",
+              "playerProvider": "smoothpre",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-ix7dacc1qs2u.html",
+              "embedUrl": "https://vidmoly.to/embed-ix7dacc1qs2u.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5939083",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5939083",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-l7ltxty3jjmy.html",
+              "embedUrl": "https://oneupload.to/embed-l7ltxty3jjmy.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/la1mq6it",
+              "embedUrl": "https://sendvid.com/embed/la1mq6it",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 5,
+          "scrapedAt": "2026-01-01T14:22:03.992Z"
+        },
+        "12": {
+          "number": 12,
+          "players": {
+            "Smoothpre": {
+              "url": "https://Smoothpre.com/embed/o82i07o76gkn",
+              "embedUrl": "https://Smoothpre.com/embed/o82i07o76gkn",
+              "type": "video",
+              "player": "Smoothpre",
+              "playerProvider": "smoothpre",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-epe61msklfqq.html",
+              "embedUrl": "https://vidmoly.to/embed-epe61msklfqq.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5945399",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5945399",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-x783u52nedrk.html",
+              "embedUrl": "https://oneupload.to/embed-x783u52nedrk.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://vidmoly.to/embed-epe61msklfqq.html",
+              "embedUrl": "https://vidmoly.to/embed-epe61msklfqq.html",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T14:22:03.992Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 5,
+          "scrapedAt": "2026-01-01T14:22:03.992Z"
+        }
+      },
+      "totalPlayers": 5,
+      "scrapedAt": "2026-01-01T14:22:04.195Z",
+      "lastUpdated": "2026-01-01T14:22:04.195Z"
+    },
+    "apocalypse-hotel_saison2_vostfr": {
+      "seasonId": "apocalypse-hotel_saison2_vostfr",
+      "animeId": "apocalypse-hotel",
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T14:22:04.225Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-.html",
+              "embedUrl": "https://vidmoly.to/embed-.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:22:04.225Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/",
+              "embedUrl": "https://sendvid.com/embed/",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T14:22:04.225Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vk.com/video_ext.php?oid=&hd=3",
+              "embedUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T14:22:04.230Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 4,
+          "scrapedAt": "2026-01-01T14:22:04.225Z"
+        }
+      },
+      "totalPlayers": 4,
+      "scrapedAt": "2026-01-01T14:22:04.425Z",
+      "lastUpdated": "2026-01-01T14:22:04.425Z"
+    },
+    "apocalypse-hotel_saison3_vostfr": {
+      "seasonId": "apocalypse-hotel_saison3_vostfr",
+      "animeId": "apocalypse-hotel",
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T14:22:04.455Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-.html",
+              "embedUrl": "https://vidmoly.to/embed-.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:22:04.455Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/",
+              "embedUrl": "https://sendvid.com/embed/",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T14:22:04.455Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vk.com/video_ext.php?oid=&hd=3",
+              "embedUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T14:22:04.455Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 4,
+          "scrapedAt": "2026-01-01T14:22:04.455Z"
+        }
+      },
+      "totalPlayers": 4,
+      "scrapedAt": "2026-01-01T14:22:04.533Z",
+      "lastUpdated": "2026-01-01T14:22:04.533Z"
+    },
+    "apocalypse-hotel_saison4_vostfr": {
+      "seasonId": "apocalypse-hotel_saison4_vostfr",
+      "animeId": "apocalypse-hotel",
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T14:22:04.563Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-.html",
+              "embedUrl": "https://vidmoly.to/embed-.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:22:04.563Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/",
+              "embedUrl": "https://sendvid.com/embed/",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T14:22:04.563Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vk.com/video_ext.php?oid=&hd=3",
+              "embedUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T14:22:04.563Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 4,
+          "scrapedAt": "2026-01-01T14:22:04.563Z"
+        }
+      },
+      "totalPlayers": 4,
+      "scrapedAt": "2026-01-01T14:22:04.642Z",
+      "lastUpdated": "2026-01-01T14:22:04.642Z"
     }
   },
   "players": {
     "Sibnet": {
       "name": "Sibnet",
       "type": "video",
-      "count": 135,
+      "count": 139,
       "exampleUrls": [
-        "https://video.sibnet.ru/shell.php?videoid=3395374",
         "https://video.sibnet.ru/shell.php?videoid=5868842",
         "https://video.sibnet.ru/shell.php?videoid=4928246",
         "https://video.sibnet.ru/shell.php?videoid=4868497",
@@ -81287,16 +82434,16 @@
         "https://video.sibnet.ru/shell.php?videoid=4676760",
         "https://video.sibnet.ru/shell.php?videoid=5870867",
         "https://video.sibnet.ru/shell.php?videoid=",
-        "https://video.sibnet.ru/shell.php?videoid=4942237"
+        "https://video.sibnet.ru/shell.php?videoid=4942237",
+        "https://video.sibnet.ru/shell.php?videoid=5872352"
       ],
-      "lastUsed": "2026-01-01T14:20:08.422Z"
+      "lastUsed": "2026-01-01T14:22:04.642Z"
     },
     "Vidmoly": {
       "name": "Vidmoly",
       "type": "video",
-      "count": 123,
+      "count": 127,
       "exampleUrls": [
-        "https://vidmoly.to/embed-6h4w3yhawgnn.html",
         "https://vidmoly.to/embed-hr7f4ct44va7.html",
         "https://vidmoly.to/embed-.html",
         "https://vidmoly.to/embed-zsjkbjfvq08y.html",
@@ -81305,14 +82452,15 @@
         "https://vidmoly.to/embed-rxpvngaun1ih.html",
         "https://vidmoly.to/embed-gv0rlmn43jyo.html",
         "https://vidmoly.to/embed-13vw530w5dpw.html",
-        "https://vidmoly.to/embed-x7cdfx3amtrt.html"
+        "https://vidmoly.to/embed-x7cdfx3amtrt.html",
+        "https://vidmoly.to/embed-drqea7xze4bx.html"
       ],
-      "lastUsed": "2026-01-01T14:18:14.273Z"
+      "lastUsed": "2026-01-01T14:22:04.642Z"
     },
     "Scan": {
       "name": "Scan",
       "type": "video",
-      "count": 112,
+      "count": 115,
       "exampleUrls": [
         "https://www.myvi.tv/embed/z89rwhpikrcrpnwbis9es87aic",
         "https://movearnpre.com/embed/ab2hehvt03fo",
@@ -81325,14 +82473,13 @@
         "https://www.myvi.tv/embed/jnnw8kz9tcjr3fscokgukqox8r",
         "https://www.myvi.top/embed/nyqo1opx4btrde88dzy41454na"
       ],
-      "lastUsed": "2026-01-01T14:20:08.422Z"
+      "lastUsed": "2026-01-01T14:22:04.642Z"
     },
     "Sendvid": {
       "name": "Sendvid",
       "type": "video",
-      "count": 143,
+      "count": 147,
       "exampleUrls": [
-        "https://sendvid.com/embed/ves2glcz",
         "https://sendvid.com/embed/iykbt5qd",
         "https://sendvid.com/embed/2ylkzh9l",
         "https://sendvid.com/embed/idep5ze2",
@@ -81341,16 +82488,16 @@
         "https://sendvid.com/embed/wts3xa3o",
         "https://sendvid.com/embed/xv25ekt7",
         "https://sendvid.com/embed/",
-        "https://sendvid.com/embed/064huz4h"
+        "https://sendvid.com/embed/064huz4h",
+        "https://sendvid.com/embed/yqhryne6"
       ],
-      "lastUsed": "2026-01-01T14:20:08.422Z"
+      "lastUsed": "2026-01-01T14:22:04.642Z"
     },
     "OneUpload": {
       "name": "OneUpload",
       "type": "video",
-      "count": 10,
+      "count": 11,
       "exampleUrls": [
-        "https://oneupload.to/embed-fa3bfw24qud9.html",
         "https://oneupload.to/embed-mm8v9f1na7uz.html",
         "https://oneupload.to/embed-pkmrpyk7hxfz.html",
         "https://oneupload.to/embed-jc3xew51tb18.html",
@@ -81359,16 +82506,16 @@
         "https://oneupload.to/embed-7gsfar4jz8ta.html",
         "https://oneupload.to/embed-nhr6pqt6ukfp.html",
         "https://oneupload.to/embed-p95421f6iw76.html",
-        "https://oneupload.to/embed-6445imewm1dz.html"
+        "https://oneupload.to/embed-6445imewm1dz.html",
+        "https://oneupload.to/embed-to2do0flzlow.html"
       ],
-      "lastUsed": "2026-01-01T14:02:35.969Z"
+      "lastUsed": "2026-01-01T14:22:04.195Z"
     },
     "Smoothpre": {
       "name": "Smoothpre",
       "type": "video",
-      "count": 17,
+      "count": 18,
       "exampleUrls": [
-        "https://Smoothpre.com/embed/s67upj8ksem7",
         "https://Smoothpre.com/embed/f5irdmq5v66m",
         "https://Smoothpre.com/embed/5gp8vc8ghr2e",
         "https://Smoothpre.com/embed/ie9mn6i1ywif",
@@ -81377,9 +82524,10 @@
         "https://Smoothpre.com/embed/z3eo4blnak94",
         "https://Smoothpre.com/embed/g2vxn0pqe7ta",
         "https://Smoothpre.com/embed/cvipo55wp5p1",
-        "https://Smoothpre.com/embed/q0oesahbbqy2"
+        "https://Smoothpre.com/embed/q0oesahbbqy2",
+        "https://Smoothpre.com/embed/302ccgc0i8u6"
       ],
-      "lastUsed": "2026-01-01T14:18:13.909Z"
+      "lastUsed": "2026-01-01T14:22:04.195Z"
     }
   },
   "lastUpdated": null
