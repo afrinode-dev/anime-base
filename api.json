@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:18:46.075Z",
-  "totalAnimes": 113,
+  "lastUpdated": "2026-01-01T10:18:47.596Z",
+  "totalAnimes": 114,
   "totalScans": 0,
   "totalEpisodes": 2050,
   "totalChapters": 0,
@@ -2379,6 +2379,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:18:43.806Z"
+    },
+    "atri-my-dear-moments": {
+      "id": "atri-my-dear-moments",
+      "title": "ATRI My Dear Moments",
+      "slug": "atri-my-dear-moments",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/atri-my-dear-moments/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/atri-my-dear-moments/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/atri-my-dear-moments/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "atri-my-dear-moments_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:18:47.596Z"
     }
   },
   "scans": {},
@@ -68595,10 +68616,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 25,
-      "vostfr": 88
+      "vostfr": 89
     },
     "byType": {
-      "anime": 113,
+      "anime": 114,
       "scan": 0
     },
     "byPlayer": {
@@ -68609,6 +68630,6 @@
       "OneUpload": 13,
       "Smoothpre": 10
     },
-    "lastUpdate": "2026-01-01T10:18:46.074Z"
+    "lastUpdate": "2026-01-01T10:18:47.596Z"
   }
 }
