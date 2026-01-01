@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:10:15.604Z",
-  "totalAnimes": 13,
+  "lastUpdated": "2026-01-01T10:10:17.171Z",
+  "totalAnimes": 14,
   "totalScans": 0,
   "totalEpisodes": 221,
   "totalChapters": 0,
@@ -279,6 +279,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:10:11.768Z"
+    },
+    "a-certain-magical-index": {
+      "id": "a-certain-magical-index",
+      "title": "A Certain Magical Index",
+      "slug": "a-certain-magical-index",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/a-certain-magical-index/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/a-certain-magical-index/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/a-certain-magical-index/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "a-certain-magical-index_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:10:17.171Z"
     }
   },
   "scans": {},
@@ -7153,10 +7174,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 2,
-      "vostfr": 11
+      "vostfr": 12
     },
     "byType": {
-      "anime": 13,
+      "anime": 14,
       "scan": 0
     },
     "byPlayer": {
@@ -7166,6 +7187,6 @@
       "Sendvid": 15,
       "OneUpload": 1
     },
-    "lastUpdate": "2026-01-01T10:10:15.604Z"
+    "lastUpdate": "2026-01-01T10:10:17.171Z"
   }
 }
