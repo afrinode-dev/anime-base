@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:50:09.679Z",
-  "totalAnimes": 192,
+  "lastUpdated": "2026-01-01T09:50:11.715Z",
+  "totalAnimes": 193,
   "totalScans": 0,
   "totalEpisodes": 3485,
   "totalChapters": 0,
@@ -3691,6 +3691,26 @@
       "availableScans": [],
       "scrapedAt": "2026-01-01T09:50:07.806Z",
       "lastUpdated": "2026-01-01T09:50:07.806Z"
+    },
+    "black-rock-shooter": {
+      "id": "black-rock-shooter",
+      "title": "Black Rock Shooter",
+      "slug": "black-rock-shooter",
+      "language": "vostfr",
+      "type": "anime",
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/black-rock-shooter/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
+      "availableScans": [],
+      "scrapedAt": "2026-01-01T09:50:11.715Z",
+      "lastUpdated": "2026-01-01T09:50:11.715Z"
     }
   },
   "scans": {},
@@ -101074,10 +101094,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 75,
-      "vostfr": 117
+      "vostfr": 118
     },
     "byType": {
-      "anime": 192,
+      "anime": 193,
       "scan": 0
     },
     "byPlayer": {
@@ -101088,7 +101108,7 @@
       "OneUpload": 19,
       "Smoothpre": 13
     },
-    "lastUpdate": "2026-01-01T09:50:09.679Z"
+    "lastUpdate": "2026-01-01T09:50:11.715Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
