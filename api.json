@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:50:14.329Z",
-  "totalAnimes": 193,
+  "lastUpdated": "2026-01-01T09:50:16.287Z",
+  "totalAnimes": 194,
   "totalScans": 0,
   "totalEpisodes": 3497,
   "totalChapters": 0,
@@ -3711,6 +3711,26 @@
       "availableScans": [],
       "scrapedAt": "2026-01-01T09:50:11.715Z",
       "lastUpdated": "2026-01-01T09:50:11.715Z"
+    },
+    "black-summoner": {
+      "id": "black-summoner",
+      "title": "Black Summoner",
+      "slug": "black-summoner",
+      "language": "vostfr",
+      "type": "anime",
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/black-summoner/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
+      "availableScans": [],
+      "scrapedAt": "2026-01-01T09:50:16.285Z",
+      "lastUpdated": "2026-01-01T09:50:16.285Z"
     }
   },
   "scans": {},
@@ -101438,10 +101458,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 75,
-      "vostfr": 118
+      "vostfr": 119
     },
     "byType": {
-      "anime": 193,
+      "anime": 194,
       "scan": 0
     },
     "byPlayer": {
@@ -101452,7 +101472,7 @@
       "OneUpload": 19,
       "Smoothpre": 13
     },
-    "lastUpdate": "2026-01-01T09:50:14.329Z"
+    "lastUpdate": "2026-01-01T09:50:16.286Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
