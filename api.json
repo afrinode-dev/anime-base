@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:40:40.989Z",
+  "lastUpdated": "2026-01-01T09:40:42.929Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 976,
@@ -1180,17 +1180,22 @@
     "ajin": {
       "id": "ajin",
       "title": "Ajin",
-      "originalLink": "https://anime-sama.tv/catalogue/ajin",
       "slug": "ajin",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ajin.jpg",
-      "banner": null,
-      "description": "Les Ajin sont des humains qui ne peuvent pas mourir. Il y a dix-sept ans, ils sont d'abord apparus sur un champ de bataille en Afrique. Plusieurs années plus tard, cette espèce vit parmi la société mais sont extrêmement rares. Le gouvernement promet une grosse somme d'argent à quiconque lui livre Ajin.\n\nDans ce monde, nous suivons un lycéen qui après un accident mortel va découvrir qu'il est un de ces monstres. Comment ce dernier va-t-il faire pour survivre dans ce monde ?",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/ajin/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:11.155Z",
-      "lastUpdated": "2026-01-01T09:12:11.155Z"
+      "scrapedAt": "2026-01-01T09:40:42.929Z",
+      "lastUpdated": "2026-01-01T09:40:42.929Z"
     },
     "akane-banashi": {
       "id": "akane-banashi",
@@ -27616,8 +27621,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 112,
-      "vostfr": 37
+      "vf": 111,
+      "vostfr": 38
     },
     "byType": {
       "anime": 149,
@@ -27631,7 +27636,7 @@
       "OneUpload": 3,
       "Smoothpre": 2
     },
-    "lastUpdate": "2026-01-01T09:40:40.989Z"
+    "lastUpdate": "2026-01-01T09:40:42.929Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
