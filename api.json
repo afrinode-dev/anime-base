@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:44:14.243Z",
+  "lastUpdated": "2026-01-01T09:44:15.572Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1761,
@@ -2225,17 +2225,22 @@
     "arata-kangatari": {
       "id": "arata-kangatari",
       "title": "Arata Kangatari",
-      "originalLink": "https://anime-sama.tv/catalogue/arata-kangatari",
       "slug": "arata-kangatari",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/arata-kangatari.jpg",
-      "banner": null,
-      "description": "Dans un monde parallèle, aucune fille n'est née au sein du clan Hime depuis de nombreuses années, ce qui devient un vrai problème lorsqu'il faut remplacer la princesse du clan. Le jeune Arata se trouve alors contraint de se déguiser en femme afin de pouvoir devenir la nouvelle princesse de son clan et éviter ainsi sa destruction. Pendant la cérémonie où Arata devient la nouvelle",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/arata-kangatari/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:43.768Z",
-      "lastUpdated": "2026-01-01T09:12:43.768Z"
+      "scrapedAt": "2026-01-01T09:44:15.571Z",
+      "lastUpdated": "2026-01-01T09:44:15.571Z"
     },
     "arcana-famiglia": {
       "id": "arcana-famiglia",
@@ -52046,8 +52051,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 75,
-      "vostfr": 74
+      "vf": 74,
+      "vostfr": 75
     },
     "byType": {
       "anime": 149,
@@ -52061,7 +52066,7 @@
       "OneUpload": 12,
       "Smoothpre": 9
     },
-    "lastUpdate": "2026-01-01T09:44:14.242Z"
+    "lastUpdate": "2026-01-01T09:44:15.571Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
