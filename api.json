@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:11:31.804Z",
-  "totalAnimes": 28,
+  "lastUpdated": "2026-01-01T10:11:33.391Z",
+  "totalAnimes": 29,
   "totalScans": 0,
   "totalEpisodes": 490,
   "totalChapters": 0,
@@ -594,6 +594,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:11:30.319Z"
+    },
+    "a-wild-last-boss-appeared": {
+      "id": "a-wild-last-boss-appeared",
+      "title": "A Wild Last Boss Appeared",
+      "slug": "a-wild-last-boss-appeared",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/a-wild-last-boss-appeared/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/a-wild-last-boss-appeared/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/a-wild-last-boss-appeared/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "a-wild-last-boss-appeared_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:11:33.391Z"
     }
   },
   "scans": {},
@@ -16515,10 +16536,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 7,
-      "vostfr": 21
+      "vostfr": 22
     },
     "byType": {
-      "anime": 28,
+      "anime": 29,
       "scan": 0
     },
     "byPlayer": {
@@ -16528,6 +16549,6 @@
       "Sendvid": 33,
       "OneUpload": 2
     },
-    "lastUpdate": "2026-01-01T10:11:31.804Z"
+    "lastUpdate": "2026-01-01T10:11:33.391Z"
   }
 }
