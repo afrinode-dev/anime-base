@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:45:22.397Z",
+  "lastUpdated": "2026-01-01T09:45:23.898Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 2001,
@@ -2610,17 +2610,22 @@
     "assassins-pride": {
       "id": "assassins-pride",
       "title": "Assassins Pride",
-      "originalLink": "https://anime-sama.tv/catalogue/assassins-pride",
       "slug": "assassins-pride",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/assassins-pride.jpg",
-      "banner": null,
-      "description": "L'histoire se déroule dans un monde où seuls les Nobles sont capables d'utiliser le Mana. Ils sont donc les seuls à pouvoir défendre villes et villages de ce qui les menacent.\n\nMelida est une jeune fille exceptionnelle, mais dans le mauvais sens du terme : bien que née noble, elle est incapable d'utiliser le Mana. Le jeune Kûfa est choisi pour l'aider à développer son potentiel... ou l'assassiner si elle demeure incompétente.",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/assassins-pride/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:56.761Z",
-      "lastUpdated": "2026-01-01T09:12:56.761Z"
+      "scrapedAt": "2026-01-01T09:45:23.897Z",
+      "lastUpdated": "2026-01-01T09:45:23.897Z"
     },
     "asteroid-in-love": {
       "id": "asteroid-in-love",
@@ -58340,8 +58345,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 63,
-      "vostfr": 86
+      "vf": 62,
+      "vostfr": 87
     },
     "byType": {
       "anime": 149,
@@ -58355,7 +58360,7 @@
       "OneUpload": 13,
       "Smoothpre": 10
     },
-    "lastUpdate": "2026-01-01T09:45:22.395Z"
+    "lastUpdate": "2026-01-01T09:45:23.897Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
