@@ -4389,6 +4389,50 @@
       "totalSeasons": 10,
       "scrapedAt": "2026-01-01T13:21:08.422Z",
       "lastUpdated": "2026-01-01T13:21:08.422Z"
+    },
+    "all-my-alter-egos-are-tycoons": {
+      "id": "all-my-alter-egos-are-tycoons",
+      "title": "All My Alter Egos Are Tycoons",
+      "slug": "all-my-alter-egos-are-tycoons",
+      "language": "vostfr",
+      "type": "anime",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/all-my-alter-egos-are-tycoons.jpg",
+      "banner": null,
+      "description": "Cloîtré chez lui depuis deux ans, Seonghyeon voit sa vie changer du tout au tout lorsqu'il s'éveille et obtient un super-pouvoir. Désormais capable de créer des avatars, il se lance à l'aventure dans le monde parallèle d'Aüterika... tout en restant confortablement dans sa chambre. À ses clones de faire le sale boulot et à lui d'en récolter les bénéfices !",
+      "pageUrl": "https://anime-sama.tv/catalogue/all-my-alter-egos-are-tycoons/",
+      "seasons": [
+        {
+          "name": "saison1",
+          "number": 1,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/all-my-alter-egos-are-tycoons/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/all-my-alter-egos-are-tycoons/saison1/vostfr/episodes.js"
+        },
+        {
+          "name": "saison2",
+          "number": 2,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/all-my-alter-egos-are-tycoons/saison2/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/all-my-alter-egos-are-tycoons/saison2/vostfr/episodes.js"
+        },
+        {
+          "name": "saison3",
+          "number": 3,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/all-my-alter-egos-are-tycoons/saison3/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/all-my-alter-egos-are-tycoons/saison3/vostfr/episodes.js"
+        },
+        {
+          "name": "saison4",
+          "number": 4,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/all-my-alter-egos-are-tycoons/saison4/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/all-my-alter-egos-are-tycoons/saison4/vostfr/episodes.js"
+        }
+      ],
+      "totalSeasons": 4,
+      "scrapedAt": "2026-01-01T13:23:08.390Z",
+      "lastUpdated": "2026-01-01T13:23:08.390Z"
     }
   },
   "seasons": {
@@ -13030,6 +13074,298 @@
       ],
       "scrapedAt": "2026-01-01T13:21:08.128Z",
       "lastUpdated": "2026-01-01T13:21:08.128Z"
+    },
+    "all-my-alter-egos-are-tycoons_saison1_vostfr": {
+      "seasonId": "all-my-alter-egos-are-tycoons_saison1_vostfr",
+      "animeId": "all-my-alter-egos-are-tycoons",
+      "title": "All My Alter Egos Are Tycoons",
+      "slug": "all-my-alter-egos-are-tycoons",
+      "season": "saison1",
+      "seasonNumber": 1,
+      "seasonSuffix": "",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/all-my-alter-egos-are-tycoons/saison1/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/all-my-alter-egos-are-tycoons/saison1/vostfr/",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/all-my-alter-egos-are-tycoons.jpg",
+      "banner": null,
+      "description": "All My Alter Egos Are Tycoons - Saison 1 | Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "totalEpisodes": 1,
+      "episodesList": [
+        1
+      ],
+      "players": {
+        "Sibnet": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Sibnet",
+          "playerProvider": "sibnet",
+          "totalEpisodes": 1,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "lastUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:23:08.011Z"
+        },
+        "Vidmoly": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "playerProvider": "vidmoly",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vidmoly.to/embed-.html",
+          "lastUrl": "https://vidmoly.to/embed-.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:23:08.011Z"
+        },
+        "Sendvid": {
+          "playerId": "player_2",
+          "playerKey": "eps3",
+          "playerType": "Sendvid",
+          "playerProvider": "sendvid",
+          "totalEpisodes": 1,
+          "firstUrl": "https://sendvid.com/embed/",
+          "lastUrl": "https://sendvid.com/embed/",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:23:08.011Z"
+        },
+        "Scan": {
+          "playerId": "player_3",
+          "playerKey": "eps4",
+          "playerType": "Scan",
+          "playerProvider": "",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "lastUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:23:08.011Z"
+        }
+      },
+      "availablePlayers": [
+        "Sibnet",
+        "Vidmoly",
+        "Sendvid",
+        "Scan"
+      ],
+      "scrapedAt": "2026-01-01T13:23:08.074Z",
+      "lastUpdated": "2026-01-01T13:23:08.074Z"
+    },
+    "all-my-alter-egos-are-tycoons_saison2_vostfr": {
+      "seasonId": "all-my-alter-egos-are-tycoons_saison2_vostfr",
+      "animeId": "all-my-alter-egos-are-tycoons",
+      "title": "All My Alter Egos Are Tycoons",
+      "slug": "all-my-alter-egos-are-tycoons",
+      "season": "saison2",
+      "seasonNumber": 2,
+      "seasonSuffix": "",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/all-my-alter-egos-are-tycoons/saison2/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/all-my-alter-egos-are-tycoons/saison2/vostfr/",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/all-my-alter-egos-are-tycoons.jpg",
+      "banner": null,
+      "description": "All My Alter Egos Are Tycoons - Saison 2 | Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "totalEpisodes": 1,
+      "episodesList": [
+        1
+      ],
+      "players": {
+        "Sibnet": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Sibnet",
+          "playerProvider": "sibnet",
+          "totalEpisodes": 1,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "lastUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:23:08.103Z"
+        },
+        "Vidmoly": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "playerProvider": "vidmoly",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vidmoly.to/embed-.html",
+          "lastUrl": "https://vidmoly.to/embed-.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:23:08.103Z"
+        },
+        "Sendvid": {
+          "playerId": "player_2",
+          "playerKey": "eps3",
+          "playerType": "Sendvid",
+          "playerProvider": "sendvid",
+          "totalEpisodes": 1,
+          "firstUrl": "https://sendvid.com/embed/",
+          "lastUrl": "https://sendvid.com/embed/",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:23:08.103Z"
+        },
+        "Scan": {
+          "playerId": "player_3",
+          "playerKey": "eps4",
+          "playerType": "Scan",
+          "playerProvider": "",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "lastUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:23:08.103Z"
+        }
+      },
+      "availablePlayers": [
+        "Sibnet",
+        "Vidmoly",
+        "Sendvid",
+        "Scan"
+      ],
+      "scrapedAt": "2026-01-01T13:23:08.164Z",
+      "lastUpdated": "2026-01-01T13:23:08.164Z"
+    },
+    "all-my-alter-egos-are-tycoons_saison3_vostfr": {
+      "seasonId": "all-my-alter-egos-are-tycoons_saison3_vostfr",
+      "animeId": "all-my-alter-egos-are-tycoons",
+      "title": "All My Alter Egos Are Tycoons",
+      "slug": "all-my-alter-egos-are-tycoons",
+      "season": "saison3",
+      "seasonNumber": 3,
+      "seasonSuffix": "",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/all-my-alter-egos-are-tycoons/saison3/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/all-my-alter-egos-are-tycoons/saison3/vostfr/",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/all-my-alter-egos-are-tycoons.jpg",
+      "banner": null,
+      "description": "All My Alter Egos Are Tycoons - Saison 3 | Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "totalEpisodes": 1,
+      "episodesList": [
+        1
+      ],
+      "players": {
+        "Sibnet": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Sibnet",
+          "playerProvider": "sibnet",
+          "totalEpisodes": 1,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "lastUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:23:08.193Z"
+        },
+        "Vidmoly": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "playerProvider": "vidmoly",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vidmoly.to/embed-.html",
+          "lastUrl": "https://vidmoly.to/embed-.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:23:08.193Z"
+        },
+        "Sendvid": {
+          "playerId": "player_2",
+          "playerKey": "eps3",
+          "playerType": "Sendvid",
+          "playerProvider": "sendvid",
+          "totalEpisodes": 1,
+          "firstUrl": "https://sendvid.com/embed/",
+          "lastUrl": "https://sendvid.com/embed/",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:23:08.193Z"
+        },
+        "Scan": {
+          "playerId": "player_3",
+          "playerKey": "eps4",
+          "playerType": "Scan",
+          "playerProvider": "",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "lastUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:23:08.193Z"
+        }
+      },
+      "availablePlayers": [
+        "Sibnet",
+        "Vidmoly",
+        "Sendvid",
+        "Scan"
+      ],
+      "scrapedAt": "2026-01-01T13:23:08.255Z",
+      "lastUpdated": "2026-01-01T13:23:08.255Z"
+    },
+    "all-my-alter-egos-are-tycoons_saison4_vostfr": {
+      "seasonId": "all-my-alter-egos-are-tycoons_saison4_vostfr",
+      "animeId": "all-my-alter-egos-are-tycoons",
+      "title": "All My Alter Egos Are Tycoons",
+      "slug": "all-my-alter-egos-are-tycoons",
+      "season": "saison4",
+      "seasonNumber": 4,
+      "seasonSuffix": "",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/all-my-alter-egos-are-tycoons/saison4/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/all-my-alter-egos-are-tycoons/saison4/vostfr/",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/all-my-alter-egos-are-tycoons.jpg",
+      "banner": null,
+      "description": "All My Alter Egos Are Tycoons - Saison 4 | Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "totalEpisodes": 1,
+      "episodesList": [
+        1
+      ],
+      "players": {
+        "Sibnet": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Sibnet",
+          "playerProvider": "sibnet",
+          "totalEpisodes": 1,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "lastUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:23:08.287Z"
+        },
+        "Vidmoly": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "playerProvider": "vidmoly",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vidmoly.to/embed-.html",
+          "lastUrl": "https://vidmoly.to/embed-.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:23:08.287Z"
+        },
+        "Sendvid": {
+          "playerId": "player_2",
+          "playerKey": "eps3",
+          "playerType": "Sendvid",
+          "playerProvider": "sendvid",
+          "totalEpisodes": 1,
+          "firstUrl": "https://sendvid.com/embed/",
+          "lastUrl": "https://sendvid.com/embed/",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:23:08.287Z"
+        },
+        "Scan": {
+          "playerId": "player_3",
+          "playerKey": "eps4",
+          "playerType": "Scan",
+          "playerProvider": "",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "lastUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:23:08.287Z"
+        }
+      },
+      "availablePlayers": [
+        "Sibnet",
+        "Vidmoly",
+        "Sendvid",
+        "Scan"
+      ],
+      "scrapedAt": "2026-01-01T13:23:08.339Z",
+      "lastUpdated": "2026-01-01T13:23:08.339Z"
     }
   },
   "episodes": {
@@ -59981,13 +60317,221 @@
       "totalPlayers": 3,
       "scrapedAt": "2026-01-01T13:21:08.128Z",
       "lastUpdated": "2026-01-01T13:21:08.128Z"
+    },
+    "all-my-alter-egos-are-tycoons_saison1_vostfr": {
+      "seasonId": "all-my-alter-egos-are-tycoons_saison1_vostfr",
+      "animeId": "all-my-alter-egos-are-tycoons",
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T13:23:08.011Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-.html",
+              "embedUrl": "https://vidmoly.to/embed-.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:23:08.011Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/",
+              "embedUrl": "https://sendvid.com/embed/",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:23:08.011Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vk.com/video_ext.php?oid=&hd=3",
+              "embedUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T13:23:08.011Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 4,
+          "scrapedAt": "2026-01-01T13:23:08.011Z"
+        }
+      },
+      "totalPlayers": 4,
+      "scrapedAt": "2026-01-01T13:23:08.074Z",
+      "lastUpdated": "2026-01-01T13:23:08.074Z"
+    },
+    "all-my-alter-egos-are-tycoons_saison2_vostfr": {
+      "seasonId": "all-my-alter-egos-are-tycoons_saison2_vostfr",
+      "animeId": "all-my-alter-egos-are-tycoons",
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T13:23:08.103Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-.html",
+              "embedUrl": "https://vidmoly.to/embed-.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:23:08.103Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/",
+              "embedUrl": "https://sendvid.com/embed/",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:23:08.103Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vk.com/video_ext.php?oid=&hd=3",
+              "embedUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T13:23:08.103Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 4,
+          "scrapedAt": "2026-01-01T13:23:08.103Z"
+        }
+      },
+      "totalPlayers": 4,
+      "scrapedAt": "2026-01-01T13:23:08.164Z",
+      "lastUpdated": "2026-01-01T13:23:08.164Z"
+    },
+    "all-my-alter-egos-are-tycoons_saison3_vostfr": {
+      "seasonId": "all-my-alter-egos-are-tycoons_saison3_vostfr",
+      "animeId": "all-my-alter-egos-are-tycoons",
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T13:23:08.193Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-.html",
+              "embedUrl": "https://vidmoly.to/embed-.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:23:08.193Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/",
+              "embedUrl": "https://sendvid.com/embed/",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:23:08.193Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vk.com/video_ext.php?oid=&hd=3",
+              "embedUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T13:23:08.193Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 4,
+          "scrapedAt": "2026-01-01T13:23:08.193Z"
+        }
+      },
+      "totalPlayers": 4,
+      "scrapedAt": "2026-01-01T13:23:08.255Z",
+      "lastUpdated": "2026-01-01T13:23:08.255Z"
+    },
+    "all-my-alter-egos-are-tycoons_saison4_vostfr": {
+      "seasonId": "all-my-alter-egos-are-tycoons_saison4_vostfr",
+      "animeId": "all-my-alter-egos-are-tycoons",
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T13:23:08.287Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-.html",
+              "embedUrl": "https://vidmoly.to/embed-.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:23:08.287Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/",
+              "embedUrl": "https://sendvid.com/embed/",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:23:08.287Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vk.com/video_ext.php?oid=&hd=3",
+              "embedUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T13:23:08.287Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 4,
+          "scrapedAt": "2026-01-01T13:23:08.287Z"
+        }
+      },
+      "totalPlayers": 4,
+      "scrapedAt": "2026-01-01T13:23:08.339Z",
+      "lastUpdated": "2026-01-01T13:23:08.339Z"
     }
   },
   "players": {
     "Sibnet": {
       "name": "Sibnet",
       "type": "video",
-      "count": 90,
+      "count": 94,
       "exampleUrls": [
         "https://video.sibnet.ru/shell.php?videoid=4942143",
         "https://video.sibnet.ru/shell.php?videoid=4917416",
@@ -60000,12 +60544,12 @@
         "https://video.sibnet.ru/shell.php?videoid=4740934",
         "https://video.sibnet.ru/shell.php?videoid=4986696"
       ],
-      "lastUsed": "2026-01-01T13:21:08.128Z"
+      "lastUsed": "2026-01-01T13:23:08.339Z"
     },
     "Vidmoly": {
       "name": "Vidmoly",
       "type": "video",
-      "count": 85,
+      "count": 89,
       "exampleUrls": [
         "https://vidmoly.to/embed-s46zpbarhf7i.html",
         "https://vidmoly.to/embed-lmzzqt0kc1gt.html",
@@ -60018,12 +60562,12 @@
         "https://vidmoly.to/embed-n3t1q5dd43x6.html",
         "https://vidmoly.to/embed-eewv9bhcv8o9.html"
       ],
-      "lastUsed": "2026-01-01T13:15:14.793Z"
+      "lastUsed": "2026-01-01T13:23:08.339Z"
     },
     "Scan": {
       "name": "Scan",
       "type": "video",
-      "count": 73,
+      "count": 77,
       "exampleUrls": [
         "https://www.myvi.top/embed/wnie3imippqrme1tcrkg839iwh",
         "https://www.myvi.top/embed/76pk1oz6mgirbfsfr1n6siuu5c",
@@ -60036,12 +60580,12 @@
         "https://www.myvi.top/embed/1hqb3919r5gwf8rdtoyqgkwnhw",
         "https://www.myvi.tv/embed/xtyiajuzb49rmx5ymdfs8etw8w"
       ],
-      "lastUsed": "2026-01-01T13:21:08.128Z"
+      "lastUsed": "2026-01-01T13:23:08.339Z"
     },
     "Sendvid": {
       "name": "Sendvid",
       "type": "video",
-      "count": 96,
+      "count": 100,
       "exampleUrls": [
         "https://sendvid.com/embed/83ldvqbs",
         "https://sendvid.com/embed/d6ypq2pa",
@@ -60054,7 +60598,7 @@
         "https://sendvid.com/embed/6eehsurm",
         "https://sendvid.com/embed/79ejbs3b"
       ],
-      "lastUsed": "2026-01-01T13:21:08.128Z"
+      "lastUsed": "2026-01-01T13:23:08.339Z"
     },
     "OneUpload": {
       "name": "OneUpload",
