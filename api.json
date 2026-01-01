@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:41:30.678Z",
+  "lastUpdated": "2026-01-01T09:41:32.127Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1172,
@@ -1415,17 +1415,22 @@
     "alice-and-zoroku": {
       "id": "alice-and-zoroku",
       "title": "Alice & Zoroku",
-      "originalLink": "https://anime-sama.tv/catalogue/alice-and-zoroku",
       "slug": "alice-and-zoroku",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/alice-and-zoroku.jpg",
-      "banner": null,
-      "description": "L'histoire débute avec un groupe de jeunes filles possédant un pouvoir nommé 'Alice Dream', qui permet de matérialiser leur imagination. Après avoir été découvertes par un laboratoire, elles sont devenues, contre leur gré, des sujets d'expérience. Sana, une de ces filles, dont son pouvoir inclut la capacité d'ignorer les lois de la physique, réussi à s'échapper. Ensuite, elle rencontre Zouroku, un homme assez âgé qui déteste les perturbations dans sa vie quotidienne.",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/alice-and-zoroku/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:16.774Z",
-      "lastUpdated": "2026-01-01T09:12:16.774Z"
+      "scrapedAt": "2026-01-01T09:41:32.127Z",
+      "lastUpdated": "2026-01-01T09:41:32.127Z"
     },
     "alice-in-borderland": {
       "id": "alice-in-borderland",
@@ -33207,8 +33212,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 103,
-      "vostfr": 46
+      "vf": 102,
+      "vostfr": 47
     },
     "byType": {
       "anime": 149,
@@ -33222,7 +33227,7 @@
       "OneUpload": 4,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T09:41:30.678Z"
+    "lastUpdate": "2026-01-01T09:41:32.127Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
