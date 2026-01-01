@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:41:07.364Z",
+  "lastUpdated": "2026-01-01T09:41:08.708Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1085,
@@ -1260,17 +1260,22 @@
     "akiba-maid-war": {
       "id": "akiba-maid-war",
       "title": "Akiba Maid War",
-      "originalLink": "https://anime-sama.tv/catalogue/akiba-maid-war/",
       "slug": "akiba-maid-war",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/akiba-maid-war.jpg",
-      "banner": null,
-      "description": "Dans le quartier d’Akihabara, le café Tontokoton propose les meilleures maids, toutes plus attentives les unes que les autres pour le client qui s’y perdra. Mais la sélection est rude. Nous sommes au printemps 1999 et nous suivons le parcours de deux jeunes recrues qui vont apprendre à devenir la servante parfaite…",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/akiba-maid-war/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:13.135Z",
-      "lastUpdated": "2026-01-01T09:12:13.135Z"
+      "scrapedAt": "2026-01-01T09:41:08.706Z",
+      "lastUpdated": "2026-01-01T09:41:08.706Z"
     },
     "akudama-drive": {
       "id": "akudama-drive",
@@ -30762,8 +30767,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 109,
-      "vostfr": 40
+      "vf": 108,
+      "vostfr": 41
     },
     "byType": {
       "anime": 149,
@@ -30777,7 +30782,7 @@
       "OneUpload": 3,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T09:41:07.364Z"
+    "lastUpdate": "2026-01-01T09:41:08.706Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
