@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:50:27.956Z",
-  "totalAnimes": 196,
+  "lastUpdated": "2026-01-01T09:50:29.793Z",
+  "totalAnimes": 197,
   "totalScans": 0,
   "totalEpisodes": 3888,
   "totalChapters": 0,
@@ -3771,6 +3771,26 @@
       "availableScans": [],
       "scrapedAt": "2026-01-01T09:50:25.401Z",
       "lastUpdated": "2026-01-01T09:50:25.401Z"
+    },
+    "bleach": {
+      "id": "bleach",
+      "title": "Bleach",
+      "slug": "bleach",
+      "language": "vostfr",
+      "type": "anime",
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/bleach/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
+      "availableScans": [],
+      "scrapedAt": "2026-01-01T09:50:29.791Z",
+      "lastUpdated": "2026-01-01T09:50:29.792Z"
     }
   },
   "scans": {},
@@ -108333,10 +108353,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 75,
-      "vostfr": 121
+      "vostfr": 122
     },
     "byType": {
-      "anime": 196,
+      "anime": 197,
       "scan": 0
     },
     "byPlayer": {
@@ -108347,7 +108367,7 @@
       "OneUpload": 19,
       "Smoothpre": 13
     },
-    "lastUpdate": "2026-01-01T09:50:27.955Z"
+    "lastUpdate": "2026-01-01T09:50:29.792Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
