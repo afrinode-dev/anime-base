@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:19:48.778Z",
-  "totalAnimes": 124,
+  "lastUpdated": "2026-01-01T10:19:50.718Z",
+  "totalAnimes": 125,
   "totalScans": 0,
   "totalEpisodes": 2247,
   "totalChapters": 0,
@@ -2610,6 +2610,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:19:46.989Z"
+    },
+    "bad-ending-maker": {
+      "id": "bad-ending-maker",
+      "title": "Bad Ending Maker",
+      "slug": "bad-ending-maker",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/bad-ending-maker/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/bad-ending-maker/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/bad-ending-maker/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "bad-ending-maker_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:19:50.718Z"
     }
   },
   "scans": {},
@@ -74733,10 +74754,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 29,
-      "vostfr": 95
+      "vostfr": 96
     },
     "byType": {
-      "anime": 124,
+      "anime": 125,
       "scan": 0
     },
     "byPlayer": {
@@ -74747,6 +74768,6 @@
       "OneUpload": 14,
       "Smoothpre": 10
     },
-    "lastUpdate": "2026-01-01T10:19:48.776Z"
+    "lastUpdate": "2026-01-01T10:19:50.718Z"
   }
 }
