@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:37:13.638Z",
+  "lastUpdated": "2026-01-01T09:37:15.160Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 184,
@@ -315,17 +315,22 @@
     "a-barbarian-was-admitted-to-the-academy": {
       "id": "a-barbarian-was-admitted-to-the-academy",
       "title": "A Barbarian Was Admitted to the Academy",
-      "originalLink": "https://anime-sama.tv/catalogue/a-barbarian-was-admitted-to-the-academy",
       "slug": "a-barbarian-was-admitted-to-the-academy",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-barbarian-was-admitted-to-the-academy.jpg",
-      "banner": null,
-      "description": "Je me suis retrouvée possédée dans un jeu auquel je jouais occasionnellement. Et pour couronner le tout, je suis la guerrière d'une tribu barbare qui ne connaît que de mauvaises fins. ... Très bien, échappons-nous.",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/a-barbarian-was-admitted-to-the-academy/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:11:46.426Z",
-      "lastUpdated": "2026-01-01T09:11:46.426Z"
+      "scrapedAt": "2026-01-01T09:37:15.160Z",
+      "lastUpdated": "2026-01-01T09:37:15.160Z"
     },
     "a-barbarians-adventure-in-a-fantasy-world": {
       "id": "a-barbarians-adventure-in-a-fantasy-world",
@@ -7514,8 +7519,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 139,
-      "vostfr": 10
+      "vf": 138,
+      "vostfr": 11
     },
     "byType": {
       "anime": 149,
@@ -7528,7 +7533,7 @@
       "Sendvid": 13,
       "OneUpload": 1
     },
-    "lastUpdate": "2026-01-01T09:37:13.638Z"
+    "lastUpdate": "2026-01-01T09:37:15.160Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
