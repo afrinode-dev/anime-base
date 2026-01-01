@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:47:10.240Z",
-  "totalAnimes": 161,
+  "lastUpdated": "2026-01-01T09:47:12.042Z",
+  "totalAnimes": 162,
   "totalScans": 0,
   "totalEpisodes": 2442,
   "totalChapters": 0,
@@ -3071,6 +3071,26 @@
       "availableScans": [],
       "scrapedAt": "2026-01-01T09:47:07.887Z",
       "lastUpdated": "2026-01-01T09:47:07.887Z"
+    },
+    "ballpark-de-tsukamaete": {
+      "id": "ballpark-de-tsukamaete",
+      "title": "Ballpark de Tsukamaete",
+      "slug": "ballpark-de-tsukamaete",
+      "language": "vostfr",
+      "type": "anime",
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/ballpark-de-tsukamaete/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
+      "availableScans": [],
+      "scrapedAt": "2026-01-01T09:47:12.041Z",
+      "lastUpdated": "2026-01-01T09:47:12.041Z"
     }
   },
   "scans": {},
@@ -70735,10 +70755,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 62,
-      "vostfr": 99
+      "vostfr": 100
     },
     "byType": {
-      "anime": 161,
+      "anime": 162,
       "scan": 0
     },
     "byPlayer": {
@@ -70749,7 +70769,7 @@
       "OneUpload": 16,
       "Smoothpre": 11
     },
-    "lastUpdate": "2026-01-01T09:47:10.240Z"
+    "lastUpdate": "2026-01-01T09:47:12.041Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
