@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:40:55.106Z",
+  "lastUpdated": "2026-01-01T09:40:56.584Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1025,
@@ -1220,17 +1220,22 @@
     "akashic-records": {
       "id": "akashic-records",
       "title": "Akashic Records",
-      "originalLink": "https://anime-sama.tv/catalogue/akashic-records/",
       "slug": "akashic-records",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/akashic-records.jpg",
-      "banner": null,
-      "description": "Sisti, une jeune magicienne intègre une académie de magie reconnue pour aiguiser ses compétences et résoudre le mystère du château dans le ciel (Sky Castle).\nAlors que son professeur préféré part en retraite, ce dernier est remplacé par Glen, un paresseux qui ne possède aucune compétence pour enseigner.\nElle se pose alors une question :",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/akashic-records/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:10.715Z",
-      "lastUpdated": "2026-01-01T09:12:10.715Z"
+      "scrapedAt": "2026-01-01T09:40:56.584Z",
+      "lastUpdated": "2026-01-01T09:40:56.584Z"
     },
     "akatsuki-no-yona": {
       "id": "akatsuki-no-yona",
@@ -29177,8 +29182,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 111,
-      "vostfr": 38
+      "vf": 110,
+      "vostfr": 39
     },
     "byType": {
       "anime": 149,
@@ -29192,7 +29197,7 @@
       "OneUpload": 3,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T09:40:55.105Z"
+    "lastUpdate": "2026-01-01T09:40:56.584Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
