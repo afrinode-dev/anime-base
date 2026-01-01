@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:13:47.286Z",
-  "totalAnimes": 51,
+  "lastUpdated": "2026-01-01T10:13:48.919Z",
+  "totalAnimes": 52,
   "totalScans": 0,
   "totalEpisodes": 1061,
   "totalChapters": 0,
@@ -1077,6 +1077,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:13:44.565Z"
+    },
+    "akatsuki-no-yona": {
+      "id": "akatsuki-no-yona",
+      "title": "Akatsuki no Yona",
+      "slug": "akatsuki-no-yona",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/akatsuki-no-yona/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/akatsuki-no-yona/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/akatsuki-no-yona/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "akatsuki-no-yona_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:13:48.918Z"
     }
   },
   "scans": {},
@@ -33625,10 +33646,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 15,
-      "vostfr": 36
+      "vostfr": 37
     },
     "byType": {
-      "anime": 51,
+      "anime": 52,
       "scan": 0
     },
     "byPlayer": {
@@ -33639,6 +33660,6 @@
       "OneUpload": 3,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T10:13:47.285Z"
+    "lastUpdate": "2026-01-01T10:13:48.918Z"
   }
 }
