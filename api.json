@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:11:24.932Z",
-  "totalAnimes": 27,
+  "lastUpdated": "2026-01-01T10:11:26.477Z",
+  "totalAnimes": 28,
   "totalScans": 0,
   "totalEpisodes": 466,
   "totalChapters": 0,
@@ -573,6 +573,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:11:21.016Z"
+    },
+    "a-star-brighter-than-the-sun": {
+      "id": "a-star-brighter-than-the-sun",
+      "title": "A Star Brighter Than the Sun",
+      "slug": "a-star-brighter-than-the-sun",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/a-star-brighter-than-the-sun/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/a-star-brighter-than-the-sun/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/a-star-brighter-than-the-sun/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "a-star-brighter-than-the-sun_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:11:26.477Z"
     }
   },
   "scans": {},
@@ -15508,10 +15529,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 6,
-      "vostfr": 21
+      "vostfr": 22
     },
     "byType": {
-      "anime": 27,
+      "anime": 28,
       "scan": 0
     },
     "byPlayer": {
@@ -15521,6 +15542,6 @@
       "Sendvid": 31,
       "OneUpload": 2
     },
-    "lastUpdate": "2026-01-01T10:11:24.932Z"
+    "lastUpdate": "2026-01-01T10:11:26.477Z"
   }
 }
