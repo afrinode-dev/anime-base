@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:36:44.025Z",
+  "lastUpdated": "2026-01-01T09:36:45.315Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 73,
@@ -135,17 +135,22 @@
     "365-days-to-the-wedding": {
       "id": "365-days-to-the-wedding",
       "title": "365 Days To The Wedding",
-      "originalLink": "https://anime-sama.tv/catalogue/365-days-to-the-wedding",
       "slug": "365-days-to-the-wedding",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/365-days-to-the-wedding.jpg",
-      "banner": null,
-      "description": "Takuya et Rika travaillent ensemble dans une agence de voyage à Tokyo. Ils sont tous deux célibataires mais cela ne les dérange pas car ils sont introvertis et ont une vie épanouie seuls chez eux. Malheureusement, leur employeur cherche à recruter du personnel pour un bureau en Sibérie et les employés non mariés sont les premiers à être sollicités. Rika veut à tout prix éviter la mutation et propose à Takuya une idée : s'ils font semblant de se marier dans un an, ils pourront rester à Tokyo. Le ",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/365-days-to-the-wedding/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:11:41.868Z",
-      "lastUpdated": "2026-01-01T09:11:41.868Z"
+      "scrapedAt": "2026-01-01T09:36:45.315Z",
+      "lastUpdated": "2026-01-01T09:36:45.315Z"
     },
     "20th-century-boys": {
       "id": "20th-century-boys",
@@ -4559,8 +4564,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 143,
-      "vostfr": 6
+      "vf": 142,
+      "vostfr": 7
     },
     "byType": {
       "anime": 149,
@@ -4573,7 +4578,7 @@
       "Sendvid": 5,
       "OneUpload": 1
     },
-    "lastUpdate": "2026-01-01T09:36:44.025Z"
+    "lastUpdate": "2026-01-01T09:36:45.315Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
