@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:11:56.816Z",
-  "totalAnimes": 32,
+  "lastUpdated": "2026-01-01T10:11:58.746Z",
+  "totalAnimes": 33,
   "totalScans": 0,
   "totalEpisodes": 539,
   "totalChapters": 0,
@@ -678,6 +678,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:11:53.403Z"
+    },
+    "acca-13-ku-kansatsu-ka": {
+      "id": "acca-13-ku-kansatsu-ka",
+      "title": "ACCA 13-Ku Kansatsu-Ka",
+      "slug": "acca-13-ku-kansatsu-ka",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/acca-13-ku-kansatsu-ka/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/acca-13-ku-kansatsu-ka/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/acca-13-ku-kansatsu-ka/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "acca-13-ku-kansatsu-ka_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:11:58.746Z"
     }
   },
   "scans": {},
@@ -18292,10 +18313,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 8,
-      "vostfr": 24
+      "vostfr": 25
     },
     "byType": {
-      "anime": 32,
+      "anime": 33,
       "scan": 0
     },
     "byPlayer": {
@@ -18305,6 +18326,6 @@
       "Sendvid": 38,
       "OneUpload": 2
     },
-    "lastUpdate": "2026-01-01T10:11:56.816Z"
+    "lastUpdate": "2026-01-01T10:11:58.746Z"
   }
 }
