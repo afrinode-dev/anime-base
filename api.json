@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:41:27.304Z",
+  "lastUpdated": "2026-01-01T09:41:28.637Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1159,
@@ -1395,17 +1395,22 @@
     "aldnoah-zero": {
       "id": "aldnoah-zero",
       "title": "Aldnoah.Zero",
-      "originalLink": "https://anime-sama.tv/catalogue/aldnoah-zero",
       "slug": "aldnoah-zero",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/aldnoah-zero.jpg",
-      "banner": null,
-      "description": "En 1972, un étrange portail fonctionnant à base d'Aldnoah et menant à la planète Mars fut découvert sur la Lune. Cette découverte marqua le début de l'installation humaine sur cette planète, notamment grâce à Rayregalia Vers Rayvers, qui se vit confier les secrets de l'Aldnoah. Un secret et un pouvoir transmis à ses descendants. Quelques années plus tard, Mars et la Terre entrent en conflit, provoquant la destruction du portail lunaire et d'une partie du satellite en 1999. Ce phénomène, connu so",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/aldnoah-zero/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:16.329Z",
-      "lastUpdated": "2026-01-01T09:12:16.329Z"
+      "scrapedAt": "2026-01-01T09:41:28.637Z",
+      "lastUpdated": "2026-01-01T09:41:28.637Z"
     },
     "alice-and-zoroku": {
       "id": "alice-and-zoroku",
@@ -32833,8 +32838,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 104,
-      "vostfr": 45
+      "vf": 103,
+      "vostfr": 46
     },
     "byType": {
       "anime": 149,
@@ -32848,7 +32853,7 @@
       "OneUpload": 4,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T09:41:27.302Z"
+    "lastUpdate": "2026-01-01T09:41:28.637Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
