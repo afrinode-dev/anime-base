@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:11:02.370Z",
-  "totalAnimes": 23,
+  "lastUpdated": "2026-01-01T10:11:03.936Z",
+  "totalAnimes": 24,
   "totalScans": 0,
   "totalEpisodes": 382,
   "totalChapters": 0,
@@ -489,6 +489,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:10:57.996Z"
+    },
+    "a-place-further-than-the-universe": {
+      "id": "a-place-further-than-the-universe",
+      "title": "A Place Further Than The Universe",
+      "slug": "a-place-further-than-the-universe",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/a-place-further-than-the-universe/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/a-place-further-than-the-universe/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/a-place-further-than-the-universe/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "a-place-further-than-the-universe_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:11:03.935Z"
     }
   },
   "scans": {},
@@ -12503,10 +12524,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 4,
-      "vostfr": 19
+      "vostfr": 20
     },
     "byType": {
-      "anime": 23,
+      "anime": 24,
       "scan": 0
     },
     "byPlayer": {
@@ -12516,6 +12537,6 @@
       "Sendvid": 26,
       "OneUpload": 1
     },
-    "lastUpdate": "2026-01-01T10:11:02.370Z"
+    "lastUpdate": "2026-01-01T10:11:03.935Z"
   }
 }
