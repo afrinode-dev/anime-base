@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:38:30.242Z",
+  "lastUpdated": "2026-01-01T09:38:31.828Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 442,
@@ -610,17 +610,22 @@
     "a-sign-of-affection": {
       "id": "a-sign-of-affection",
       "title": "A Sign of Affection",
-      "originalLink": "https://anime-sama.tv/catalogue/a-sign-of-affection",
       "slug": "a-sign-of-affection",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-sign-of-affection.jpg",
-      "banner": null,
-      "description": "Yuki est une étudiante qui, comme beaucoup d'autres, construit son quotidien autour de ses amis, des réseaux sociaux et de ce qu'elle aime. Mais quand un jour, dans le train, elle croise un jeune homme qui voyage à travers le monde, son univers va être chamboulé : ce dernier, bien que trilingue, ne connaît pas la langue des signes. Pourtant, très vite, il manifestera pour elle un intérêt bien particulier... Comment réagira-t-elle face à ce camarade d'université entreprenant et communicatif ?",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/a-sign-of-affection/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:11:54.391Z",
-      "lastUpdated": "2026-01-01T09:11:54.391Z"
+      "scrapedAt": "2026-01-01T09:38:31.828Z",
+      "lastUpdated": "2026-01-01T09:38:31.828Z"
     },
     "a-returners-magic-should-be-special": {
       "id": "a-returners-magic-should-be-special",
@@ -14320,8 +14325,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 126,
-      "vostfr": 23
+      "vf": 125,
+      "vostfr": 24
     },
     "byType": {
       "anime": 149,
@@ -14334,7 +14339,7 @@
       "Sendvid": 29,
       "OneUpload": 2
     },
-    "lastUpdate": "2026-01-01T09:38:30.242Z"
+    "lastUpdate": "2026-01-01T09:38:31.828Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
