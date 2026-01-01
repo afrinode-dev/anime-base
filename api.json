@@ -1,9 +1,9 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:38:06.523Z",
+  "lastUpdated": "2026-01-01T09:38:09.327Z",
   "totalAnimes": 149,
   "totalScans": 0,
-  "totalEpisodes": 368,
+  "totalEpisodes": 369,
   "totalChapters": 0,
   "mainDomain": "anime-sama.tv",
   "animes": {
@@ -2358,26 +2358,26 @@
     "Sibnet": {
       "name": "Sibnet",
       "type": "video",
-      "count": 22,
-      "lastUsed": "2026-01-01T09:38:04.695Z"
+      "count": 23,
+      "lastUsed": "2026-01-01T09:38:09.327Z"
     },
     "Vidmoly": {
       "name": "Vidmoly",
       "type": "video",
-      "count": 18,
-      "lastUsed": "2026-01-01T09:38:04.695Z"
+      "count": 19,
+      "lastUsed": "2026-01-01T09:38:09.327Z"
     },
     "Scan": {
       "name": "Scan",
       "type": "video",
-      "count": 13,
-      "lastUsed": "2026-01-01T09:38:04.695Z"
+      "count": 14,
+      "lastUsed": "2026-01-01T09:38:09.327Z"
     },
     "Sendvid": {
       "name": "Sendvid",
       "type": "video",
-      "count": 24,
-      "lastUsed": "2026-01-01T09:38:04.695Z"
+      "count": 25,
+      "lastUsed": "2026-01-01T09:38:09.327Z"
     },
     "OneUpload": {
       "name": "OneUpload",
@@ -12067,6 +12067,93 @@
         }
       },
       "lastUpdated": "2026-01-01T09:38:04.695Z"
+    },
+    "a-mountain-of-corpses-a-sea-of-blood_saison1_vostfr": {
+      "animeId": "a-mountain-of-corpses-a-sea-of-blood",
+      "title": "A Mountain of Corpses a Sea of Blood",
+      "season": "saison1",
+      "language": "vostfr",
+      "totalEpisodes": 1,
+      "episodesList": [
+        1
+      ],
+      "availablePlayers": [
+        "Sibnet",
+        "Vidmoly",
+        "Sendvid",
+        "Scan"
+      ],
+      "episodes": {
+        "Sibnet": {
+          "player": "Sibnet",
+          "playerKey": "eps1",
+          "episodes": [
+            {
+              "episode": 1,
+              "url": "https://video.sibnet.ru/shell.php?videoid=",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=",
+              "language": "VOSTFR",
+              "player": "Sibnet",
+              "type": "video"
+            }
+          ],
+          "totalEpisodes": 1,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "isScan": false
+        },
+        "Vidmoly": {
+          "player": "Vidmoly",
+          "playerKey": "eps2",
+          "episodes": [
+            {
+              "episode": 1,
+              "url": "https://vidmoly.to/embed-.html",
+              "embedUrl": "https://vidmoly.to/embed-.html",
+              "language": "VOSTFR",
+              "player": "Vidmoly",
+              "type": "video"
+            }
+          ],
+          "totalEpisodes": 1,
+          "firstUrl": "https://vidmoly.to/embed-.html",
+          "isScan": false
+        },
+        "Sendvid": {
+          "player": "Sendvid",
+          "playerKey": "eps3",
+          "episodes": [
+            {
+              "episode": 1,
+              "url": "https://sendvid.com/embed/",
+              "embedUrl": "https://sendvid.com/embed/",
+              "language": "VOSTFR",
+              "player": "Sendvid",
+              "type": "video"
+            }
+          ],
+          "totalEpisodes": 1,
+          "firstUrl": "https://sendvid.com/embed/",
+          "isScan": false
+        },
+        "Scan": {
+          "player": "Scan",
+          "playerKey": "eps4",
+          "episodes": [
+            {
+              "episode": 1,
+              "url": "https://vk.com/video_ext.php?oid=&hd=3",
+              "embedUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+              "language": "VOSTFR",
+              "player": "Scan",
+              "type": "video"
+            }
+          ],
+          "totalEpisodes": 1,
+          "firstUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "isScan": false
+        }
+      },
+      "lastUpdated": "2026-01-01T09:38:09.327Z"
     }
   },
   "chapters": {},
@@ -12080,13 +12167,13 @@
       "scan": 0
     },
     "byPlayer": {
-      "Sibnet": 22,
-      "Vidmoly": 18,
-      "Scan": 13,
-      "Sendvid": 24,
+      "Sibnet": 23,
+      "Vidmoly": 19,
+      "Scan": 14,
+      "Sendvid": 25,
       "OneUpload": 1
     },
-    "lastUpdate": "2026-01-01T09:38:06.523Z"
+    "lastUpdate": "2026-01-01T09:38:09.327Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
