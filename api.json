@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:16:06.778Z",
-  "totalAnimes": 81,
+  "lastUpdated": "2026-01-01T10:16:08.253Z",
+  "totalAnimes": 82,
   "totalScans": 0,
   "totalEpisodes": 1565,
   "totalChapters": 0,
@@ -1707,6 +1707,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:16:02.798Z"
+    },
+    "anohana": {
+      "id": "anohana",
+      "title": "Anohana",
+      "slug": "anohana",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/anohana/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/anohana/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/anohana/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "anohana_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:16:08.253Z"
     }
   },
   "scans": {},
@@ -51781,10 +51802,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 21,
-      "vostfr": 60
+      "vostfr": 61
     },
     "byType": {
-      "anime": 81,
+      "anime": 82,
       "scan": 0
     },
     "byPlayer": {
@@ -51795,6 +51816,6 @@
       "OneUpload": 9,
       "Smoothpre": 4
     },
-    "lastUpdate": "2026-01-01T10:16:06.777Z"
+    "lastUpdate": "2026-01-01T10:16:08.253Z"
   }
 }
