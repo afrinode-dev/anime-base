@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:43:11.202Z",
+  "lastUpdated": "2026-01-01T09:43:12.648Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1565,
@@ -1915,17 +1915,22 @@
     "anohana": {
       "id": "anohana",
       "title": "Anohana",
-      "originalLink": "https://anime-sama.tv/catalogue/anohana",
       "slug": "anohana",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/anohana.jpg",
-      "banner": null,
-      "description": "L'histoire nous entraîne aux côtés de Jin-tan, Anaru, Yukiatsu, Tsuruko, Poppo et Menma, 3 jeunes filles et 3 jeunes garçons inséparables vivant à la campagne.\n\nMalheureusement, après un accident mortel qui est arrivé à Menma, le groupe d'amis se sépare. Suite à ces événements, chacun a choisi un chemin différent : Anaru passe la plupart de son temps avec ses amies, Poppo rêve de voyage, Yukiatsu et Tsuruko sont dans le même lycée et restent toujours ensemble et Jin-tan est devenu un Hikikomori.",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/anohana/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:32.996Z",
-      "lastUpdated": "2026-01-01T09:12:32.996Z"
+      "scrapedAt": "2026-01-01T09:43:12.648Z",
+      "lastUpdated": "2026-01-01T09:43:12.648Z"
     },
     "another": {
       "id": "another",
@@ -45622,8 +45627,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 87,
-      "vostfr": 62
+      "vf": 86,
+      "vostfr": 63
     },
     "byType": {
       "anime": 149,
@@ -45637,7 +45642,7 @@
       "OneUpload": 9,
       "Smoothpre": 4
     },
-    "lastUpdate": "2026-01-01T09:43:11.201Z"
+    "lastUpdate": "2026-01-01T09:43:12.648Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
