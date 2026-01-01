@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:37:56.625Z",
+  "lastUpdated": "2026-01-01T09:37:58.421Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 343,
@@ -495,17 +495,22 @@
     "a-dragonslayers-peerless-regression": {
       "id": "a-dragonslayers-peerless-regression",
       "title": "A Dragonslayer's Peerless Regression",
-      "originalLink": "https://anime-sama.tv/catalogue/a-dragonslayers-peerless-regression",
       "slug": "a-dragonslayers-peerless-regression",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-dragonslayers-peerless-regression.jpg",
-      "banner": null,
-      "description": "Zeke Draker, premier descendant direct du clan Tueur de Dragons à échouer à s'éveiller. Doté d'un talent de guérisseur et non d'épéiste, il a été renié par sa famille. Luttant désespérément pour devenir plus fort, Zeke connut une fin tragique. Au moment de sa mort, de mystérieux mots apparurent sous ses yeux : [L'âme d'un Dragon Ancien est gravé au coeur de la volonté de celui qui persévère]. [Un pouvoir immuable et immérité est en train de s'activer]. Lorsqu'il reprit conscience, il fut renvoyé",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/a-dragonslayers-peerless-regression/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:11:51.616Z",
-      "lastUpdated": "2026-01-01T09:11:51.616Z"
+      "scrapedAt": "2026-01-01T09:37:58.421Z",
+      "lastUpdated": "2026-01-01T09:37:58.421Z"
     },
     "a-galaxy-next-door": {
       "id": "a-galaxy-next-door",
@@ -11230,8 +11235,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 132,
-      "vostfr": 17
+      "vf": 131,
+      "vostfr": 18
     },
     "byType": {
       "anime": 149,
@@ -11244,7 +11249,7 @@
       "Sendvid": 22,
       "OneUpload": 1
     },
-    "lastUpdate": "2026-01-01T09:37:56.624Z"
+    "lastUpdate": "2026-01-01T09:37:58.421Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
