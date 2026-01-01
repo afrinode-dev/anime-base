@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:42:13.300Z",
+  "lastUpdated": "2026-01-01T09:42:14.788Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1348,
@@ -1640,17 +1640,22 @@
     "amagami-san-chi-no-enmusubi": {
       "id": "amagami-san-chi-no-enmusubi",
       "title": "Amagami-San Chi No Enmusubi",
-      "originalLink": "https://anime-sama.tv/catalogue/amagami-san-chi-no-enmusubi",
       "slug": "amagami-san-chi-no-enmusubi",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/amagami-san-chi-no-enmusubi.jpg",
-      "banner": null,
-      "description": "Très jeune, Uryû Kamihate a perdu sa mère des suites d'une maladie. Depuis, il n'a qu'un seul objectif : intégrer le prestigieux département de médecine de l'université de Kyôto. Sans le sou et n'ayant aucun autre endroit où aller, il accepte de venir vivre au sanctuaire Amagami... sans savoir qu'il devra cohabiter avec les trois petites filles du prêtre : la douce mais tête en l'air Yae, l'espiègle Asahi, et la fervente Yuna au caractère de feu. La situation n'étant cependant pas assez compliqu",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/amagami-san-chi-no-enmusubi/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:25.568Z",
-      "lastUpdated": "2026-01-01T09:12:25.568Z"
+      "scrapedAt": "2026-01-01T09:42:14.788Z",
+      "lastUpdated": "2026-01-01T09:42:14.788Z"
     },
     "amagi-brillant-park": {
       "id": "amagi-brillant-park",
@@ -38384,8 +38389,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 97,
-      "vostfr": 52
+      "vf": 96,
+      "vostfr": 53
     },
     "byType": {
       "anime": 149,
@@ -38399,7 +38404,7 @@
       "OneUpload": 5,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T09:42:13.299Z"
+    "lastUpdate": "2026-01-01T09:42:14.788Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
