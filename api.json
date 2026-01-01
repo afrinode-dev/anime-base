@@ -1,9 +1,9 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:15:50.784Z",
+  "lastUpdated": "2026-01-01T10:15:53.239Z",
   "totalAnimes": 78,
   "totalScans": 0,
-  "totalEpisodes": 1497,
+  "totalEpisodes": 1517,
   "totalChapters": 0,
   "mainDomain": "anime-sama.tv",
   "animes": {
@@ -1677,27 +1677,27 @@
     "Scan": {
       "name": "Scan",
       "type": "video",
-      "count": 54,
-      "lastUsed": "2026-01-01T10:15:45.307Z",
+      "count": 55,
+      "lastUsed": "2026-01-01T10:15:53.239Z",
       "exampleUrls": [
-        "https://movearnpre.com/embed/ab2hehvt03fo",
         "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241096&hd=3",
         "https://www.myvi.tv/embed/tg14rjnw6gfr7jsek5ymray81w",
         "https://vk.com/video_ext.php?oid=751474887&id=456239411&hd=3",
-        "https://vk.com/video_ext.php?oid=&hd=3"
+        "https://vk.com/video_ext.php?oid=&hd=3",
+        "https://www.myvi.top/embed/5jj6yed4mp9rb834hzco1jjn7y"
       ]
     },
     "Sendvid": {
       "name": "Sendvid",
       "type": "video",
-      "count": 89,
-      "lastUsed": "2026-01-01T10:15:49.291Z",
+      "count": 90,
+      "lastUsed": "2026-01-01T10:15:53.239Z",
       "exampleUrls": [
-        "https://sendvid.com/embed/xyxrrjio",
         "https://sendvid.com/embed/nnvcdckw",
         "https://sendvid.com/embed/56hk84rz",
         "https://sendvid.com/embed/",
-        "https://sendvid.com/embed/bourr6ge"
+        "https://sendvid.com/embed/bourr6ge",
+        "https://sendvid.com/embed/ves2glcz"
       ]
     },
     "OneUpload": {
@@ -49416,6 +49416,487 @@
       },
       "scrapedAt": "2026-01-01T10:15:49.291Z",
       "lastUpdated": "2026-01-01T10:15:49.291Z"
+    },
+    "anime-de-wakaru-shinryounaika_saison1_vostfr": {
+      "episodeId": "anime-de-wakaru-shinryounaika_saison1_vostfr",
+      "animeId": "anime-de-wakaru-shinryounaika",
+      "title": "Anime de Wakaru Shinryounaika",
+      "slug": "anime-de-wakaru-shinryounaika",
+      "season": "saison1",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/anime-de-wakaru-shinryounaika/saison1/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/anime-de-wakaru-shinryounaika/saison1/vostfr/",
+      "totalEpisodes": 20,
+      "episodesList": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "players": {
+        "Scan": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Scan",
+          "totalEpisodes": 20,
+          "firstUrl": "https://www.myvi.top/embed/5jj6yed4mp9rb834hzco1jjn7y",
+          "lastUrl": "https://www.myvi.top/embed/mza51dieuysw5nfd33mmrogjja",
+          "isScan": false
+        },
+        "Sendvid": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Sendvid",
+          "totalEpisodes": 20,
+          "firstUrl": "https://sendvid.com/embed/ves2glcz",
+          "lastUrl": "https://sendvid.com/embed/aasrmmpd",
+          "isScan": false
+        }
+      },
+      "availablePlayers": [
+        "Scan",
+        "Sendvid"
+      ],
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Scan": {
+              "url": "https://www.myvi.top/embed/5jj6yed4mp9rb834hzco1jjn7y",
+              "embedUrl": "https://www.myvi.top/embed/5jj6yed4mp9rb834hzco1jjn7y",
+              "type": "video",
+              "player": "Scan",
+              "scrapedAt": "2026-01-01T10:15:53.239Z"
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/ves2glcz",
+              "embedUrl": "https://sendvid.com/embed/ves2glcz",
+              "type": "video",
+              "player": "Sendvid",
+              "scrapedAt": "2026-01-01T10:15:53.239Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:15:53.239Z"
+        },
+        "2": {
+          "number": 2,
+          "players": {
+            "Scan": {
+              "url": "https://www.myvi.top/embed/gdkzddepf9er5xint7xj94opma",
+              "embedUrl": "https://www.myvi.top/embed/gdkzddepf9er5xint7xj94opma",
+              "type": "video",
+              "player": "Scan",
+              "scrapedAt": "2026-01-01T10:15:53.239Z"
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/51v7wqvo",
+              "embedUrl": "https://sendvid.com/embed/51v7wqvo",
+              "type": "video",
+              "player": "Sendvid",
+              "scrapedAt": "2026-01-01T10:15:53.239Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:15:53.239Z"
+        },
+        "3": {
+          "number": 3,
+          "players": {
+            "Scan": {
+              "url": "https://www.myvi.top/embed/4ny53sh3dg3rjd3j8uqo8t8s8a",
+              "embedUrl": "https://www.myvi.top/embed/4ny53sh3dg3rjd3j8uqo8t8s8a",
+              "type": "video",
+              "player": "Scan",
+              "scrapedAt": "2026-01-01T10:15:53.239Z"
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/7ex3nanl",
+              "embedUrl": "https://sendvid.com/embed/7ex3nanl",
+              "type": "video",
+              "player": "Sendvid",
+              "scrapedAt": "2026-01-01T10:15:53.239Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:15:53.239Z"
+        },
+        "4": {
+          "number": 4,
+          "players": {
+            "Scan": {
+              "url": "https://www.myvi.top/embed/iajnd334i4nwjk7gkxycb4md3w",
+              "embedUrl": "https://www.myvi.top/embed/iajnd334i4nwjk7gkxycb4md3w",
+              "type": "video",
+              "player": "Scan",
+              "scrapedAt": "2026-01-01T10:15:53.239Z"
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/6mv814rk",
+              "embedUrl": "https://sendvid.com/embed/6mv814rk",
+              "type": "video",
+              "player": "Sendvid",
+              "scrapedAt": "2026-01-01T10:15:53.239Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:15:53.239Z"
+        },
+        "5": {
+          "number": 5,
+          "players": {
+            "Scan": {
+              "url": "https://www.myvi.top/embed/9yobp9fp1phwiyk8ugqi6umu7a",
+              "embedUrl": "https://www.myvi.top/embed/9yobp9fp1phwiyk8ugqi6umu7a",
+              "type": "video",
+              "player": "Scan",
+              "scrapedAt": "2026-01-01T10:15:53.239Z"
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/zzeudg9h",
+              "embedUrl": "https://sendvid.com/embed/zzeudg9h",
+              "type": "video",
+              "player": "Sendvid",
+              "scrapedAt": "2026-01-01T10:15:53.239Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:15:53.239Z"
+        },
+        "6": {
+          "number": 6,
+          "players": {
+            "Scan": {
+              "url": "https://www.myvi.top/embed/5ehzqh8r348r5faoqk7agk9wph",
+              "embedUrl": "https://www.myvi.top/embed/5ehzqh8r348r5faoqk7agk9wph",
+              "type": "video",
+              "player": "Scan",
+              "scrapedAt": "2026-01-01T10:15:53.239Z"
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/udptcmv3",
+              "embedUrl": "https://sendvid.com/embed/udptcmv3",
+              "type": "video",
+              "player": "Sendvid",
+              "scrapedAt": "2026-01-01T10:15:53.239Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:15:53.239Z"
+        },
+        "7": {
+          "number": 7,
+          "players": {
+            "Scan": {
+              "url": "https://www.myvi.top/embed/ujrbqbs3n3frijr6um5oy479ac",
+              "embedUrl": "https://www.myvi.top/embed/ujrbqbs3n3frijr6um5oy479ac",
+              "type": "video",
+              "player": "Scan",
+              "scrapedAt": "2026-01-01T10:15:53.239Z"
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/jtx205qo",
+              "embedUrl": "https://sendvid.com/embed/jtx205qo",
+              "type": "video",
+              "player": "Sendvid",
+              "scrapedAt": "2026-01-01T10:15:53.239Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:15:53.239Z"
+        },
+        "8": {
+          "number": 8,
+          "players": {
+            "Scan": {
+              "url": "https://www.myvi.top/embed/b6xc9qz9aoww8e68ncd6c9fgar",
+              "embedUrl": "https://www.myvi.top/embed/b6xc9qz9aoww8e68ncd6c9fgar",
+              "type": "video",
+              "player": "Scan",
+              "scrapedAt": "2026-01-01T10:15:53.239Z"
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/0e3kbs88",
+              "embedUrl": "https://sendvid.com/embed/0e3kbs88",
+              "type": "video",
+              "player": "Sendvid",
+              "scrapedAt": "2026-01-01T10:15:53.239Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:15:53.239Z"
+        },
+        "9": {
+          "number": 9,
+          "players": {
+            "Scan": {
+              "url": "https://www.myvi.top/embed/r8rkp6bfbmdr3kaj9uusp6kico",
+              "embedUrl": "https://www.myvi.top/embed/r8rkp6bfbmdr3kaj9uusp6kico",
+              "type": "video",
+              "player": "Scan",
+              "scrapedAt": "2026-01-01T10:15:53.239Z"
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/e69z003u",
+              "embedUrl": "https://sendvid.com/embed/e69z003u",
+              "type": "video",
+              "player": "Sendvid",
+              "scrapedAt": "2026-01-01T10:15:53.239Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:15:53.239Z"
+        },
+        "10": {
+          "number": 10,
+          "players": {
+            "Scan": {
+              "url": "https://www.myvi.top/embed/i1gafyh9senw78jac6xb38xr3e",
+              "embedUrl": "https://www.myvi.top/embed/i1gafyh9senw78jac6xb38xr3e",
+              "type": "video",
+              "player": "Scan",
+              "scrapedAt": "2026-01-01T10:15:53.239Z"
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/5kze5ofa",
+              "embedUrl": "https://sendvid.com/embed/5kze5ofa",
+              "type": "video",
+              "player": "Sendvid",
+              "scrapedAt": "2026-01-01T10:15:53.239Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:15:53.239Z"
+        },
+        "11": {
+          "number": 11,
+          "players": {
+            "Scan": {
+              "url": "https://www.myvi.top/embed/gi7rn7x1h9nw8jic3urektjz7a",
+              "embedUrl": "https://www.myvi.top/embed/gi7rn7x1h9nw8jic3urektjz7a",
+              "type": "video",
+              "player": "Scan",
+              "scrapedAt": "2026-01-01T10:15:53.239Z"
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/dpyatvg9",
+              "embedUrl": "https://sendvid.com/embed/dpyatvg9",
+              "type": "video",
+              "player": "Sendvid",
+              "scrapedAt": "2026-01-01T10:15:53.239Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:15:53.239Z"
+        },
+        "12": {
+          "number": 12,
+          "players": {
+            "Scan": {
+              "url": "https://www.myvi.top/embed/14q8dfhzcwerxyw37zqqme5bzw",
+              "embedUrl": "https://www.myvi.top/embed/14q8dfhzcwerxyw37zqqme5bzw",
+              "type": "video",
+              "player": "Scan",
+              "scrapedAt": "2026-01-01T10:15:53.239Z"
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/y0sfn6ns",
+              "embedUrl": "https://sendvid.com/embed/y0sfn6ns",
+              "type": "video",
+              "player": "Sendvid",
+              "scrapedAt": "2026-01-01T10:15:53.239Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:15:53.239Z"
+        },
+        "13": {
+          "number": 13,
+          "players": {
+            "Scan": {
+              "url": "https://www.myvi.top/embed/5p8bpx1poyzr5815paobkwgmew",
+              "embedUrl": "https://www.myvi.top/embed/5p8bpx1poyzr5815paobkwgmew",
+              "type": "video",
+              "player": "Scan",
+              "scrapedAt": "2026-01-01T10:15:53.239Z"
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/boj5zys1",
+              "embedUrl": "https://sendvid.com/embed/boj5zys1",
+              "type": "video",
+              "player": "Sendvid",
+              "scrapedAt": "2026-01-01T10:15:53.239Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:15:53.239Z"
+        },
+        "14": {
+          "number": 14,
+          "players": {
+            "Scan": {
+              "url": "https://www.myvi.top/embed/p83kk9cqcq6r7rpufyqitfpouc",
+              "embedUrl": "https://www.myvi.top/embed/p83kk9cqcq6r7rpufyqitfpouc",
+              "type": "video",
+              "player": "Scan",
+              "scrapedAt": "2026-01-01T10:15:53.239Z"
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/vmov7vmv",
+              "embedUrl": "https://sendvid.com/embed/vmov7vmv",
+              "type": "video",
+              "player": "Sendvid",
+              "scrapedAt": "2026-01-01T10:15:53.239Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:15:53.239Z"
+        },
+        "15": {
+          "number": 15,
+          "players": {
+            "Scan": {
+              "url": "https://www.myvi.top/embed/pydzc3xm4mwr88r4weehmsyqda",
+              "embedUrl": "https://www.myvi.top/embed/pydzc3xm4mwr88r4weehmsyqda",
+              "type": "video",
+              "player": "Scan",
+              "scrapedAt": "2026-01-01T10:15:53.239Z"
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/jpjqoa2m",
+              "embedUrl": "https://sendvid.com/embed/jpjqoa2m",
+              "type": "video",
+              "player": "Sendvid",
+              "scrapedAt": "2026-01-01T10:15:53.239Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:15:53.239Z"
+        },
+        "16": {
+          "number": 16,
+          "players": {
+            "Scan": {
+              "url": "https://www.myvi.top/embed/8az56hdh66dr8qda36h8bgumrw",
+              "embedUrl": "https://www.myvi.top/embed/8az56hdh66dr8qda36h8bgumrw",
+              "type": "video",
+              "player": "Scan",
+              "scrapedAt": "2026-01-01T10:15:53.239Z"
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/12vcmwii",
+              "embedUrl": "https://sendvid.com/embed/12vcmwii",
+              "type": "video",
+              "player": "Sendvid",
+              "scrapedAt": "2026-01-01T10:15:53.239Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:15:53.239Z"
+        },
+        "17": {
+          "number": 17,
+          "players": {
+            "Scan": {
+              "url": "https://www.myvi.top/embed/p1t8ehqn87gw8gfiopc9ka6nky",
+              "embedUrl": "https://www.myvi.top/embed/p1t8ehqn87gw8gfiopc9ka6nky",
+              "type": "video",
+              "player": "Scan",
+              "scrapedAt": "2026-01-01T10:15:53.239Z"
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/pqzy19pc",
+              "embedUrl": "https://sendvid.com/embed/pqzy19pc",
+              "type": "video",
+              "player": "Sendvid",
+              "scrapedAt": "2026-01-01T10:15:53.239Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:15:53.239Z"
+        },
+        "18": {
+          "number": 18,
+          "players": {
+            "Scan": {
+              "url": "https://www.myvi.top/embed/d956zofnixaric9mybnpskbq3w",
+              "embedUrl": "https://www.myvi.top/embed/d956zofnixaric9mybnpskbq3w",
+              "type": "video",
+              "player": "Scan",
+              "scrapedAt": "2026-01-01T10:15:53.239Z"
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/8jh5egaw",
+              "embedUrl": "https://sendvid.com/embed/8jh5egaw",
+              "type": "video",
+              "player": "Sendvid",
+              "scrapedAt": "2026-01-01T10:15:53.239Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:15:53.239Z"
+        },
+        "19": {
+          "number": 19,
+          "players": {
+            "Scan": {
+              "url": "https://www.myvi.top/embed/1uuk1bznrdtrmp3g79ad3gpm4r",
+              "embedUrl": "https://www.myvi.top/embed/1uuk1bznrdtrmp3g79ad3gpm4r",
+              "type": "video",
+              "player": "Scan",
+              "scrapedAt": "2026-01-01T10:15:53.239Z"
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/36ac2rue",
+              "embedUrl": "https://sendvid.com/embed/36ac2rue",
+              "type": "video",
+              "player": "Sendvid",
+              "scrapedAt": "2026-01-01T10:15:53.239Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:15:53.239Z"
+        },
+        "20": {
+          "number": 20,
+          "players": {
+            "Scan": {
+              "url": "https://www.myvi.top/embed/mza51dieuysw5nfd33mmrogjja",
+              "embedUrl": "https://www.myvi.top/embed/mza51dieuysw5nfd33mmrogjja",
+              "type": "video",
+              "player": "Scan",
+              "scrapedAt": "2026-01-01T10:15:53.239Z"
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/aasrmmpd",
+              "embedUrl": "https://sendvid.com/embed/aasrmmpd",
+              "type": "video",
+              "player": "Sendvid",
+              "scrapedAt": "2026-01-01T10:15:53.239Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:15:53.239Z"
+        }
+      },
+      "scrapedAt": "2026-01-01T10:15:53.239Z",
+      "lastUpdated": "2026-01-01T10:15:53.239Z"
     }
   },
   "chapters": {},
@@ -49431,11 +49912,11 @@
     "byPlayer": {
       "Sibnet": 84,
       "Vidmoly": 61,
-      "Scan": 54,
-      "Sendvid": 89,
+      "Scan": 55,
+      "Sendvid": 90,
       "OneUpload": 8,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T10:15:50.783Z"
+    "lastUpdate": "2026-01-01T10:15:53.239Z"
   }
 }
