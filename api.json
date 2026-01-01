@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:12:51.872Z",
-  "totalAnimes": 41,
+  "lastUpdated": "2026-01-01T10:12:53.568Z",
+  "totalAnimes": 42,
   "totalScans": 0,
   "totalEpisodes": 814,
   "totalChapters": 0,
@@ -867,6 +867,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:12:50.265Z"
+    },
+    "afterlife-inn-cooking": {
+      "id": "afterlife-inn-cooking",
+      "title": "Afterlife Inn Cooking",
+      "slug": "afterlife-inn-cooking",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/afterlife-inn-cooking/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/afterlife-inn-cooking/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/afterlife-inn-cooking/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "afterlife-inn-cooking_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:12:53.566Z"
     }
   },
   "scans": {},
@@ -25510,10 +25531,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 11,
-      "vostfr": 30
+      "vostfr": 31
     },
     "byType": {
-      "anime": 41,
+      "anime": 42,
       "scan": 0
     },
     "byPlayer": {
@@ -25524,6 +25545,6 @@
       "OneUpload": 3,
       "Smoothpre": 1
     },
-    "lastUpdate": "2026-01-01T10:12:51.870Z"
+    "lastUpdate": "2026-01-01T10:12:53.566Z"
   }
 }
