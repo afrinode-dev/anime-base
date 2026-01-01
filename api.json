@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:10:52.868Z",
-  "totalAnimes": 21,
+  "lastUpdated": "2026-01-01T10:10:54.386Z",
+  "totalAnimes": 22,
   "totalScans": 0,
   "totalEpisodes": 368,
   "totalChapters": 0,
@@ -447,6 +447,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:10:50.417Z"
+    },
+    "a-girl-and-her-guard-dog": {
+      "id": "a-girl-and-her-guard-dog",
+      "title": "A Girl & Her Guard Dog",
+      "slug": "a-girl-and-her-guard-dog",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/a-girl-and-her-guard-dog/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/a-girl-and-her-guard-dog/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/a-girl-and-her-guard-dog/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "a-girl-and-her-guard-dog_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:10:54.386Z"
     }
   },
   "scans": {},
@@ -11936,10 +11957,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 4,
-      "vostfr": 17
+      "vostfr": 18
     },
     "byType": {
-      "anime": 21,
+      "anime": 22,
       "scan": 0
     },
     "byPlayer": {
@@ -11949,6 +11970,6 @@
       "Sendvid": 24,
       "OneUpload": 1
     },
-    "lastUpdate": "2026-01-01T10:10:52.868Z"
+    "lastUpdate": "2026-01-01T10:10:54.386Z"
   }
 }
