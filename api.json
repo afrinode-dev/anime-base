@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:42:09.646Z",
+  "lastUpdated": "2026-01-01T09:42:11.145Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1324,
@@ -1600,17 +1600,22 @@
     "amagami-ss": {
       "id": "amagami-ss",
       "title": "Amagami SS",
-      "originalLink": "https://anime-sama.tv/catalogue/amagami-ss",
       "slug": "amagami-ss",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/amagami-ss.jpg",
-      "banner": null,
-      "description": "Tachibana Junichi, étudiant en second année, déprime à chaque fois que Noël arrive en raison d'une certaine expérience... De ce fait, il passe une vie solitaire et reste éloigné de ses camarades de classe ! Une vie banale et ennuyeuse en somme. De tel sorte qu'il en vient même à se demander s'il y a un but à sa vie... Mais un jour, Junichi décide se reprendre en main et de faire tout possible pour changer. Ainsi, il se donne pour objectif de passer Noël avec une fille. Partant sur cette base, Ju",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/amagami-ss/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:23.783Z",
-      "lastUpdated": "2026-01-01T09:12:23.783Z"
+      "scrapedAt": "2026-01-01T09:42:11.145Z",
+      "lastUpdated": "2026-01-01T09:42:11.145Z"
     },
     "amaama-to-inazuma": {
       "id": "amaama-to-inazuma",
@@ -37331,8 +37336,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 98,
-      "vostfr": 51
+      "vf": 97,
+      "vostfr": 52
     },
     "byType": {
       "anime": 149,
@@ -37346,7 +37351,7 @@
       "OneUpload": 4,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T09:42:09.646Z"
+    "lastUpdate": "2026-01-01T09:42:11.145Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
