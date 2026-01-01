@@ -1,9 +1,9 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:19:31.449Z",
+  "lastUpdated": "2026-01-01T10:19:33.550Z",
   "totalAnimes": 122,
   "totalScans": 0,
-  "totalEpisodes": 2194,
+  "totalEpisodes": 2210,
   "totalChapters": 0,
   "mainDomain": "anime-sama.tv",
   "animes": {
@@ -2575,14 +2575,14 @@
     "Sibnet": {
       "name": "Sibnet",
       "type": "video",
-      "count": 126,
-      "lastUsed": "2026-01-01T10:19:27.339Z",
+      "count": 127,
+      "lastUsed": "2026-01-01T10:19:33.548Z",
       "exampleUrls": [
-        "https://video.sibnet.ru/shell.php?videoid=5004521",
         "https://video.sibnet.ru/shell.php?videoid=5308888",
         "https://video.sibnet.ru/shell.php?videoid=4801634",
         "https://video.sibnet.ru/shell.php?videoid=4719832",
-        "https://video.sibnet.ru/shell.php?videoid=4737682"
+        "https://video.sibnet.ru/shell.php?videoid=4737682",
+        "https://video.sibnet.ru/shell.php?videoid=4942314"
       ]
     },
     "Vidmoly": {
@@ -2601,27 +2601,27 @@
     "Scan": {
       "name": "Scan",
       "type": "video",
-      "count": 81,
-      "lastUsed": "2026-01-01T10:19:27.339Z",
+      "count": 82,
+      "lastUsed": "2026-01-01T10:19:33.548Z",
       "exampleUrls": [
-        "https://vk.com/video_ext.php?oid=751474887&id=456239161&hash=ccb4f97fca65e1bc&hd=3",
         "https://www.myvi.tv/embed/xzcjn1u6cutrtmdmz1oi1gij4c",
         "https://www.myvi.top/embed/f8y8743n7kdwjewqm4oub3z8ga",
         "https://www.myvi.top/embed/euir7jfbmyorzp3hza5h7zzaaw",
-        "https://www.myvi.top/embed/o7y7npo8zbsrbb491qw97xpr1e"
+        "https://www.myvi.top/embed/o7y7npo8zbsrbb491qw97xpr1e",
+        "https://www.myvi.top/embed/mapa54bwjm6r7dc4q63gzfoz5e"
       ]
     },
     "Sendvid": {
       "name": "Sendvid",
       "type": "video",
-      "count": 132,
-      "lastUsed": "2026-01-01T10:19:27.339Z",
+      "count": 133,
+      "lastUsed": "2026-01-01T10:19:33.548Z",
       "exampleUrls": [
-        "https://sendvid.com/embed/se66bti7",
         "https://sendvid.com/embed/xnecue5j",
         "https://sendvid.com/embed/9w7mk97o",
         "https://sendvid.com/embed/8b4b10nc",
-        "https://sendvid.com/embed/explkj9a"
+        "https://sendvid.com/embed/explkj9a",
+        "https://sendvid.com/embed/1vnbk6u9"
       ]
     },
     "OneUpload": {
@@ -73078,6 +73078,521 @@
       },
       "scrapedAt": "2026-01-01T10:19:27.339Z",
       "lastUpdated": "2026-01-01T10:19:27.339Z"
+    },
+    "baccano_saison1_vostfr": {
+      "episodeId": "baccano_saison1_vostfr",
+      "animeId": "baccano",
+      "title": "Baccano",
+      "slug": "baccano",
+      "season": "saison1",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/baccano/saison1/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/baccano/saison1/vostfr/",
+      "totalEpisodes": 16,
+      "episodesList": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "players": {
+        "Sendvid": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Sendvid",
+          "totalEpisodes": 16,
+          "firstUrl": "https://sendvid.com/embed/1vnbk6u9",
+          "lastUrl": "https://sendvid.com/embed/apwt9582",
+          "isScan": false
+        },
+        "Sibnet": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Sibnet",
+          "totalEpisodes": 16,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=4942314",
+          "lastUrl": "https://video.sibnet.ru/shell.php?videoid=4942344",
+          "isScan": false
+        },
+        "Scan": {
+          "playerId": "player_2",
+          "playerKey": "eps3",
+          "playerType": "Scan",
+          "totalEpisodes": 16,
+          "firstUrl": "https://www.myvi.top/embed/mapa54bwjm6r7dc4q63gzfoz5e",
+          "lastUrl": "https://www.myvi.top/embed/bi5njadpqpnwby54m7351r3bme",
+          "isScan": false
+        }
+      },
+      "availablePlayers": [
+        "Sendvid",
+        "Sibnet",
+        "Scan"
+      ],
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/1vnbk6u9",
+              "embedUrl": "https://sendvid.com/embed/1vnbk6u9",
+              "type": "video",
+              "player": "Sendvid",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=4942314",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4942314",
+              "type": "video",
+              "player": "Sibnet",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            },
+            "Scan": {
+              "url": "https://www.myvi.top/embed/mapa54bwjm6r7dc4q63gzfoz5e",
+              "embedUrl": "https://www.myvi.top/embed/mapa54bwjm6r7dc4q63gzfoz5e",
+              "type": "video",
+              "player": "Scan",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            }
+          },
+          "totalOptions": 3,
+          "scrapedAt": "2026-01-01T10:19:33.548Z"
+        },
+        "2": {
+          "number": 2,
+          "players": {
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/clw1p5nv",
+              "embedUrl": "https://sendvid.com/embed/clw1p5nv",
+              "type": "video",
+              "player": "Sendvid",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=4942317",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4942317",
+              "type": "video",
+              "player": "Sibnet",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            },
+            "Scan": {
+              "url": "https://www.myvi.top/embed/gqpxxot51ktrfnmz5cnauda13r",
+              "embedUrl": "https://www.myvi.top/embed/gqpxxot51ktrfnmz5cnauda13r",
+              "type": "video",
+              "player": "Scan",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            }
+          },
+          "totalOptions": 3,
+          "scrapedAt": "2026-01-01T10:19:33.548Z"
+        },
+        "3": {
+          "number": 3,
+          "players": {
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/zks3ocvi",
+              "embedUrl": "https://sendvid.com/embed/zks3ocvi",
+              "type": "video",
+              "player": "Sendvid",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=4942320",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4942320",
+              "type": "video",
+              "player": "Sibnet",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            },
+            "Scan": {
+              "url": "https://www.myvi.top/embed/e438dmjm65bwue75i4ey86te7r",
+              "embedUrl": "https://www.myvi.top/embed/e438dmjm65bwue75i4ey86te7r",
+              "type": "video",
+              "player": "Scan",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            }
+          },
+          "totalOptions": 3,
+          "scrapedAt": "2026-01-01T10:19:33.548Z"
+        },
+        "4": {
+          "number": 4,
+          "players": {
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/enpgypiy",
+              "embedUrl": "https://sendvid.com/embed/enpgypiy",
+              "type": "video",
+              "player": "Sendvid",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=4942322",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4942322",
+              "type": "video",
+              "player": "Sibnet",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            },
+            "Scan": {
+              "url": "https://www.myvi.top/embed/uc9trx713kmw7pfcme34xz4ahr",
+              "embedUrl": "https://www.myvi.top/embed/uc9trx713kmw7pfcme34xz4ahr",
+              "type": "video",
+              "player": "Scan",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            }
+          },
+          "totalOptions": 3,
+          "scrapedAt": "2026-01-01T10:19:33.548Z"
+        },
+        "5": {
+          "number": 5,
+          "players": {
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/kwzdbucf",
+              "embedUrl": "https://sendvid.com/embed/kwzdbucf",
+              "type": "video",
+              "player": "Sendvid",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=4942324",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4942324",
+              "type": "video",
+              "player": "Sibnet",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            },
+            "Scan": {
+              "url": "https://www.myvi.top/embed/eb8jouopbhow3x6t77iipmo3mc",
+              "embedUrl": "https://www.myvi.top/embed/eb8jouopbhow3x6t77iipmo3mc",
+              "type": "video",
+              "player": "Scan",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            }
+          },
+          "totalOptions": 3,
+          "scrapedAt": "2026-01-01T10:19:33.548Z"
+        },
+        "6": {
+          "number": 6,
+          "players": {
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/wtkdw8c3",
+              "embedUrl": "https://sendvid.com/embed/wtkdw8c3",
+              "type": "video",
+              "player": "Sendvid",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=4942325",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4942325",
+              "type": "video",
+              "player": "Sibnet",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            },
+            "Scan": {
+              "url": "https://www.myvi.top/embed/faetdoquyy3wpgfafx4g6aej6h",
+              "embedUrl": "https://www.myvi.top/embed/faetdoquyy3wpgfafx4g6aej6h",
+              "type": "video",
+              "player": "Scan",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            }
+          },
+          "totalOptions": 3,
+          "scrapedAt": "2026-01-01T10:19:33.548Z"
+        },
+        "7": {
+          "number": 7,
+          "players": {
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/looiv4ru",
+              "embedUrl": "https://sendvid.com/embed/looiv4ru",
+              "type": "video",
+              "player": "Sendvid",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=4942326",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4942326",
+              "type": "video",
+              "player": "Sibnet",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            },
+            "Scan": {
+              "url": "https://www.myvi.top/embed/an56u7td5bpwtyi1essc9z6ofr",
+              "embedUrl": "https://www.myvi.top/embed/an56u7td5bpwtyi1essc9z6ofr",
+              "type": "video",
+              "player": "Scan",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            }
+          },
+          "totalOptions": 3,
+          "scrapedAt": "2026-01-01T10:19:33.548Z"
+        },
+        "8": {
+          "number": 8,
+          "players": {
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/zt8tyv0b",
+              "embedUrl": "https://sendvid.com/embed/zt8tyv0b",
+              "type": "video",
+              "player": "Sendvid",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=4942327",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4942327",
+              "type": "video",
+              "player": "Sibnet",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            },
+            "Scan": {
+              "url": "https://www.myvi.top/embed/dziyh1krmpqwiqy7z3dw63qf9y",
+              "embedUrl": "https://www.myvi.top/embed/dziyh1krmpqwiqy7z3dw63qf9y",
+              "type": "video",
+              "player": "Scan",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            }
+          },
+          "totalOptions": 3,
+          "scrapedAt": "2026-01-01T10:19:33.548Z"
+        },
+        "9": {
+          "number": 9,
+          "players": {
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/hdhfympl",
+              "embedUrl": "https://sendvid.com/embed/hdhfympl",
+              "type": "video",
+              "player": "Sendvid",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=4942329",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4942329",
+              "type": "video",
+              "player": "Sibnet",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            },
+            "Scan": {
+              "url": "https://www.myvi.top/embed/a4hc9iqim1gwzjg14q5u9ywo1c",
+              "embedUrl": "https://www.myvi.top/embed/a4hc9iqim1gwzjg14q5u9ywo1c",
+              "type": "video",
+              "player": "Scan",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            }
+          },
+          "totalOptions": 3,
+          "scrapedAt": "2026-01-01T10:19:33.548Z"
+        },
+        "10": {
+          "number": 10,
+          "players": {
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/owdnvldw",
+              "embedUrl": "https://sendvid.com/embed/owdnvldw",
+              "type": "video",
+              "player": "Sendvid",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=4942331",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4942331",
+              "type": "video",
+              "player": "Sibnet",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            },
+            "Scan": {
+              "url": "https://www.myvi.top/embed/m6muwmexi1krfj4m666ssnri5w",
+              "embedUrl": "https://www.myvi.top/embed/m6muwmexi1krfj4m666ssnri5w",
+              "type": "video",
+              "player": "Scan",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            }
+          },
+          "totalOptions": 3,
+          "scrapedAt": "2026-01-01T10:19:33.548Z"
+        },
+        "11": {
+          "number": 11,
+          "players": {
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/nv6nlm46",
+              "embedUrl": "https://sendvid.com/embed/nv6nlm46",
+              "type": "video",
+              "player": "Sendvid",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=4942334",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4942334",
+              "type": "video",
+              "player": "Sibnet",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            },
+            "Scan": {
+              "url": "https://www.myvi.top/embed/5pozwbjy1dqwfkd6tzjk9if8mw",
+              "embedUrl": "https://www.myvi.top/embed/5pozwbjy1dqwfkd6tzjk9if8mw",
+              "type": "video",
+              "player": "Scan",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            }
+          },
+          "totalOptions": 3,
+          "scrapedAt": "2026-01-01T10:19:33.548Z"
+        },
+        "12": {
+          "number": 12,
+          "players": {
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/m2pqqbhl",
+              "embedUrl": "https://sendvid.com/embed/m2pqqbhl",
+              "type": "video",
+              "player": "Sendvid",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=4942338",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4942338",
+              "type": "video",
+              "player": "Sibnet",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            },
+            "Scan": {
+              "url": "https://www.myvi.top/embed/yrsptuweqkdwfeywr3gj8z3uoc",
+              "embedUrl": "https://www.myvi.top/embed/yrsptuweqkdwfeywr3gj8z3uoc",
+              "type": "video",
+              "player": "Scan",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            }
+          },
+          "totalOptions": 3,
+          "scrapedAt": "2026-01-01T10:19:33.548Z"
+        },
+        "13": {
+          "number": 13,
+          "players": {
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/j82ej9h1",
+              "embedUrl": "https://sendvid.com/embed/j82ej9h1",
+              "type": "video",
+              "player": "Sendvid",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=4942340",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4942340",
+              "type": "video",
+              "player": "Sibnet",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            },
+            "Scan": {
+              "url": "https://www.myvi.top/embed/t5kdgedaqpnrxd8ccq6s54bnww",
+              "embedUrl": "https://www.myvi.top/embed/t5kdgedaqpnrxd8ccq6s54bnww",
+              "type": "video",
+              "player": "Scan",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            }
+          },
+          "totalOptions": 3,
+          "scrapedAt": "2026-01-01T10:19:33.548Z"
+        },
+        "14": {
+          "number": 14,
+          "players": {
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/fsc3azlk",
+              "embedUrl": "https://sendvid.com/embed/fsc3azlk",
+              "type": "video",
+              "player": "Sendvid",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=4942342",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4942342",
+              "type": "video",
+              "player": "Sibnet",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            },
+            "Scan": {
+              "url": "https://www.myvi.top/embed/axbh9zo3tb3wxr59uppy5icfir",
+              "embedUrl": "https://www.myvi.top/embed/axbh9zo3tb3wxr59uppy5icfir",
+              "type": "video",
+              "player": "Scan",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            }
+          },
+          "totalOptions": 3,
+          "scrapedAt": "2026-01-01T10:19:33.548Z"
+        },
+        "15": {
+          "number": 15,
+          "players": {
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/jgq9dxpw",
+              "embedUrl": "https://sendvid.com/embed/jgq9dxpw",
+              "type": "video",
+              "player": "Sendvid",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=4942343",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4942343",
+              "type": "video",
+              "player": "Sibnet",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            },
+            "Scan": {
+              "url": "https://www.myvi.top/embed/1c4w56fpjt9r9ngqmeushtfg9w",
+              "embedUrl": "https://www.myvi.top/embed/1c4w56fpjt9r9ngqmeushtfg9w",
+              "type": "video",
+              "player": "Scan",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            }
+          },
+          "totalOptions": 3,
+          "scrapedAt": "2026-01-01T10:19:33.548Z"
+        },
+        "16": {
+          "number": 16,
+          "players": {
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/apwt9582",
+              "embedUrl": "https://sendvid.com/embed/apwt9582",
+              "type": "video",
+              "player": "Sendvid",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=4942344",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4942344",
+              "type": "video",
+              "player": "Sibnet",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            },
+            "Scan": {
+              "url": "https://www.myvi.top/embed/bi5njadpqpnwby54m7351r3bme",
+              "embedUrl": "https://www.myvi.top/embed/bi5njadpqpnwby54m7351r3bme",
+              "type": "video",
+              "player": "Scan",
+              "scrapedAt": "2026-01-01T10:19:33.548Z"
+            }
+          },
+          "totalOptions": 3,
+          "scrapedAt": "2026-01-01T10:19:33.548Z"
+        }
+      },
+      "scrapedAt": "2026-01-01T10:19:33.548Z",
+      "lastUpdated": "2026-01-01T10:19:33.548Z"
     }
   },
   "chapters": {},
@@ -73091,13 +73606,13 @@
       "scan": 0
     },
     "byPlayer": {
-      "Sibnet": 126,
+      "Sibnet": 127,
       "Vidmoly": 84,
-      "Scan": 81,
-      "Sendvid": 132,
+      "Scan": 82,
+      "Sendvid": 133,
       "OneUpload": 14,
       "Smoothpre": 10
     },
-    "lastUpdate": "2026-01-01T10:19:31.448Z"
+    "lastUpdate": "2026-01-01T10:19:33.548Z"
   }
 }
