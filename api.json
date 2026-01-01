@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:09:58.529Z",
-  "totalAnimes": 9,
+  "lastUpdated": "2026-01-01T10:09:59.818Z",
+  "totalAnimes": 10,
   "totalScans": 0,
   "totalEpisodes": 183,
   "totalChapters": 0,
@@ -195,6 +195,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:09:55.325Z"
+    },
+    "91-days": {
+      "id": "91-days",
+      "title": "91 Days",
+      "slug": "91-days",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/91-days/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/91-days/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/91-days/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "91-days_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:09:59.817Z"
     }
   },
   "scans": {},
@@ -6179,10 +6200,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 2,
-      "vostfr": 7
+      "vostfr": 8
     },
     "byType": {
-      "anime": 9,
+      "anime": 10,
       "scan": 0
     },
     "byPlayer": {
@@ -6192,6 +6213,6 @@
       "Sendvid": 12,
       "OneUpload": 1
     },
-    "lastUpdate": "2026-01-01T10:09:58.529Z"
+    "lastUpdate": "2026-01-01T10:09:59.818Z"
   }
 }
