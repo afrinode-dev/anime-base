@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:43:22.259Z",
+  "lastUpdated": "2026-01-01T09:43:23.668Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1613,
@@ -1970,17 +1970,22 @@
     "ao-ashi": {
       "id": "ao-ashi",
       "title": "Ao Ashi",
-      "originalLink": "https://anime-sama.tv/catalogue/ao-ashi",
       "slug": "ao-ashi",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ao-ashi.jpg",
-      "banner": null,
-      "description": "Doté d'un tempérament de feu, le jeune Ashito Aoi aime le football plus que quiconque. Son rêve : devenir joueur professionnel ! Mais ses dons ne lui évitent pas une terrible déconvenue lors d'un match de coupe inter collèges. C'est à ce moment précis qu'un mystérieux inconnu l'interpelle, et lui propose de prendre son avenir en mains. Le destin du garçon qui s'apprête à révolutionner les sommets du football japonais opère alors un tournant décisif !",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/ao-ashi/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:34.505Z",
-      "lastUpdated": "2026-01-01T09:12:34.505Z"
+      "scrapedAt": "2026-01-01T09:43:23.668Z",
+      "lastUpdated": "2026-01-01T09:43:23.668Z"
     },
     "ao-haru-ride": {
       "id": "ao-haru-ride",
@@ -47158,8 +47163,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 86,
-      "vostfr": 63
+      "vf": 85,
+      "vostfr": 64
     },
     "byType": {
       "anime": 149,
@@ -47173,7 +47178,7 @@
       "OneUpload": 9,
       "Smoothpre": 5
     },
-    "lastUpdate": "2026-01-01T09:43:22.258Z"
+    "lastUpdate": "2026-01-01T09:43:23.668Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
