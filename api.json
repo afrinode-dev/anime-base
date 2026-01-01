@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:16:22.491Z",
-  "totalAnimes": 84,
+  "lastUpdated": "2026-01-01T10:16:24.226Z",
+  "totalAnimes": 85,
   "totalScans": 0,
   "totalEpisodes": 1625,
   "totalChapters": 0,
@@ -1770,6 +1770,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:16:19.043Z"
+    },
+    "ao-haru-ride": {
+      "id": "ao-haru-ride",
+      "title": "Ao Haru Ride",
+      "slug": "ao-haru-ride",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/ao-haru-ride/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/ao-haru-ride/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/ao-haru-ride/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "ao-haru-ride_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:16:24.226Z"
     }
   },
   "scans": {},
@@ -54047,10 +54068,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 22,
-      "vostfr": 62
+      "vostfr": 63
     },
     "byType": {
-      "anime": 84,
+      "anime": 85,
       "scan": 0
     },
     "byPlayer": {
@@ -54061,6 +54082,6 @@
       "OneUpload": 9,
       "Smoothpre": 6
     },
-    "lastUpdate": "2026-01-01T10:16:22.490Z"
+    "lastUpdate": "2026-01-01T10:16:24.226Z"
   }
 }
