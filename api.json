@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:15:20.153Z",
-  "totalAnimes": 71,
+  "lastUpdated": "2026-01-01T10:15:21.473Z",
+  "totalAnimes": 72,
   "totalScans": 0,
   "totalEpisodes": 1410,
   "totalChapters": 0,
@@ -1497,6 +1497,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:15:17.841Z"
+    },
+    "ameku-takao-no-suiri-karte": {
+      "id": "ameku-takao-no-suiri-karte",
+      "title": "Ameku Takao no Suiri Karte",
+      "slug": "ameku-takao-no-suiri-karte",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/ameku-takao-no-suiri-karte/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/ameku-takao-no-suiri-karte/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/ameku-takao-no-suiri-karte/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "ameku-takao-no-suiri-karte_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:15:21.473Z"
     }
   },
   "scans": {},
@@ -46284,10 +46305,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 19,
-      "vostfr": 52
+      "vostfr": 53
     },
     "byType": {
-      "anime": 71,
+      "anime": 72,
       "scan": 0
     },
     "byPlayer": {
@@ -46298,6 +46319,6 @@
       "OneUpload": 8,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T10:15:20.152Z"
+    "lastUpdate": "2026-01-01T10:15:21.473Z"
   }
 }
