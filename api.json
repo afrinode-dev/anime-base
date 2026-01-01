@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:37:03.111Z",
+  "lastUpdated": "2026-01-01T09:37:04.592Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 147,
@@ -240,17 +240,22 @@
     "86-eighty-six": {
       "id": "86-eighty-six",
       "title": "86 Eighty Six",
-      "originalLink": "https://anime-sama.tv/catalogue/86-eighty-six/",
       "slug": "86-eighty-six",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/86-eighty-six1.jpg",
-      "banner": null,
-      "description": "La République de San Magnolia est un vaste territoire constitué de 85 districts. Constamment attaqué par un Empire voisin et ses mystérieuses armes baptisées",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/86-eighty-six/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:11:44.068Z",
-      "lastUpdated": "2026-01-01T09:11:44.068Z"
+      "scrapedAt": "2026-01-01T09:37:04.592Z",
+      "lastUpdated": "2026-01-01T09:37:04.592Z"
     },
     "7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy": {
       "id": "7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy",
@@ -6429,8 +6434,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 140,
-      "vostfr": 9
+      "vf": 139,
+      "vostfr": 10
     },
     "byType": {
       "anime": 149,
@@ -6443,7 +6448,7 @@
       "Sendvid": 10,
       "OneUpload": 1
     },
-    "lastUpdate": "2026-01-01T09:37:03.111Z"
+    "lastUpdate": "2026-01-01T09:37:04.592Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
