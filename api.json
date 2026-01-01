@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:18:20.225Z",
-  "totalAnimes": 108,
+  "lastUpdated": "2026-01-01T10:18:21.912Z",
+  "totalAnimes": 109,
   "totalScans": 0,
   "totalEpisodes": 1967,
   "totalChapters": 0,
@@ -2274,6 +2274,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:18:17.118Z"
+    },
+    "assassination-classroom": {
+      "id": "assassination-classroom",
+      "title": "Assassination Classroom",
+      "slug": "assassination-classroom",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/assassination-classroom/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/assassination-classroom/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/assassination-classroom/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "assassination-classroom_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:18:21.910Z"
     }
   },
   "scans": {},
@@ -65777,10 +65798,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 24,
-      "vostfr": 84
+      "vostfr": 85
     },
     "byType": {
-      "anime": 108,
+      "anime": 109,
       "scan": 0
     },
     "byPlayer": {
@@ -65791,6 +65812,6 @@
       "OneUpload": 13,
       "Smoothpre": 10
     },
-    "lastUpdate": "2026-01-01T10:18:20.225Z"
+    "lastUpdate": "2026-01-01T10:18:21.910Z"
   }
 }
