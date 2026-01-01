@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:16:38.027Z",
-  "totalAnimes": 87,
+  "lastUpdated": "2026-01-01T10:16:39.565Z",
+  "totalAnimes": 88,
   "totalScans": 0,
   "totalEpisodes": 1673,
   "totalChapters": 0,
@@ -1833,6 +1833,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:16:35.762Z"
+    },
+    "aoi-hana": {
+      "id": "aoi-hana",
+      "title": "Aoi Hana",
+      "slug": "aoi-hana",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/aoi-hana/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/aoi-hana/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/aoi-hana/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "aoi-hana_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:16:39.564Z"
     }
   },
   "scans": {},
@@ -55800,10 +55821,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 23,
-      "vostfr": 64
+      "vostfr": 65
     },
     "byType": {
-      "anime": 87,
+      "anime": 88,
       "scan": 0
     },
     "byPlayer": {
@@ -55814,6 +55835,6 @@
       "OneUpload": 9,
       "Smoothpre": 8
     },
-    "lastUpdate": "2026-01-01T10:16:38.026Z"
+    "lastUpdate": "2026-01-01T10:16:39.564Z"
   }
 }
