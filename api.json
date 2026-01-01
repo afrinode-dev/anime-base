@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:39:23.707Z",
+  "lastUpdated": "2026-01-01T09:39:25.381Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 600,
@@ -885,17 +885,22 @@
     "acchi-kocchi": {
       "id": "acchi-kocchi",
       "title": "Acchi Kocchi",
-      "originalLink": "https://anime-sama.tv/catalogue/acchi-kocchi",
       "slug": "acchi-kocchi",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/acchi-kocchi.jpg",
-      "banner": null,
-      "description": "Acchi Kocchi est un anime adapté du manga du même nom de Ishiki dont la publication débute en 2007. Cet anime nous propose de découvrir une nouvelle génération tsundere. L'histoire est centrée sur deux camarades de classe : Tsumiki et Io, ainsi que sur leur quotidien accompagné des drôles d'énergumènes que sont Hime, Mayoi et Sakaki. Tandis que la jeune Tsumiki semble insensible, Io lui est insociable. Pourtant, un lien d'amitié va les unir...",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/acchi-kocchi/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:02.522Z",
-      "lastUpdated": "2026-01-01T09:12:02.522Z"
+      "scrapedAt": "2026-01-01T09:39:25.381Z",
+      "lastUpdated": "2026-01-01T09:39:25.381Z"
     },
     "ace-of-diamond": {
       "id": "ace-of-diamond",
@@ -18454,8 +18459,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 122,
-      "vostfr": 27
+      "vf": 121,
+      "vostfr": 28
     },
     "byType": {
       "anime": 149,
@@ -18468,7 +18473,7 @@
       "Sendvid": 39,
       "OneUpload": 3
     },
-    "lastUpdate": "2026-01-01T09:39:23.705Z"
+    "lastUpdate": "2026-01-01T09:39:25.381Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
