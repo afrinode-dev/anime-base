@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:17:36.895Z",
-  "totalAnimes": 99,
+  "lastUpdated": "2026-01-01T10:17:38.615Z",
+  "totalAnimes": 100,
   "totalScans": 0,
   "totalEpisodes": 1818,
   "totalChapters": 0,
@@ -2085,6 +2085,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:17:33.722Z"
+    },
+    "arifureta": {
+      "id": "arifureta",
+      "title": "Arifureta",
+      "slug": "arifureta",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/arifureta/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/arifureta/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/arifureta/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "arifureta_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:17:38.614Z"
     }
   },
   "scans": {},
@@ -60941,10 +60962,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 24,
-      "vostfr": 75
+      "vostfr": 76
     },
     "byType": {
-      "anime": 99,
+      "anime": 100,
       "scan": 0
     },
     "byPlayer": {
@@ -60955,6 +60976,6 @@
       "OneUpload": 12,
       "Smoothpre": 9
     },
-    "lastUpdate": "2026-01-01T10:17:36.895Z"
+    "lastUpdate": "2026-01-01T10:17:38.614Z"
   }
 }
