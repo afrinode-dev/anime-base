@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:13:12.229Z",
-  "totalAnimes": 45,
+  "lastUpdated": "2026-01-01T10:13:14.099Z",
+  "totalAnimes": 46,
   "totalScans": 0,
   "totalEpisodes": 899,
   "totalChapters": 0,
@@ -951,6 +951,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:13:09.696Z"
+    },
+    "aho-girl": {
+      "id": "aho-girl",
+      "title": "Aho Girl",
+      "slug": "aho-girl",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/aho-girl/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/aho-girl/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/aho-girl/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "aho-girl_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:13:14.098Z"
     }
   },
   "scans": {},
@@ -28264,10 +28285,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 12,
-      "vostfr": 33
+      "vostfr": 34
     },
     "byType": {
-      "anime": 45,
+      "anime": 46,
       "scan": 0
     },
     "byPlayer": {
@@ -28278,6 +28299,6 @@
       "OneUpload": 3,
       "Smoothpre": 2
     },
-    "lastUpdate": "2026-01-01T10:13:12.229Z"
+    "lastUpdate": "2026-01-01T10:13:14.098Z"
   }
 }
