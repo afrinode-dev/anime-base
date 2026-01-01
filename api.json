@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:09:28.536Z",
-  "totalAnimes": 3,
+  "lastUpdated": "2026-01-01T10:09:29.531Z",
+  "totalAnimes": 4,
   "totalScans": 0,
   "totalEpisodes": 61,
   "totalChapters": 0,
@@ -69,6 +69,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:09:25.284Z"
+    },
+    "2.5-jigen-no-ririsa": {
+      "id": "2.5-jigen-no-ririsa",
+      "title": "2.5-jigen no Ririsa",
+      "slug": "2.5-jigen-no-ririsa",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/2.5-jigen-no-ririsa/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/2.5-jigen-no-ririsa/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/2.5-jigen-no-ririsa/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "2.5-jigen-no-ririsa_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:09:29.531Z"
     }
   },
   "scans": {},
@@ -2192,10 +2213,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 0,
-      "vostfr": 3
+      "vostfr": 4
     },
     "byType": {
-      "anime": 3,
+      "anime": 4,
       "scan": 0
     },
     "byPlayer": {
@@ -2204,6 +2225,6 @@
       "Scan": 3,
       "Sendvid": 4
     },
-    "lastUpdate": "2026-01-01T10:09:28.536Z"
+    "lastUpdate": "2026-01-01T10:09:29.531Z"
   }
 }
