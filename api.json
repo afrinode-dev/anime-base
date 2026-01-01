@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:15:25.032Z",
-  "totalAnimes": 72,
+  "lastUpdated": "2026-01-01T10:15:26.472Z",
+  "totalAnimes": 73,
   "totalScans": 0,
   "totalEpisodes": 1422,
   "totalChapters": 0,
@@ -1518,6 +1518,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:15:21.473Z"
+    },
+    "amnesia": {
+      "id": "amnesia",
+      "title": "Amnesia",
+      "slug": "amnesia",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/amnesia/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/amnesia/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/amnesia/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "amnesia_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:15:26.472Z"
     }
   },
   "scans": {},
@@ -46704,10 +46725,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 19,
-      "vostfr": 53
+      "vostfr": 54
     },
     "byType": {
-      "anime": 72,
+      "anime": 73,
       "scan": 0
     },
     "byPlayer": {
@@ -46718,6 +46739,6 @@
       "OneUpload": 8,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T10:15:25.030Z"
+    "lastUpdate": "2026-01-01T10:15:26.472Z"
   }
 }
