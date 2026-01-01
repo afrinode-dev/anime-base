@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:21:24.270Z",
-  "totalAnimes": 141,
+  "lastUpdated": "2026-01-01T10:21:26.062Z",
+  "totalAnimes": 142,
   "totalScans": 0,
   "totalEpisodes": 2630,
   "totalChapters": 0,
@@ -2967,6 +2967,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:21:20.076Z"
+    },
+    "be-a-princess-someday": {
+      "id": "be-a-princess-someday",
+      "title": "Be A Princess Someday",
+      "slug": "be-a-princess-someday",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/be-a-princess-someday/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/be-a-princess-someday/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/be-a-princess-someday/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "be-a-princess-someday_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:21:26.061Z"
     }
   },
   "scans": {},
@@ -87942,10 +87963,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 33,
-      "vostfr": 108
+      "vostfr": 109
     },
     "byType": {
-      "anime": 141,
+      "anime": 142,
       "scan": 0
     },
     "byPlayer": {
@@ -87956,6 +87977,6 @@
       "OneUpload": 17,
       "Smoothpre": 11
     },
-    "lastUpdate": "2026-01-01T10:21:24.270Z"
+    "lastUpdate": "2026-01-01T10:21:26.061Z"
   }
 }
