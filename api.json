@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:17:17.324Z",
-  "totalAnimes": 96,
+  "lastUpdated": "2026-01-01T10:17:18.956Z",
+  "totalAnimes": 97,
   "totalScans": 0,
   "totalEpisodes": 1774,
   "totalChapters": 0,
@@ -2022,6 +2022,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:17:15.034Z"
+    },
+    "arcana-famiglia": {
+      "id": "arcana-famiglia",
+      "title": "Arcana Famiglia",
+      "slug": "arcana-famiglia",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/arcana-famiglia/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/arcana-famiglia/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/arcana-famiglia/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "arcana-famiglia_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:17:18.955Z"
     }
   },
   "scans": {},
@@ -59690,10 +59711,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 23,
-      "vostfr": 73
+      "vostfr": 74
     },
     "byType": {
-      "anime": 96,
+      "anime": 97,
       "scan": 0
     },
     "byPlayer": {
@@ -59704,6 +59725,6 @@
       "OneUpload": 12,
       "Smoothpre": 9
     },
-    "lastUpdate": "2026-01-01T10:17:17.322Z"
+    "lastUpdate": "2026-01-01T10:17:18.955Z"
   }
 }
