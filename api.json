@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:50:01.960Z",
-  "totalAnimes": 191,
+  "lastUpdated": "2026-01-01T09:50:04.048Z",
+  "totalAnimes": 192,
   "totalScans": 0,
   "totalEpisodes": 3464,
   "totalChapters": 0,
@@ -3671,6 +3671,26 @@
       "availableScans": [],
       "scrapedAt": "2026-01-01T09:50:00.053Z",
       "lastUpdated": "2026-01-01T09:50:00.053Z"
+    },
+    "black-lagoon": {
+      "id": "black-lagoon",
+      "title": "Black Lagoon",
+      "slug": "black-lagoon",
+      "language": "vostfr",
+      "type": "anime",
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/black-lagoon/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
+      "availableScans": [],
+      "scrapedAt": "2026-01-01T09:50:04.044Z",
+      "lastUpdated": "2026-01-01T09:50:04.044Z"
     }
   },
   "scans": {},
@@ -100441,10 +100461,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 74,
-      "vostfr": 117
+      "vostfr": 118
     },
     "byType": {
-      "anime": 191,
+      "anime": 192,
       "scan": 0
     },
     "byPlayer": {
@@ -100455,7 +100475,7 @@
       "OneUpload": 19,
       "Smoothpre": 13
     },
-    "lastUpdate": "2026-01-01T09:50:01.960Z"
+    "lastUpdate": "2026-01-01T09:50:04.044Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
