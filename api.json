@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:39:05.705Z",
+  "lastUpdated": "2026-01-01T09:39:07.646Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 527,
@@ -795,17 +795,22 @@
     "absolute-sword-sense": {
       "id": "absolute-sword-sense",
       "title": "Absolute Sword Sense",
-      "originalLink": "https://anime-sama.tv/catalogue/absolute-sword-sense",
       "slug": "absolute-sword-sense",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/absolute-sword-sense.jpg",
-      "banner": null,
-      "description": "So Woonhwi n'a connu qu'embûches et misères dans sa vie. Incapable d'apprendre les arts martiaux avec son dantian détruit, il est abandonné par son clan et capturé par le Culte du Sang où il devient un espion de bas-étage. Trahi et tué par ceux qui avaient promis de le tirer de son malheur, il se retrouve projeté dix ans en arrière, le jour de son kidnapping. Accompagné de sa dague au sale caractère, parviendra-t-il à changer son destin dans cette nouvelle vie ?",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/absolute-sword-sense/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:11:59.987Z",
-      "lastUpdated": "2026-01-01T09:11:59.987Z"
+      "scrapedAt": "2026-01-01T09:39:07.646Z",
+      "lastUpdated": "2026-01-01T09:39:07.646Z"
     },
     "academys-genius-swordmaster": {
       "id": "academys-genius-swordmaster",
@@ -17158,8 +17163,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 124,
-      "vostfr": 25
+      "vf": 123,
+      "vostfr": 26
     },
     "byType": {
       "anime": 149,
@@ -17172,7 +17177,7 @@
       "Sendvid": 37,
       "OneUpload": 2
     },
-    "lastUpdate": "2026-01-01T09:39:05.704Z"
+    "lastUpdate": "2026-01-01T09:39:07.646Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
