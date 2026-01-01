@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:18:05.509Z",
-  "totalAnimes": 105,
+  "lastUpdated": "2026-01-01T10:18:07.103Z",
+  "totalAnimes": 106,
   "totalScans": 0,
   "totalEpisodes": 1901,
   "totalChapters": 0,
@@ -2211,6 +2211,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:18:02.977Z"
+    },
+    "ascendance-of-a-bookworm": {
+      "id": "ascendance-of-a-bookworm",
+      "title": "Ascendance of a Bookworm",
+      "slug": "ascendance-of-a-bookworm",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/ascendance-of-a-bookworm/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/ascendance-of-a-bookworm/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/ascendance-of-a-bookworm/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "ascendance-of-a-bookworm_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:18:07.103Z"
     }
   },
   "scans": {},
@@ -64045,10 +64066,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 24,
-      "vostfr": 81
+      "vostfr": 82
     },
     "byType": {
-      "anime": 105,
+      "anime": 106,
       "scan": 0
     },
     "byPlayer": {
@@ -64059,6 +64080,6 @@
       "OneUpload": 13,
       "Smoothpre": 10
     },
-    "lastUpdate": "2026-01-01T10:18:05.508Z"
+    "lastUpdate": "2026-01-01T10:18:07.103Z"
   }
 }
