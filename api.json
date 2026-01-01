@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:45:09.077Z",
+  "lastUpdated": "2026-01-01T09:45:10.638Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1933,
@@ -2550,17 +2550,22 @@
     "ashita-no-joe": {
       "id": "ashita-no-joe",
       "title": "Ashita no Joe",
-      "originalLink": "https://anime-sama.tv/catalogue/ashita-no-joe",
       "slug": "ashita-no-joe",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ashita-no-joe.jpg",
-      "banner": null,
-      "description": "Joe Yabuki, 15 ans, est un jeune orphelin roublard et bagarreur. Arrivant dans un bidonville, ses talents au combat attirent l'intérêt de Tange Danpei, ancien boxeur alcoolique qui décide de l'entraîner pour en faire un boxeur exceptionnel. Seulement, Joe Yabuki n'est pas trop intéressé par cette idée... et a des problèmes avec les autorités.",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/ashita-no-joe/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:54.551Z",
-      "lastUpdated": "2026-01-01T09:12:54.551Z"
+      "scrapedAt": "2026-01-01T09:45:10.637Z",
+      "lastUpdated": "2026-01-01T09:45:10.637Z"
     },
     "asobi-asobase": {
       "id": "asobi-asobase",
@@ -56635,8 +56640,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 65,
-      "vostfr": 84
+      "vf": 64,
+      "vostfr": 85
     },
     "byType": {
       "anime": 149,
@@ -56650,7 +56655,7 @@
       "OneUpload": 13,
       "Smoothpre": 10
     },
-    "lastUpdate": "2026-01-01T09:45:09.076Z"
+    "lastUpdate": "2026-01-01T09:45:10.637Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
