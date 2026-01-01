@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:47:18.691Z",
-  "totalAnimes": 163,
+  "lastUpdated": "2026-01-01T09:47:20.274Z",
+  "totalAnimes": 164,
   "totalScans": 0,
   "totalEpisodes": 2490,
   "totalChapters": 0,
@@ -3111,6 +3111,26 @@
       "availableScans": [],
       "scrapedAt": "2026-01-01T09:47:16.164Z",
       "lastUpdated": "2026-01-01T09:47:16.164Z"
+    },
+    "banana-fish": {
+      "id": "banana-fish",
+      "title": "Banana Fish",
+      "slug": "banana-fish",
+      "language": "vostfr",
+      "type": "anime",
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/banana-fish/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
+      "availableScans": [],
+      "scrapedAt": "2026-01-01T09:47:20.271Z",
+      "lastUpdated": "2026-01-01T09:47:20.271Z"
     }
   },
   "scans": {},
@@ -72063,10 +72083,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 62,
-      "vostfr": 101
+      "vostfr": 102
     },
     "byType": {
-      "anime": 163,
+      "anime": 164,
       "scan": 0
     },
     "byPlayer": {
@@ -72077,7 +72097,7 @@
       "OneUpload": 16,
       "Smoothpre": 11
     },
-    "lastUpdate": "2026-01-01T09:47:18.690Z"
+    "lastUpdate": "2026-01-01T09:47:20.271Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
