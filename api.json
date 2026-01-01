@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:14:30.883Z",
-  "totalAnimes": 61,
+  "lastUpdated": "2026-01-01T10:14:32.471Z",
+  "totalAnimes": 62,
   "totalScans": 0,
   "totalEpisodes": 1189,
   "totalChapters": 0,
@@ -1287,6 +1287,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:14:29.267Z"
+    },
+    "all-my-alter-egos-are-tycoons": {
+      "id": "all-my-alter-egos-are-tycoons",
+      "title": "All My Alter Egos Are Tycoons",
+      "slug": "all-my-alter-egos-are-tycoons",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/all-my-alter-egos-are-tycoons/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/all-my-alter-egos-are-tycoons/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/all-my-alter-egos-are-tycoons/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "all-my-alter-egos-are-tycoons_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:14:32.471Z"
     }
   },
   "scans": {},
@@ -38105,10 +38126,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 16,
-      "vostfr": 45
+      "vostfr": 46
     },
     "byType": {
-      "anime": 61,
+      "anime": 62,
       "scan": 0
     },
     "byPlayer": {
@@ -38119,6 +38140,6 @@
       "OneUpload": 4,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T10:14:30.883Z"
+    "lastUpdate": "2026-01-01T10:14:32.471Z"
   }
 }
