@@ -1,9 +1,9 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:12:34.061Z",
+  "lastUpdated": "2026-01-01T10:12:36.565Z",
   "totalAnimes": 39,
   "totalScans": 0,
-  "totalEpisodes": 724,
+  "totalEpisodes": 750,
   "totalChapters": 0,
   "mainDomain": "anime-sama.tv",
   "animes": {
@@ -845,14 +845,14 @@
     "Vidmoly": {
       "name": "Vidmoly",
       "type": "video",
-      "count": 32,
-      "lastUsed": "2026-01-01T10:12:25.082Z",
+      "count": 33,
+      "lastUsed": "2026-01-01T10:12:36.564Z",
       "exampleUrls": [
-        "https://vidmoly.to/embed-.html",
         "https://vidmoly.net/embed-0jgalo3h54m3.html",
         "https://vidmoly.to/embed-04wbnarg9tsr.html",
         "https://vidmoly.to/embed-9jwskcxnf8qj.html",
-        "https://vidmoly.to/embed-w15ed3ds9k4t.html"
+        "https://vidmoly.to/embed-w15ed3ds9k4t.html",
+        "https://vidmoly.to/embed-4ts6dqvziij0.html"
       ]
     },
     "Scan": {
@@ -890,6 +890,15 @@
         "https://oneupload.to/embed-fa3bfw24qud9.html",
         "https://oneupload.to/embed-pkmrpyk7hxfz.html",
         "https://oneupload.to/embed-q2u6ppksjqj6.html"
+      ]
+    },
+    "Smoothpre": {
+      "name": "Smoothpre",
+      "type": "video",
+      "count": 1,
+      "lastUsed": "2026-01-01T10:12:36.564Z",
+      "exampleUrls": [
+        "https://Smoothpre.com/embed/e66a5xmvnzhh"
       ]
     }
   },
@@ -22808,6 +22817,619 @@
       },
       "scrapedAt": "2026-01-01T10:12:32.400Z",
       "lastUpdated": "2026-01-01T10:12:32.400Z"
+    },
+    "adventure-time_saison1_vostfr": {
+      "episodeId": "adventure-time_saison1_vostfr",
+      "animeId": "adventure-time",
+      "title": "Adventure Time",
+      "slug": "adventure-time",
+      "season": "saison1",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/adventure-time/saison1/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/adventure-time/saison1/vostfr/",
+      "totalEpisodes": 26,
+      "episodesList": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "players": {
+        "Smoothpre": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Smoothpre",
+          "totalEpisodes": 26,
+          "firstUrl": "https://Smoothpre.com/embed/e66a5xmvnzhh",
+          "lastUrl": "https://Smoothpre.com/embed/g3gq9noepj8v",
+          "isScan": false
+        },
+        "Vidmoly": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "totalEpisodes": 26,
+          "firstUrl": "https://vidmoly.to/embed-4ts6dqvziij0.html",
+          "lastUrl": "https://vidmoly.to/embed-0rjlh8gl3twb.html",
+          "isScan": false
+        }
+      },
+      "availablePlayers": [
+        "Smoothpre",
+        "Vidmoly"
+      ],
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Smoothpre": {
+              "url": "https://Smoothpre.com/embed/e66a5xmvnzhh",
+              "embedUrl": "https://Smoothpre.com/embed/e66a5xmvnzhh",
+              "type": "video",
+              "player": "Smoothpre",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-4ts6dqvziij0.html",
+              "embedUrl": "https://vidmoly.to/embed-4ts6dqvziij0.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:36.563Z"
+        },
+        "2": {
+          "number": 2,
+          "players": {
+            "Smoothpre": {
+              "url": "https://Smoothpre.com/embed/w43m59y6g616",
+              "embedUrl": "https://Smoothpre.com/embed/w43m59y6g616",
+              "type": "video",
+              "player": "Smoothpre",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-g0buph7kmtb2.html",
+              "embedUrl": "https://vidmoly.to/embed-g0buph7kmtb2.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:36.563Z"
+        },
+        "3": {
+          "number": 3,
+          "players": {
+            "Smoothpre": {
+              "url": "https://Smoothpre.com/embed/zd50f4y8xqhr",
+              "embedUrl": "https://Smoothpre.com/embed/zd50f4y8xqhr",
+              "type": "video",
+              "player": "Smoothpre",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-po6jl4jpdef9.html",
+              "embedUrl": "https://vidmoly.to/embed-po6jl4jpdef9.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:36.563Z"
+        },
+        "4": {
+          "number": 4,
+          "players": {
+            "Smoothpre": {
+              "url": "https://Smoothpre.com/embed/9ivgc0xtyp7p",
+              "embedUrl": "https://Smoothpre.com/embed/9ivgc0xtyp7p",
+              "type": "video",
+              "player": "Smoothpre",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-o6b15jre1ius.html",
+              "embedUrl": "https://vidmoly.to/embed-o6b15jre1ius.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:36.563Z"
+        },
+        "5": {
+          "number": 5,
+          "players": {
+            "Smoothpre": {
+              "url": "https://Smoothpre.com/embed/9cr5bk86uqgp",
+              "embedUrl": "https://Smoothpre.com/embed/9cr5bk86uqgp",
+              "type": "video",
+              "player": "Smoothpre",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-99lmez7yewcw.html",
+              "embedUrl": "https://vidmoly.to/embed-99lmez7yewcw.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:36.563Z"
+        },
+        "6": {
+          "number": 6,
+          "players": {
+            "Smoothpre": {
+              "url": "https://Smoothpre.com/embed/qw6113wkb0h3",
+              "embedUrl": "https://Smoothpre.com/embed/qw6113wkb0h3",
+              "type": "video",
+              "player": "Smoothpre",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-cwvsse7eybya.html",
+              "embedUrl": "https://vidmoly.to/embed-cwvsse7eybya.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:36.563Z"
+        },
+        "7": {
+          "number": 7,
+          "players": {
+            "Smoothpre": {
+              "url": "https://Smoothpre.com/embed/l7ctiwvo24k0",
+              "embedUrl": "https://Smoothpre.com/embed/l7ctiwvo24k0",
+              "type": "video",
+              "player": "Smoothpre",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-dqvsklvx3phc.html",
+              "embedUrl": "https://vidmoly.to/embed-dqvsklvx3phc.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:36.563Z"
+        },
+        "8": {
+          "number": 8,
+          "players": {
+            "Smoothpre": {
+              "url": "https://Smoothpre.com/embed/2x7o7wr1x59r",
+              "embedUrl": "https://Smoothpre.com/embed/2x7o7wr1x59r",
+              "type": "video",
+              "player": "Smoothpre",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-ujkganzealdh.html",
+              "embedUrl": "https://vidmoly.to/embed-ujkganzealdh.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:36.563Z"
+        },
+        "9": {
+          "number": 9,
+          "players": {
+            "Smoothpre": {
+              "url": "https://Smoothpre.com/embed/n5b6xvlm867v",
+              "embedUrl": "https://Smoothpre.com/embed/n5b6xvlm867v",
+              "type": "video",
+              "player": "Smoothpre",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-yn0zuixizdla.html",
+              "embedUrl": "https://vidmoly.to/embed-yn0zuixizdla.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:36.563Z"
+        },
+        "10": {
+          "number": 10,
+          "players": {
+            "Smoothpre": {
+              "url": "https://Smoothpre.com/embed/h0bmca9kd2pl",
+              "embedUrl": "https://Smoothpre.com/embed/h0bmca9kd2pl",
+              "type": "video",
+              "player": "Smoothpre",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-qpmjj9ft9122.html",
+              "embedUrl": "https://vidmoly.to/embed-qpmjj9ft9122.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:36.563Z"
+        },
+        "11": {
+          "number": 11,
+          "players": {
+            "Smoothpre": {
+              "url": "https://Smoothpre.com/embed/w6xkwsi1blch",
+              "embedUrl": "https://Smoothpre.com/embed/w6xkwsi1blch",
+              "type": "video",
+              "player": "Smoothpre",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-r65t6zzd7tzq.html",
+              "embedUrl": "https://vidmoly.to/embed-r65t6zzd7tzq.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:36.563Z"
+        },
+        "12": {
+          "number": 12,
+          "players": {
+            "Smoothpre": {
+              "url": "https://Smoothpre.com/embed/pb8z1qv94sej",
+              "embedUrl": "https://Smoothpre.com/embed/pb8z1qv94sej",
+              "type": "video",
+              "player": "Smoothpre",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-220fd0i0jqe8.html",
+              "embedUrl": "https://vidmoly.to/embed-220fd0i0jqe8.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:36.563Z"
+        },
+        "13": {
+          "number": 13,
+          "players": {
+            "Smoothpre": {
+              "url": "https://Smoothpre.com/embed/okj39tghndwc",
+              "embedUrl": "https://Smoothpre.com/embed/okj39tghndwc",
+              "type": "video",
+              "player": "Smoothpre",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-ffzfy3zansc2.html",
+              "embedUrl": "https://vidmoly.to/embed-ffzfy3zansc2.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:36.563Z"
+        },
+        "14": {
+          "number": 14,
+          "players": {
+            "Smoothpre": {
+              "url": "https://Smoothpre.com/embed/nkjcfodm5rgy",
+              "embedUrl": "https://Smoothpre.com/embed/nkjcfodm5rgy",
+              "type": "video",
+              "player": "Smoothpre",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-yw3chtbv2d2t.html",
+              "embedUrl": "https://vidmoly.to/embed-yw3chtbv2d2t.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:36.563Z"
+        },
+        "15": {
+          "number": 15,
+          "players": {
+            "Smoothpre": {
+              "url": "https://Smoothpre.com/embed/q85swoopugxy",
+              "embedUrl": "https://Smoothpre.com/embed/q85swoopugxy",
+              "type": "video",
+              "player": "Smoothpre",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-amebctcogr1p.html",
+              "embedUrl": "https://vidmoly.to/embed-amebctcogr1p.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:36.563Z"
+        },
+        "16": {
+          "number": 16,
+          "players": {
+            "Smoothpre": {
+              "url": "https://Smoothpre.com/embed/ggzy6z2rhbzh",
+              "embedUrl": "https://Smoothpre.com/embed/ggzy6z2rhbzh",
+              "type": "video",
+              "player": "Smoothpre",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-h5bxvncc0a8i.html",
+              "embedUrl": "https://vidmoly.to/embed-h5bxvncc0a8i.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:36.563Z"
+        },
+        "17": {
+          "number": 17,
+          "players": {
+            "Smoothpre": {
+              "url": "https://Smoothpre.com/embed/bxmhuts4qnyz",
+              "embedUrl": "https://Smoothpre.com/embed/bxmhuts4qnyz",
+              "type": "video",
+              "player": "Smoothpre",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-w6v0ub950bsn.html",
+              "embedUrl": "https://vidmoly.to/embed-w6v0ub950bsn.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:36.563Z"
+        },
+        "18": {
+          "number": 18,
+          "players": {
+            "Smoothpre": {
+              "url": "https://Smoothpre.com/embed/4qtccfgmy8q1",
+              "embedUrl": "https://Smoothpre.com/embed/4qtccfgmy8q1",
+              "type": "video",
+              "player": "Smoothpre",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-vxmeog3gofnd.html",
+              "embedUrl": "https://vidmoly.to/embed-vxmeog3gofnd.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:36.563Z"
+        },
+        "19": {
+          "number": 19,
+          "players": {
+            "Smoothpre": {
+              "url": "https://Smoothpre.com/embed/680ok79264j7",
+              "embedUrl": "https://Smoothpre.com/embed/680ok79264j7",
+              "type": "video",
+              "player": "Smoothpre",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-cgxvoesfkihq.html",
+              "embedUrl": "https://vidmoly.to/embed-cgxvoesfkihq.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:36.563Z"
+        },
+        "20": {
+          "number": 20,
+          "players": {
+            "Smoothpre": {
+              "url": "https://Smoothpre.com/embed/p6ijmrd4uioz",
+              "embedUrl": "https://Smoothpre.com/embed/p6ijmrd4uioz",
+              "type": "video",
+              "player": "Smoothpre",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-nu057pl3e4c8.html",
+              "embedUrl": "https://vidmoly.to/embed-nu057pl3e4c8.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:36.563Z"
+        },
+        "21": {
+          "number": 21,
+          "players": {
+            "Smoothpre": {
+              "url": "https://Smoothpre.com/embed/iz8pm0k8z26q",
+              "embedUrl": "https://Smoothpre.com/embed/iz8pm0k8z26q",
+              "type": "video",
+              "player": "Smoothpre",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-hagugkyyg73u.html",
+              "embedUrl": "https://vidmoly.to/embed-hagugkyyg73u.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:36.563Z"
+        },
+        "22": {
+          "number": 22,
+          "players": {
+            "Smoothpre": {
+              "url": "https://Smoothpre.com/embed/i0vekjx7hotg",
+              "embedUrl": "https://Smoothpre.com/embed/i0vekjx7hotg",
+              "type": "video",
+              "player": "Smoothpre",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-nu2s4vsx71y0.html",
+              "embedUrl": "https://vidmoly.to/embed-nu2s4vsx71y0.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:36.563Z"
+        },
+        "23": {
+          "number": 23,
+          "players": {
+            "Smoothpre": {
+              "url": "https://Smoothpre.com/embed/vgavs5zxsw6j",
+              "embedUrl": "https://Smoothpre.com/embed/vgavs5zxsw6j",
+              "type": "video",
+              "player": "Smoothpre",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-3yiwlus05y99.html",
+              "embedUrl": "https://vidmoly.to/embed-3yiwlus05y99.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:36.563Z"
+        },
+        "24": {
+          "number": 24,
+          "players": {
+            "Smoothpre": {
+              "url": "https://Smoothpre.com/embed/0zh9pzct34hr",
+              "embedUrl": "https://Smoothpre.com/embed/0zh9pzct34hr",
+              "type": "video",
+              "player": "Smoothpre",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-hq0wsy3bsglh.html",
+              "embedUrl": "https://vidmoly.to/embed-hq0wsy3bsglh.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:36.563Z"
+        },
+        "25": {
+          "number": 25,
+          "players": {
+            "Smoothpre": {
+              "url": "https://Smoothpre.com/embed/8i47fhajz5br",
+              "embedUrl": "https://Smoothpre.com/embed/8i47fhajz5br",
+              "type": "video",
+              "player": "Smoothpre",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-7tckwy0pped4.html",
+              "embedUrl": "https://vidmoly.to/embed-7tckwy0pped4.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:36.563Z"
+        },
+        "26": {
+          "number": 26,
+          "players": {
+            "Smoothpre": {
+              "url": "https://Smoothpre.com/embed/g3gq9noepj8v",
+              "embedUrl": "https://Smoothpre.com/embed/g3gq9noepj8v",
+              "type": "video",
+              "player": "Smoothpre",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-0rjlh8gl3twb.html",
+              "embedUrl": "https://vidmoly.to/embed-0rjlh8gl3twb.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:36.563Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:36.563Z"
+        }
+      },
+      "scrapedAt": "2026-01-01T10:12:36.564Z",
+      "lastUpdated": "2026-01-01T10:12:36.564Z"
     }
   },
   "chapters": {},
@@ -22822,11 +23444,12 @@
     },
     "byPlayer": {
       "Sibnet": 39,
-      "Vidmoly": 32,
+      "Vidmoly": 33,
       "Scan": 26,
       "Sendvid": 43,
-      "OneUpload": 3
+      "OneUpload": 3,
+      "Smoothpre": 1
     },
-    "lastUpdate": "2026-01-01T10:12:34.061Z"
+    "lastUpdate": "2026-01-01T10:12:36.564Z"
   }
 }
