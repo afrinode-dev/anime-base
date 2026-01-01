@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:45:45.831Z",
+  "lastUpdated": "2026-01-01T09:45:47.440Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 2062,
@@ -2740,17 +2740,22 @@
     "shingeki-kyojin-chuugakkou": {
       "id": "shingeki-kyojin-chuugakkou",
       "title": "Attaque des Titans Junior High-school",
-      "originalLink": "https://anime-sama.tv/catalogue/shingeki-kyojin-chuugakkou/",
       "slug": "shingeki-kyojin-chuugakkou",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/shingeki-kyojin-chuugakkou.jpg",
-      "banner": null,
-      "description": "Shingeki! Kyojin Chuugakkou est une parodie de Shingeki no Kyojin (l'Attaque des Titans) et reprend les personnages principaux tel que Eren ou Mikasa.\nL'histoire se passe dans un collège et parodie les scènes les plus marquantes du manga original, ainsi que certains traits de caractère des personnages.",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/shingeki-kyojin-chuugakkou/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:13:00.029Z",
-      "lastUpdated": "2026-01-01T09:13:00.029Z"
+      "scrapedAt": "2026-01-01T09:45:47.440Z",
+      "lastUpdated": "2026-01-01T09:45:47.440Z"
     },
     "aura-koga-maryuins-last-war": {
       "id": "aura-koga-maryuins-last-war",
@@ -60110,8 +60115,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 58,
-      "vostfr": 91
+      "vf": 57,
+      "vostfr": 92
     },
     "byType": {
       "anime": 149,
@@ -60125,7 +60130,7 @@
       "OneUpload": 13,
       "Smoothpre": 10
     },
-    "lastUpdate": "2026-01-01T09:45:45.828Z"
+    "lastUpdate": "2026-01-01T09:45:47.440Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
