@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:22:50.577Z",
-  "totalAnimes": 155,
+  "lastUpdated": "2026-01-01T10:22:52.462Z",
+  "totalAnimes": 156,
   "totalScans": 0,
   "totalEpisodes": 2988,
   "totalChapters": 0,
@@ -3261,6 +3261,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:22:47.833Z"
+    },
+    "birdie-wing": {
+      "id": "birdie-wing",
+      "title": "Birdie Wing",
+      "slug": "birdie-wing",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/birdie-wing/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/birdie-wing/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/birdie-wing/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "birdie-wing_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:22:52.462Z"
     }
   },
   "scans": {},
@@ -98521,10 +98542,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 39,
-      "vostfr": 116
+      "vostfr": 117
     },
     "byType": {
-      "anime": 155,
+      "anime": 156,
       "scan": 0
     },
     "byPlayer": {
@@ -98535,6 +98556,6 @@
       "OneUpload": 18,
       "Smoothpre": 11
     },
-    "lastUpdate": "2026-01-01T10:22:50.576Z"
+    "lastUpdate": "2026-01-01T10:22:52.462Z"
   }
 }
