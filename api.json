@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:43:14.965Z",
+  "lastUpdated": "2026-01-01T09:43:16.336Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1577,
@@ -1935,17 +1935,22 @@
     "another": {
       "id": "another",
       "title": "Another",
-      "originalLink": "https://anime-sama.tv/catalogue/another/",
       "slug": "another",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/another.jpg",
-      "banner": null,
-      "description": "En 1972, dans l'établissement de Yomiyama au Japon, un jeune nommé Misaki Yomiyama meurt dans un accident mystérieux. Ses camarades de la classe 3-3, très attristés et ne voulant pas y croire, décident de faire comme si il était encore en vie jusqu'à la fin de l'année, lors de la remise des diplômes. C'est alors le début d'une longue histoire...",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/another/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:33.900Z",
-      "lastUpdated": "2026-01-01T09:12:33.900Z"
+      "scrapedAt": "2026-01-01T09:43:16.335Z",
+      "lastUpdated": "2026-01-01T09:43:16.335Z"
     },
     "anti-gods-dragon-system": {
       "id": "anti-gods-dragon-system",
@@ -45971,8 +45976,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 86,
-      "vostfr": 63
+      "vf": 85,
+      "vostfr": 64
     },
     "byType": {
       "anime": 149,
@@ -45986,7 +45991,7 @@
       "OneUpload": 9,
       "Smoothpre": 4
     },
-    "lastUpdate": "2026-01-01T09:43:14.964Z"
+    "lastUpdate": "2026-01-01T09:43:16.335Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
