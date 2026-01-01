@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:16:34.525Z",
-  "totalAnimes": 86,
+  "lastUpdated": "2026-01-01T10:16:35.762Z",
+  "totalAnimes": 87,
   "totalScans": 0,
   "totalEpisodes": 1662,
   "totalChapters": 0,
@@ -1812,6 +1812,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:16:32.040Z"
+    },
+    "aoharu-x-kikanjuu": {
+      "id": "aoharu-x-kikanjuu",
+      "title": "Aoharu x Kikanjuu",
+      "slug": "aoharu-x-kikanjuu",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/aoharu-x-kikanjuu/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/aoharu-x-kikanjuu/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/aoharu-x-kikanjuu/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "aoharu-x-kikanjuu_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:16:35.762Z"
     }
   },
   "scans": {},
@@ -55409,10 +55430,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 23,
-      "vostfr": 63
+      "vostfr": 64
     },
     "byType": {
-      "anime": 86,
+      "anime": 87,
       "scan": 0
     },
     "byPlayer": {
@@ -55423,6 +55444,6 @@
       "OneUpload": 9,
       "Smoothpre": 8
     },
-    "lastUpdate": "2026-01-01T10:16:34.525Z"
+    "lastUpdate": "2026-01-01T10:16:35.762Z"
   }
 }
