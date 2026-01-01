@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:36:39.790Z",
+  "lastUpdated": "2026-01-01T09:36:40.937Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 61,
@@ -115,17 +115,22 @@
     "2.5-jigen-no-ririsa": {
       "id": "2.5-jigen-no-ririsa",
       "title": "2.5-jigen no Ririsa",
-      "originalLink": "https://anime-sama.tv/catalogue/2.5-jigen-no-ririsa",
       "slug": "2.5-jigen-no-ririsa",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/2.5-jigen-no-ririsa.jpg",
-      "banner": null,
-      "description": null,
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/2.5-jigen-no-ririsa/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:11:41.699Z",
-      "lastUpdated": "2026-01-01T09:11:41.699Z"
+      "scrapedAt": "2026-01-01T09:36:40.937Z",
+      "lastUpdated": "2026-01-01T09:36:40.937Z"
     },
     "365-days-to-the-wedding": {
       "id": "365-days-to-the-wedding",
@@ -4098,8 +4103,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 144,
-      "vostfr": 5
+      "vf": 143,
+      "vostfr": 6
     },
     "byType": {
       "anime": 149,
@@ -4111,7 +4116,7 @@
       "Scan": 3,
       "Sendvid": 4
     },
-    "lastUpdate": "2026-01-01T09:36:39.790Z"
+    "lastUpdate": "2026-01-01T09:36:40.937Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
