@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:14:10.994Z",
-  "totalAnimes": 57,
+  "lastUpdated": "2026-01-01T10:14:12.471Z",
+  "totalAnimes": 58,
   "totalScans": 0,
   "totalEpisodes": 1135,
   "totalChapters": 0,
@@ -1203,6 +1203,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:14:08.679Z"
+    },
+    "alderamin-on-the-sky": {
+      "id": "alderamin-on-the-sky",
+      "title": "Alderamin on the Sky",
+      "slug": "alderamin-on-the-sky",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/alderamin-on-the-sky/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/alderamin-on-the-sky/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/alderamin-on-the-sky/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "alderamin-on-the-sky_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:14:12.471Z"
     }
   },
   "scans": {},
@@ -36183,10 +36204,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 15,
-      "vostfr": 42
+      "vostfr": 43
     },
     "byType": {
-      "anime": 57,
+      "anime": 58,
       "scan": 0
     },
     "byPlayer": {
@@ -36197,6 +36218,6 @@
       "OneUpload": 4,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T10:14:10.994Z"
+    "lastUpdate": "2026-01-01T10:14:12.471Z"
   }
 }
