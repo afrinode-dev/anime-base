@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:44:53.897Z",
+  "lastUpdated": "2026-01-01T09:44:55.467Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1862,
@@ -2460,17 +2460,22 @@
     "as-miss-beelzebub-likes-it": {
       "id": "as-miss-beelzebub-likes-it",
       "title": "As Miss Beelzebub Likes It",
-      "originalLink": "https://anime-sama.tv/catalogue/as-miss-beelzebub-likes-it",
       "slug": "as-miss-beelzebub-likes-it",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/as-miss-beelzebub-likes-it.jpg",
-      "banner": null,
-      "description": "Murin réussi à décrocher le travail de ses rêves avec le roi démon qu'il a toujours tenu en admiration. Cependant, quand son mandat commence, il s'avère que le roi démon n'est pas tout à fait ce à quoi il s'attendait.",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/as-miss-beelzebub-likes-it/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:51.722Z",
-      "lastUpdated": "2026-01-01T09:12:51.722Z"
+      "scrapedAt": "2026-01-01T09:44:55.466Z",
+      "lastUpdated": "2026-01-01T09:44:55.466Z"
     },
     "asadora": {
       "id": "asadora",
@@ -54997,8 +55002,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 68,
-      "vostfr": 81
+      "vf": 67,
+      "vostfr": 82
     },
     "byType": {
       "anime": 149,
@@ -55012,7 +55017,7 @@
       "OneUpload": 13,
       "Smoothpre": 10
     },
-    "lastUpdate": "2026-01-01T09:44:53.897Z"
+    "lastUpdate": "2026-01-01T09:44:55.466Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
