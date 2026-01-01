@@ -1583,6 +1583,50 @@
       "totalSeasons": 10,
       "scrapedAt": "2026-01-01T11:45:33.009Z",
       "lastUpdated": "2026-01-01T11:45:33.009Z"
+    },
+    "a-mountain-of-corpses-a-sea-of-blood": {
+      "id": "a-mountain-of-corpses-a-sea-of-blood",
+      "title": "A Mountain of Corpses a Sea of Blood",
+      "slug": "a-mountain-of-corpses-a-sea-of-blood",
+      "language": "vostfr",
+      "type": "anime",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-mountain-of-corpses-a-sea-of-blood.jpg",
+      "banner": null,
+      "description": "La guerre ultime entre les humains et les démons toucha à sa fin lorsque le plus puissant des héros, Gron, périt en entraînant le Roi Démon avec lui. Cinq ans plus tard, Gron se réveille au coeur du camp des démons et découvre que son âme s'est réincarnée dans le corps du plus faible d'entre eux. Cependant, il ne tarde pas à réaliser que son esprit a éveillé en ce corps une puissance cachée : le pouvoir d'évolution du Dieu Serpent antique. Autrefois célèbre pour sa justice extrême, quel carnage ",
+      "pageUrl": "https://anime-sama.tv/catalogue/a-mountain-of-corpses-a-sea-of-blood/",
+      "seasons": [
+        {
+          "name": "saison1",
+          "number": 1,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/a-mountain-of-corpses-a-sea-of-blood/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/a-mountain-of-corpses-a-sea-of-blood/saison1/vostfr/episodes.js"
+        },
+        {
+          "name": "saison2",
+          "number": 2,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/a-mountain-of-corpses-a-sea-of-blood/saison2/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/a-mountain-of-corpses-a-sea-of-blood/saison2/vostfr/episodes.js"
+        },
+        {
+          "name": "saison3",
+          "number": 3,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/a-mountain-of-corpses-a-sea-of-blood/saison3/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/a-mountain-of-corpses-a-sea-of-blood/saison3/vostfr/episodes.js"
+        },
+        {
+          "name": "saison4",
+          "number": 4,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/a-mountain-of-corpses-a-sea-of-blood/saison4/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/a-mountain-of-corpses-a-sea-of-blood/saison4/vostfr/episodes.js"
+        }
+      ],
+      "totalSeasons": 4,
+      "scrapedAt": "2026-01-01T11:47:28.366Z",
+      "lastUpdated": "2026-01-01T11:47:28.366Z"
     }
   },
   "seasons": {
@@ -4414,6 +4458,298 @@
       ],
       "scrapedAt": "2026-01-01T11:45:32.710Z",
       "lastUpdated": "2026-01-01T11:45:32.710Z"
+    },
+    "a-mountain-of-corpses-a-sea-of-blood_saison1_vostfr": {
+      "seasonId": "a-mountain-of-corpses-a-sea-of-blood_saison1_vostfr",
+      "animeId": "a-mountain-of-corpses-a-sea-of-blood",
+      "title": "A Mountain of Corpses a Sea of Blood",
+      "slug": "a-mountain-of-corpses-a-sea-of-blood",
+      "season": "saison1",
+      "seasonNumber": 1,
+      "seasonSuffix": "",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/a-mountain-of-corpses-a-sea-of-blood/saison1/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/a-mountain-of-corpses-a-sea-of-blood/saison1/vostfr/",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-mountain-of-corpses-a-sea-of-blood.jpg",
+      "banner": null,
+      "description": "A Mountain of Corpses, a Sea of Blood - Saison 1 | Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "totalEpisodes": 1,
+      "episodesList": [
+        1
+      ],
+      "players": {
+        "Sibnet": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Sibnet",
+          "playerProvider": "sibnet",
+          "totalEpisodes": 1,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "lastUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T11:47:27.975Z"
+        },
+        "Vidmoly": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "playerProvider": "vidmoly",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vidmoly.to/embed-.html",
+          "lastUrl": "https://vidmoly.to/embed-.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T11:47:27.975Z"
+        },
+        "Sendvid": {
+          "playerId": "player_2",
+          "playerKey": "eps3",
+          "playerType": "Sendvid",
+          "playerProvider": "sendvid",
+          "totalEpisodes": 1,
+          "firstUrl": "https://sendvid.com/embed/",
+          "lastUrl": "https://sendvid.com/embed/",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T11:47:27.975Z"
+        },
+        "Scan": {
+          "playerId": "player_3",
+          "playerKey": "eps4",
+          "playerType": "Scan",
+          "playerProvider": "",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "lastUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T11:47:27.975Z"
+        }
+      },
+      "availablePlayers": [
+        "Sibnet",
+        "Vidmoly",
+        "Sendvid",
+        "Scan"
+      ],
+      "scrapedAt": "2026-01-01T11:47:28.039Z",
+      "lastUpdated": "2026-01-01T11:47:28.039Z"
+    },
+    "a-mountain-of-corpses-a-sea-of-blood_saison2_vostfr": {
+      "seasonId": "a-mountain-of-corpses-a-sea-of-blood_saison2_vostfr",
+      "animeId": "a-mountain-of-corpses-a-sea-of-blood",
+      "title": "A Mountain of Corpses a Sea of Blood",
+      "slug": "a-mountain-of-corpses-a-sea-of-blood",
+      "season": "saison2",
+      "seasonNumber": 2,
+      "seasonSuffix": "",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/a-mountain-of-corpses-a-sea-of-blood/saison2/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/a-mountain-of-corpses-a-sea-of-blood/saison2/vostfr/",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-mountain-of-corpses-a-sea-of-blood.jpg",
+      "banner": null,
+      "description": "A Mountain of Corpses, a Sea of Blood - Saison 2 | Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "totalEpisodes": 1,
+      "episodesList": [
+        1
+      ],
+      "players": {
+        "Sibnet": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Sibnet",
+          "playerProvider": "sibnet",
+          "totalEpisodes": 1,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "lastUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T11:47:28.070Z"
+        },
+        "Vidmoly": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "playerProvider": "vidmoly",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vidmoly.to/embed-.html",
+          "lastUrl": "https://vidmoly.to/embed-.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T11:47:28.071Z"
+        },
+        "Sendvid": {
+          "playerId": "player_2",
+          "playerKey": "eps3",
+          "playerType": "Sendvid",
+          "playerProvider": "sendvid",
+          "totalEpisodes": 1,
+          "firstUrl": "https://sendvid.com/embed/",
+          "lastUrl": "https://sendvid.com/embed/",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T11:47:28.071Z"
+        },
+        "Scan": {
+          "playerId": "player_3",
+          "playerKey": "eps4",
+          "playerType": "Scan",
+          "playerProvider": "",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "lastUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T11:47:28.071Z"
+        }
+      },
+      "availablePlayers": [
+        "Sibnet",
+        "Vidmoly",
+        "Sendvid",
+        "Scan"
+      ],
+      "scrapedAt": "2026-01-01T11:47:28.129Z",
+      "lastUpdated": "2026-01-01T11:47:28.129Z"
+    },
+    "a-mountain-of-corpses-a-sea-of-blood_saison3_vostfr": {
+      "seasonId": "a-mountain-of-corpses-a-sea-of-blood_saison3_vostfr",
+      "animeId": "a-mountain-of-corpses-a-sea-of-blood",
+      "title": "A Mountain of Corpses a Sea of Blood",
+      "slug": "a-mountain-of-corpses-a-sea-of-blood",
+      "season": "saison3",
+      "seasonNumber": 3,
+      "seasonSuffix": "",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/a-mountain-of-corpses-a-sea-of-blood/saison3/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/a-mountain-of-corpses-a-sea-of-blood/saison3/vostfr/",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-mountain-of-corpses-a-sea-of-blood.jpg",
+      "banner": null,
+      "description": "A Mountain of Corpses, a Sea of Blood - Saison 3 | Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "totalEpisodes": 1,
+      "episodesList": [
+        1
+      ],
+      "players": {
+        "Sibnet": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Sibnet",
+          "playerProvider": "sibnet",
+          "totalEpisodes": 1,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "lastUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T11:47:28.158Z"
+        },
+        "Vidmoly": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "playerProvider": "vidmoly",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vidmoly.to/embed-.html",
+          "lastUrl": "https://vidmoly.to/embed-.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T11:47:28.158Z"
+        },
+        "Sendvid": {
+          "playerId": "player_2",
+          "playerKey": "eps3",
+          "playerType": "Sendvid",
+          "playerProvider": "sendvid",
+          "totalEpisodes": 1,
+          "firstUrl": "https://sendvid.com/embed/",
+          "lastUrl": "https://sendvid.com/embed/",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T11:47:28.158Z"
+        },
+        "Scan": {
+          "playerId": "player_3",
+          "playerKey": "eps4",
+          "playerType": "Scan",
+          "playerProvider": "",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "lastUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T11:47:28.158Z"
+        }
+      },
+      "availablePlayers": [
+        "Sibnet",
+        "Vidmoly",
+        "Sendvid",
+        "Scan"
+      ],
+      "scrapedAt": "2026-01-01T11:47:28.229Z",
+      "lastUpdated": "2026-01-01T11:47:28.229Z"
+    },
+    "a-mountain-of-corpses-a-sea-of-blood_saison4_vostfr": {
+      "seasonId": "a-mountain-of-corpses-a-sea-of-blood_saison4_vostfr",
+      "animeId": "a-mountain-of-corpses-a-sea-of-blood",
+      "title": "A Mountain of Corpses a Sea of Blood",
+      "slug": "a-mountain-of-corpses-a-sea-of-blood",
+      "season": "saison4",
+      "seasonNumber": 4,
+      "seasonSuffix": "",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/a-mountain-of-corpses-a-sea-of-blood/saison4/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/a-mountain-of-corpses-a-sea-of-blood/saison4/vostfr/",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-mountain-of-corpses-a-sea-of-blood.jpg",
+      "banner": null,
+      "description": "A Mountain of Corpses, a Sea of Blood - Saison 4 | Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "totalEpisodes": 1,
+      "episodesList": [
+        1
+      ],
+      "players": {
+        "Sibnet": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Sibnet",
+          "playerProvider": "sibnet",
+          "totalEpisodes": 1,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "lastUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T11:47:28.257Z"
+        },
+        "Vidmoly": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "playerProvider": "vidmoly",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vidmoly.to/embed-.html",
+          "lastUrl": "https://vidmoly.to/embed-.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T11:47:28.257Z"
+        },
+        "Sendvid": {
+          "playerId": "player_2",
+          "playerKey": "eps3",
+          "playerType": "Sendvid",
+          "playerProvider": "sendvid",
+          "totalEpisodes": 1,
+          "firstUrl": "https://sendvid.com/embed/",
+          "lastUrl": "https://sendvid.com/embed/",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T11:47:28.257Z"
+        },
+        "Scan": {
+          "playerId": "player_3",
+          "playerKey": "eps4",
+          "playerType": "Scan",
+          "playerProvider": "",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "lastUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T11:47:28.257Z"
+        }
+      },
+      "availablePlayers": [
+        "Sibnet",
+        "Vidmoly",
+        "Sendvid",
+        "Scan"
+      ],
+      "scrapedAt": "2026-01-01T11:47:28.315Z",
+      "lastUpdated": "2026-01-01T11:47:28.315Z"
     }
   },
   "episodes": {
@@ -17937,13 +18273,221 @@
       "totalPlayers": 4,
       "scrapedAt": "2026-01-01T11:45:32.710Z",
       "lastUpdated": "2026-01-01T11:45:32.710Z"
+    },
+    "a-mountain-of-corpses-a-sea-of-blood_saison1_vostfr": {
+      "seasonId": "a-mountain-of-corpses-a-sea-of-blood_saison1_vostfr",
+      "animeId": "a-mountain-of-corpses-a-sea-of-blood",
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T11:47:27.975Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-.html",
+              "embedUrl": "https://vidmoly.to/embed-.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T11:47:27.975Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/",
+              "embedUrl": "https://sendvid.com/embed/",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T11:47:27.975Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vk.com/video_ext.php?oid=&hd=3",
+              "embedUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T11:47:27.975Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 4,
+          "scrapedAt": "2026-01-01T11:47:27.975Z"
+        }
+      },
+      "totalPlayers": 4,
+      "scrapedAt": "2026-01-01T11:47:28.039Z",
+      "lastUpdated": "2026-01-01T11:47:28.039Z"
+    },
+    "a-mountain-of-corpses-a-sea-of-blood_saison2_vostfr": {
+      "seasonId": "a-mountain-of-corpses-a-sea-of-blood_saison2_vostfr",
+      "animeId": "a-mountain-of-corpses-a-sea-of-blood",
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T11:47:28.070Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-.html",
+              "embedUrl": "https://vidmoly.to/embed-.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T11:47:28.071Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/",
+              "embedUrl": "https://sendvid.com/embed/",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T11:47:28.071Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vk.com/video_ext.php?oid=&hd=3",
+              "embedUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T11:47:28.071Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 4,
+          "scrapedAt": "2026-01-01T11:47:28.070Z"
+        }
+      },
+      "totalPlayers": 4,
+      "scrapedAt": "2026-01-01T11:47:28.129Z",
+      "lastUpdated": "2026-01-01T11:47:28.129Z"
+    },
+    "a-mountain-of-corpses-a-sea-of-blood_saison3_vostfr": {
+      "seasonId": "a-mountain-of-corpses-a-sea-of-blood_saison3_vostfr",
+      "animeId": "a-mountain-of-corpses-a-sea-of-blood",
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T11:47:28.158Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-.html",
+              "embedUrl": "https://vidmoly.to/embed-.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T11:47:28.158Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/",
+              "embedUrl": "https://sendvid.com/embed/",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T11:47:28.158Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vk.com/video_ext.php?oid=&hd=3",
+              "embedUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T11:47:28.158Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 4,
+          "scrapedAt": "2026-01-01T11:47:28.158Z"
+        }
+      },
+      "totalPlayers": 4,
+      "scrapedAt": "2026-01-01T11:47:28.229Z",
+      "lastUpdated": "2026-01-01T11:47:28.229Z"
+    },
+    "a-mountain-of-corpses-a-sea-of-blood_saison4_vostfr": {
+      "seasonId": "a-mountain-of-corpses-a-sea-of-blood_saison4_vostfr",
+      "animeId": "a-mountain-of-corpses-a-sea-of-blood",
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T11:47:28.257Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-.html",
+              "embedUrl": "https://vidmoly.to/embed-.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T11:47:28.257Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/",
+              "embedUrl": "https://sendvid.com/embed/",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T11:47:28.257Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vk.com/video_ext.php?oid=&hd=3",
+              "embedUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T11:47:28.257Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 4,
+          "scrapedAt": "2026-01-01T11:47:28.257Z"
+        }
+      },
+      "totalPlayers": 4,
+      "scrapedAt": "2026-01-01T11:47:28.315Z",
+      "lastUpdated": "2026-01-01T11:47:28.315Z"
     }
   },
   "players": {
     "Sibnet": {
       "name": "Sibnet",
       "type": "video",
-      "count": 31,
+      "count": 35,
       "exampleUrls": [
         "https://video.sibnet.ru/shell.php?videoid=4821344",
         "https://video.sibnet.ru/shell.php?videoid=",
@@ -17956,14 +18500,13 @@
         "https://video.sibnet.ru/shell.php?videoid=5100038",
         "https://video.sibnet.ru/shell.php?videoid=5263379"
       ],
-      "lastUsed": "2026-01-01T11:45:32.710Z"
+      "lastUsed": "2026-01-01T11:47:28.315Z"
     },
     "Vidmoly": {
       "name": "Vidmoly",
       "type": "video",
-      "count": 29,
+      "count": 33,
       "exampleUrls": [
-        "https://vidmoly.net/embed-rlwxnfhvewql.html",
         "https://vidmoly.net/embed-t0pkf02ctj99.html",
         "https://vidmoly.net/embed-zrcrpl6378tk.html",
         "https://vidmoly.net/embed-e1t9y8dgaki0.html",
@@ -17972,14 +18515,15 @@
         "https://vidmoly.to/embed-l6izth0uq841.html",
         "https://vidmoly.to/embed-v9eygfve7gmf.html",
         "https://vidmoly.to/embed-3iolpt5xbh2o.html",
-        "https://vidmoly.to/embed-kxjuvts4pgs2.html"
+        "https://vidmoly.to/embed-kxjuvts4pgs2.html",
+        "https://vidmoly.to/embed-.html"
       ],
-      "lastUsed": "2026-01-01T11:45:32.710Z"
+      "lastUsed": "2026-01-01T11:47:28.315Z"
     },
     "Scan": {
       "name": "Scan",
       "type": "video",
-      "count": 25,
+      "count": 29,
       "exampleUrls": [
         "https://www.myvi.tv/embed/tmu8p4jspttrxypmsugxw6pfdr",
         "https://www.myvi.top/embed/9e6wu9oed7prfgrboqwm9tc7qa",
@@ -17992,12 +18536,12 @@
         "https://www.myvi.top/embed/ac75w6c4wedwderdzhwyc77nna",
         "https://vk.com/video_ext.php?oid=755747641&id=456240159&hd=3"
       ],
-      "lastUsed": "2026-01-01T11:45:32.710Z"
+      "lastUsed": "2026-01-01T11:47:28.315Z"
     },
     "Sendvid": {
       "name": "Sendvid",
       "type": "video",
-      "count": 33,
+      "count": 37,
       "exampleUrls": [
         "https://sendvid.com/embed/mqeqvezo",
         "https://sendvid.com/embed/",
@@ -18010,7 +18554,7 @@
         "https://sendvid.com/embed/ymofgy1d",
         "https://sendvid.com/embed/5dhsiruq"
       ],
-      "lastUsed": "2026-01-01T11:45:32.710Z"
+      "lastUsed": "2026-01-01T11:47:28.315Z"
     },
     "OneUpload": {
       "name": "OneUpload",
