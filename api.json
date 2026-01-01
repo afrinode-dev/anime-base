@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:44:05.253Z",
+  "lastUpdated": "2026-01-01T09:44:06.739Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1736,
@@ -2185,17 +2185,22 @@
     "arafou-otoko-no-isekai-tsuuhan": {
       "id": "arafou-otoko-no-isekai-tsuuhan",
       "title": "Arafou Otoko no Isekai Tsuuhan",
-      "originalLink": "https://anime-sama.tv/catalogue/arafou-otoko-no-isekai-tsuuhan",
       "slug": "arafou-otoko-no-isekai-tsuuhan",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/arafou-otoko-no-isekai-tsuuhan.jpg",
-      "banner": null,
-      "description": "Kenichi, un homme célibataire d'une quarantaine d'années, est soudainement transporté dans un autre monde. Alors qu'il se fraye un chemin à travers les forêts dangereuses de ce monde, il se rend compte qu'il peut utiliser un énorme site d'achat en ligne, qui existe dans sa réalité à lui.",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/arafou-otoko-no-isekai-tsuuhan/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:41.949Z",
-      "lastUpdated": "2026-01-01T09:12:41.949Z"
+      "scrapedAt": "2026-01-01T09:44:06.736Z",
+      "lastUpdated": "2026-01-01T09:44:06.736Z"
     },
     "arakawa-under-the-bridge": {
       "id": "arakawa-under-the-bridge",
@@ -51429,8 +51434,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 77,
-      "vostfr": 72
+      "vf": 76,
+      "vostfr": 73
     },
     "byType": {
       "anime": 149,
@@ -51444,7 +51449,7 @@
       "OneUpload": 12,
       "Smoothpre": 9
     },
-    "lastUpdate": "2026-01-01T09:44:05.253Z"
+    "lastUpdate": "2026-01-01T09:44:06.736Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
