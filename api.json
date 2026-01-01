@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:42:40.824Z",
+  "lastUpdated": "2026-01-01T09:42:42.296Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1454,
@@ -1775,17 +1775,22 @@
     "an-archdemons-dilemma-how-to-love-your-elf-bride": {
       "id": "an-archdemons-dilemma-how-to-love-your-elf-bride",
       "title": "An Archdemon's Dilemma How to Love Your Elf Bride",
-      "originalLink": "https://anime-sama.tv/catalogue/an-archdemons-dilemma-how-to-love-your-elf-bride",
       "slug": "an-archdemons-dilemma-how-to-love-your-elf-bride",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/an-archdemons-dilemma-how-to-love-your-elf-bride.jpg",
-      "banner": null,
-      "description": "Zagan est craint par la plupart des gens comme un puissant mage noir. Socialement maladroit et grossier, il passe ses journées à étudier la magie tout en terrassant les personnes qui s'introduisent dans son domaine. Un jour, il est invité à une sombre vente aux enchères et y trouve Nephy, une esclave elfe d'une beauté incomparable. Ayant eu le coup de foudre, Zagan utilise toute sa fortune pour l'acheter mais comme il n'est pas doué pour la conversation, il ne sait pas comment interagir correcte",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/an-archdemons-dilemma-how-to-love-your-elf-bride/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:28.401Z",
-      "lastUpdated": "2026-01-01T09:12:28.401Z"
+      "scrapedAt": "2026-01-01T09:42:42.295Z",
+      "lastUpdated": "2026-01-01T09:42:42.295Z"
     },
     "angel-beats": {
       "id": "angel-beats",
@@ -42306,8 +42311,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 93,
-      "vostfr": 56
+      "vf": 92,
+      "vostfr": 57
     },
     "byType": {
       "anime": 149,
@@ -42321,7 +42326,7 @@
       "OneUpload": 8,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T09:42:40.821Z"
+    "lastUpdate": "2026-01-01T09:42:42.295Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
