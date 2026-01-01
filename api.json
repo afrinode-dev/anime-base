@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:44:37.109Z",
+  "lastUpdated": "2026-01-01T09:44:38.674Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1818,
@@ -2365,17 +2365,22 @@
     "arifureta": {
       "id": "arifureta",
       "title": "Arifureta",
-      "originalLink": "https://anime-sama.tv/catalogue/arifureta",
       "slug": "arifureta",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/arifureta.jpg",
-      "banner": null,
-      "description": "Parmi les élèves de sa classe transportsés dans un autre monde, Hajime Nagumo est un étudiant ordinaire sans ambitions. À cause de son manque d'entrain, il est surnommé",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/arifureta/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:48.681Z",
-      "lastUpdated": "2026-01-01T09:12:48.681Z"
+      "scrapedAt": "2026-01-01T09:44:38.674Z",
+      "lastUpdated": "2026-01-01T09:44:38.674Z"
     },
     "arknights": {
       "id": "arknights",
@@ -53383,8 +53388,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 72,
-      "vostfr": 77
+      "vf": 71,
+      "vostfr": 78
     },
     "byType": {
       "anime": 149,
@@ -53398,7 +53403,7 @@
       "OneUpload": 12,
       "Smoothpre": 9
     },
-    "lastUpdate": "2026-01-01T09:44:37.108Z"
+    "lastUpdate": "2026-01-01T09:44:38.674Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
