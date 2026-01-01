@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:14:42.642Z",
-  "totalAnimes": 63,
+  "lastUpdated": "2026-01-01T10:14:43.982Z",
+  "totalAnimes": 64,
   "totalScans": 0,
   "totalEpisodes": 1238,
   "totalChapters": 0,
@@ -1329,6 +1329,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:14:39.397Z"
+    },
+    "all-out": {
+      "id": "all-out",
+      "title": "All Out",
+      "slug": "all-out",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/all-out/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/all-out/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/all-out/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "all-out_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:14:43.981Z"
     }
   },
   "scans": {},
@@ -39533,10 +39554,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 17,
-      "vostfr": 46
+      "vostfr": 47
     },
     "byType": {
-      "anime": 63,
+      "anime": 64,
       "scan": 0
     },
     "byPlayer": {
@@ -39547,6 +39568,6 @@
       "OneUpload": 4,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T10:14:42.641Z"
+    "lastUpdate": "2026-01-01T10:14:43.981Z"
   }
 }
