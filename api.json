@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:47:14.563Z",
-  "totalAnimes": 162,
+  "lastUpdated": "2026-01-01T09:47:16.165Z",
+  "totalAnimes": 163,
   "totalScans": 0,
   "totalEpisodes": 2466,
   "totalChapters": 0,
@@ -3091,6 +3091,26 @@
       "availableScans": [],
       "scrapedAt": "2026-01-01T09:47:12.041Z",
       "lastUpdated": "2026-01-01T09:47:12.041Z"
+    },
+    "ballroom-e-youkoso": {
+      "id": "ballroom-e-youkoso",
+      "title": "Ballroom e Youkoso",
+      "slug": "ballroom-e-youkoso",
+      "language": "vostfr",
+      "type": "anime",
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/ballroom-e-youkoso/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
+      "availableScans": [],
+      "scrapedAt": "2026-01-01T09:47:16.164Z",
+      "lastUpdated": "2026-01-01T09:47:16.164Z"
     }
   },
   "scans": {},
@@ -71399,10 +71419,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 62,
-      "vostfr": 100
+      "vostfr": 101
     },
     "byType": {
-      "anime": 162,
+      "anime": 163,
       "scan": 0
     },
     "byPlayer": {
@@ -71413,7 +71433,7 @@
       "OneUpload": 16,
       "Smoothpre": 11
     },
-    "lastUpdate": "2026-01-01T09:47:14.563Z"
+    "lastUpdate": "2026-01-01T09:47:16.164Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
