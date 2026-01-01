@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:22:12.940Z",
-  "totalAnimes": 148,
+  "lastUpdated": "2026-01-01T10:22:14.671Z",
+  "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 2878,
   "totalChapters": 0,
@@ -3114,6 +3114,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:22:09.026Z"
+    },
+    "ben-10": {
+      "id": "ben-10",
+      "title": "Ben 10",
+      "slug": "ben-10",
+      "language": "vf",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/ben-10/saison1/vf/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/ben-10/saison1/vf/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/ben-10/saison1/vf/episodes.js",
+          "language": "vf",
+          "type": "anime",
+          "episodeId": "ben-10_saison1_vf"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:22:14.669Z"
     }
   },
   "scans": {},
@@ -94940,11 +94961,11 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 37,
+      "vf": 38,
       "vostfr": 111
     },
     "byType": {
-      "anime": 148,
+      "anime": 149,
       "scan": 0
     },
     "byPlayer": {
@@ -94955,6 +94976,6 @@
       "OneUpload": 17,
       "Smoothpre": 11
     },
-    "lastUpdate": "2026-01-01T10:22:12.939Z"
+    "lastUpdate": "2026-01-01T10:22:14.669Z"
   }
 }
