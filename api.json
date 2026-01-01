@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:37:17.342Z",
+  "lastUpdated": "2026-01-01T09:37:18.844Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 185,
@@ -335,17 +335,22 @@
     "a-barbarians-adventure-in-a-fantasy-world": {
       "id": "a-barbarians-adventure-in-a-fantasy-world",
       "title": "A Barbarian's Adventure in a Fantasy World",
-      "originalLink": "https://anime-sama.tv/catalogue/a-barbarians-adventure-in-a-fantasy-world",
       "slug": "a-barbarians-adventure-in-a-fantasy-world",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-barbarians-adventure-in-a-fantasy-world.jpg",
-      "banner": null,
-      "description": "Chaque nuit, il priait pour se réveiller dans un monde de magie et d'aventure. Un jour, son voeu s'exauça, mais pas vraiment comme il le voulait. Il se réveilla dans une vaste étendue enneigée, en tant que barbare, une puissante race crainte pour leur force et leur sauvagerie. Bien que ce monde était tout ce qu'il souhaitait, sa nouvelle vie tant attendue venait avec de nombreux problèmes. Déterminé à ne pas vivre comme une brute sans cervelle, il apprit la langue des humains, étudiait leurs cou",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/a-barbarians-adventure-in-a-fantasy-world/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:11:46.372Z",
-      "lastUpdated": "2026-01-01T09:11:46.372Z"
+      "scrapedAt": "2026-01-01T09:37:18.844Z",
+      "lastUpdated": "2026-01-01T09:37:18.844Z"
     },
     "a-centaurs-life": {
       "id": "a-centaurs-life",
@@ -7606,8 +7611,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 138,
-      "vostfr": 11
+      "vf": 137,
+      "vostfr": 12
     },
     "byType": {
       "anime": 149,
@@ -7620,7 +7625,7 @@
       "Sendvid": 14,
       "OneUpload": 1
     },
-    "lastUpdate": "2026-01-01T09:37:17.341Z"
+    "lastUpdate": "2026-01-01T09:37:18.844Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
