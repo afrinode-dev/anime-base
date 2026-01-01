@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:49:45.017Z",
-  "totalAnimes": 189,
+  "lastUpdated": "2026-01-01T09:49:46.828Z",
+  "totalAnimes": 190,
   "totalScans": 0,
   "totalEpisodes": 3087,
   "totalChapters": 0,
@@ -3631,6 +3631,26 @@
       "availableScans": [],
       "scrapedAt": "2026-01-01T09:49:43.111Z",
       "lastUpdated": "2026-01-01T09:49:43.111Z"
+    },
+    "black-cat": {
+      "id": "black-cat",
+      "title": "Black Cat",
+      "slug": "black-cat",
+      "language": "vostfr",
+      "type": "anime",
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/black-cat/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
+      "availableScans": [],
+      "scrapedAt": "2026-01-01T09:49:46.827Z",
+      "lastUpdated": "2026-01-01T09:49:46.827Z"
     }
   },
   "scans": {},
@@ -88052,10 +88072,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 72,
-      "vostfr": 117
+      "vostfr": 118
     },
     "byType": {
-      "anime": 189,
+      "anime": 190,
       "scan": 0
     },
     "byPlayer": {
@@ -88066,7 +88086,7 @@
       "OneUpload": 18,
       "Smoothpre": 11
     },
-    "lastUpdate": "2026-01-01T09:49:45.015Z"
+    "lastUpdate": "2026-01-01T09:49:46.827Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
