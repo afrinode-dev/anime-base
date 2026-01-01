@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:40:09.062Z",
+  "lastUpdated": "2026-01-01T09:40:11.039Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 825,
@@ -1045,17 +1045,22 @@
     "aggretsuko": {
       "id": "aggretsuko",
       "title": "Aggretsuko",
-      "originalLink": "https://anime-sama.tv/catalogue/aggretsuko",
       "slug": "aggretsuko",
       "language": "vf",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/aggretsuko.jpg",
-      "banner": null,
-      "description": "Insatisfaite de son travail de bureau ingrat, Retsuko la petite Panda rousse surmonte les tracas du quotidien en chantant du death metal à tue-tête dans un bar karaoké.",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/aggretsuko/saison1/vf/",
+          "language": "vf",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:06.234Z",
-      "lastUpdated": "2026-01-01T09:12:06.234Z"
+      "scrapedAt": "2026-01-01T09:40:11.038Z",
+      "lastUpdated": "2026-01-01T09:40:11.038Z"
     },
     "aharen-san-wa-hakarenai": {
       "id": "aharen-san-wa-hakarenai",
@@ -23518,7 +23523,7 @@
       "OneUpload": 3,
       "Smoothpre": 1
     },
-    "lastUpdate": "2026-01-01T09:40:09.060Z"
+    "lastUpdate": "2026-01-01T09:40:11.038Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
