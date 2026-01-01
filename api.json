@@ -1,9 +1,9 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:46:34.225Z",
+  "lastUpdated": "2026-01-01T09:46:35.849Z",
   "totalAnimes": 155,
   "totalScans": 0,
-  "totalEpisodes": 2236,
+  "totalEpisodes": 2246,
   "totalChapters": 0,
   "mainDomain": "anime-sama.tv",
   "animes": {
@@ -2958,8 +2958,8 @@
     "Sibnet": {
       "name": "Sibnet",
       "type": "video",
-      "count": 129,
-      "lastUsed": "2026-01-01T09:46:32.660Z"
+      "count": 130,
+      "lastUsed": "2026-01-01T09:46:35.847Z"
     },
     "Vidmoly": {
       "name": "Vidmoly",
@@ -2976,8 +2976,8 @@
     "Sendvid": {
       "name": "Sendvid",
       "type": "video",
-      "count": 135,
-      "lastUsed": "2026-01-01T09:46:32.660Z"
+      "count": 136,
+      "lastUsed": "2026-01-01T09:46:35.847Z"
     },
     "OneUpload": {
       "name": "OneUpload",
@@ -64561,6 +64561,210 @@
         }
       },
       "lastUpdated": "2026-01-01T09:46:32.660Z"
+    },
+    "back-street-girls_saison1_vf": {
+      "animeId": "back-street-girls",
+      "title": "Back Street Girls",
+      "season": "saison1",
+      "language": "vf",
+      "totalEpisodes": 10,
+      "episodesList": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "availablePlayers": [
+        "Sendvid",
+        "Sibnet"
+      ],
+      "episodes": {
+        "Sendvid": {
+          "player": "Sendvid",
+          "playerKey": "eps1",
+          "episodes": [
+            {
+              "episode": 1,
+              "url": "https://sendvid.com/embed/zw719of7",
+              "embedUrl": "https://sendvid.com/embed/zw719of7",
+              "language": "VF",
+              "player": "Sendvid",
+              "type": "video"
+            },
+            {
+              "episode": 2,
+              "url": "https://sendvid.com/embed/qsfz790o",
+              "embedUrl": "https://sendvid.com/embed/qsfz790o",
+              "language": "VF",
+              "player": "Sendvid",
+              "type": "video"
+            },
+            {
+              "episode": 3,
+              "url": "https://sendvid.com/embed/l1he8soy",
+              "embedUrl": "https://sendvid.com/embed/l1he8soy",
+              "language": "VF",
+              "player": "Sendvid",
+              "type": "video"
+            },
+            {
+              "episode": 4,
+              "url": "https://sendvid.com/embed/asx6pbb5",
+              "embedUrl": "https://sendvid.com/embed/asx6pbb5",
+              "language": "VF",
+              "player": "Sendvid",
+              "type": "video"
+            },
+            {
+              "episode": 5,
+              "url": "https://sendvid.com/embed/p6ut9xtb",
+              "embedUrl": "https://sendvid.com/embed/p6ut9xtb",
+              "language": "VF",
+              "player": "Sendvid",
+              "type": "video"
+            },
+            {
+              "episode": 6,
+              "url": "https://sendvid.com/embed/vpn0k49n",
+              "embedUrl": "https://sendvid.com/embed/vpn0k49n",
+              "language": "VF",
+              "player": "Sendvid",
+              "type": "video"
+            },
+            {
+              "episode": 7,
+              "url": "https://sendvid.com/embed/cww290tx",
+              "embedUrl": "https://sendvid.com/embed/cww290tx",
+              "language": "VF",
+              "player": "Sendvid",
+              "type": "video"
+            },
+            {
+              "episode": 8,
+              "url": "https://sendvid.com/embed/orbxhukr",
+              "embedUrl": "https://sendvid.com/embed/orbxhukr",
+              "language": "VF",
+              "player": "Sendvid",
+              "type": "video"
+            },
+            {
+              "episode": 9,
+              "url": "https://sendvid.com/embed/705fiurf",
+              "embedUrl": "https://sendvid.com/embed/705fiurf",
+              "language": "VF",
+              "player": "Sendvid",
+              "type": "video"
+            },
+            {
+              "episode": 10,
+              "url": "https://sendvid.com/embed/4mcixh6r",
+              "embedUrl": "https://sendvid.com/embed/4mcixh6r",
+              "language": "VF",
+              "player": "Sendvid",
+              "type": "video"
+            }
+          ],
+          "totalEpisodes": 10,
+          "firstUrl": "https://sendvid.com/embed/zw719of7",
+          "isScan": false
+        },
+        "Sibnet": {
+          "player": "Sibnet",
+          "playerKey": "eps2",
+          "episodes": [
+            {
+              "episode": 1,
+              "url": "https://video.sibnet.ru/shell.php?videoid=5382773",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5382773",
+              "language": "VF",
+              "player": "Sibnet",
+              "type": "video"
+            },
+            {
+              "episode": 2,
+              "url": "https://video.sibnet.ru/shell.php?videoid=5382775",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5382775",
+              "language": "VF",
+              "player": "Sibnet",
+              "type": "video"
+            },
+            {
+              "episode": 3,
+              "url": "https://video.sibnet.ru/shell.php?videoid=5382777",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5382777",
+              "language": "VF",
+              "player": "Sibnet",
+              "type": "video"
+            },
+            {
+              "episode": 4,
+              "url": "https://video.sibnet.ru/shell.php?videoid=5382778",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5382778",
+              "language": "VF",
+              "player": "Sibnet",
+              "type": "video"
+            },
+            {
+              "episode": 5,
+              "url": "https://video.sibnet.ru/shell.php?videoid=5382780",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5382780",
+              "language": "VF",
+              "player": "Sibnet",
+              "type": "video"
+            },
+            {
+              "episode": 6,
+              "url": "https://video.sibnet.ru/shell.php?videoid=5382781",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5382781",
+              "language": "VF",
+              "player": "Sibnet",
+              "type": "video"
+            },
+            {
+              "episode": 7,
+              "url": "https://video.sibnet.ru/shell.php?videoid=5382783",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5382783",
+              "language": "VF",
+              "player": "Sibnet",
+              "type": "video"
+            },
+            {
+              "episode": 8,
+              "url": "https://video.sibnet.ru/shell.php?videoid=5382785",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5382785",
+              "language": "VF",
+              "player": "Sibnet",
+              "type": "video"
+            },
+            {
+              "episode": 9,
+              "url": "https://video.sibnet.ru/shell.php?videoid=5382787",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5382787",
+              "language": "VF",
+              "player": "Sibnet",
+              "type": "video"
+            },
+            {
+              "episode": 10,
+              "url": "https://video.sibnet.ru/shell.php?videoid=5382789",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5382789",
+              "language": "VF",
+              "player": "Sibnet",
+              "type": "video"
+            }
+          ],
+          "totalEpisodes": 10,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=5382773",
+          "isScan": false
+        }
+      },
+      "lastUpdated": "2026-01-01T09:46:35.847Z"
     }
   },
   "chapters": {},
@@ -64574,14 +64778,14 @@
       "scan": 0
     },
     "byPlayer": {
-      "Sibnet": 129,
+      "Sibnet": 130,
       "Vidmoly": 84,
       "Scan": 83,
-      "Sendvid": 135,
+      "Sendvid": 136,
       "OneUpload": 14,
       "Smoothpre": 10
     },
-    "lastUpdate": "2026-01-01T09:46:34.225Z"
+    "lastUpdate": "2026-01-01T09:46:35.847Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
