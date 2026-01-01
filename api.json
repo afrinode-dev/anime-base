@@ -1,9 +1,9 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:40:52.356Z",
+  "lastUpdated": "2026-01-01T09:40:55.106Z",
   "totalAnimes": 149,
   "totalScans": 0,
-  "totalEpisodes": 1013,
+  "totalEpisodes": 1025,
   "totalChapters": 0,
   "mainDomain": "anime-sama.tv",
   "animes": {
@@ -2498,14 +2498,14 @@
     "Sibnet": {
       "name": "Sibnet",
       "type": "video",
-      "count": 53,
-      "lastUsed": "2026-01-01T09:40:50.044Z"
+      "count": 54,
+      "lastUsed": "2026-01-01T09:40:55.105Z"
     },
     "Vidmoly": {
       "name": "Vidmoly",
       "type": "video",
-      "count": 39,
-      "lastUsed": "2026-01-01T09:40:50.044Z"
+      "count": 40,
+      "lastUsed": "2026-01-01T09:40:55.105Z"
     },
     "Scan": {
       "name": "Scan",
@@ -2516,8 +2516,8 @@
     "Sendvid": {
       "name": "Sendvid",
       "type": "video",
-      "count": 57,
-      "lastUsed": "2026-01-01T09:40:50.044Z"
+      "count": 58,
+      "lastUsed": "2026-01-01T09:40:55.105Z"
     },
     "OneUpload": {
       "name": "OneUpload",
@@ -28836,6 +28836,342 @@
         }
       },
       "lastUpdated": "2026-01-01T09:40:50.044Z"
+    },
+    "akashic-records_saison1_vostfr": {
+      "animeId": "akashic-records",
+      "title": "Akashic Records",
+      "season": "saison1",
+      "language": "vostfr",
+      "totalEpisodes": 12,
+      "episodesList": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "availablePlayers": [
+        "Sibnet",
+        "Vidmoly",
+        "Sendvid"
+      ],
+      "episodes": {
+        "Sibnet": {
+          "player": "Sibnet",
+          "playerKey": "eps1",
+          "episodes": [
+            {
+              "episode": 1,
+              "url": "https://video.sibnet.ru/shell.php?videoid=4693033",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4693033",
+              "language": "VOSTFR",
+              "player": "Sibnet",
+              "type": "video"
+            },
+            {
+              "episode": 2,
+              "url": "https://video.sibnet.ru/shell.php?videoid=4693036",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4693036",
+              "language": "VOSTFR",
+              "player": "Sibnet",
+              "type": "video"
+            },
+            {
+              "episode": 3,
+              "url": "https://video.sibnet.ru/shell.php?videoid=4693040",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4693040",
+              "language": "VOSTFR",
+              "player": "Sibnet",
+              "type": "video"
+            },
+            {
+              "episode": 4,
+              "url": "https://video.sibnet.ru/shell.php?videoid=4693046",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4693046",
+              "language": "VOSTFR",
+              "player": "Sibnet",
+              "type": "video"
+            },
+            {
+              "episode": 5,
+              "url": "https://video.sibnet.ru/shell.php?videoid=4693048",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4693048",
+              "language": "VOSTFR",
+              "player": "Sibnet",
+              "type": "video"
+            },
+            {
+              "episode": 6,
+              "url": "https://video.sibnet.ru/shell.php?videoid=4693051",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4693051",
+              "language": "VOSTFR",
+              "player": "Sibnet",
+              "type": "video"
+            },
+            {
+              "episode": 7,
+              "url": "https://video.sibnet.ru/shell.php?videoid=4693053",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4693053",
+              "language": "VOSTFR",
+              "player": "Sibnet",
+              "type": "video"
+            },
+            {
+              "episode": 8,
+              "url": "https://video.sibnet.ru/shell.php?videoid=4693056",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4693056",
+              "language": "VOSTFR",
+              "player": "Sibnet",
+              "type": "video"
+            },
+            {
+              "episode": 9,
+              "url": "https://video.sibnet.ru/shell.php?videoid=4693058",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4693058",
+              "language": "VOSTFR",
+              "player": "Sibnet",
+              "type": "video"
+            },
+            {
+              "episode": 10,
+              "url": "https://video.sibnet.ru/shell.php?videoid=4693061",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4693061",
+              "language": "VOSTFR",
+              "player": "Sibnet",
+              "type": "video"
+            },
+            {
+              "episode": 11,
+              "url": "https://video.sibnet.ru/shell.php?videoid=4693063",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4693063",
+              "language": "VOSTFR",
+              "player": "Sibnet",
+              "type": "video"
+            },
+            {
+              "episode": 12,
+              "url": "https://video.sibnet.ru/shell.php?videoid=4693065",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4693065",
+              "language": "VOSTFR",
+              "player": "Sibnet",
+              "type": "video"
+            }
+          ],
+          "totalEpisodes": 12,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=4693033",
+          "isScan": false
+        },
+        "Vidmoly": {
+          "player": "Vidmoly",
+          "playerKey": "eps2",
+          "episodes": [
+            {
+              "episode": 1,
+              "url": "https://vidmoly.to/embed-w3aygaxeoqbs.html",
+              "embedUrl": "https://vidmoly.to/embed-w3aygaxeoqbs.html",
+              "language": "VOSTFR",
+              "player": "Vidmoly",
+              "type": "video"
+            },
+            {
+              "episode": 2,
+              "url": "https://vidmoly.to/embed-8wwc9jytb7r1.html",
+              "embedUrl": "https://vidmoly.to/embed-8wwc9jytb7r1.html",
+              "language": "VOSTFR",
+              "player": "Vidmoly",
+              "type": "video"
+            },
+            {
+              "episode": 3,
+              "url": "https://vidmoly.to/embed-66ooxg0b3spm.html",
+              "embedUrl": "https://vidmoly.to/embed-66ooxg0b3spm.html",
+              "language": "VOSTFR",
+              "player": "Vidmoly",
+              "type": "video"
+            },
+            {
+              "episode": 4,
+              "url": "https://vidmoly.to/embed-hst814lqavxh.html",
+              "embedUrl": "https://vidmoly.to/embed-hst814lqavxh.html",
+              "language": "VOSTFR",
+              "player": "Vidmoly",
+              "type": "video"
+            },
+            {
+              "episode": 5,
+              "url": "https://vidmoly.to/embed-w5a0y6gfpi63.html",
+              "embedUrl": "https://vidmoly.to/embed-w5a0y6gfpi63.html",
+              "language": "VOSTFR",
+              "player": "Vidmoly",
+              "type": "video"
+            },
+            {
+              "episode": 6,
+              "url": "https://vidmoly.to/embed-jqjf796oxham.html",
+              "embedUrl": "https://vidmoly.to/embed-jqjf796oxham.html",
+              "language": "VOSTFR",
+              "player": "Vidmoly",
+              "type": "video"
+            },
+            {
+              "episode": 7,
+              "url": "https://vidmoly.to/embed-aou3r757u1tm.html",
+              "embedUrl": "https://vidmoly.to/embed-aou3r757u1tm.html",
+              "language": "VOSTFR",
+              "player": "Vidmoly",
+              "type": "video"
+            },
+            {
+              "episode": 8,
+              "url": "https://vidmoly.to/embed-gnxekmyel5am.html",
+              "embedUrl": "https://vidmoly.to/embed-gnxekmyel5am.html",
+              "language": "VOSTFR",
+              "player": "Vidmoly",
+              "type": "video"
+            },
+            {
+              "episode": 9,
+              "url": "https://vidmoly.to/embed-llsdnna2pywn.html",
+              "embedUrl": "https://vidmoly.to/embed-llsdnna2pywn.html",
+              "language": "VOSTFR",
+              "player": "Vidmoly",
+              "type": "video"
+            },
+            {
+              "episode": 10,
+              "url": "https://vidmoly.to/embed-oc9pajiuzn55.html",
+              "embedUrl": "https://vidmoly.to/embed-oc9pajiuzn55.html",
+              "language": "VOSTFR",
+              "player": "Vidmoly",
+              "type": "video"
+            },
+            {
+              "episode": 11,
+              "url": "https://vidmoly.to/embed-u2h8y4lw899l.html",
+              "embedUrl": "https://vidmoly.to/embed-u2h8y4lw899l.html",
+              "language": "VOSTFR",
+              "player": "Vidmoly",
+              "type": "video"
+            },
+            {
+              "episode": 12,
+              "url": "https://vidmoly.to/embed-1j8c1otdt2js.html",
+              "embedUrl": "https://vidmoly.to/embed-1j8c1otdt2js.html",
+              "language": "VOSTFR",
+              "player": "Vidmoly",
+              "type": "video"
+            }
+          ],
+          "totalEpisodes": 12,
+          "firstUrl": "https://vidmoly.to/embed-w3aygaxeoqbs.html",
+          "isScan": false
+        },
+        "Sendvid": {
+          "player": "Sendvid",
+          "playerKey": "eps3",
+          "episodes": [
+            {
+              "episode": 1,
+              "url": "https://sendvid.com/embed/7k431o0g",
+              "embedUrl": "https://sendvid.com/embed/7k431o0g",
+              "language": "VOSTFR",
+              "player": "Sendvid",
+              "type": "video"
+            },
+            {
+              "episode": 2,
+              "url": "https://sendvid.com/embed/lo4jo1k8",
+              "embedUrl": "https://sendvid.com/embed/lo4jo1k8",
+              "language": "VOSTFR",
+              "player": "Sendvid",
+              "type": "video"
+            },
+            {
+              "episode": 3,
+              "url": "https://sendvid.com/embed/5bw89hff",
+              "embedUrl": "https://sendvid.com/embed/5bw89hff",
+              "language": "VOSTFR",
+              "player": "Sendvid",
+              "type": "video"
+            },
+            {
+              "episode": 4,
+              "url": "https://sendvid.com/embed/ben2j44p",
+              "embedUrl": "https://sendvid.com/embed/ben2j44p",
+              "language": "VOSTFR",
+              "player": "Sendvid",
+              "type": "video"
+            },
+            {
+              "episode": 5,
+              "url": "https://sendvid.com/embed/4aqmfnwa",
+              "embedUrl": "https://sendvid.com/embed/4aqmfnwa",
+              "language": "VOSTFR",
+              "player": "Sendvid",
+              "type": "video"
+            },
+            {
+              "episode": 6,
+              "url": "https://sendvid.com/embed/gxgvh3vj",
+              "embedUrl": "https://sendvid.com/embed/gxgvh3vj",
+              "language": "VOSTFR",
+              "player": "Sendvid",
+              "type": "video"
+            },
+            {
+              "episode": 7,
+              "url": "https://sendvid.com/embed/wzve07f9",
+              "embedUrl": "https://sendvid.com/embed/wzve07f9",
+              "language": "VOSTFR",
+              "player": "Sendvid",
+              "type": "video"
+            },
+            {
+              "episode": 8,
+              "url": "https://sendvid.com/embed/xhan5gv1",
+              "embedUrl": "https://sendvid.com/embed/xhan5gv1",
+              "language": "VOSTFR",
+              "player": "Sendvid",
+              "type": "video"
+            },
+            {
+              "episode": 9,
+              "url": "https://sendvid.com/embed/eebzrfvm",
+              "embedUrl": "https://sendvid.com/embed/eebzrfvm",
+              "language": "VOSTFR",
+              "player": "Sendvid",
+              "type": "video"
+            },
+            {
+              "episode": 10,
+              "url": "https://sendvid.com/embed/yv6ula9v",
+              "embedUrl": "https://sendvid.com/embed/yv6ula9v",
+              "language": "VOSTFR",
+              "player": "Sendvid",
+              "type": "video"
+            },
+            {
+              "episode": 11,
+              "url": "https://sendvid.com/embed/wgzj7x7f",
+              "embedUrl": "https://sendvid.com/embed/wgzj7x7f",
+              "language": "VOSTFR",
+              "player": "Sendvid",
+              "type": "video"
+            }
+          ],
+          "totalEpisodes": 11,
+          "firstUrl": "https://sendvid.com/embed/7k431o0g",
+          "isScan": false
+        }
+      },
+      "lastUpdated": "2026-01-01T09:40:55.105Z"
     }
   },
   "chapters": {},
@@ -28849,14 +29185,14 @@
       "scan": 0
     },
     "byPlayer": {
-      "Sibnet": 53,
-      "Vidmoly": 39,
+      "Sibnet": 54,
+      "Vidmoly": 40,
       "Scan": 33,
-      "Sendvid": 57,
+      "Sendvid": 58,
       "OneUpload": 3,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T09:40:52.355Z"
+    "lastUpdate": "2026-01-01T09:40:55.105Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
