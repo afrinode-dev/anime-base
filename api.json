@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:48:55.013Z",
-  "totalAnimes": 180,
+  "lastUpdated": "2026-01-01T09:48:56.779Z",
+  "totalAnimes": 181,
   "totalScans": 0,
   "totalEpisodes": 2903,
   "totalChapters": 0,
@@ -3451,6 +3451,26 @@
       "availableScans": [],
       "scrapedAt": "2026-01-01T09:48:53.023Z",
       "lastUpdated": "2026-01-01T09:48:53.023Z"
+    },
+    "berserk": {
+      "id": "berserk",
+      "title": "Berserk",
+      "slug": "berserk",
+      "language": "vostfr",
+      "type": "anime",
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/berserk/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
+      "availableScans": [],
+      "scrapedAt": "2026-01-01T09:48:56.778Z",
+      "lastUpdated": "2026-01-01T09:48:56.778Z"
     }
   },
   "scans": {},
@@ -82942,10 +82962,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 69,
-      "vostfr": 111
+      "vostfr": 112
     },
     "byType": {
-      "anime": 180,
+      "anime": 181,
       "scan": 0
     },
     "byPlayer": {
@@ -82956,7 +82976,7 @@
       "OneUpload": 17,
       "Smoothpre": 11
     },
-    "lastUpdate": "2026-01-01T09:48:55.011Z"
+    "lastUpdate": "2026-01-01T09:48:56.778Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
