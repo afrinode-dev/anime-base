@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:43:32.098Z",
+  "lastUpdated": "2026-01-01T09:43:33.549Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1649,
@@ -2010,17 +2010,22 @@
     "ao-chan-cant-study": {
       "id": "ao-chan-cant-study",
       "title": "Ao-chan Can't Study",
-      "originalLink": "https://anime-sama.tv/catalogue/ao-chan-cant-study",
       "slug": "ao-chan-cant-study",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ao-chan-cant-study.jpg",
-      "banner": null,
-      "description": "Depuis sa plus tendre enfance, peu importe ce qu'elle entreprend, Ao Horie est constamment cataloguée comme 'la fille d'un auteur de romans érotiques'. Envieuse de se libérer de l'emprise qu'a son père malgré lui sur son existence, elle décide de bûcher comme une malade pour entrer dans une université prestigieuse. Pas le temps pour la jeune fille de traîner dans les karaokés, faire du shopping, et encore moins s'occuper des garçons ! Pourtant, lorsqu'un camarade de classe, Kijima, lui confesse ",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/ao-chan-cant-study/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:35.961Z",
-      "lastUpdated": "2026-01-01T09:12:35.961Z"
+      "scrapedAt": "2026-01-01T09:43:33.548Z",
+      "lastUpdated": "2026-01-01T09:43:33.548Z"
     },
     "aoharu-x-kikanjuu": {
       "id": "aoharu-x-kikanjuu",
@@ -48404,8 +48409,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 85,
-      "vostfr": 64
+      "vf": 84,
+      "vostfr": 65
     },
     "byType": {
       "anime": 149,
@@ -48419,7 +48424,7 @@
       "OneUpload": 9,
       "Smoothpre": 7
     },
-    "lastUpdate": "2026-01-01T09:43:32.098Z"
+    "lastUpdate": "2026-01-01T09:43:33.548Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
