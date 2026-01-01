@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:15:37.200Z",
-  "totalAnimes": 75,
+  "lastUpdated": "2026-01-01T10:15:38.764Z",
+  "totalAnimes": 76,
   "totalScans": 0,
   "totalEpisodes": 1467,
   "totalChapters": 0,
@@ -1581,6 +1581,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:15:34.965Z"
+    },
+    "angel-beats": {
+      "id": "angel-beats",
+      "title": "Angel Beats",
+      "slug": "angel-beats",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/angel-beats/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/angel-beats/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/angel-beats/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "angel-beats_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:15:38.763Z"
     }
   },
   "scans": {},
@@ -48319,10 +48340,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 20,
-      "vostfr": 55
+      "vostfr": 56
     },
     "byType": {
-      "anime": 75,
+      "anime": 76,
       "scan": 0
     },
     "byPlayer": {
@@ -48333,6 +48354,6 @@
       "OneUpload": 8,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T10:15:37.198Z"
+    "lastUpdate": "2026-01-01T10:15:38.763Z"
   }
 }
