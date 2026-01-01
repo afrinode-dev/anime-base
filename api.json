@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:42:27.330Z",
+  "lastUpdated": "2026-01-01T09:42:28.600Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1410,
@@ -1700,17 +1700,22 @@
     "ameku-takao-no-suiri-karte": {
       "id": "ameku-takao-no-suiri-karte",
       "title": "Ameku Takao no Suiri Karte",
-      "originalLink": "https://anime-sama.tv/catalogue/ameku-takao-no-suiri-karte",
       "slug": "ameku-takao-no-suiri-karte",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ameku-takao-no-suiri-karte.jpg",
-      "banner": null,
-      "description": "L'histoire nous entraîne dans le quotidien d'un médecin qui résout des meurtres et des mystères liés au domaine médical.",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/ameku-takao-no-suiri-karte/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:26.818Z",
-      "lastUpdated": "2026-01-01T09:12:26.818Z"
+      "scrapedAt": "2026-01-01T09:42:28.599Z",
+      "lastUpdated": "2026-01-01T09:42:28.599Z"
     },
     "amnesia": {
       "id": "amnesia",
@@ -40953,8 +40958,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 95,
-      "vostfr": 54
+      "vf": 94,
+      "vostfr": 55
     },
     "byType": {
       "anime": 149,
@@ -40968,7 +40973,7 @@
       "OneUpload": 8,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T09:42:27.330Z"
+    "lastUpdate": "2026-01-01T09:42:28.599Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
