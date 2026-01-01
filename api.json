@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:10:19.159Z",
-  "totalAnimes": 14,
+  "lastUpdated": "2026-01-01T10:10:20.625Z",
+  "totalAnimes": 15,
   "totalScans": 0,
   "totalEpisodes": 233,
   "totalChapters": 0,
@@ -300,6 +300,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:10:17.171Z"
+    },
+    "a-certain-scientific-accelerator": {
+      "id": "a-certain-scientific-accelerator",
+      "title": "A Certain Scientific Accelerator",
+      "slug": "a-certain-scientific-accelerator",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/a-certain-scientific-accelerator/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/a-certain-scientific-accelerator/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/a-certain-scientific-accelerator/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "a-certain-scientific-accelerator_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:10:20.624Z"
     }
   },
   "scans": {},
@@ -7573,10 +7594,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 2,
-      "vostfr": 12
+      "vostfr": 13
     },
     "byType": {
-      "anime": 14,
+      "anime": 15,
       "scan": 0
     },
     "byPlayer": {
@@ -7586,6 +7607,6 @@
       "Sendvid": 16,
       "OneUpload": 1
     },
-    "lastUpdate": "2026-01-01T10:10:19.159Z"
+    "lastUpdate": "2026-01-01T10:10:20.624Z"
   }
 }
