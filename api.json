@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:09:32.678Z",
-  "totalAnimes": 4,
+  "lastUpdated": "2026-01-01T10:09:34.057Z",
+  "totalAnimes": 5,
   "totalScans": 0,
   "totalEpisodes": 73,
   "totalChapters": 0,
@@ -90,6 +90,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:09:29.531Z"
+    },
+    "365-days-to-the-wedding": {
+      "id": "365-days-to-the-wedding",
+      "title": "365 Days To The Wedding",
+      "slug": "365-days-to-the-wedding",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/365-days-to-the-wedding/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/365-days-to-the-wedding/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/365-days-to-the-wedding/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "365-days-to-the-wedding_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:09:34.057Z"
     }
   },
   "scans": {},
@@ -2718,10 +2739,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 0,
-      "vostfr": 4
+      "vostfr": 5
     },
     "byType": {
-      "anime": 4,
+      "anime": 5,
       "scan": 0
     },
     "byPlayer": {
@@ -2731,6 +2752,6 @@
       "Sendvid": 5,
       "OneUpload": 1
     },
-    "lastUpdate": "2026-01-01T10:09:32.678Z"
+    "lastUpdate": "2026-01-01T10:09:34.057Z"
   }
 }
