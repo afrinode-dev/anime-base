@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:44:17.927Z",
+  "lastUpdated": "2026-01-01T09:44:19.447Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1774,
@@ -2245,17 +2245,22 @@
     "arcana-famiglia": {
       "id": "arcana-famiglia",
       "title": "Arcana Famiglia",
-      "originalLink": "https://anime-sama.tv/catalogue/arcana-famiglia",
       "slug": "arcana-famiglia",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/arcana-famiglia.jpg",
-      "banner": null,
-      "description": "L'histoire se concentre sur Arcana Famiglia, une mystérieuse organisation qui protège une petite île nommée Regalo. L'organisation s'occupe des affaires commerciales, de la sécurité et de la santé sur Regalo depuis un long moment. Cette année, le chef de la famille de l'organisation appelé Mondo, prend la décision de prendre sa retraite. Pour choisir celui qui prendra sa place, celui-ci décide alors d'organiser un tournoi. Le vainqueur aura droit à la main de sa fille 'Félicita' et aussi à un vœ",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/arcana-famiglia/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:44.007Z",
-      "lastUpdated": "2026-01-01T09:12:44.007Z"
+      "scrapedAt": "2026-01-01T09:44:19.447Z",
+      "lastUpdated": "2026-01-01T09:44:19.447Z"
     },
     "arcane": {
       "id": "arcane",
@@ -52420,8 +52425,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 74,
-      "vostfr": 75
+      "vf": 73,
+      "vostfr": 76
     },
     "byType": {
       "anime": 149,
@@ -52435,7 +52440,7 @@
       "OneUpload": 12,
       "Smoothpre": 9
     },
-    "lastUpdate": "2026-01-01T09:44:17.926Z"
+    "lastUpdate": "2026-01-01T09:44:19.447Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
