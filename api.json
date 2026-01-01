@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:17:32.176Z",
-  "totalAnimes": 98,
+  "lastUpdated": "2026-01-01T10:17:33.724Z",
+  "totalAnimes": 99,
   "totalScans": 0,
   "totalEpisodes": 1804,
   "totalChapters": 0,
@@ -2064,6 +2064,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:17:26.084Z"
+    },
+    "are-you-lost": {
+      "id": "are-you-lost",
+      "title": "Are You Lost",
+      "slug": "are-you-lost",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/are-you-lost/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/are-you-lost/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/are-you-lost/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "are-you-lost_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:17:33.722Z"
     }
   },
   "scans": {},
@@ -60463,10 +60484,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 24,
-      "vostfr": 74
+      "vostfr": 75
     },
     "byType": {
-      "anime": 98,
+      "anime": 99,
       "scan": 0
     },
     "byPlayer": {
@@ -60477,6 +60498,6 @@
       "OneUpload": 12,
       "Smoothpre": 9
     },
-    "lastUpdate": "2026-01-01T10:17:32.176Z"
+    "lastUpdate": "2026-01-01T10:17:33.722Z"
   }
 }
