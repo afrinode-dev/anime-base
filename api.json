@@ -1,12 +1,34 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:09:18.480Z",
-  "totalAnimes": 0,
+  "lastUpdated": "2026-01-01T10:09:19.320Z",
+  "totalAnimes": 1,
   "totalScans": 0,
   "totalEpisodes": 12,
   "totalChapters": 0,
   "mainDomain": "anime-sama.tv",
-  "animes": {},
+  "animes": {
+    "tis-time-for-torture-princess": {
+      "id": "tis-time-for-torture-princess",
+      "title": "'Tis Time for Torture Princess",
+      "slug": "tis-time-for-torture-princess",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/tis-time-for-torture-princess/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/tis-time-for-torture-princess/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/tis-time-for-torture-princess/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "tis-time-for-torture-princess_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:09:19.319Z"
+    }
+  },
   "scans": {},
   "players": {
     "Sibnet": {
@@ -545,10 +567,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 0,
-      "vostfr": 0
+      "vostfr": 1
     },
     "byType": {
-      "anime": 0,
+      "anime": 1,
       "scan": 0
     },
     "byPlayer": {
@@ -557,6 +579,6 @@
       "Scan": 1,
       "Sendvid": 1
     },
-    "lastUpdate": "2026-01-01T10:09:18.480Z"
+    "lastUpdate": "2026-01-01T10:09:19.320Z"
   }
 }
