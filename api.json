@@ -1,9 +1,9 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:12:05.080Z",
+  "lastUpdated": "2026-01-01T10:12:07.099Z",
   "totalAnimes": 34,
   "totalScans": 0,
-  "totalEpisodes": 563,
+  "totalEpisodes": 587,
   "totalChapters": 0,
   "mainDomain": "anime-sama.tv",
   "animes": {
@@ -740,14 +740,14 @@
     "Vidmoly": {
       "name": "Vidmoly",
       "type": "video",
-      "count": 29,
-      "lastUsed": "2026-01-01T10:12:03.215Z",
+      "count": 30,
+      "lastUsed": "2026-01-01T10:12:07.098Z",
       "exampleUrls": [
-        "https://vidmoly.to/embed-40pdwiv1p1wu.html",
         "https://vidmoly.to/embed-exh93j3kr4vl.html",
         "https://vidmoly.to/embed-uv00lex47tbf.html",
         "https://vidmoly.to/embed-.html",
-        "https://vidmoly.net/embed-0jgalo3h54m3.html"
+        "https://vidmoly.net/embed-0jgalo3h54m3.html",
+        "https://vidmoly.to/embed-04wbnarg9tsr.html"
       ]
     },
     "Scan": {
@@ -779,11 +779,12 @@
     "OneUpload": {
       "name": "OneUpload",
       "type": "video",
-      "count": 2,
-      "lastUsed": "2026-01-01T10:11:06.094Z",
+      "count": 3,
+      "lastUsed": "2026-01-01T10:12:07.098Z",
       "exampleUrls": [
         "https://oneupload.to/embed-fa3bfw24qud9.html",
-        "https://oneupload.to/embed-pkmrpyk7hxfz.html"
+        "https://oneupload.to/embed-pkmrpyk7hxfz.html",
+        "https://oneupload.to/embed-q2u6ppksjqj6.html"
       ]
     }
   },
@@ -18719,6 +18720,575 @@
       },
       "scrapedAt": "2026-01-01T10:12:03.215Z",
       "lastUpdated": "2026-01-01T10:12:03.215Z"
+    },
+    "accel-world_saison1_vf": {
+      "episodeId": "accel-world_saison1_vf",
+      "animeId": "accel-world",
+      "title": "Accel World",
+      "slug": "accel-world",
+      "season": "saison1",
+      "language": "vf",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/accel-world/saison1/vf/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/accel-world/saison1/vf/",
+      "totalEpisodes": 24,
+      "episodesList": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "players": {
+        "Vidmoly": {
+          "playerId": "player_0",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "totalEpisodes": 24,
+          "firstUrl": "https://vidmoly.to/embed-04wbnarg9tsr.html",
+          "lastUrl": "https://vidmoly.to/embed-pd2ntpvxz053.html",
+          "isScan": false
+        },
+        "OneUpload": {
+          "playerId": "player_1",
+          "playerKey": "eps1",
+          "playerType": "OneUpload",
+          "totalEpisodes": 24,
+          "firstUrl": "https://oneupload.to/embed-q2u6ppksjqj6.html",
+          "lastUrl": "https://oneupload.to/embed-kse06xz46e88.html",
+          "isScan": false
+        }
+      },
+      "availablePlayers": [
+        "Vidmoly",
+        "OneUpload"
+      ],
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-04wbnarg9tsr.html",
+              "embedUrl": "https://vidmoly.to/embed-04wbnarg9tsr.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-q2u6ppksjqj6.html",
+              "embedUrl": "https://oneupload.to/embed-q2u6ppksjqj6.html",
+              "type": "video",
+              "player": "OneUpload",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:07.098Z"
+        },
+        "2": {
+          "number": 2,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-49r5tfro691m.html",
+              "embedUrl": "https://vidmoly.to/embed-49r5tfro691m.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-rnlq5g1xtizy.html",
+              "embedUrl": "https://oneupload.to/embed-rnlq5g1xtizy.html",
+              "type": "video",
+              "player": "OneUpload",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:07.098Z"
+        },
+        "3": {
+          "number": 3,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-w0wx9ykfqhdi.html",
+              "embedUrl": "https://vidmoly.to/embed-w0wx9ykfqhdi.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-aa4r98l54dor.html",
+              "embedUrl": "https://oneupload.to/embed-aa4r98l54dor.html",
+              "type": "video",
+              "player": "OneUpload",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:07.098Z"
+        },
+        "4": {
+          "number": 4,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-g8354f4qdkgr.html",
+              "embedUrl": "https://vidmoly.to/embed-g8354f4qdkgr.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-uuhbj3w8f1nq.html",
+              "embedUrl": "https://oneupload.to/embed-uuhbj3w8f1nq.html",
+              "type": "video",
+              "player": "OneUpload",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:07.098Z"
+        },
+        "5": {
+          "number": 5,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-juhuah5w3pba.html",
+              "embedUrl": "https://vidmoly.to/embed-juhuah5w3pba.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-gmaj3bsdbfkg.html",
+              "embedUrl": "https://oneupload.to/embed-gmaj3bsdbfkg.html",
+              "type": "video",
+              "player": "OneUpload",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:07.098Z"
+        },
+        "6": {
+          "number": 6,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-ljz86eqsiiie.html",
+              "embedUrl": "https://vidmoly.to/embed-ljz86eqsiiie.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-wt6g08ohs16v.html",
+              "embedUrl": "https://oneupload.to/embed-wt6g08ohs16v.html",
+              "type": "video",
+              "player": "OneUpload",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:07.098Z"
+        },
+        "7": {
+          "number": 7,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-bdaqi0vibjav.html",
+              "embedUrl": "https://vidmoly.to/embed-bdaqi0vibjav.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-8pjyczzr8zs7.html",
+              "embedUrl": "https://oneupload.to/embed-8pjyczzr8zs7.html",
+              "type": "video",
+              "player": "OneUpload",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:07.098Z"
+        },
+        "8": {
+          "number": 8,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-xkvw48sbk3cl.html",
+              "embedUrl": "https://vidmoly.to/embed-xkvw48sbk3cl.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-brr9jjfbka64.html",
+              "embedUrl": "https://oneupload.to/embed-brr9jjfbka64.html",
+              "type": "video",
+              "player": "OneUpload",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:07.098Z"
+        },
+        "9": {
+          "number": 9,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-fdrepyw5jq98.html",
+              "embedUrl": "https://vidmoly.to/embed-fdrepyw5jq98.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-hdkl423kn907.html",
+              "embedUrl": "https://oneupload.to/embed-hdkl423kn907.html",
+              "type": "video",
+              "player": "OneUpload",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:07.098Z"
+        },
+        "10": {
+          "number": 10,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-cbwzg18zja4l.html",
+              "embedUrl": "https://vidmoly.to/embed-cbwzg18zja4l.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-3cbtcw1448mi.html",
+              "embedUrl": "https://oneupload.to/embed-3cbtcw1448mi.html",
+              "type": "video",
+              "player": "OneUpload",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:07.098Z"
+        },
+        "11": {
+          "number": 11,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-pv55t7btqyja.html",
+              "embedUrl": "https://vidmoly.to/embed-pv55t7btqyja.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-9su242y2u5pc.html",
+              "embedUrl": "https://oneupload.to/embed-9su242y2u5pc.html",
+              "type": "video",
+              "player": "OneUpload",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:07.098Z"
+        },
+        "12": {
+          "number": 12,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-9a4oypp3491f.html",
+              "embedUrl": "https://vidmoly.to/embed-9a4oypp3491f.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-8wntqqqrwucl.html",
+              "embedUrl": "https://oneupload.to/embed-8wntqqqrwucl.html",
+              "type": "video",
+              "player": "OneUpload",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:07.098Z"
+        },
+        "13": {
+          "number": 13,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-giorpnjnsx9z.html",
+              "embedUrl": "https://vidmoly.to/embed-giorpnjnsx9z.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-ymn5zru2nrh3.html",
+              "embedUrl": "https://oneupload.to/embed-ymn5zru2nrh3.html",
+              "type": "video",
+              "player": "OneUpload",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:07.098Z"
+        },
+        "14": {
+          "number": 14,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-ztci846jovtn.html",
+              "embedUrl": "https://vidmoly.to/embed-ztci846jovtn.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            },
+            "OneUpload": {
+              "url": "https://vidmoly.to/embed-ztci846jovtn.html",
+              "embedUrl": "https://vidmoly.to/embed-ztci846jovtn.html",
+              "type": "video",
+              "player": "OneUpload",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:07.098Z"
+        },
+        "15": {
+          "number": 15,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-2qojtmz5hx2g.html",
+              "embedUrl": "https://vidmoly.to/embed-2qojtmz5hx2g.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-ml0d4tfrx6s6.html",
+              "embedUrl": "https://oneupload.to/embed-ml0d4tfrx6s6.html",
+              "type": "video",
+              "player": "OneUpload",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:07.098Z"
+        },
+        "16": {
+          "number": 16,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-tjxy4a6rag8m.html",
+              "embedUrl": "https://vidmoly.to/embed-tjxy4a6rag8m.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-23ytakfte5sa.html",
+              "embedUrl": "https://oneupload.to/embed-23ytakfte5sa.html",
+              "type": "video",
+              "player": "OneUpload",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:07.098Z"
+        },
+        "17": {
+          "number": 17,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-2mze082235zn.html",
+              "embedUrl": "https://vidmoly.to/embed-2mze082235zn.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-8z2bmqy4xjtm.html",
+              "embedUrl": "https://oneupload.to/embed-8z2bmqy4xjtm.html",
+              "type": "video",
+              "player": "OneUpload",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:07.098Z"
+        },
+        "18": {
+          "number": 18,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-blo3i1flk3wj.html",
+              "embedUrl": "https://vidmoly.to/embed-blo3i1flk3wj.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-ktk5vdfknlmd.html",
+              "embedUrl": "https://oneupload.to/embed-ktk5vdfknlmd.html",
+              "type": "video",
+              "player": "OneUpload",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:07.098Z"
+        },
+        "19": {
+          "number": 19,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-nqxc9nf8ts3l.html",
+              "embedUrl": "https://vidmoly.to/embed-nqxc9nf8ts3l.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-twkzz7hs2yss.html",
+              "embedUrl": "https://oneupload.to/embed-twkzz7hs2yss.html",
+              "type": "video",
+              "player": "OneUpload",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:07.098Z"
+        },
+        "20": {
+          "number": 20,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-2i47ja034olg.html",
+              "embedUrl": "https://vidmoly.to/embed-2i47ja034olg.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-s6vyb08vilfj.html",
+              "embedUrl": "https://oneupload.to/embed-s6vyb08vilfj.html",
+              "type": "video",
+              "player": "OneUpload",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:07.098Z"
+        },
+        "21": {
+          "number": 21,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-kj5qm5irpg0n.html",
+              "embedUrl": "https://vidmoly.to/embed-kj5qm5irpg0n.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-uj2v4uo20q4c.html",
+              "embedUrl": "https://oneupload.to/embed-uj2v4uo20q4c.html",
+              "type": "video",
+              "player": "OneUpload",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:07.098Z"
+        },
+        "22": {
+          "number": 22,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-n46x6o37u82h.html",
+              "embedUrl": "https://vidmoly.to/embed-n46x6o37u82h.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-nbk0wkrke4z5.html",
+              "embedUrl": "https://oneupload.to/embed-nbk0wkrke4z5.html",
+              "type": "video",
+              "player": "OneUpload",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:07.098Z"
+        },
+        "23": {
+          "number": 23,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-y8bj2vk2nykt.html",
+              "embedUrl": "https://vidmoly.to/embed-y8bj2vk2nykt.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-y5ktocm8in9o.html",
+              "embedUrl": "https://oneupload.to/embed-y5ktocm8in9o.html",
+              "type": "video",
+              "player": "OneUpload",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:07.098Z"
+        },
+        "24": {
+          "number": 24,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-pd2ntpvxz053.html",
+              "embedUrl": "https://vidmoly.to/embed-pd2ntpvxz053.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-kse06xz46e88.html",
+              "embedUrl": "https://oneupload.to/embed-kse06xz46e88.html",
+              "type": "video",
+              "player": "OneUpload",
+              "scrapedAt": "2026-01-01T10:12:07.098Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:12:07.098Z"
+        }
+      },
+      "scrapedAt": "2026-01-01T10:12:07.098Z",
+      "lastUpdated": "2026-01-01T10:12:07.098Z"
     }
   },
   "chapters": {},
@@ -18733,11 +19303,11 @@
     },
     "byPlayer": {
       "Sibnet": 36,
-      "Vidmoly": 29,
+      "Vidmoly": 30,
       "Scan": 24,
       "Sendvid": 38,
-      "OneUpload": 2
+      "OneUpload": 3
     },
-    "lastUpdate": "2026-01-01T10:12:05.080Z"
+    "lastUpdate": "2026-01-01T10:12:07.098Z"
   }
 }
