@@ -5362,6 +5362,50 @@
       "totalSeasons": 8,
       "scrapedAt": "2026-01-01T13:54:43.807Z",
       "lastUpdated": "2026-01-01T13:54:43.807Z"
+    },
+    "angel-voice": {
+      "id": "angel-voice",
+      "title": "Angel Voice",
+      "slug": "angel-voice",
+      "language": "vostfr",
+      "type": "anime",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/angel-voice.jpg",
+      "banner": null,
+      "description": "Au lycée Razan, les voyous se battent pour obtenir le titre du meilleur bagarreur sous les ordres d'un délinquant appelé Seiichi Hironao. Ce délinquant et tous ceux qui se sont rangés de son côté occupent la salle du club de football du lycée. La seule règle à respecter dans ce repère de voyous est de ne pas toucher aux ballons : toujours les laisser rangés à leur place habituelle. Vu que le club de foot est inutile, il sert juste de repère aux délinquants, quelques professeurs du lycée décident",
+      "pageUrl": "https://anime-sama.tv/catalogue/angel-voice/",
+      "seasons": [
+        {
+          "name": "saison1",
+          "number": 1,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/angel-voice/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/angel-voice/saison1/vostfr/episodes.js"
+        },
+        {
+          "name": "saison2",
+          "number": 2,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/angel-voice/saison2/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/angel-voice/saison2/vostfr/episodes.js"
+        },
+        {
+          "name": "saison3",
+          "number": 3,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/angel-voice/saison3/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/angel-voice/saison3/vostfr/episodes.js"
+        },
+        {
+          "name": "saison4",
+          "number": 4,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/angel-voice/saison4/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/angel-voice/saison4/vostfr/episodes.js"
+        }
+      ],
+      "totalSeasons": 4,
+      "scrapedAt": "2026-01-01T13:56:45.459Z",
+      "lastUpdated": "2026-01-01T13:56:45.459Z"
     }
   },
   "seasons": {
@@ -16098,6 +16142,298 @@
       ],
       "scrapedAt": "2026-01-01T13:54:43.553Z",
       "lastUpdated": "2026-01-01T13:54:43.553Z"
+    },
+    "angel-voice_saison1_vostfr": {
+      "seasonId": "angel-voice_saison1_vostfr",
+      "animeId": "angel-voice",
+      "title": "Angel Voice",
+      "slug": "angel-voice",
+      "season": "saison1",
+      "seasonNumber": 1,
+      "seasonSuffix": "",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/angel-voice/saison1/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/angel-voice/saison1/vostfr/",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/angel-voice.jpg",
+      "banner": null,
+      "description": "Angel Voice - Saison 1 | Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "totalEpisodes": 1,
+      "episodesList": [
+        1
+      ],
+      "players": {
+        "Sibnet": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Sibnet",
+          "playerProvider": "sibnet",
+          "totalEpisodes": 1,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "lastUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:56:44.989Z"
+        },
+        "Vidmoly": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "playerProvider": "vidmoly",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vidmoly.to/embed-.html",
+          "lastUrl": "https://vidmoly.to/embed-.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:56:44.989Z"
+        },
+        "Sendvid": {
+          "playerId": "player_2",
+          "playerKey": "eps3",
+          "playerType": "Sendvid",
+          "playerProvider": "sendvid",
+          "totalEpisodes": 1,
+          "firstUrl": "https://sendvid.com/embed/",
+          "lastUrl": "https://sendvid.com/embed/",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:56:44.989Z"
+        },
+        "Scan": {
+          "playerId": "player_3",
+          "playerKey": "eps4",
+          "playerType": "Scan",
+          "playerProvider": "",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "lastUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:56:44.989Z"
+        }
+      },
+      "availablePlayers": [
+        "Sibnet",
+        "Vidmoly",
+        "Sendvid",
+        "Scan"
+      ],
+      "scrapedAt": "2026-01-01T13:56:45.069Z",
+      "lastUpdated": "2026-01-01T13:56:45.069Z"
+    },
+    "angel-voice_saison2_vostfr": {
+      "seasonId": "angel-voice_saison2_vostfr",
+      "animeId": "angel-voice",
+      "title": "Angel Voice",
+      "slug": "angel-voice",
+      "season": "saison2",
+      "seasonNumber": 2,
+      "seasonSuffix": "",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/angel-voice/saison2/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/angel-voice/saison2/vostfr/",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/angel-voice.jpg",
+      "banner": null,
+      "description": "Angel Voice - Saison 2 | Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "totalEpisodes": 1,
+      "episodesList": [
+        1
+      ],
+      "players": {
+        "Sibnet": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Sibnet",
+          "playerProvider": "sibnet",
+          "totalEpisodes": 1,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "lastUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:56:45.104Z"
+        },
+        "Vidmoly": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "playerProvider": "vidmoly",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vidmoly.to/embed-.html",
+          "lastUrl": "https://vidmoly.to/embed-.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:56:45.104Z"
+        },
+        "Sendvid": {
+          "playerId": "player_2",
+          "playerKey": "eps3",
+          "playerType": "Sendvid",
+          "playerProvider": "sendvid",
+          "totalEpisodes": 1,
+          "firstUrl": "https://sendvid.com/embed/",
+          "lastUrl": "https://sendvid.com/embed/",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:56:45.104Z"
+        },
+        "Scan": {
+          "playerId": "player_3",
+          "playerKey": "eps4",
+          "playerType": "Scan",
+          "playerProvider": "",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "lastUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:56:45.104Z"
+        }
+      },
+      "availablePlayers": [
+        "Sibnet",
+        "Vidmoly",
+        "Sendvid",
+        "Scan"
+      ],
+      "scrapedAt": "2026-01-01T13:56:45.226Z",
+      "lastUpdated": "2026-01-01T13:56:45.226Z"
+    },
+    "angel-voice_saison3_vostfr": {
+      "seasonId": "angel-voice_saison3_vostfr",
+      "animeId": "angel-voice",
+      "title": "Angel Voice",
+      "slug": "angel-voice",
+      "season": "saison3",
+      "seasonNumber": 3,
+      "seasonSuffix": "",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/angel-voice/saison3/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/angel-voice/saison3/vostfr/",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/angel-voice.jpg",
+      "banner": null,
+      "description": "Angel Voice - Saison 3 | Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "totalEpisodes": 1,
+      "episodesList": [
+        1
+      ],
+      "players": {
+        "Sibnet": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Sibnet",
+          "playerProvider": "sibnet",
+          "totalEpisodes": 1,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "lastUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:56:45.255Z"
+        },
+        "Vidmoly": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "playerProvider": "vidmoly",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vidmoly.to/embed-.html",
+          "lastUrl": "https://vidmoly.to/embed-.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:56:45.255Z"
+        },
+        "Sendvid": {
+          "playerId": "player_2",
+          "playerKey": "eps3",
+          "playerType": "Sendvid",
+          "playerProvider": "sendvid",
+          "totalEpisodes": 1,
+          "firstUrl": "https://sendvid.com/embed/",
+          "lastUrl": "https://sendvid.com/embed/",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:56:45.255Z"
+        },
+        "Scan": {
+          "playerId": "player_3",
+          "playerKey": "eps4",
+          "playerType": "Scan",
+          "playerProvider": "",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "lastUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:56:45.255Z"
+        }
+      },
+      "availablePlayers": [
+        "Sibnet",
+        "Vidmoly",
+        "Sendvid",
+        "Scan"
+      ],
+      "scrapedAt": "2026-01-01T13:56:45.311Z",
+      "lastUpdated": "2026-01-01T13:56:45.311Z"
+    },
+    "angel-voice_saison4_vostfr": {
+      "seasonId": "angel-voice_saison4_vostfr",
+      "animeId": "angel-voice",
+      "title": "Angel Voice",
+      "slug": "angel-voice",
+      "season": "saison4",
+      "seasonNumber": 4,
+      "seasonSuffix": "",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/angel-voice/saison4/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/angel-voice/saison4/vostfr/",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/angel-voice.jpg",
+      "banner": null,
+      "description": "Angel Voice - Saison 4 | Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "totalEpisodes": 1,
+      "episodesList": [
+        1
+      ],
+      "players": {
+        "Sibnet": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Sibnet",
+          "playerProvider": "sibnet",
+          "totalEpisodes": 1,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "lastUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:56:45.339Z"
+        },
+        "Vidmoly": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "playerProvider": "vidmoly",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vidmoly.to/embed-.html",
+          "lastUrl": "https://vidmoly.to/embed-.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:56:45.339Z"
+        },
+        "Sendvid": {
+          "playerId": "player_2",
+          "playerKey": "eps3",
+          "playerType": "Sendvid",
+          "playerProvider": "sendvid",
+          "totalEpisodes": 1,
+          "firstUrl": "https://sendvid.com/embed/",
+          "lastUrl": "https://sendvid.com/embed/",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:56:45.339Z"
+        },
+        "Scan": {
+          "playerId": "player_3",
+          "playerKey": "eps4",
+          "playerType": "Scan",
+          "playerProvider": "",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "lastUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:56:45.339Z"
+        }
+      },
+      "availablePlayers": [
+        "Sibnet",
+        "Vidmoly",
+        "Sendvid",
+        "Scan"
+      ],
+      "scrapedAt": "2026-01-01T13:56:45.404Z",
+      "lastUpdated": "2026-01-01T13:56:45.404Z"
     }
   },
   "episodes": {
@@ -72062,13 +72398,221 @@
       "totalPlayers": 3,
       "scrapedAt": "2026-01-01T13:54:43.553Z",
       "lastUpdated": "2026-01-01T13:54:43.553Z"
+    },
+    "angel-voice_saison1_vostfr": {
+      "seasonId": "angel-voice_saison1_vostfr",
+      "animeId": "angel-voice",
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T13:56:44.989Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-.html",
+              "embedUrl": "https://vidmoly.to/embed-.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:56:44.989Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/",
+              "embedUrl": "https://sendvid.com/embed/",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:56:44.989Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vk.com/video_ext.php?oid=&hd=3",
+              "embedUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T13:56:44.989Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 4,
+          "scrapedAt": "2026-01-01T13:56:44.989Z"
+        }
+      },
+      "totalPlayers": 4,
+      "scrapedAt": "2026-01-01T13:56:45.069Z",
+      "lastUpdated": "2026-01-01T13:56:45.069Z"
+    },
+    "angel-voice_saison2_vostfr": {
+      "seasonId": "angel-voice_saison2_vostfr",
+      "animeId": "angel-voice",
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T13:56:45.104Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-.html",
+              "embedUrl": "https://vidmoly.to/embed-.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:56:45.104Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/",
+              "embedUrl": "https://sendvid.com/embed/",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:56:45.104Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vk.com/video_ext.php?oid=&hd=3",
+              "embedUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T13:56:45.104Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 4,
+          "scrapedAt": "2026-01-01T13:56:45.104Z"
+        }
+      },
+      "totalPlayers": 4,
+      "scrapedAt": "2026-01-01T13:56:45.226Z",
+      "lastUpdated": "2026-01-01T13:56:45.226Z"
+    },
+    "angel-voice_saison3_vostfr": {
+      "seasonId": "angel-voice_saison3_vostfr",
+      "animeId": "angel-voice",
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T13:56:45.255Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-.html",
+              "embedUrl": "https://vidmoly.to/embed-.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:56:45.255Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/",
+              "embedUrl": "https://sendvid.com/embed/",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:56:45.255Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vk.com/video_ext.php?oid=&hd=3",
+              "embedUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T13:56:45.255Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 4,
+          "scrapedAt": "2026-01-01T13:56:45.255Z"
+        }
+      },
+      "totalPlayers": 4,
+      "scrapedAt": "2026-01-01T13:56:45.311Z",
+      "lastUpdated": "2026-01-01T13:56:45.311Z"
+    },
+    "angel-voice_saison4_vostfr": {
+      "seasonId": "angel-voice_saison4_vostfr",
+      "animeId": "angel-voice",
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T13:56:45.339Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-.html",
+              "embedUrl": "https://vidmoly.to/embed-.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:56:45.339Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/",
+              "embedUrl": "https://sendvid.com/embed/",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:56:45.339Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vk.com/video_ext.php?oid=&hd=3",
+              "embedUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T13:56:45.339Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 4,
+          "scrapedAt": "2026-01-01T13:56:45.339Z"
+        }
+      },
+      "totalPlayers": 4,
+      "scrapedAt": "2026-01-01T13:56:45.404Z",
+      "lastUpdated": "2026-01-01T13:56:45.404Z"
     }
   },
   "players": {
     "Sibnet": {
       "name": "Sibnet",
       "type": "video",
-      "count": 116,
+      "count": 120,
       "exampleUrls": [
         "https://video.sibnet.ru/shell.php?videoid=5089647",
         "https://video.sibnet.ru/shell.php?videoid=5089928",
@@ -72081,14 +72625,13 @@
         "https://video.sibnet.ru/shell.php?videoid=5493329",
         "https://video.sibnet.ru/shell.php?videoid=4731007"
       ],
-      "lastUsed": "2026-01-01T13:54:43.553Z"
+      "lastUsed": "2026-01-01T13:56:45.404Z"
     },
     "Vidmoly": {
       "name": "Vidmoly",
       "type": "video",
-      "count": 106,
+      "count": 110,
       "exampleUrls": [
-        "https://vidmoly.to/embed-n3t1q5dd43x6.html",
         "https://vidmoly.to/embed-eewv9bhcv8o9.html",
         "https://vidmoly.net/embed-qg21ej8vkmdf.html",
         "https://vidmoly.to/embed-wsdvivia9911.html",
@@ -72097,14 +72640,15 @@
         "https://vidmoly.to/embed-fenz4bl6tym1.html",
         "https://vidmoly.to/embed-mbcbori7t80z.html",
         "https://vidmoly.to/embed-6h4w3yhawgnn.html",
-        "https://vidmoly.to/embed-hr7f4ct44va7.html"
+        "https://vidmoly.to/embed-hr7f4ct44va7.html",
+        "https://vidmoly.to/embed-.html"
       ],
-      "lastUsed": "2026-01-01T13:54:43.553Z"
+      "lastUsed": "2026-01-01T13:56:45.404Z"
     },
     "Scan": {
       "name": "Scan",
       "type": "video",
-      "count": 98,
+      "count": 102,
       "exampleUrls": [
         "https://www.myvi.tv/embed/dk5uzq4bd8mr5jpebk3bcom1nr",
         "https://www.myvi.tv/embed/5btxqx11wikr5gp1bwm78ndnuc",
@@ -72117,12 +72661,12 @@
         "https://www.myvi.tv/embed/tg14rjnw6gfr7jsek5ymray81w",
         "https://vk.com/video_ext.php?oid=751474887&id=456239411&hd=3"
       ],
-      "lastUsed": "2026-01-01T13:52:47.464Z"
+      "lastUsed": "2026-01-01T13:56:45.404Z"
     },
     "Sendvid": {
       "name": "Sendvid",
       "type": "video",
-      "count": 123,
+      "count": 127,
       "exampleUrls": [
         "https://sendvid.com/embed/opxdjyeh",
         "https://sendvid.com/embed/22wl9gg7",
@@ -72135,7 +72679,7 @@
         "https://sendvid.com/embed/xyxrrjio",
         "https://sendvid.com/embed/nnvcdckw"
       ],
-      "lastUsed": "2026-01-01T13:54:43.553Z"
+      "lastUsed": "2026-01-01T13:56:45.404Z"
     },
     "OneUpload": {
       "name": "OneUpload",
