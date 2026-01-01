@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:36:53.623Z",
+  "lastUpdated": "2026-01-01T09:36:55.443Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 97,
@@ -190,17 +190,22 @@
     "7-seeds": {
       "id": "7-seeds",
       "title": "7 Seeds",
-      "originalLink": "https://anime-sama.tv/catalogue/7-seeds/",
       "slug": "7-seeds",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/7-seeds0.jpg",
-      "banner": null,
-      "description": "Une gigantesque météorite est entrée en collision avec la Terre. De nombreuses espèces, y compris l'humanité, ont été rayés de la surface de la planète. Le gouvernement japonais, qui avait prévu cette catastrophe, a prit des mesures pour essayer de contrer le pire des scénarios. Le projet",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/7-seeds/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:11:43.631Z",
-      "lastUpdated": "2026-01-01T09:11:43.631Z"
+      "scrapedAt": "2026-01-01T09:36:55.443Z",
+      "lastUpdated": "2026-01-01T09:36:55.443Z"
     },
     "66666-years-advent-of-the-dark-mage": {
       "id": "66666-years-advent-of-the-dark-mage",
@@ -5045,8 +5050,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 141,
-      "vostfr": 8
+      "vf": 140,
+      "vostfr": 9
     },
     "byType": {
       "anime": 149,
@@ -5059,7 +5064,7 @@
       "Sendvid": 7,
       "OneUpload": 1
     },
-    "lastUpdate": "2026-01-01T09:36:53.623Z"
+    "lastUpdate": "2026-01-01T09:36:55.443Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
