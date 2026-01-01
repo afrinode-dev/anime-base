@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:43:25.977Z",
+  "lastUpdated": "2026-01-01T09:43:27.427Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1625,
@@ -1990,17 +1990,22 @@
     "ao-haru-ride": {
       "id": "ao-haru-ride",
       "title": "Ao Haru Ride",
-      "originalLink": "https://anime-sama.tv/catalogue/ao-haru-ride",
       "slug": "ao-haru-ride",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ao-haru-ride.jpg",
-      "banner": null,
-      "description": "Du collège, Futaba Yoshioka n'a pas vraiment de bon souvenirs. Jugée",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/ao-haru-ride/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:35.712Z",
-      "lastUpdated": "2026-01-01T09:12:35.712Z"
+      "scrapedAt": "2026-01-01T09:43:27.427Z",
+      "lastUpdated": "2026-01-01T09:43:27.427Z"
     },
     "ao-chan-cant-study": {
       "id": "ao-chan-cant-study",
@@ -47605,8 +47610,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 85,
-      "vostfr": 64
+      "vf": 84,
+      "vostfr": 65
     },
     "byType": {
       "anime": 149,
@@ -47620,7 +47625,7 @@
       "OneUpload": 9,
       "Smoothpre": 6
     },
-    "lastUpdate": "2026-01-01T09:43:25.976Z"
+    "lastUpdate": "2026-01-01T09:43:27.427Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
