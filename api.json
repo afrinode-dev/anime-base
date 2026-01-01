@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:39:32.126Z",
+  "lastUpdated": "2026-01-01T09:39:34.106Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 699,
@@ -910,17 +910,22 @@
     "ace-of-diamond": {
       "id": "ace-of-diamond",
       "title": "Ace of Diamond",
-      "originalLink": "https://anime-sama.tv/catalogue/ace-of-diamond",
       "slug": "ace-of-diamond",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ace-of-diamond.jpg",
-      "banner": null,
-      "description": "Eijun Sawamura, 15 ans, joue dans le club de base-ball de son petit collège de campagne. Formidable lanceur, il sera repéré malgré les défaites répétées de son équipe et se verra proposer une place dans le prestigieux lycée Seidô, spécialisé dans le base-ball. D'abord réticent, Eijun finira par accepter d'aller à Tokyo.",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/ace-of-diamond/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:03.028Z",
-      "lastUpdated": "2026-01-01T09:12:03.028Z"
+      "scrapedAt": "2026-01-01T09:39:34.106Z",
+      "lastUpdated": "2026-01-01T09:39:34.106Z"
     },
     "actually-i-am": {
       "id": "actually-i-am",
@@ -20215,8 +20220,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 120,
-      "vostfr": 29
+      "vf": 119,
+      "vostfr": 30
     },
     "byType": {
       "anime": 149,
@@ -20229,7 +20234,7 @@
       "Sendvid": 41,
       "OneUpload": 3
     },
-    "lastUpdate": "2026-01-01T09:39:32.126Z"
+    "lastUpdate": "2026-01-01T09:39:34.106Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
