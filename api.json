@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:45:26.177Z",
+  "lastUpdated": "2026-01-01T09:45:27.719Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 2013,
@@ -2630,17 +2630,22 @@
     "asteroid-in-love": {
       "id": "asteroid-in-love",
       "title": "Asteroid in Love",
-      "originalLink": "https://anime-sama.tv/catalogue/asteroid-in-love",
       "slug": "asteroid-in-love",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/asteroid-in-love.jpg",
-      "banner": null,
-      "description": "En raison du manque de membre, le club d'astronomie et de géologie fusionnent pour devenir celui des géosciences.\n\nAfin de combiner leurs différentes passions, les filles décident de partir à la recherche d'un astéroïde !",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/asteroid-in-love/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:56.845Z",
-      "lastUpdated": "2026-01-01T09:12:56.845Z"
+      "scrapedAt": "2026-01-01T09:45:27.718Z",
+      "lastUpdated": "2026-01-01T09:45:27.718Z"
     },
     "astro-note": {
       "id": "astro-note",
@@ -58689,8 +58694,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 62,
-      "vostfr": 87
+      "vf": 61,
+      "vostfr": 88
     },
     "byType": {
       "anime": 149,
@@ -58704,7 +58709,7 @@
       "OneUpload": 13,
       "Smoothpre": 10
     },
-    "lastUpdate": "2026-01-01T09:45:26.176Z"
+    "lastUpdate": "2026-01-01T09:45:27.718Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
