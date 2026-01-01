@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:13:40.298Z",
-  "totalAnimes": 50,
+  "lastUpdated": "2026-01-01T10:13:41.613Z",
+  "totalAnimes": 51,
   "totalScans": 0,
   "totalEpisodes": 1025,
   "totalChapters": 0,
@@ -1056,6 +1056,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:13:37.196Z"
+    },
+    "akashic-records": {
+      "id": "akashic-records",
+      "title": "Akashic Records",
+      "slug": "akashic-records",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/akashic-records/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/akashic-records/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/akashic-records/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "akashic-records_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:13:41.613Z"
     }
   },
   "scans": {},
@@ -32552,10 +32573,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 14,
-      "vostfr": 36
+      "vostfr": 37
     },
     "byType": {
-      "anime": 50,
+      "anime": 51,
       "scan": 0
     },
     "byPlayer": {
@@ -32566,6 +32587,6 @@
       "OneUpload": 3,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T10:13:40.298Z"
+    "lastUpdate": "2026-01-01T10:13:41.613Z"
   }
 }
