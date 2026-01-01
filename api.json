@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:37:26.705Z",
+  "lastUpdated": "2026-01-01T09:37:28.304Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 221,
@@ -375,17 +375,22 @@
     "a-certain-magical-index": {
       "id": "a-certain-magical-index",
       "title": "A Certain Magical Index",
-      "originalLink": "https://anime-sama.tv/catalogue/a-certain-magical-index",
       "slug": "a-certain-magical-index",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-certain-magical-index.jpg",
-      "banner": null,
-      "description": "L'histoire se déroule dans un univers où la magie et les pouvoirs surnaturels existent et se focalise autour d'un lycéen, Toma Kamijo, qui a le pouvoir d'annuler toutes magies ou pouvoirs. Toma Kamijo va faire la rencontre d'une nonne qui est poursuivie parce qu'elle a dans son cerveau une connaissance interdite...",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/a-certain-magical-index/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:11:47.879Z",
-      "lastUpdated": "2026-01-01T09:11:47.879Z"
+      "scrapedAt": "2026-01-01T09:37:28.303Z",
+      "lastUpdated": "2026-01-01T09:37:28.303Z"
     },
     "a-certain-scientific-accelerator": {
       "id": "a-certain-scientific-accelerator",
@@ -8094,8 +8099,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 136,
-      "vostfr": 13
+      "vf": 135,
+      "vostfr": 14
     },
     "byType": {
       "anime": 149,
@@ -8108,7 +8113,7 @@
       "Sendvid": 15,
       "OneUpload": 1
     },
-    "lastUpdate": "2026-01-01T09:37:26.705Z"
+    "lastUpdate": "2026-01-01T09:37:28.303Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
