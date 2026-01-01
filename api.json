@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:44:21.784Z",
+  "lastUpdated": "2026-01-01T09:44:23.450Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1783,
@@ -2265,17 +2265,22 @@
     "arcane": {
       "id": "arcane",
       "title": "Arcane",
-      "originalLink": "https://anime-sama.tv/catalogue/arcane",
       "slug": "arcane",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/arcane.jpg",
-      "banner": null,
-      "description": "La série a lieu dans le monde de Runeterra, l'univers fictif de Riot Games dans lequel prennent également place les jeux League of Legends, League of Legends: Wild Rift et Legends of Runeterra. L'intrigue se déroule plus précisément à Piltover et Zaun, deux villes en conflit situées au même endroit — Piltover constituant la partie supérieure et riche de la cité ; Zaun ses souterrains insalubres, dont la population souffre de la pauvreté. Le scénario suit également Jinx et Vi, deux sœurs ayant vé",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/arcane/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:43.810Z",
-      "lastUpdated": "2026-01-01T09:12:43.810Z"
+      "scrapedAt": "2026-01-01T09:44:23.450Z",
+      "lastUpdated": "2026-01-01T09:44:23.450Z"
     },
     "arcane-sniper": {
       "id": "arcane-sniper",
@@ -52530,8 +52535,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 73,
-      "vostfr": 76
+      "vf": 72,
+      "vostfr": 77
     },
     "byType": {
       "anime": 149,
@@ -52545,7 +52550,7 @@
       "OneUpload": 12,
       "Smoothpre": 9
     },
-    "lastUpdate": "2026-01-01T09:44:21.783Z"
+    "lastUpdate": "2026-01-01T09:44:23.450Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
