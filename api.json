@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:45:37.491Z",
+  "lastUpdated": "2026-01-01T09:45:39.264Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 2037,
@@ -2700,17 +2700,22 @@
     "atelier-ryza": {
       "id": "atelier-ryza",
       "title": "Atelier Ryza",
-      "originalLink": "https://anime-sama.tv/catalogue/atelier-ryza",
       "slug": "atelier-ryza",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/atelier-ryza.jpg",
-      "banner": null,
-      "description": "Reisalin Stout, communément appelée Ryza par ses amis intimes, est une adolescente particulièrement joviale et pétillante qui vit sur l'île de Kurken avec ses amis, Tao et Lent. Avec ces derniers, Ryza a déjà fait les quatre cent coups mais, aujourd'hui, le trio infernal ne veut plus se contenter d'arpenter les sentiers de l'île Kurken. En effet, Ryza, Tao et Lent ont pour ambition de parcourir le monde et devenir des explorateurs aguerris. Leur première escapade hors de leur île natale vire tou",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/atelier-ryza/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:13:00.159Z",
-      "lastUpdated": "2026-01-01T09:13:00.159Z"
+      "scrapedAt": "2026-01-01T09:45:39.264Z",
+      "lastUpdated": "2026-01-01T09:45:39.264Z"
     },
     "atri-my-dear-moments": {
       "id": "atri-my-dear-moments",
@@ -59387,8 +59392,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 60,
-      "vostfr": 89
+      "vf": 59,
+      "vostfr": 90
     },
     "byType": {
       "anime": 149,
@@ -59402,7 +59407,7 @@
       "OneUpload": 13,
       "Smoothpre": 10
     },
-    "lastUpdate": "2026-01-01T09:45:37.491Z"
+    "lastUpdate": "2026-01-01T09:45:39.264Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
