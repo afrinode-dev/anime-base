@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:19:53.603Z",
-  "totalAnimes": 125,
+  "lastUpdated": "2026-01-01T10:19:55.284Z",
+  "totalAnimes": 126,
   "totalScans": 0,
   "totalEpisodes": 2259,
   "totalChapters": 0,
@@ -2631,6 +2631,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:19:50.718Z"
+    },
+    "bad-girl": {
+      "id": "bad-girl",
+      "title": "Bad Girl",
+      "slug": "bad-girl",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/bad-girl/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/bad-girl/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/bad-girl/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "bad-girl_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:19:55.282Z"
     }
   },
   "scans": {},
@@ -75341,10 +75362,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 29,
-      "vostfr": 96
+      "vostfr": 97
     },
     "byType": {
-      "anime": 125,
+      "anime": 126,
       "scan": 0
     },
     "byPlayer": {
@@ -75355,6 +75376,6 @@
       "OneUpload": 15,
       "Smoothpre": 10
     },
-    "lastUpdate": "2026-01-01T10:19:53.603Z"
+    "lastUpdate": "2026-01-01T10:19:55.282Z"
   }
 }
