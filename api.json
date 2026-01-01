@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:43:43.580Z",
+  "lastUpdated": "2026-01-01T09:43:45.095Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1685,
@@ -2070,17 +2070,22 @@
     "apocalypse-hotel": {
       "id": "apocalypse-hotel",
       "title": "Apocalypse Hotel",
-      "originalLink": "https://anime-sama.tv/catalogue/apocalypse-hotel",
       "slug": "apocalypse-hotel",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/apocalypse-hotel.jpg",
-      "banner": null,
-      "description": "Dans un monde où les civilisations se sont effondrées et l'humanité a disparu, un hôtel demeure...",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/apocalypse-hotel/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:37.429Z",
-      "lastUpdated": "2026-01-01T09:12:37.429Z"
+      "scrapedAt": "2026-01-01T09:43:45.095Z",
+      "lastUpdated": "2026-01-01T09:43:45.095Z"
     },
     "apocalyptic-thief": {
       "id": "apocalyptic-thief",
@@ -49663,8 +49668,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 82,
-      "vostfr": 67
+      "vf": 81,
+      "vostfr": 68
     },
     "byType": {
       "anime": 149,
@@ -49678,7 +49683,7 @@
       "OneUpload": 10,
       "Smoothpre": 9
     },
-    "lastUpdate": "2026-01-01T09:43:43.580Z"
+    "lastUpdate": "2026-01-01T09:43:45.095Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
