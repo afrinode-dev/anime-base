@@ -1298,6 +1298,92 @@
       "totalSeasons": 9,
       "scrapedAt": "2026-01-01T14:15:16.900Z",
       "lastUpdated": "2026-01-01T14:15:16.900Z"
+    },
+    "arcane": {
+      "id": "arcane",
+      "title": "Arcane",
+      "slug": "arcane",
+      "language": "vf",
+      "type": "anime",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/arcane.jpg",
+      "banner": null,
+      "description": "La série a lieu dans le monde de Runeterra, l'univers fictif de Riot Games dans lequel prennent également place les jeux League of Legends, League of Legends: Wild Rift et Legends of Runeterra. L'intrigue se déroule plus précisément à Piltover et Zaun, deux villes en conflit situées au même endroit — Piltover constituant la partie supérieure et riche de la cité ; Zaun ses souterrains insalubres, dont la population souffre de la pauvreté. Le scénario suit également Jinx et Vi, deux sœurs ayant vé",
+      "pageUrl": "https://anime-sama.tv/catalogue/arcane/",
+      "seasons": [
+        {
+          "name": "saison1",
+          "number": 1,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/arcane/saison1/vf/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/arcane/saison1/vf/episodes.js"
+        },
+        {
+          "name": "saison2",
+          "number": 2,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/arcane/saison2/vf/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/arcane/saison2/vf/episodes.js"
+        },
+        {
+          "name": "saison3",
+          "number": 3,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/arcane/saison3/vf/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/arcane/saison3/vf/episodes.js"
+        },
+        {
+          "name": "saison4",
+          "number": 4,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/arcane/saison4/vf/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/arcane/saison4/vf/episodes.js"
+        },
+        {
+          "name": "saison5",
+          "number": 5,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/arcane/saison5/vf/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/arcane/saison5/vf/episodes.js"
+        },
+        {
+          "name": "saison6",
+          "number": 6,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/arcane/saison6/vf/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/arcane/saison6/vf/episodes.js"
+        },
+        {
+          "name": "saison7",
+          "number": 7,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/arcane/saison7/vf/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/arcane/saison7/vf/episodes.js"
+        },
+        {
+          "name": "saison8",
+          "number": 8,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/arcane/saison8/vf/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/arcane/saison8/vf/episodes.js"
+        },
+        {
+          "name": "saison9",
+          "number": 9,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/arcane/saison9/vf/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/arcane/saison9/vf/episodes.js"
+        },
+        {
+          "name": "saison10",
+          "number": 10,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/arcane/saison10/vf/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/arcane/saison10/vf/episodes.js"
+        }
+      ],
+      "totalSeasons": 10,
+      "scrapedAt": "2026-01-01T14:43:04.361Z",
+      "lastUpdated": "2026-01-01T14:43:04.361Z"
     }
   },
   "seasons": {
@@ -4534,6 +4620,108 @@
       ],
       "scrapedAt": "2026-01-01T14:15:16.650Z",
       "lastUpdated": "2026-01-01T14:15:16.650Z"
+    },
+    "arcane_saison1_vf": {
+      "seasonId": "arcane_saison1_vf",
+      "animeId": "arcane",
+      "title": "Arcane",
+      "slug": "arcane",
+      "season": "saison1",
+      "seasonNumber": 1,
+      "seasonSuffix": "",
+      "language": "vf",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/arcane/saison1/vf/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/arcane/saison1/vf/",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/arcane.jpg",
+      "banner": null,
+      "description": "Arcane - Saison 1 | Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "totalEpisodes": 9,
+      "episodesList": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "players": {
+        "Vidmoly": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Vidmoly",
+          "playerProvider": "vidmoly",
+          "totalEpisodes": 9,
+          "firstUrl": "https://vidmoly.to/embed-ucwd2sz747ad.html",
+          "lastUrl": "https://vidmoly.to/embed-j958huf9y02f.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:43:03.869Z"
+        }
+      },
+      "availablePlayers": [
+        "Vidmoly"
+      ],
+      "scrapedAt": "2026-01-01T14:43:04.010Z",
+      "lastUpdated": "2026-01-01T14:43:04.010Z"
+    },
+    "arcane_saison2_vf": {
+      "seasonId": "arcane_saison2_vf",
+      "animeId": "arcane",
+      "title": "Arcane",
+      "slug": "arcane",
+      "season": "saison2",
+      "seasonNumber": 2,
+      "seasonSuffix": "",
+      "language": "vf",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/arcane/saison2/vf/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/arcane/saison2/vf/",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/arcane.jpg",
+      "banner": null,
+      "description": "Arcane - Saison 2 | Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "totalEpisodes": 9,
+      "episodesList": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "players": {
+        "Sendvid": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Sendvid",
+          "playerProvider": "sendvid",
+          "totalEpisodes": 9,
+          "firstUrl": "https://sendvid.com/embed/7pvdou0v",
+          "lastUrl": "https://sendvid.com/embed/r5dok3m4",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:43:04.037Z"
+        },
+        "Vidmoly": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "playerProvider": "vidmoly",
+          "totalEpisodes": 9,
+          "firstUrl": "https://vidmoly.to/embed-ksbbqrk9xoj2.html",
+          "lastUrl": "https://vidmoly.to/embed-z7j8luugkefh.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T14:43:04.037Z"
+        }
+      },
+      "availablePlayers": [
+        "Sendvid",
+        "Vidmoly"
+      ],
+      "scrapedAt": "2026-01-01T14:43:04.133Z",
+      "lastUpdated": "2026-01-01T14:43:04.133Z"
     }
   },
   "episodes": {
@@ -29763,6 +29951,393 @@
       "totalPlayers": 4,
       "scrapedAt": "2026-01-01T14:15:16.650Z",
       "lastUpdated": "2026-01-01T14:15:16.650Z"
+    },
+    "arcane_saison1_vf": {
+      "seasonId": "arcane_saison1_vf",
+      "animeId": "arcane",
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-ucwd2sz747ad.html",
+              "embedUrl": "https://vidmoly.to/embed-ucwd2sz747ad.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:43:03.869Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T14:43:03.869Z"
+        },
+        "2": {
+          "number": 2,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-ocvl5016mn1h.html",
+              "embedUrl": "https://vidmoly.to/embed-ocvl5016mn1h.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:43:03.869Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T14:43:03.869Z"
+        },
+        "3": {
+          "number": 3,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-jtsajvpk5qnh.html",
+              "embedUrl": "https://vidmoly.to/embed-jtsajvpk5qnh.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:43:03.869Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T14:43:03.869Z"
+        },
+        "4": {
+          "number": 4,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-t1mcl6vvb3h7.html",
+              "embedUrl": "https://vidmoly.to/embed-t1mcl6vvb3h7.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:43:03.869Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T14:43:03.869Z"
+        },
+        "5": {
+          "number": 5,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-4qtdjmbtulbu.html",
+              "embedUrl": "https://vidmoly.to/embed-4qtdjmbtulbu.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:43:03.869Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T14:43:03.869Z"
+        },
+        "6": {
+          "number": 6,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-u3kfviss5ow6.html",
+              "embedUrl": "https://vidmoly.to/embed-u3kfviss5ow6.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:43:03.869Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T14:43:03.869Z"
+        },
+        "7": {
+          "number": 7,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-rf6aja82khl6.html",
+              "embedUrl": "https://vidmoly.to/embed-rf6aja82khl6.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:43:03.869Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T14:43:03.869Z"
+        },
+        "8": {
+          "number": 8,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-wqree17zzc25.html",
+              "embedUrl": "https://vidmoly.to/embed-wqree17zzc25.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:43:03.869Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T14:43:03.869Z"
+        },
+        "9": {
+          "number": 9,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-j958huf9y02f.html",
+              "embedUrl": "https://vidmoly.to/embed-j958huf9y02f.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:43:03.869Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T14:43:03.869Z"
+        }
+      },
+      "totalPlayers": 1,
+      "scrapedAt": "2026-01-01T14:43:04.010Z",
+      "lastUpdated": "2026-01-01T14:43:04.010Z"
+    },
+    "arcane_saison2_vf": {
+      "seasonId": "arcane_saison2_vf",
+      "animeId": "arcane",
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/7pvdou0v",
+              "embedUrl": "https://sendvid.com/embed/7pvdou0v",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T14:43:04.037Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-ksbbqrk9xoj2.html",
+              "embedUrl": "https://vidmoly.to/embed-ksbbqrk9xoj2.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:43:04.037Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T14:43:04.037Z"
+        },
+        "2": {
+          "number": 2,
+          "players": {
+            "Sendvid": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5746047",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5746047",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T14:43:04.037Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-9hi9se4psmtc.html",
+              "embedUrl": "https://vidmoly.to/embed-9hi9se4psmtc.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:43:04.037Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T14:43:04.037Z"
+        },
+        "3": {
+          "number": 3,
+          "players": {
+            "Sendvid": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5746048",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5746048",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T14:43:04.037Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-legkasx2lio0.html",
+              "embedUrl": "https://vidmoly.to/embed-legkasx2lio0.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:43:04.037Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T14:43:04.037Z"
+        },
+        "4": {
+          "number": 4,
+          "players": {
+            "Sendvid": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5753155",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5753155",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T14:43:04.037Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-em2kprtpucqq.html",
+              "embedUrl": "https://vidmoly.to/embed-em2kprtpucqq.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:43:04.037Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T14:43:04.037Z"
+        },
+        "5": {
+          "number": 5,
+          "players": {
+            "Sendvid": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5753156",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5753156",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T14:43:04.037Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-fixtahqqo7ja.html",
+              "embedUrl": "https://vidmoly.to/embed-fixtahqqo7ja.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:43:04.037Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T14:43:04.037Z"
+        },
+        "6": {
+          "number": 6,
+          "players": {
+            "Sendvid": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5753157",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5753157",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T14:43:04.037Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-2wy5w8cnay3f.html",
+              "embedUrl": "https://vidmoly.to/embed-2wy5w8cnay3f.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:43:04.037Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T14:43:04.037Z"
+        },
+        "7": {
+          "number": 7,
+          "players": {
+            "Sendvid": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5760347",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5760347",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T14:43:04.037Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-8ux0kqmnmq5a.html",
+              "embedUrl": "https://vidmoly.to/embed-8ux0kqmnmq5a.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:43:04.037Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T14:43:04.037Z"
+        },
+        "8": {
+          "number": 8,
+          "players": {
+            "Sendvid": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5760351",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5760351",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T14:43:04.037Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-dp5bhhc5p9rk.html",
+              "embedUrl": "https://vidmoly.to/embed-dp5bhhc5p9rk.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:43:04.037Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T14:43:04.037Z"
+        },
+        "9": {
+          "number": 9,
+          "players": {
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/r5dok3m4",
+              "embedUrl": "https://sendvid.com/embed/r5dok3m4",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T14:43:04.037Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-z7j8luugkefh.html",
+              "embedUrl": "https://vidmoly.to/embed-z7j8luugkefh.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T14:43:04.037Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T14:43:04.037Z"
+        }
+      },
+      "totalPlayers": 2,
+      "scrapedAt": "2026-01-01T14:43:04.133Z",
+      "lastUpdated": "2026-01-01T14:43:04.133Z"
     }
   },
   "players": {
@@ -29787,9 +30362,8 @@
     "Sendvid": {
       "name": "Sendvid",
       "type": "video",
-      "count": 40,
+      "count": 41,
       "exampleUrls": [
-        "https://sendvid.com/embed/igi6xufu",
         "https://sendvid.com/embed/jn621y0i",
         "https://sendvid.com/embed/otn1x5pd",
         "https://sendvid.com/embed/f4uoghyy",
@@ -29798,17 +30372,16 @@
         "https://sendvid.com/embed/xu1ixepr",
         "https://sendvid.com/embed/56hk84rz",
         "https://sendvid.com/embed/24eovea4",
-        "https://sendvid.com/embed/lriq2t14"
+        "https://sendvid.com/embed/lriq2t14",
+        "https://sendvid.com/embed/7pvdou0v"
       ],
-      "lastUsed": "2026-01-01T14:15:16.650Z"
+      "lastUsed": "2026-01-01T14:43:04.133Z"
     },
     "Vidmoly": {
       "name": "Vidmoly",
       "type": "video",
-      "count": 33,
+      "count": 35,
       "exampleUrls": [
-        "https://vidmoly.to/embed-b63c9db0oycy.html",
-        "https://vidmoly.to/embed-jvop1dhnycfb.html",
         "https://vidmoly.net/embed-ka5hoh1lzhgw.html",
         "https://vidmoly.to/embed-vuyoruv8kzef.html",
         "https://vidmoly.to/embed-4m1v006cltib.html",
@@ -29816,9 +30389,11 @@
         "https://vidmoly.to/embed-owch41buh4m2.html",
         "https://vidmoly.to/embed-eproqywnlwp9.html",
         "https://vidmoly.to/embed-79v4rkss2o8o.html",
-        "https://vidmoly.to/embed-fvt657r9uvuy.html"
+        "https://vidmoly.to/embed-fvt657r9uvuy.html",
+        "https://vidmoly.to/embed-ucwd2sz747ad.html",
+        "https://vidmoly.to/embed-ksbbqrk9xoj2.html"
       ],
-      "lastUsed": "2026-01-01T14:15:16.650Z"
+      "lastUsed": "2026-01-01T14:43:04.133Z"
     },
     "Sibnet": {
       "name": "Sibnet",
