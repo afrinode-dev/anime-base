@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:44:01.265Z",
+  "lastUpdated": "2026-01-01T09:44:02.980Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1723,
@@ -2145,17 +2145,22 @@
     "araburu-kisetsu": {
       "id": "araburu-kisetsu",
       "title": "Araburu Kisetsu",
-      "originalLink": "https://anime-sama.tv/catalogue/araburu-kisetsu",
       "slug": "araburu-kisetsu",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/araburu-kisetsu.jpg",
-      "banner": null,
-      "description": "Nous suivons le quotidien de cinq jeunes filles appartenant au club de littérature, qui vont finir par aborder un sujet tabou jusque là : le sexe.\n\nEn parallèle, chacune d'entre elles va vivre sa première histoire d'amour.",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/araburu-kisetsu/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:40.821Z",
-      "lastUpdated": "2026-01-01T09:12:40.821Z"
+      "scrapedAt": "2026-01-01T09:44:02.980Z",
+      "lastUpdated": "2026-01-01T09:44:02.980Z"
     },
     "apres-la-pluie": {
       "id": "apres-la-pluie",
@@ -50827,8 +50832,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 78,
-      "vostfr": 71
+      "vf": 77,
+      "vostfr": 72
     },
     "byType": {
       "anime": 149,
@@ -50842,7 +50847,7 @@
       "OneUpload": 11,
       "Smoothpre": 9
     },
-    "lastUpdate": "2026-01-01T09:44:01.264Z"
+    "lastUpdate": "2026-01-01T09:44:02.980Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
