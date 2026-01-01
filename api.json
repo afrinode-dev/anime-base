@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:42:19.382Z",
+  "lastUpdated": "2026-01-01T09:42:21.340Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1386,
@@ -1660,17 +1660,22 @@
     "amagi-brillant-park": {
       "id": "amagi-brillant-park",
       "title": "Amagi Brilliant Park",
-      "originalLink": "https://anime-sama.tv/catalogue/amagi-brillant-park",
       "slug": "amagi-brillant-park",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/amagi-brillant-park.jpg",
-      "banner": null,
-      "description": "Seiya Kanie est un lycéen un peu prétentieux mais aussi très solitaire, qui se retrouve du jour au lendemain propulsé à la tête d'un parc à thème : Amagi Brilliant Park. Ce dernier est au bord de la faillite et doit impérativement avoir accueilli 500 000 visiteurs avant le 31 juillet. Le problème, c'est que le parc n'attire plus grand monde et certaines infrastructures sont à l'abandon. Seiya, épaulé par Izusu Sento, va alors tenter de redresser la situation, mais il n'a plus que 3 mois pour att",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/amagi-brillant-park/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:25.237Z",
-      "lastUpdated": "2026-01-01T09:12:25.237Z"
+      "scrapedAt": "2026-01-01T09:42:21.338Z",
+      "lastUpdated": "2026-01-01T09:42:21.338Z"
     },
     "ame-to-kimi-to": {
       "id": "ame-to-kimi-to",
@@ -39831,8 +39836,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 97,
-      "vostfr": 52
+      "vf": 96,
+      "vostfr": 53
     },
     "byType": {
       "anime": 149,
@@ -39846,7 +39851,7 @@
       "OneUpload": 6,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T09:42:19.382Z"
+    "lastUpdate": "2026-01-01T09:42:21.338Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
