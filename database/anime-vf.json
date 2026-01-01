@@ -544,6 +544,92 @@
       "totalSeasons": 10,
       "scrapedAt": "2026-01-01T12:33:21.988Z",
       "lastUpdated": "2026-01-01T12:33:21.988Z"
+    },
+    "afro-samurai": {
+      "id": "afro-samurai",
+      "title": "Afro Samurai",
+      "slug": "afro-samurai",
+      "language": "vf",
+      "type": "anime",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/afro-samurai.jpg",
+      "banner": null,
+      "description": "Suite à la mort de son père dans un duel contre un mystérieux personnage, le jeune Afro décida de s'entraîner dur dans le but de le venger. Pour cela il apprendra l'art du maniement du sabre, tout au long de son parcours à la recherche de cet homme, il fera la rencontre de différents individus décidés à lui mettre des bâtons dans les roues ; il règlera ses comptes dans des combats tout aussi sanglants les uns que les autres.",
+      "pageUrl": "https://anime-sama.tv/catalogue/afro-samurai/",
+      "seasons": [
+        {
+          "name": "saison1",
+          "number": 1,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/afro-samurai/saison1/vf/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/afro-samurai/saison1/vf/episodes.js"
+        },
+        {
+          "name": "saison2",
+          "number": 2,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/afro-samurai/saison2/vf/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/afro-samurai/saison2/vf/episodes.js"
+        },
+        {
+          "name": "saison3",
+          "number": 3,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/afro-samurai/saison3/vf/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/afro-samurai/saison3/vf/episodes.js"
+        },
+        {
+          "name": "saison4",
+          "number": 4,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/afro-samurai/saison4/vf/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/afro-samurai/saison4/vf/episodes.js"
+        },
+        {
+          "name": "saison5",
+          "number": 5,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/afro-samurai/saison5/vf/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/afro-samurai/saison5/vf/episodes.js"
+        },
+        {
+          "name": "saison6",
+          "number": 6,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/afro-samurai/saison6/vf/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/afro-samurai/saison6/vf/episodes.js"
+        },
+        {
+          "name": "saison7",
+          "number": 7,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/afro-samurai/saison7/vf/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/afro-samurai/saison7/vf/episodes.js"
+        },
+        {
+          "name": "saison8",
+          "number": 8,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/afro-samurai/saison8/vf/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/afro-samurai/saison8/vf/episodes.js"
+        },
+        {
+          "name": "saison9",
+          "number": 9,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/afro-samurai/saison9/vf/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/afro-samurai/saison9/vf/episodes.js"
+        },
+        {
+          "name": "saison10",
+          "number": 10,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/afro-samurai/saison10/vf/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/afro-samurai/saison10/vf/episodes.js"
+        }
+      ],
+      "totalSeasons": 10,
+      "scrapedAt": "2026-01-01T12:35:23.575Z",
+      "lastUpdated": "2026-01-01T12:35:23.575Z"
     }
   },
   "seasons": {
@@ -2227,6 +2313,72 @@
       ],
       "scrapedAt": "2026-01-01T12:33:21.988Z",
       "lastUpdated": "2026-01-01T12:33:21.988Z"
+    },
+    "afro-samurai_saison1_vf": {
+      "seasonId": "afro-samurai_saison1_vf",
+      "animeId": "afro-samurai",
+      "title": "Afro Samurai",
+      "slug": "afro-samurai",
+      "season": "saison1",
+      "seasonNumber": 1,
+      "seasonSuffix": "",
+      "language": "vf",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/afro-samurai/saison1/vf/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/afro-samurai/saison1/vf/",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/afro-samurai.jpg",
+      "banner": null,
+      "description": "Afro Samurai - Saison 1 | Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "totalEpisodes": 6,
+      "episodesList": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "players": {
+        "Sendvid": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Sendvid",
+          "playerProvider": "sendvid",
+          "totalEpisodes": 5,
+          "firstUrl": "https://sendvid.com/embed/lie8e8xj",
+          "lastUrl": "https://sendvid.com/embed/tb64nxvr",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T12:35:23.264Z"
+        },
+        "Sibnet": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Sibnet",
+          "playerProvider": "sibnet",
+          "totalEpisodes": 6,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=4734184",
+          "lastUrl": "https://video.sibnet.ru/shell.php?videoid=4734199",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T12:35:23.264Z"
+        },
+        "Scan": {
+          "playerId": "player_2",
+          "playerKey": "eps3",
+          "playerType": "Scan",
+          "playerProvider": "",
+          "totalEpisodes": 5,
+          "firstUrl": "https://www.myvi.tv/embed/1q3zustw6bsrf8ms7cnrowyi3w",
+          "lastUrl": "https://www.myvi.tv/embed/y6feeo5n53awdes4hejgqdfwrw",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T12:35:23.264Z"
+        }
+      },
+      "availablePlayers": [
+        "Sendvid",
+        "Sibnet",
+        "Scan"
+      ],
+      "scrapedAt": "2026-01-01T12:35:23.320Z",
+      "lastUpdated": "2026-01-01T12:35:23.320Z"
     }
   },
   "episodes": {
@@ -17224,28 +17376,223 @@
       "totalPlayers": 3,
       "scrapedAt": "2026-01-01T12:33:21.988Z",
       "lastUpdated": "2026-01-01T12:33:21.988Z"
+    },
+    "afro-samurai_saison1_vf": {
+      "seasonId": "afro-samurai_saison1_vf",
+      "animeId": "afro-samurai",
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/lie8e8xj",
+              "embedUrl": "https://sendvid.com/embed/lie8e8xj",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T12:35:23.264Z",
+              "valid": true
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=4734184",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4734184",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T12:35:23.264Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://www.myvi.tv/embed/1q3zustw6bsrf8ms7cnrowyi3w",
+              "embedUrl": "https://www.myvi.tv/embed/1q3zustw6bsrf8ms7cnrowyi3w",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T12:35:23.264Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 3,
+          "scrapedAt": "2026-01-01T12:35:23.264Z"
+        },
+        "2": {
+          "number": 2,
+          "players": {
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/hl5vb0fu",
+              "embedUrl": "https://sendvid.com/embed/hl5vb0fu",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T12:35:23.264Z",
+              "valid": true
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=4734185",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4734185",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T12:35:23.264Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://www.myvi.tv/embed/x93a5zwpyuqwtydek9r8a6eync",
+              "embedUrl": "https://www.myvi.tv/embed/x93a5zwpyuqwtydek9r8a6eync",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T12:35:23.264Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 3,
+          "scrapedAt": "2026-01-01T12:35:23.264Z"
+        },
+        "3": {
+          "number": 3,
+          "players": {
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/uoxkzrw8",
+              "embedUrl": "https://sendvid.com/embed/uoxkzrw8",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T12:35:23.264Z",
+              "valid": true
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=4734190",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4734190",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T12:35:23.264Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://www.myvi.tv/embed/rq5ihk68tp1w7kxidwc3g5fkrh",
+              "embedUrl": "https://www.myvi.tv/embed/rq5ihk68tp1w7kxidwc3g5fkrh",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T12:35:23.264Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 3,
+          "scrapedAt": "2026-01-01T12:35:23.264Z"
+        },
+        "4": {
+          "number": 4,
+          "players": {
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/njacfsuj",
+              "embedUrl": "https://sendvid.com/embed/njacfsuj",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T12:35:23.264Z",
+              "valid": true
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=4734193",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4734193",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T12:35:23.264Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://www.myvi.tv/embed/eu6xzcx6419wxk3pjb74inuj4r",
+              "embedUrl": "https://www.myvi.tv/embed/eu6xzcx6419wxk3pjb74inuj4r",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T12:35:23.264Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 3,
+          "scrapedAt": "2026-01-01T12:35:23.264Z"
+        },
+        "5": {
+          "number": 5,
+          "players": {
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/tb64nxvr",
+              "embedUrl": "https://sendvid.com/embed/tb64nxvr",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T12:35:23.264Z",
+              "valid": true
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=4734196",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4734196",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T12:35:23.264Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://www.myvi.tv/embed/y6feeo5n53awdes4hejgqdfwrw",
+              "embedUrl": "https://www.myvi.tv/embed/y6feeo5n53awdes4hejgqdfwrw",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T12:35:23.264Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 3,
+          "scrapedAt": "2026-01-01T12:35:23.264Z"
+        },
+        "6": {
+          "number": 6,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=4734199",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4734199",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T12:35:23.264Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T12:35:23.264Z"
+        }
+      },
+      "totalPlayers": 3,
+      "scrapedAt": "2026-01-01T12:35:23.320Z",
+      "lastUpdated": "2026-01-01T12:35:23.320Z"
     }
   },
   "players": {
     "Scan": {
       "name": "Scan",
       "type": "video",
-      "count": 5,
+      "count": 6,
       "exampleUrls": [
         "https://www.myvi.top/embed/fkezomnfe88r7fc1xhqzrnkdkc",
         "https://www.myvi.top/embed/zc84u5wmf8dr3j5bn537qqd18h",
         "https://movearnpre.com/embed/eahfwunhrtfw",
         "https://dingtezuni.com/embed/w3evu7pfkzbo",
-        "https://www.myvi.tv/embed/e4hu89jzpkuwug5gr8nmsbzuga"
+        "https://www.myvi.tv/embed/e4hu89jzpkuwug5gr8nmsbzuga",
+        "https://www.myvi.tv/embed/1q3zustw6bsrf8ms7cnrowyi3w"
       ],
-      "lastUsed": "2026-01-01T12:04:11.408Z"
+      "lastUsed": "2026-01-01T12:35:23.320Z"
     },
     "Sendvid": {
       "name": "Sendvid",
       "type": "video",
-      "count": 19,
+      "count": 20,
       "exampleUrls": [
-        "https://sendvid.com/embed/12gy3yjb",
         "https://sendvid.com/embed/jtfgw0gh",
         "https://sendvid.com/embed/02dnxqqm",
         "https://sendvid.com/embed/r1makqp2",
@@ -17254,9 +17601,10 @@
         "https://sendvid.com/embed/jy8jvely",
         "https://sendvid.com/embed/cq91mx9u",
         "https://sendvid.com/embed/mjpit8h4",
-        "https://sendvid.com/embed/z4bry5uy"
+        "https://sendvid.com/embed/z4bry5uy",
+        "https://sendvid.com/embed/lie8e8xj"
       ],
-      "lastUsed": "2026-01-01T12:33:21.988Z"
+      "lastUsed": "2026-01-01T12:35:23.320Z"
     },
     "Vidmoly": {
       "name": "Vidmoly",
@@ -17279,9 +17627,8 @@
     "Sibnet": {
       "name": "Sibnet",
       "type": "video",
-      "count": 17,
+      "count": 18,
       "exampleUrls": [
-        "https://video.sibnet.ru/shell.php?videoid=5432812",
         "https://video.sibnet.ru/shell.php?videoid=5432838",
         "https://video.sibnet.ru/shell.php?videoid=5432865",
         "https://video.sibnet.ru/shell.php?videoid=5432892",
@@ -17290,9 +17637,10 @@
         "https://video.sibnet.ru/shell.php?videoid=5433055",
         "https://video.sibnet.ru/shell.php?videoid=5433089",
         "https://video.sibnet.ru/shell.php?videoid=5433124",
-        "https://video.sibnet.ru/shell.php?videoid=5433142"
+        "https://video.sibnet.ru/shell.php?videoid=5433142",
+        "https://video.sibnet.ru/shell.php?videoid=4734184"
       ],
-      "lastUsed": "2026-01-01T12:33:21.988Z"
+      "lastUsed": "2026-01-01T12:35:23.320Z"
     },
     "OneUpload": {
       "name": "OneUpload",
