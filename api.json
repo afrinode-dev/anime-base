@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:38:26.135Z",
+  "lastUpdated": "2026-01-01T09:38:27.735Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 430,
@@ -625,17 +625,22 @@
     "a-returners-magic-should-be-special": {
       "id": "a-returners-magic-should-be-special",
       "title": "A Returner's Magic Should be Special",
-      "originalLink": "https://anime-sama.tv/catalogue/a-returners-magic-should-be-special",
       "slug": "a-returners-magic-should-be-special",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-returners-magic-should-be-special.jpg",
-      "banner": null,
-      "description": "Dix ans après l'apparition du Labyrinthe des Ombres, une entité appartenant au Monde des Ombres, l'humanité tout entière fut décimée. Les six derniers survivants tentèrent un assaut sans précédant afin de détruire la source du Labyrinthe. Alors que le combats contre le Dragon touche à sa fin et que les six ont réussi à le vaincre, le cœur du Labyrinthe se fit souffler par une explosion, emportant Desir Herrman, ses compagnons, et par conséquent le monde à la fin.\n\nCependant, ce n'est pas la mort",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/a-returners-magic-should-be-special/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:11:54.179Z",
-      "lastUpdated": "2026-01-01T09:11:54.179Z"
+      "scrapedAt": "2026-01-01T09:38:27.735Z",
+      "lastUpdated": "2026-01-01T09:38:27.735Z"
     },
     "a-rank-party-wo-ridatsu-shita-ore-wa-moto-oshiego-tachi-to-meikyuu-shinbu-wo-mezasu": {
       "id": "a-rank-party-wo-ridatsu-shita-ore-wa-moto-oshiego-tachi-to-meikyuu-shinbu-wo-mezasu",
@@ -13971,8 +13976,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 127,
-      "vostfr": 22
+      "vf": 126,
+      "vostfr": 23
     },
     "byType": {
       "anime": 149,
@@ -13985,7 +13990,7 @@
       "Sendvid": 28,
       "OneUpload": 2
     },
-    "lastUpdate": "2026-01-01T09:38:26.135Z"
+    "lastUpdate": "2026-01-01T09:38:27.735Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
