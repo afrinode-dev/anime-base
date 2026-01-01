@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:18:30.497Z",
-  "totalAnimes": 110,
+  "lastUpdated": "2026-01-01T10:18:32.069Z",
+  "totalAnimes": 111,
   "totalScans": 0,
   "totalEpisodes": 2013,
   "totalChapters": 0,
@@ -2316,6 +2316,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:18:28.242Z"
+    },
+    "asteroid-in-love": {
+      "id": "asteroid-in-love",
+      "title": "Asteroid in Love",
+      "slug": "asteroid-in-love",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/asteroid-in-love/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/asteroid-in-love/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/asteroid-in-love/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "asteroid-in-love_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:18:32.068Z"
     }
   },
   "scans": {},
@@ -67306,10 +67327,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 25,
-      "vostfr": 85
+      "vostfr": 86
     },
     "byType": {
-      "anime": 110,
+      "anime": 111,
       "scan": 0
     },
     "byPlayer": {
@@ -67320,6 +67341,6 @@
       "OneUpload": 13,
       "Smoothpre": 10
     },
-    "lastUpdate": "2026-01-01T10:18:30.497Z"
+    "lastUpdate": "2026-01-01T10:18:32.068Z"
   }
 }
