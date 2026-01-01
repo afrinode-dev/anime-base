@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:40:13.195Z",
+  "lastUpdated": "2026-01-01T09:40:14.684Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 837,
@@ -1065,17 +1065,22 @@
     "aharen-san-wa-hakarenai": {
       "id": "aharen-san-wa-hakarenai",
       "title": "Aharen-san wa Hakarenai",
-      "originalLink": "https://anime-sama.tv/catalogue/aharen-san-wa-hakarenai",
       "slug": "aharen-san-wa-hakarenai",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/aharen-san-wa-hakarenai.jpg",
-      "banner": null,
-      "description": "Reina Aharen, une petite étudiante à la voix faible, est assez mauvaise pour évaluer la distance et l'espace personnel. Parfois, elle est à quelques centimètres de votre visage, et d'autres fois, beaucoup trop loin ! Le seul qui essaie de comprendre ses pitreries est Raidou Matsuboshi, la personne assise à côté d'elle en classe. Il a un visage menaçant mais en réalité, c'est un gentil garçon avec une imagination parfois débordante. Aharen-san wa Hakarenai suit ce duo particulier alors que leur é",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/aharen-san-wa-hakarenai/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:08.113Z",
-      "lastUpdated": "2026-01-01T09:12:08.113Z"
+      "scrapedAt": "2026-01-01T09:40:14.682Z",
+      "lastUpdated": "2026-01-01T09:40:14.682Z"
     },
     "ahiru-no-sora": {
       "id": "ahiru-no-sora",
@@ -23958,8 +23963,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 116,
-      "vostfr": 33
+      "vf": 115,
+      "vostfr": 34
     },
     "byType": {
       "anime": 149,
@@ -23973,7 +23978,7 @@
       "OneUpload": 3,
       "Smoothpre": 2
     },
-    "lastUpdate": "2026-01-01T09:40:13.195Z"
+    "lastUpdate": "2026-01-01T09:40:14.682Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
