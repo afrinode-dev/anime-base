@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:16:17.528Z",
-  "totalAnimes": 83,
+  "lastUpdated": "2026-01-01T10:16:19.043Z",
+  "totalAnimes": 84,
   "totalScans": 0,
   "totalEpisodes": 1613,
   "totalChapters": 0,
@@ -1749,6 +1749,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:16:15.139Z"
+    },
+    "ao-ashi": {
+      "id": "ao-ashi",
+      "title": "Ao Ashi",
+      "slug": "ao-ashi",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/ao-ashi/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/ao-ashi/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/ao-ashi/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "ao-ashi_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:16:19.043Z"
     }
   },
   "scans": {},
@@ -53540,10 +53561,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 22,
-      "vostfr": 61
+      "vostfr": 62
     },
     "byType": {
-      "anime": 83,
+      "anime": 84,
       "scan": 0
     },
     "byPlayer": {
@@ -53554,6 +53575,6 @@
       "OneUpload": 9,
       "Smoothpre": 5
     },
-    "lastUpdate": "2026-01-01T10:16:17.528Z"
+    "lastUpdate": "2026-01-01T10:16:19.043Z"
   }
 }
