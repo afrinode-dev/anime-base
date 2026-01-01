@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:43:39.402Z",
+  "lastUpdated": "2026-01-01T09:43:40.827Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1673,
@@ -2050,17 +2050,22 @@
     "aoi-hana": {
       "id": "aoi-hana",
       "title": "Aoi Hana",
-      "originalLink": "https://anime-sama.tv/catalogue/aoi-hana",
       "slug": "aoi-hana",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/aoi-hana.jpg",
-      "banner": null,
-      "description": "Fumi Manjoume, une jeune fille timide et amateur de livres, commence sa première année de lycée à l'école pour fille Matsuoka. Elle démarre l'année scolaire le cœur brisé par une précédente relation. Plus ou moins au même moment, elle retrouve son amie d'enfance avec qui elle était inséparable il y a 10 ans, Akira Okudaira qui fréquente l'école pour fille Fujigatani. Tandis qu'elles se retrouvent, elles doivent chacune faire face à leurs propres problèmes d'amour, et s'entraident pour les surmon",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/aoi-hana/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:37.558Z",
-      "lastUpdated": "2026-01-01T09:12:37.558Z"
+      "scrapedAt": "2026-01-01T09:43:40.826Z",
+      "lastUpdated": "2026-01-01T09:43:40.826Z"
     },
     "apocalypse-hotel": {
       "id": "apocalypse-hotel",
@@ -49102,8 +49107,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 83,
-      "vostfr": 66
+      "vf": 82,
+      "vostfr": 67
     },
     "byType": {
       "anime": 149,
@@ -49117,7 +49122,7 @@
       "OneUpload": 9,
       "Smoothpre": 8
     },
-    "lastUpdate": "2026-01-01T09:43:39.401Z"
+    "lastUpdate": "2026-01-01T09:43:40.826Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
