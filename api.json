@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:37:52.300Z",
+  "lastUpdated": "2026-01-01T09:37:53.995Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 342,
@@ -475,17 +475,22 @@
     "a-destructive-god-sits-next-to-me": {
       "id": "a-destructive-god-sits-next-to-me",
       "title": "A Destructive God Sits Next to Me",
-      "originalLink": "https://anime-sama.tv/catalogue/a-destructive-god-sits-next-to-me",
       "slug": "a-destructive-god-sits-next-to-me",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-destructive-god-sits-next-to-me.jpg",
-      "banner": null,
-      "description": "L'histoire se centre sur Seri Koyuki, un lycéen ordinaire qui fait tout son possible pour éviter les personnes étranges. Malheureusement, il devient, malgré lui, ami avec l'excentrique Kabuto Hanadori. Cette personne, atteinte du syndrome chūnibyō, pense être un chevalier et que son cache-œil sert à sceller son sombre alter-égo : Michael Offenbarung Dunkelheit, un dieu de la destruction.\n\nAinsi commence la vie de lycéen bien remplie de Seri, entouré de personnes plus déjantées les unes que les a",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/a-destructive-god-sits-next-to-me/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:11:50.327Z",
-      "lastUpdated": "2026-01-01T09:11:50.327Z"
+      "scrapedAt": "2026-01-01T09:37:53.995Z",
+      "lastUpdated": "2026-01-01T09:37:53.995Z"
     },
     "a-dragonslayers-peerless-regression": {
       "id": "a-dragonslayers-peerless-regression",
@@ -11138,8 +11143,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 133,
-      "vostfr": 16
+      "vf": 132,
+      "vostfr": 17
     },
     "byType": {
       "anime": 149,
@@ -11152,7 +11157,7 @@
       "Sendvid": 21,
       "OneUpload": 1
     },
-    "lastUpdate": "2026-01-01T09:37:52.298Z"
+    "lastUpdate": "2026-01-01T09:37:53.995Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
