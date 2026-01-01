@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:12:25.082Z",
-  "totalAnimes": 37,
+  "lastUpdated": "2026-01-01T10:12:26.907Z",
+  "totalAnimes": 38,
   "totalScans": 0,
   "totalEpisodes": 712,
   "totalChapters": 0,
@@ -783,6 +783,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:12:21.990Z"
+    },
+    "actually-i-am": {
+      "id": "actually-i-am",
+      "title": "Actually I am",
+      "slug": "actually-i-am",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/actually-i-am/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/actually-i-am/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/actually-i-am/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "actually-i-am_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:12:26.907Z"
     }
   },
   "scans": {},
@@ -22373,10 +22394,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 9,
-      "vostfr": 28
+      "vostfr": 29
     },
     "byType": {
-      "anime": 37,
+      "anime": 38,
       "scan": 0
     },
     "byPlayer": {
@@ -22386,6 +22407,6 @@
       "Sendvid": 42,
       "OneUpload": 3
     },
-    "lastUpdate": "2026-01-01T10:12:25.082Z"
+    "lastUpdate": "2026-01-01T10:12:26.907Z"
   }
 }
