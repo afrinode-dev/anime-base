@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:12:32.400Z",
-  "totalAnimes": 38,
+  "lastUpdated": "2026-01-01T10:12:34.061Z",
+  "totalAnimes": 39,
   "totalScans": 0,
   "totalEpisodes": 724,
   "totalChapters": 0,
@@ -804,6 +804,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:12:26.907Z"
+    },
+    "adachi-to-shimamura": {
+      "id": "adachi-to-shimamura",
+      "title": "Adachi to Shimamura",
+      "slug": "adachi-to-shimamura",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/adachi-to-shimamura/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/adachi-to-shimamura/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/adachi-to-shimamura/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "adachi-to-shimamura_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:12:34.060Z"
     }
   },
   "scans": {},
@@ -22793,10 +22814,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 9,
-      "vostfr": 29
+      "vostfr": 30
     },
     "byType": {
-      "anime": 38,
+      "anime": 39,
       "scan": 0
     },
     "byPlayer": {
@@ -22806,6 +22827,6 @@
       "Sendvid": 43,
       "OneUpload": 3
     },
-    "lastUpdate": "2026-01-01T10:12:32.400Z"
+    "lastUpdate": "2026-01-01T10:12:34.061Z"
   }
 }
