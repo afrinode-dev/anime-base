@@ -5074,6 +5074,50 @@
       "totalSeasons": 4,
       "scrapedAt": "2026-01-01T13:42:47.665Z",
       "lastUpdated": "2026-01-01T13:42:47.665Z"
+    },
+    "ameku-takao-no-suiri-karte": {
+      "id": "ameku-takao-no-suiri-karte",
+      "title": "Ameku Takao no Suiri Karte",
+      "slug": "ameku-takao-no-suiri-karte",
+      "language": "vostfr",
+      "type": "anime",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ameku-takao-no-suiri-karte.jpg",
+      "banner": null,
+      "description": "L'histoire nous entraîne dans le quotidien d'un médecin qui résout des meurtres et des mystères liés au domaine médical.",
+      "pageUrl": "https://anime-sama.tv/catalogue/ameku-takao-no-suiri-karte/",
+      "seasons": [
+        {
+          "name": "saison1",
+          "number": 1,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/ameku-takao-no-suiri-karte/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/ameku-takao-no-suiri-karte/saison1/vostfr/episodes.js"
+        },
+        {
+          "name": "saison2",
+          "number": 2,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/ameku-takao-no-suiri-karte/saison2/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/ameku-takao-no-suiri-karte/saison2/vostfr/episodes.js"
+        },
+        {
+          "name": "saison3",
+          "number": 3,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/ameku-takao-no-suiri-karte/saison3/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/ameku-takao-no-suiri-karte/saison3/vostfr/episodes.js"
+        },
+        {
+          "name": "saison4",
+          "number": 4,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/ameku-takao-no-suiri-karte/saison4/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/ameku-takao-no-suiri-karte/saison4/vostfr/episodes.js"
+        }
+      ],
+      "totalSeasons": 4,
+      "scrapedAt": "2026-01-01T13:44:49.471Z",
+      "lastUpdated": "2026-01-01T13:44:49.471Z"
     }
   },
   "seasons": {
@@ -15266,6 +15310,321 @@
       ],
       "scrapedAt": "2026-01-01T13:42:47.608Z",
       "lastUpdated": "2026-01-01T13:42:47.608Z"
+    },
+    "ameku-takao-no-suiri-karte_saison1_vostfr": {
+      "seasonId": "ameku-takao-no-suiri-karte_saison1_vostfr",
+      "animeId": "ameku-takao-no-suiri-karte",
+      "title": "Ameku Takao no Suiri Karte",
+      "slug": "ameku-takao-no-suiri-karte",
+      "season": "saison1",
+      "seasonNumber": 1,
+      "seasonSuffix": "",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/ameku-takao-no-suiri-karte/saison1/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/ameku-takao-no-suiri-karte/saison1/vostfr/",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ameku-takao-no-suiri-karte.jpg",
+      "banner": null,
+      "description": "Ameku Takao no Suiri Karte - Saison 1 | Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "totalEpisodes": 12,
+      "episodesList": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "players": {
+        "Sibnet": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Sibnet",
+          "playerProvider": "sibnet",
+          "totalEpisodes": 12,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=5788510",
+          "lastUrl": "https://video.sibnet.ru/shell.php?videoid=5866434",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:44:49.092Z"
+        },
+        "Vidmoly": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "playerProvider": "vidmoly",
+          "totalEpisodes": 12,
+          "firstUrl": "https://vidmoly.to/embed-mbcbori7t80z.html",
+          "lastUrl": "https://vidmoly.to/embed-vql34mitweap.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:44:49.092Z"
+        },
+        "OneUpload": {
+          "playerId": "player_2",
+          "playerKey": "eps3",
+          "playerType": "OneUpload",
+          "playerProvider": "oneupload",
+          "totalEpisodes": 12,
+          "firstUrl": "https://oneupload.to/embed-p95421f6iw76.html",
+          "lastUrl": "https://oneupload.to/embed-nszbosjbb9e5.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:44:49.093Z"
+        },
+        "Sendvid": {
+          "playerId": "player_3",
+          "playerKey": "eps4",
+          "playerType": "Sendvid",
+          "playerProvider": "sendvid",
+          "totalEpisodes": 12,
+          "firstUrl": "https://sendvid.com/embed/ex40lwoi",
+          "lastUrl": "https://sendvid.com/embed/hx8z6gl8",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:44:49.093Z"
+        },
+        "Scan": {
+          "playerId": "player_4",
+          "playerKey": "eps5",
+          "playerType": "Scan",
+          "playerProvider": "",
+          "totalEpisodes": 12,
+          "firstUrl": "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241096&hd=3",
+          "lastUrl": "https://vkvideo.ru/video_ext.php?oid=-229715763&id=456239122&hd=3",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:44:49.093Z"
+        }
+      },
+      "availablePlayers": [
+        "Sibnet",
+        "Vidmoly",
+        "OneUpload",
+        "Sendvid",
+        "Scan"
+      ],
+      "scrapedAt": "2026-01-01T13:44:49.150Z",
+      "lastUpdated": "2026-01-01T13:44:49.150Z"
+    },
+    "ameku-takao-no-suiri-karte_saison2_vostfr": {
+      "seasonId": "ameku-takao-no-suiri-karte_saison2_vostfr",
+      "animeId": "ameku-takao-no-suiri-karte",
+      "title": "Ameku Takao no Suiri Karte",
+      "slug": "ameku-takao-no-suiri-karte",
+      "season": "saison2",
+      "seasonNumber": 2,
+      "seasonSuffix": "",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/ameku-takao-no-suiri-karte/saison2/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/ameku-takao-no-suiri-karte/saison2/vostfr/",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ameku-takao-no-suiri-karte.jpg",
+      "banner": null,
+      "description": "Ameku Takao no Suiri Karte - Saison 2 | Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "totalEpisodes": 1,
+      "episodesList": [
+        1
+      ],
+      "players": {
+        "Sibnet": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Sibnet",
+          "playerProvider": "sibnet",
+          "totalEpisodes": 1,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "lastUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:44:49.180Z"
+        },
+        "Vidmoly": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "playerProvider": "vidmoly",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vidmoly.to/embed-.html",
+          "lastUrl": "https://vidmoly.to/embed-.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:44:49.180Z"
+        },
+        "Sendvid": {
+          "playerId": "player_2",
+          "playerKey": "eps3",
+          "playerType": "Sendvid",
+          "playerProvider": "sendvid",
+          "totalEpisodes": 1,
+          "firstUrl": "https://sendvid.com/embed/",
+          "lastUrl": "https://sendvid.com/embed/",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:44:49.180Z"
+        },
+        "Scan": {
+          "playerId": "player_3",
+          "playerKey": "eps4",
+          "playerType": "Scan",
+          "playerProvider": "",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "lastUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:44:49.180Z"
+        }
+      },
+      "availablePlayers": [
+        "Sibnet",
+        "Vidmoly",
+        "Sendvid",
+        "Scan"
+      ],
+      "scrapedAt": "2026-01-01T13:44:49.239Z",
+      "lastUpdated": "2026-01-01T13:44:49.239Z"
+    },
+    "ameku-takao-no-suiri-karte_saison3_vostfr": {
+      "seasonId": "ameku-takao-no-suiri-karte_saison3_vostfr",
+      "animeId": "ameku-takao-no-suiri-karte",
+      "title": "Ameku Takao no Suiri Karte",
+      "slug": "ameku-takao-no-suiri-karte",
+      "season": "saison3",
+      "seasonNumber": 3,
+      "seasonSuffix": "",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/ameku-takao-no-suiri-karte/saison3/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/ameku-takao-no-suiri-karte/saison3/vostfr/",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ameku-takao-no-suiri-karte.jpg",
+      "banner": null,
+      "description": "Ameku Takao no Suiri Karte - Saison 3 | Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "totalEpisodes": 1,
+      "episodesList": [
+        1
+      ],
+      "players": {
+        "Sibnet": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Sibnet",
+          "playerProvider": "sibnet",
+          "totalEpisodes": 1,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "lastUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:44:49.269Z"
+        },
+        "Vidmoly": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "playerProvider": "vidmoly",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vidmoly.to/embed-.html",
+          "lastUrl": "https://vidmoly.to/embed-.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:44:49.269Z"
+        },
+        "Sendvid": {
+          "playerId": "player_2",
+          "playerKey": "eps3",
+          "playerType": "Sendvid",
+          "playerProvider": "sendvid",
+          "totalEpisodes": 1,
+          "firstUrl": "https://sendvid.com/embed/",
+          "lastUrl": "https://sendvid.com/embed/",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:44:49.269Z"
+        },
+        "Scan": {
+          "playerId": "player_3",
+          "playerKey": "eps4",
+          "playerType": "Scan",
+          "playerProvider": "",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "lastUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:44:49.269Z"
+        }
+      },
+      "availablePlayers": [
+        "Sibnet",
+        "Vidmoly",
+        "Sendvid",
+        "Scan"
+      ],
+      "scrapedAt": "2026-01-01T13:44:49.334Z",
+      "lastUpdated": "2026-01-01T13:44:49.334Z"
+    },
+    "ameku-takao-no-suiri-karte_saison4_vostfr": {
+      "seasonId": "ameku-takao-no-suiri-karte_saison4_vostfr",
+      "animeId": "ameku-takao-no-suiri-karte",
+      "title": "Ameku Takao no Suiri Karte",
+      "slug": "ameku-takao-no-suiri-karte",
+      "season": "saison4",
+      "seasonNumber": 4,
+      "seasonSuffix": "",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/ameku-takao-no-suiri-karte/saison4/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/ameku-takao-no-suiri-karte/saison4/vostfr/",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ameku-takao-no-suiri-karte.jpg",
+      "banner": null,
+      "description": "Ameku Takao no Suiri Karte - Saison 4 | Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "totalEpisodes": 1,
+      "episodesList": [
+        1
+      ],
+      "players": {
+        "Sibnet": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Sibnet",
+          "playerProvider": "sibnet",
+          "totalEpisodes": 1,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "lastUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:44:49.363Z"
+        },
+        "Vidmoly": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "playerProvider": "vidmoly",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vidmoly.to/embed-.html",
+          "lastUrl": "https://vidmoly.to/embed-.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:44:49.363Z"
+        },
+        "Sendvid": {
+          "playerId": "player_2",
+          "playerKey": "eps3",
+          "playerType": "Sendvid",
+          "playerProvider": "sendvid",
+          "totalEpisodes": 1,
+          "firstUrl": "https://sendvid.com/embed/",
+          "lastUrl": "https://sendvid.com/embed/",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:44:49.363Z"
+        },
+        "Scan": {
+          "playerId": "player_3",
+          "playerKey": "eps4",
+          "playerType": "Scan",
+          "playerProvider": "",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "lastUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:44:49.363Z"
+        }
+      },
+      "availablePlayers": [
+        "Sibnet",
+        "Vidmoly",
+        "Sendvid",
+        "Scan"
+      ],
+      "scrapedAt": "2026-01-01T13:44:49.418Z",
+      "lastUpdated": "2026-01-01T13:44:49.418Z"
     }
   },
   "episodes": {
@@ -69048,15 +69407,803 @@
       "totalPlayers": 4,
       "scrapedAt": "2026-01-01T13:42:47.608Z",
       "lastUpdated": "2026-01-01T13:42:47.608Z"
+    },
+    "ameku-takao-no-suiri-karte_saison1_vostfr": {
+      "seasonId": "ameku-takao-no-suiri-karte_saison1_vostfr",
+      "animeId": "ameku-takao-no-suiri-karte",
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5788510",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5788510",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T13:44:49.092Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-mbcbori7t80z.html",
+              "embedUrl": "https://vidmoly.to/embed-mbcbori7t80z.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:44:49.092Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-p95421f6iw76.html",
+              "embedUrl": "https://oneupload.to/embed-p95421f6iw76.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T13:44:49.092Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/ex40lwoi",
+              "embedUrl": "https://sendvid.com/embed/ex40lwoi",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:44:49.093Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241096&hd=3",
+              "embedUrl": "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241096&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T13:44:49.093Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 5,
+          "scrapedAt": "2026-01-01T13:44:49.092Z"
+        },
+        "2": {
+          "number": 2,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5788520",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5788520",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T13:44:49.092Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-k2k230pth9ps.html",
+              "embedUrl": "https://vidmoly.to/embed-k2k230pth9ps.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:44:49.092Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-esb0oxfi9q15.html",
+              "embedUrl": "https://oneupload.to/embed-esb0oxfi9q15.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T13:44:49.092Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/e6qeajje",
+              "embedUrl": "https://sendvid.com/embed/e6qeajje",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:44:49.093Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241097&hd=3",
+              "embedUrl": "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241097&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T13:44:49.093Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 5,
+          "scrapedAt": "2026-01-01T13:44:49.092Z"
+        },
+        "3": {
+          "number": 3,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5793376",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5793376",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T13:44:49.092Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-thm0zkmzvk2h.html",
+              "embedUrl": "https://vidmoly.to/embed-thm0zkmzvk2h.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:44:49.092Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-2zv64rdhjg1q.html",
+              "embedUrl": "https://oneupload.to/embed-2zv64rdhjg1q.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T13:44:49.092Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/5jh63yon",
+              "embedUrl": "https://sendvid.com/embed/5jh63yon",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:44:49.093Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241132&hd=3",
+              "embedUrl": "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241132&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T13:44:49.093Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 5,
+          "scrapedAt": "2026-01-01T13:44:49.092Z"
+        },
+        "4": {
+          "number": 4,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5804470",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5804470",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T13:44:49.092Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-dsp8y8gw6ic1.html",
+              "embedUrl": "https://vidmoly.to/embed-dsp8y8gw6ic1.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:44:49.092Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-wzkeuj64ekey.html",
+              "embedUrl": "https://oneupload.to/embed-wzkeuj64ekey.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T13:44:49.092Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/uz2asgjo",
+              "embedUrl": "https://sendvid.com/embed/uz2asgjo",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:44:49.093Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241247&hd=3",
+              "embedUrl": "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241247&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T13:44:49.093Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 5,
+          "scrapedAt": "2026-01-01T13:44:49.092Z"
+        },
+        "5": {
+          "number": 5,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5809304",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5809304",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T13:44:49.092Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-575zn6c98826.html",
+              "embedUrl": "https://vidmoly.to/embed-575zn6c98826.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:44:49.092Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-vc25iojn6iqh.html",
+              "embedUrl": "https://oneupload.to/embed-vc25iojn6iqh.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T13:44:49.093Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/mtketwii",
+              "embedUrl": "https://sendvid.com/embed/mtketwii",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:44:49.093Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241300&hd=3",
+              "embedUrl": "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241300&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T13:44:49.093Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 5,
+          "scrapedAt": "2026-01-01T13:44:49.092Z"
+        },
+        "6": {
+          "number": 6,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5815820",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5815820",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T13:44:49.092Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-djl3gta80hlj.html",
+              "embedUrl": "https://vidmoly.to/embed-djl3gta80hlj.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:44:49.092Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-w86ta8e18inq.html",
+              "embedUrl": "https://oneupload.to/embed-w86ta8e18inq.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T13:44:49.093Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/eeyd5fej",
+              "embedUrl": "https://sendvid.com/embed/eeyd5fej",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:44:49.093Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241350&hd=3",
+              "embedUrl": "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241350&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T13:44:49.093Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 5,
+          "scrapedAt": "2026-01-01T13:44:49.092Z"
+        },
+        "7": {
+          "number": 7,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5829316",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5829316",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T13:44:49.092Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-ua3hm57bwmwp.html",
+              "embedUrl": "https://vidmoly.to/embed-ua3hm57bwmwp.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:44:49.092Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-6xwlsooo9vre.html",
+              "embedUrl": "https://oneupload.to/embed-6xwlsooo9vre.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T13:44:49.093Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/227m36rt",
+              "embedUrl": "https://sendvid.com/embed/227m36rt",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:44:49.093Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241455&hd=3",
+              "embedUrl": "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241455&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T13:44:49.093Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 5,
+          "scrapedAt": "2026-01-01T13:44:49.092Z"
+        },
+        "8": {
+          "number": 8,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5836941",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5836941",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T13:44:49.092Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-c7b8odnk4s7z.html",
+              "embedUrl": "https://vidmoly.to/embed-c7b8odnk4s7z.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:44:49.092Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-o8jvwqx55mwp.html",
+              "embedUrl": "https://oneupload.to/embed-o8jvwqx55mwp.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T13:44:49.093Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/2a1wsujv",
+              "embedUrl": "https://sendvid.com/embed/2a1wsujv",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:44:49.093Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241516&hd=3",
+              "embedUrl": "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241516&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T13:44:49.093Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 5,
+          "scrapedAt": "2026-01-01T13:44:49.092Z"
+        },
+        "9": {
+          "number": 9,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5842890",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5842890",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T13:44:49.092Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-ehiksslybtfp.html",
+              "embedUrl": "https://vidmoly.to/embed-ehiksslybtfp.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:44:49.092Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-0dq55hjn90bq.html",
+              "embedUrl": "https://oneupload.to/embed-0dq55hjn90bq.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T13:44:49.093Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/xjru28ex",
+              "embedUrl": "https://sendvid.com/embed/xjru28ex",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:44:49.093Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241561&hd=3",
+              "embedUrl": "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241561&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T13:44:49.093Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 5,
+          "scrapedAt": "2026-01-01T13:44:49.092Z"
+        },
+        "10": {
+          "number": 10,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5854794",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5854794",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T13:44:49.092Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-u6d5r1y6t34o.html",
+              "embedUrl": "https://vidmoly.to/embed-u6d5r1y6t34o.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:44:49.092Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-p1cg7zittls0.html",
+              "embedUrl": "https://oneupload.to/embed-p1cg7zittls0.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T13:44:49.093Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/6ube7k21",
+              "embedUrl": "https://sendvid.com/embed/6ube7k21",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:44:49.093Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vkvideo.ru/video_ext.php?oid=-229715763&id=456239059&hd=3",
+              "embedUrl": "https://vkvideo.ru/video_ext.php?oid=-229715763&id=456239059&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T13:44:49.093Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 5,
+          "scrapedAt": "2026-01-01T13:44:49.092Z"
+        },
+        "11": {
+          "number": 11,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5861262",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5861262",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T13:44:49.092Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-8647o3v0sbjf.html",
+              "embedUrl": "https://vidmoly.to/embed-8647o3v0sbjf.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:44:49.092Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-rdmd2q0189fc.html",
+              "embedUrl": "https://oneupload.to/embed-rdmd2q0189fc.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T13:44:49.093Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://vidmoly.to/embed-8647o3v0sbjf.html",
+              "embedUrl": "https://vidmoly.to/embed-8647o3v0sbjf.html",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:44:49.093Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vkvideo.ru/video_ext.php?oid=-229715763&id=456239096&hd=3",
+              "embedUrl": "https://vkvideo.ru/video_ext.php?oid=-229715763&id=456239096&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T13:44:49.093Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 5,
+          "scrapedAt": "2026-01-01T13:44:49.092Z"
+        },
+        "12": {
+          "number": 12,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5866434",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5866434",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T13:44:49.092Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-vql34mitweap.html",
+              "embedUrl": "https://vidmoly.to/embed-vql34mitweap.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:44:49.092Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-nszbosjbb9e5.html",
+              "embedUrl": "https://oneupload.to/embed-nszbosjbb9e5.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T13:44:49.093Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/hx8z6gl8",
+              "embedUrl": "https://sendvid.com/embed/hx8z6gl8",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:44:49.093Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vkvideo.ru/video_ext.php?oid=-229715763&id=456239122&hd=3",
+              "embedUrl": "https://vkvideo.ru/video_ext.php?oid=-229715763&id=456239122&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T13:44:49.093Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 5,
+          "scrapedAt": "2026-01-01T13:44:49.092Z"
+        }
+      },
+      "totalPlayers": 5,
+      "scrapedAt": "2026-01-01T13:44:49.150Z",
+      "lastUpdated": "2026-01-01T13:44:49.150Z"
+    },
+    "ameku-takao-no-suiri-karte_saison2_vostfr": {
+      "seasonId": "ameku-takao-no-suiri-karte_saison2_vostfr",
+      "animeId": "ameku-takao-no-suiri-karte",
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T13:44:49.180Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-.html",
+              "embedUrl": "https://vidmoly.to/embed-.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:44:49.180Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/",
+              "embedUrl": "https://sendvid.com/embed/",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:44:49.180Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vk.com/video_ext.php?oid=&hd=3",
+              "embedUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T13:44:49.180Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 4,
+          "scrapedAt": "2026-01-01T13:44:49.180Z"
+        }
+      },
+      "totalPlayers": 4,
+      "scrapedAt": "2026-01-01T13:44:49.239Z",
+      "lastUpdated": "2026-01-01T13:44:49.239Z"
+    },
+    "ameku-takao-no-suiri-karte_saison3_vostfr": {
+      "seasonId": "ameku-takao-no-suiri-karte_saison3_vostfr",
+      "animeId": "ameku-takao-no-suiri-karte",
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T13:44:49.269Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-.html",
+              "embedUrl": "https://vidmoly.to/embed-.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:44:49.269Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/",
+              "embedUrl": "https://sendvid.com/embed/",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:44:49.269Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vk.com/video_ext.php?oid=&hd=3",
+              "embedUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T13:44:49.269Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 4,
+          "scrapedAt": "2026-01-01T13:44:49.269Z"
+        }
+      },
+      "totalPlayers": 4,
+      "scrapedAt": "2026-01-01T13:44:49.334Z",
+      "lastUpdated": "2026-01-01T13:44:49.334Z"
+    },
+    "ameku-takao-no-suiri-karte_saison4_vostfr": {
+      "seasonId": "ameku-takao-no-suiri-karte_saison4_vostfr",
+      "animeId": "ameku-takao-no-suiri-karte",
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T13:44:49.363Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-.html",
+              "embedUrl": "https://vidmoly.to/embed-.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:44:49.363Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/",
+              "embedUrl": "https://sendvid.com/embed/",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:44:49.363Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vk.com/video_ext.php?oid=&hd=3",
+              "embedUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T13:44:49.363Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 4,
+          "scrapedAt": "2026-01-01T13:44:49.363Z"
+        }
+      },
+      "totalPlayers": 4,
+      "scrapedAt": "2026-01-01T13:44:49.418Z",
+      "lastUpdated": "2026-01-01T13:44:49.418Z"
     }
   },
   "players": {
     "Sibnet": {
       "name": "Sibnet",
       "type": "video",
-      "count": 109,
+      "count": 113,
       "exampleUrls": [
-        "https://video.sibnet.ru/shell.php?videoid=4757322",
         "https://video.sibnet.ru/shell.php?videoid=6026566",
         "https://video.sibnet.ru/shell.php?videoid=5185568",
         "https://video.sibnet.ru/shell.php?videoid=4811849",
@@ -69065,16 +70212,16 @@
         "https://video.sibnet.ru/shell.php?videoid=5699478",
         "https://video.sibnet.ru/shell.php?videoid=4845527",
         "https://video.sibnet.ru/shell.php?videoid=5954083",
-        "https://video.sibnet.ru/shell.php?videoid="
+        "https://video.sibnet.ru/shell.php?videoid=",
+        "https://video.sibnet.ru/shell.php?videoid=5788510"
       ],
-      "lastUsed": "2026-01-01T13:42:47.608Z"
+      "lastUsed": "2026-01-01T13:44:49.418Z"
     },
     "Vidmoly": {
       "name": "Vidmoly",
       "type": "video",
-      "count": 100,
+      "count": 104,
       "exampleUrls": [
-        "https://vidmoly.to/embed-8nv76rb1s031.html",
         "https://vidmoly.to/embed-.html",
         "https://vidmoly.net/embed-07wv76ss3ich.html",
         "https://vidmoly.to/embed-n3t1q5dd43x6.html",
@@ -69083,16 +70230,16 @@
         "https://vidmoly.to/embed-wsdvivia9911.html",
         "https://vidmoly.to/embed-22z7sejkcswm.html",
         "https://vidmoly.to/embed-59be2r38oanj.html",
-        "https://vidmoly.to/embed-fenz4bl6tym1.html"
+        "https://vidmoly.to/embed-fenz4bl6tym1.html",
+        "https://vidmoly.to/embed-mbcbori7t80z.html"
       ],
-      "lastUsed": "2026-01-01T13:42:47.608Z"
+      "lastUsed": "2026-01-01T13:44:49.418Z"
     },
     "Scan": {
       "name": "Scan",
       "type": "video",
-      "count": 92,
+      "count": 96,
       "exampleUrls": [
-        "https://www.myvi.tv/embed/61sgfwbn79xwickufwjujcceie",
         "https://dingtezuni.com/embed/q7r3yjrpqnk1",
         "https://vk.com/video_ext.php?oid=755747641&id=456239866&hash=3fb370a6a695a8e7&hd=3",
         "https://www.myvi.tv/embed/dk5uzq4bd8mr5jpebk3bcom1nr",
@@ -69101,16 +70248,16 @@
         "https://vk.com/video_ext.php?oid=751474887&id=456240433&hd=3",
         "https://www.myvi.tv/embed/z89rwhpikrcrpnwbis9es87aic",
         "https://movearnpre.com/embed/ab2hehvt03fo",
-        "https://vk.com/video_ext.php?oid=&hd=3"
+        "https://vk.com/video_ext.php?oid=&hd=3",
+        "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241096&hd=3"
       ],
-      "lastUsed": "2026-01-01T13:42:47.608Z"
+      "lastUsed": "2026-01-01T13:44:49.418Z"
     },
     "Sendvid": {
       "name": "Sendvid",
       "type": "video",
-      "count": 116,
+      "count": 120,
       "exampleUrls": [
-        "https://sendvid.com/embed/wn0sz2u2",
         "https://sendvid.com/embed/knzup2tg",
         "https://sendvid.com/embed/r853xdrr",
         "https://sendvid.com/embed/hh8yda8n",
@@ -69119,14 +70266,15 @@
         "https://sendvid.com/embed/balvypnk",
         "https://sendvid.com/embed/4vdcm80k",
         "https://sendvid.com/embed/j1vm3avo",
-        "https://sendvid.com/embed/"
+        "https://sendvid.com/embed/",
+        "https://sendvid.com/embed/ex40lwoi"
       ],
-      "lastUsed": "2026-01-01T13:42:47.608Z"
+      "lastUsed": "2026-01-01T13:44:49.418Z"
     },
     "OneUpload": {
       "name": "OneUpload",
       "type": "video",
-      "count": 8,
+      "count": 9,
       "exampleUrls": [
         "https://oneupload.to/embed-fa3bfw24qud9.html",
         "https://oneupload.to/embed-mm8v9f1na7uz.html",
@@ -69135,9 +70283,10 @@
         "https://oneupload.to/embed-ob1ep8z9gbo5.html",
         "https://oneupload.to/embed-77188pwgf1qw.html",
         "https://oneupload.to/embed-7gsfar4jz8ta.html",
-        "https://oneupload.to/embed-nhr6pqt6ukfp.html"
+        "https://oneupload.to/embed-nhr6pqt6ukfp.html",
+        "https://oneupload.to/embed-p95421f6iw76.html"
       ],
-      "lastUsed": "2026-01-01T13:42:47.175Z"
+      "lastUsed": "2026-01-01T13:44:49.150Z"
     },
     "Smoothpre": {
       "name": "Smoothpre",
