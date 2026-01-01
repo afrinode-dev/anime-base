@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:37:08.760Z",
+  "lastUpdated": "2026-01-01T09:37:10.147Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 183,
@@ -280,17 +280,22 @@
     "91-days": {
       "id": "91-days",
       "title": "91 Days",
-      "originalLink": "https://anime-sama.tv/catalogue/91-days/",
       "slug": "91-days",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/91-days0.jpg",
-      "banner": null,
-      "description": "L'histoire se déroule aux États-Unis, en pleine prohibition. La mafia est alors une puissante organisation à laquelle il ne vaut mieux pas se frotter. Pourtant, Avilio décide d'affronter cette organisation gigantesque dans le seul et unique but de venger sa famille assassinée. Sa cible ? Le groupe pour lequel travaillait son père autrefois.",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/91-days/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:11:45.595Z",
-      "lastUpdated": "2026-01-01T09:11:45.595Z"
+      "scrapedAt": "2026-01-01T09:37:10.147Z",
+      "lastUpdated": "2026-01-01T09:37:10.147Z"
     },
     "99-reinforced-wood-stick": {
       "id": "99-reinforced-wood-stick",
@@ -7422,8 +7427,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 140,
-      "vostfr": 9
+      "vf": 139,
+      "vostfr": 10
     },
     "byType": {
       "anime": 149,
@@ -7436,7 +7441,7 @@
       "Sendvid": 12,
       "OneUpload": 1
     },
-    "lastUpdate": "2026-01-01T09:37:08.760Z"
+    "lastUpdate": "2026-01-01T09:37:10.147Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
