@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:10:10.353Z",
-  "totalAnimes": 12,
+  "lastUpdated": "2026-01-01T10:10:11.769Z",
+  "totalAnimes": 13,
   "totalScans": 0,
   "totalEpisodes": 197,
   "totalChapters": 0,
@@ -258,6 +258,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:10:08.168Z"
+    },
+    "a-centaurs-life": {
+      "id": "a-centaurs-life",
+      "title": "A Centaur's Life",
+      "slug": "a-centaurs-life",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/a-centaurs-life/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/a-centaurs-life/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/a-centaurs-life/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "a-centaurs-life_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:10:11.768Z"
     }
   },
   "scans": {},
@@ -6741,10 +6762,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 2,
-      "vostfr": 10
+      "vostfr": 11
     },
     "byType": {
-      "anime": 12,
+      "anime": 13,
       "scan": 0
     },
     "byPlayer": {
@@ -6754,6 +6775,6 @@
       "Sendvid": 15,
       "OneUpload": 1
     },
-    "lastUpdate": "2026-01-01T10:10:10.353Z"
+    "lastUpdate": "2026-01-01T10:10:11.769Z"
   }
 }
