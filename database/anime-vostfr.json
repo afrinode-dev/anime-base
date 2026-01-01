@@ -2305,6 +2305,92 @@
       "totalSeasons": 10,
       "scrapedAt": "2026-01-01T12:16:47.212Z",
       "lastUpdated": "2026-01-01T12:16:47.212Z"
+    },
+    "accel-world": {
+      "id": "accel-world",
+      "title": "Accel World",
+      "slug": "accel-world",
+      "language": "vostfr",
+      "type": "anime",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/accel-world0.jpg",
+      "banner": null,
+      "description": "L'histoire se passe au cours de l'année 2046, dans un monde où le virtuel est omniprésent, notamment grâce aux",
+      "pageUrl": "https://anime-sama.tv/catalogue/accel-world/",
+      "seasons": [
+        {
+          "name": "saison1",
+          "number": 1,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/accel-world/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/accel-world/saison1/vostfr/episodes.js"
+        },
+        {
+          "name": "saison2",
+          "number": 2,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/accel-world/saison2/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/accel-world/saison2/vostfr/episodes.js"
+        },
+        {
+          "name": "saison3",
+          "number": 3,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/accel-world/saison3/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/accel-world/saison3/vostfr/episodes.js"
+        },
+        {
+          "name": "saison4",
+          "number": 4,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/accel-world/saison4/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/accel-world/saison4/vostfr/episodes.js"
+        },
+        {
+          "name": "saison5",
+          "number": 5,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/accel-world/saison5/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/accel-world/saison5/vostfr/episodes.js"
+        },
+        {
+          "name": "saison6",
+          "number": 6,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/accel-world/saison6/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/accel-world/saison6/vostfr/episodes.js"
+        },
+        {
+          "name": "saison7",
+          "number": 7,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/accel-world/saison7/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/accel-world/saison7/vostfr/episodes.js"
+        },
+        {
+          "name": "saison8",
+          "number": 8,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/accel-world/saison8/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/accel-world/saison8/vostfr/episodes.js"
+        },
+        {
+          "name": "saison9",
+          "number": 9,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/accel-world/saison9/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/accel-world/saison9/vostfr/episodes.js"
+        },
+        {
+          "name": "saison10",
+          "number": 10,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/accel-world/saison10/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/accel-world/saison10/vostfr/episodes.js"
+        }
+      ],
+      "totalSeasons": 10,
+      "scrapedAt": "2026-01-01T12:18:42.753Z",
+      "lastUpdated": "2026-01-01T12:18:42.753Z"
     }
   },
   "seasons": {
@@ -7086,6 +7172,66 @@
       ],
       "scrapedAt": "2026-01-01T12:16:46.897Z",
       "lastUpdated": "2026-01-01T12:16:46.897Z"
+    },
+    "accel-world_saison1_vostfr": {
+      "seasonId": "accel-world_saison1_vostfr",
+      "animeId": "accel-world",
+      "title": "Accel World",
+      "slug": "accel-world",
+      "season": "saison1",
+      "seasonNumber": 1,
+      "seasonSuffix": "",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/accel-world/saison1/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/accel-world/saison1/vostfr/",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/accel-world0.jpg",
+      "banner": null,
+      "description": "Accel World - Saison 1 | Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "totalEpisodes": 24,
+      "episodesList": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "players": {
+        "Vidmoly": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Vidmoly",
+          "playerProvider": "vidmoly",
+          "totalEpisodes": 24,
+          "firstUrl": "https://vidmoly.net/embed-0jgalo3h54m3.html",
+          "lastUrl": "https://vidmoly.net/embed-9kyiinb1gl1p.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T12:18:42.358Z"
+        }
+      },
+      "availablePlayers": [
+        "Vidmoly"
+      ],
+      "scrapedAt": "2026-01-01T12:18:42.440Z",
+      "lastUpdated": "2026-01-01T12:18:42.440Z"
     }
   },
   "episodes": {
@@ -26228,6 +26374,399 @@
       "totalPlayers": 3,
       "scrapedAt": "2026-01-01T12:16:46.897Z",
       "lastUpdated": "2026-01-01T12:16:46.897Z"
+    },
+    "accel-world_saison1_vostfr": {
+      "seasonId": "accel-world_saison1_vostfr",
+      "animeId": "accel-world",
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.net/embed-0jgalo3h54m3.html",
+              "embedUrl": "https://vidmoly.net/embed-0jgalo3h54m3.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T12:18:42.357Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T12:18:42.357Z"
+        },
+        "2": {
+          "number": 2,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.net/embed-9vlrgvika9m2.html",
+              "embedUrl": "https://vidmoly.net/embed-9vlrgvika9m2.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T12:18:42.357Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T12:18:42.357Z"
+        },
+        "3": {
+          "number": 3,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.net/embed-vbymkcejf5ty.html",
+              "embedUrl": "https://vidmoly.net/embed-vbymkcejf5ty.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T12:18:42.357Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T12:18:42.357Z"
+        },
+        "4": {
+          "number": 4,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.net/embed-w1dlnzwzl4bv.html",
+              "embedUrl": "https://vidmoly.net/embed-w1dlnzwzl4bv.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T12:18:42.357Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T12:18:42.357Z"
+        },
+        "5": {
+          "number": 5,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.net/embed-ie7oitnkgjjy.html",
+              "embedUrl": "https://vidmoly.net/embed-ie7oitnkgjjy.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T12:18:42.357Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T12:18:42.357Z"
+        },
+        "6": {
+          "number": 6,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.net/embed-4joth648kw86.html",
+              "embedUrl": "https://vidmoly.net/embed-4joth648kw86.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T12:18:42.357Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T12:18:42.357Z"
+        },
+        "7": {
+          "number": 7,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.net/embed-elt0j42rm52q.html",
+              "embedUrl": "https://vidmoly.net/embed-elt0j42rm52q.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T12:18:42.357Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T12:18:42.357Z"
+        },
+        "8": {
+          "number": 8,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.net/embed-mtq903kkxoad.html",
+              "embedUrl": "https://vidmoly.net/embed-mtq903kkxoad.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T12:18:42.357Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T12:18:42.357Z"
+        },
+        "9": {
+          "number": 9,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.net/embed-uswp365olhcs.html",
+              "embedUrl": "https://vidmoly.net/embed-uswp365olhcs.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T12:18:42.357Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T12:18:42.357Z"
+        },
+        "10": {
+          "number": 10,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.net/embed-oulrpbmj7tqz.html",
+              "embedUrl": "https://vidmoly.net/embed-oulrpbmj7tqz.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T12:18:42.357Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T12:18:42.357Z"
+        },
+        "11": {
+          "number": 11,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.net/embed-0c6kdr56vhi9.html",
+              "embedUrl": "https://vidmoly.net/embed-0c6kdr56vhi9.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T12:18:42.357Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T12:18:42.357Z"
+        },
+        "12": {
+          "number": 12,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.net/embed-q323zjzzmjlf.html",
+              "embedUrl": "https://vidmoly.net/embed-q323zjzzmjlf.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T12:18:42.357Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T12:18:42.357Z"
+        },
+        "13": {
+          "number": 13,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.net/embed-3m3r8hbh0afy.html",
+              "embedUrl": "https://vidmoly.net/embed-3m3r8hbh0afy.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T12:18:42.357Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T12:18:42.357Z"
+        },
+        "14": {
+          "number": 14,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.net/embed-g07bwww8w54m.html",
+              "embedUrl": "https://vidmoly.net/embed-g07bwww8w54m.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T12:18:42.357Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T12:18:42.357Z"
+        },
+        "15": {
+          "number": 15,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.net/embed-9mix92qcvhs0.html",
+              "embedUrl": "https://vidmoly.net/embed-9mix92qcvhs0.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T12:18:42.357Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T12:18:42.357Z"
+        },
+        "16": {
+          "number": 16,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.net/embed-176dfyg3sx1m.html",
+              "embedUrl": "https://vidmoly.net/embed-176dfyg3sx1m.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T12:18:42.357Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T12:18:42.357Z"
+        },
+        "17": {
+          "number": 17,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.net/embed-zsrea7jv4r1n.html",
+              "embedUrl": "https://vidmoly.net/embed-zsrea7jv4r1n.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T12:18:42.357Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T12:18:42.357Z"
+        },
+        "18": {
+          "number": 18,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.net/embed-fb88r7fyd4kr.html",
+              "embedUrl": "https://vidmoly.net/embed-fb88r7fyd4kr.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T12:18:42.357Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T12:18:42.357Z"
+        },
+        "19": {
+          "number": 19,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.net/embed-zz16u8ghno7l.html",
+              "embedUrl": "https://vidmoly.net/embed-zz16u8ghno7l.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T12:18:42.357Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T12:18:42.357Z"
+        },
+        "20": {
+          "number": 20,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.net/embed-vm12jb6vue4u.html",
+              "embedUrl": "https://vidmoly.net/embed-vm12jb6vue4u.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T12:18:42.357Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T12:18:42.357Z"
+        },
+        "21": {
+          "number": 21,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.net/embed-8m579qjm9u5r.html",
+              "embedUrl": "https://vidmoly.net/embed-8m579qjm9u5r.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T12:18:42.357Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T12:18:42.357Z"
+        },
+        "22": {
+          "number": 22,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.net/embed-i8xercqmktpj.html",
+              "embedUrl": "https://vidmoly.net/embed-i8xercqmktpj.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T12:18:42.357Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T12:18:42.357Z"
+        },
+        "23": {
+          "number": 23,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.net/embed-p5uxxmm9su5y.html",
+              "embedUrl": "https://vidmoly.net/embed-p5uxxmm9su5y.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T12:18:42.357Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T12:18:42.357Z"
+        },
+        "24": {
+          "number": 24,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.net/embed-9kyiinb1gl1p.html",
+              "embedUrl": "https://vidmoly.net/embed-9kyiinb1gl1p.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T12:18:42.358Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T12:18:42.358Z"
+        }
+      },
+      "totalPlayers": 1,
+      "scrapedAt": "2026-01-01T12:18:42.440Z",
+      "lastUpdated": "2026-01-01T12:18:42.440Z"
     }
   },
   "players": {
@@ -26252,9 +26791,8 @@
     "Vidmoly": {
       "name": "Vidmoly",
       "type": "video",
-      "count": 51,
+      "count": 52,
       "exampleUrls": [
-        "https://vidmoly.to/embed-l6izth0uq841.html",
         "https://vidmoly.to/embed-v9eygfve7gmf.html",
         "https://vidmoly.to/embed-3iolpt5xbh2o.html",
         "https://vidmoly.to/embed-kxjuvts4pgs2.html",
@@ -26263,9 +26801,10 @@
         "https://vidmoly.to/embed-koyu9ejjqcgp.html",
         "https://vidmoly.net/embed-xkx9pyw2zrcq.html",
         "https://vidmoly.to/embed-40pdwiv1p1wu.html",
-        "https://vidmoly.to/embed-uv00lex47tbf.html"
+        "https://vidmoly.to/embed-uv00lex47tbf.html",
+        "https://vidmoly.net/embed-0jgalo3h54m3.html"
       ],
-      "lastUsed": "2026-01-01T12:12:55.694Z"
+      "lastUsed": "2026-01-01T12:18:42.440Z"
     },
     "Scan": {
       "name": "Scan",
