@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:46:10.954Z",
-  "totalAnimes": 150,
+  "lastUpdated": "2026-01-01T09:46:12.746Z",
+  "totalAnimes": 151,
   "totalScans": 0,
   "totalEpisodes": 2145,
   "totalChapters": 0,
@@ -2851,6 +2851,26 @@
       "availableScans": [],
       "scrapedAt": "2026-01-01T09:46:06.598Z",
       "lastUpdated": "2026-01-01T09:46:06.598Z"
+    },
+    "azur-lane": {
+      "id": "azur-lane",
+      "title": "Azur Lane",
+      "slug": "azur-lane",
+      "language": "vostfr",
+      "type": "anime",
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/azur-lane/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
+      "availableScans": [],
+      "scrapedAt": "2026-01-01T09:46:12.746Z",
+      "lastUpdated": "2026-01-01T09:46:12.746Z"
     }
   },
   "scans": {},
@@ -62172,10 +62192,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 57,
-      "vostfr": 93
+      "vostfr": 94
     },
     "byType": {
-      "anime": 150,
+      "anime": 151,
       "scan": 0
     },
     "byPlayer": {
@@ -62186,7 +62206,7 @@
       "OneUpload": 14,
       "Smoothpre": 10
     },
-    "lastUpdate": "2026-01-01T09:46:10.953Z"
+    "lastUpdate": "2026-01-01T09:46:12.746Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
