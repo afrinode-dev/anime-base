@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:48:19.051Z",
-  "totalAnimes": 174,
+  "lastUpdated": "2026-01-01T09:48:20.658Z",
+  "totalAnimes": 175,
   "totalScans": 0,
   "totalEpisodes": 2668,
   "totalChapters": 0,
@@ -3331,6 +3331,26 @@
       "availableScans": [],
       "scrapedAt": "2026-01-01T09:48:17.176Z",
       "lastUpdated": "2026-01-01T09:48:17.176Z"
+    },
+    "beastars": {
+      "id": "beastars",
+      "title": "Beastars",
+      "slug": "beastars",
+      "language": "vostfr",
+      "type": "anime",
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/beastars/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
+      "availableScans": [],
+      "scrapedAt": "2026-01-01T09:48:20.658Z",
+      "lastUpdated": "2026-01-01T09:48:20.658Z"
     }
   },
   "scans": {},
@@ -77575,10 +77595,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 65,
-      "vostfr": 109
+      "vostfr": 110
     },
     "byType": {
-      "anime": 174,
+      "anime": 175,
       "scan": 0
     },
     "byPlayer": {
@@ -77589,7 +77609,7 @@
       "OneUpload": 17,
       "Smoothpre": 11
     },
-    "lastUpdate": "2026-01-01T09:48:19.051Z"
+    "lastUpdate": "2026-01-01T09:48:20.658Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
