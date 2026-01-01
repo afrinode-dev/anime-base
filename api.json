@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:38:15.495Z",
+  "lastUpdated": "2026-01-01T09:38:17.118Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 382,
@@ -575,17 +575,22 @@
     "a-place-further-than-the-universe": {
       "id": "a-place-further-than-the-universe",
       "title": "A Place Further Than The Universe",
-      "originalLink": "https://anime-sama.tv/catalogue/a-place-further-than-the-universe",
       "slug": "a-place-further-than-the-universe",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-place-further-than-the-universe.jpg",
-      "banner": null,
-      "description": "Shirase Kobuchizawa, lycéenne de deuxième année, est la fille de la célèbre Takako Kobuchizawa, une exploratrice ayant disparue lors de sa dernière expédition en Antarctique. Persuadée que sa mère est vivante et qu'elle l'attend sur place, Shirase met tout en oeuvre pour intégrer une expédition constituée de civils, embarquant trois autres jeunes filles dans l'aventure.",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/a-place-further-than-the-universe/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:11:53.005Z",
-      "lastUpdated": "2026-01-01T09:11:53.005Z"
+      "scrapedAt": "2026-01-01T09:38:17.118Z",
+      "lastUpdated": "2026-01-01T09:38:17.118Z"
     },
     "a-silent-voice": {
       "id": "a-silent-voice",
@@ -12533,8 +12538,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 128,
-      "vostfr": 21
+      "vf": 127,
+      "vostfr": 22
     },
     "byType": {
       "anime": 149,
@@ -12547,7 +12552,7 @@
       "Sendvid": 26,
       "OneUpload": 1
     },
-    "lastUpdate": "2026-01-01T09:38:15.495Z"
+    "lastUpdate": "2026-01-01T09:38:17.118Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
