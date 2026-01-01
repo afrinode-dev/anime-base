@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:48:42.046Z",
-  "totalAnimes": 178,
+  "lastUpdated": "2026-01-01T09:48:43.613Z",
+  "totalAnimes": 179,
   "totalScans": 0,
   "totalEpisodes": 2805,
   "totalChapters": 0,
@@ -3411,6 +3411,26 @@
       "availableScans": [],
       "scrapedAt": "2026-01-01T09:48:39.640Z",
       "lastUpdated": "2026-01-01T09:48:39.640Z"
+    },
+    "beelzebub": {
+      "id": "beelzebub",
+      "title": "Beelzebub",
+      "slug": "beelzebub",
+      "language": "vostfr",
+      "type": "anime",
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/beelzebub/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
+      "availableScans": [],
+      "scrapedAt": "2026-01-01T09:48:43.613Z",
+      "lastUpdated": "2026-01-01T09:48:43.613Z"
     }
   },
   "scans": {},
@@ -80548,10 +80568,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 67,
-      "vostfr": 111
+      "vostfr": 112
     },
     "byType": {
-      "anime": 178,
+      "anime": 179,
       "scan": 0
     },
     "byPlayer": {
@@ -80562,7 +80582,7 @@
       "OneUpload": 17,
       "Smoothpre": 11
     },
-    "lastUpdate": "2026-01-01T09:48:42.044Z"
+    "lastUpdate": "2026-01-01T09:48:43.613Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
