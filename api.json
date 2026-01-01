@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:18:34.484Z",
-  "totalAnimes": 111,
+  "lastUpdated": "2026-01-01T10:18:36.067Z",
+  "totalAnimes": 112,
   "totalScans": 0,
   "totalEpisodes": 2025,
   "totalChapters": 0,
@@ -2337,6 +2337,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:18:32.068Z"
+    },
+    "astro-note": {
+      "id": "astro-note",
+      "title": "Astro Note",
+      "slug": "astro-note",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/astro-note/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/astro-note/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/astro-note/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "astro-note_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:18:36.067Z"
     }
   },
   "scans": {},
@@ -67726,10 +67747,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 25,
-      "vostfr": 86
+      "vostfr": 87
     },
     "byType": {
-      "anime": 111,
+      "anime": 112,
       "scan": 0
     },
     "byPlayer": {
@@ -67740,6 +67761,6 @@
       "OneUpload": 13,
       "Smoothpre": 10
     },
-    "lastUpdate": "2026-01-01T10:18:34.483Z"
+    "lastUpdate": "2026-01-01T10:18:36.067Z"
   }
 }
