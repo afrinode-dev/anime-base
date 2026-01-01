@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:45:16.318Z",
+  "lastUpdated": "2026-01-01T09:45:17.296Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1967,
@@ -2590,17 +2590,22 @@
     "assassination-classroom": {
       "id": "assassination-classroom",
       "title": "Assassination Classroom",
-      "originalLink": "https://anime-sama.tv/catalogue/assassination-classroom/",
       "slug": "assassination-classroom",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/assassination-classroom.jpg",
-      "banner": null,
-      "description": "La planète Terre est en sursis ! Après avoir partiellement détruit la Lune, un être étrange et surpuissant a décrété que si personne ne parvenait à le tuer dans l'année à venir, la planète subirait le même sort que son satellite. Durant ce laps de temps, il a également exigé d'être nommé professeur de la classe 3-E du lycée Kunugigaoka, aussi connue sous le nom de",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/assassination-classroom/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:55.398Z",
-      "lastUpdated": "2026-01-01T09:12:55.398Z"
+      "scrapedAt": "2026-01-01T09:45:17.296Z",
+      "lastUpdated": "2026-01-01T09:45:17.296Z"
     },
     "assassins-pride": {
       "id": "assassins-pride",
@@ -57397,8 +57402,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 63,
-      "vostfr": 86
+      "vf": 62,
+      "vostfr": 87
     },
     "byType": {
       "anime": 149,
@@ -57412,7 +57417,7 @@
       "OneUpload": 13,
       "Smoothpre": 10
     },
-    "lastUpdate": "2026-01-01T09:45:16.318Z"
+    "lastUpdate": "2026-01-01T09:45:17.296Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
