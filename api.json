@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:10:33.043Z",
-  "totalAnimes": 17,
+  "lastUpdated": "2026-01-01T10:10:34.285Z",
+  "totalAnimes": 18,
   "totalScans": 0,
   "totalEpisodes": 306,
   "totalChapters": 0,
@@ -363,6 +363,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:10:31.422Z"
+    },
+    "a-couple-of-cuckoos": {
+      "id": "a-couple-of-cuckoos",
+      "title": "A Couple of Cuckoos",
+      "slug": "a-couple-of-cuckoos",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/a-couple-of-cuckoos/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/a-couple-of-cuckoos/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/a-couple-of-cuckoos/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "a-couple-of-cuckoos_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:10:34.284Z"
     }
   },
   "scans": {},
@@ -9681,10 +9702,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 3,
-      "vostfr": 14
+      "vostfr": 15
     },
     "byType": {
-      "anime": 17,
+      "anime": 18,
       "scan": 0
     },
     "byPlayer": {
@@ -9694,6 +9715,6 @@
       "Sendvid": 19,
       "OneUpload": 1
     },
-    "lastUpdate": "2026-01-01T10:10:33.043Z"
+    "lastUpdate": "2026-01-01T10:10:34.285Z"
   }
 }
