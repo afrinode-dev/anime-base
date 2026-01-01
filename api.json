@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:12:36.565Z",
-  "totalAnimes": 39,
+  "lastUpdated": "2026-01-01T10:12:38.402Z",
+  "totalAnimes": 40,
   "totalScans": 0,
   "totalEpisodes": 750,
   "totalChapters": 0,
@@ -825,6 +825,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:12:34.060Z"
+    },
+    "adventure-time": {
+      "id": "adventure-time",
+      "title": "Adventure Time",
+      "slug": "adventure-time",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/adventure-time/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/adventure-time/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/adventure-time/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "adventure-time_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:12:38.401Z"
     }
   },
   "scans": {},
@@ -23436,10 +23457,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 9,
-      "vostfr": 30
+      "vostfr": 31
     },
     "byType": {
-      "anime": 39,
+      "anime": 40,
       "scan": 0
     },
     "byPlayer": {
@@ -23450,6 +23471,6 @@
       "OneUpload": 3,
       "Smoothpre": 1
     },
-    "lastUpdate": "2026-01-01T10:12:36.564Z"
+    "lastUpdate": "2026-01-01T10:12:38.401Z"
   }
 }
