@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:11:51.862Z",
-  "totalAnimes": 31,
+  "lastUpdated": "2026-01-01T10:11:53.404Z",
+  "totalAnimes": 32,
   "totalScans": 0,
   "totalEpisodes": 527,
   "totalChapters": 0,
@@ -657,6 +657,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:11:46.071Z"
+    },
+    "absolute-sword-sense": {
+      "id": "absolute-sword-sense",
+      "title": "Absolute Sword Sense",
+      "slug": "absolute-sword-sense",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/absolute-sword-sense/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/absolute-sword-sense/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/absolute-sword-sense/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "absolute-sword-sense_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:11:53.403Z"
     }
   },
   "scans": {},
@@ -17872,10 +17893,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 8,
-      "vostfr": 23
+      "vostfr": 24
     },
     "byType": {
-      "anime": 31,
+      "anime": 32,
       "scan": 0
     },
     "byPlayer": {
@@ -17885,6 +17906,6 @@
       "Sendvid": 37,
       "OneUpload": 2
     },
-    "lastUpdate": "2026-01-01T10:11:51.862Z"
+    "lastUpdate": "2026-01-01T10:11:53.403Z"
   }
 }
