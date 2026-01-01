@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:44:45.850Z",
+  "lastUpdated": "2026-01-01T09:44:47.718Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1838,
@@ -2420,17 +2420,22 @@
     "arte": {
       "id": "arte",
       "title": "Arte",
-      "originalLink": "https://anime-sama.tv/catalogue/arte",
       "slug": "arte",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/arte.jpg",
-      "banner": null,
-      "description": "Florence, début du XVIe siècle.\n\nDans ce berceau de la Renaissance, qui vit l'art s'épanouir dans toute sa splendeur, une jeune aristocrate prénommée Arte rêve de devenir artiste peintre et aspire à entrer en apprentissage dans un des nombreux ateliers de la ville...\nHélas ! Cette époque de foisonnement culturel était aussi celle de la misogynie, et il n'était pas concevable qu'une jeune femme ambitionne de vivre de son art et de son travail. Les nombreux obstacles qui se dresseront sur le chemi",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/arte/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:50.119Z",
-      "lastUpdated": "2026-01-01T09:12:50.119Z"
+      "scrapedAt": "2026-01-01T09:44:47.717Z",
+      "lastUpdated": "2026-01-01T09:44:47.717Z"
     },
     "aru-majo-ga-shinu-made": {
       "id": "aru-majo-ga-shinu-made",
@@ -53981,8 +53986,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 70,
-      "vostfr": 79
+      "vf": 69,
+      "vostfr": 80
     },
     "byType": {
       "anime": 149,
@@ -53996,7 +54001,7 @@
       "OneUpload": 12,
       "Smoothpre": 9
     },
-    "lastUpdate": "2026-01-01T09:44:45.849Z"
+    "lastUpdate": "2026-01-01T09:44:47.717Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
