@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:09:36.428Z",
-  "totalAnimes": 5,
+  "lastUpdated": "2026-01-01T10:09:37.705Z",
+  "totalAnimes": 6,
   "totalScans": 0,
   "totalEpisodes": 85,
   "totalChapters": 0,
@@ -111,6 +111,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:09:34.057Z"
+    },
+    "3d-kanojo": {
+      "id": "3d-kanojo",
+      "title": "3D Kanojo",
+      "slug": "3d-kanojo",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/3d-kanojo/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/3d-kanojo/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/3d-kanojo/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "3d-kanojo_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:09:37.704Z"
     }
   },
   "scans": {},
@@ -3044,10 +3065,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 0,
-      "vostfr": 5
+      "vostfr": 6
     },
     "byType": {
-      "anime": 5,
+      "anime": 6,
       "scan": 0
     },
     "byPlayer": {
@@ -3057,6 +3078,6 @@
       "Sendvid": 6,
       "OneUpload": 1
     },
-    "lastUpdate": "2026-01-01T10:09:36.428Z"
+    "lastUpdate": "2026-01-01T10:09:37.705Z"
   }
 }
