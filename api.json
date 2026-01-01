@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:42:37.739Z",
+  "lastUpdated": "2026-01-01T09:42:39.294Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1442,
@@ -1755,17 +1755,22 @@
     "amphibia": {
       "id": "amphibia",
       "title": "Amphibia",
-      "originalLink": "https://anime-sama.tv/catalogue/amphibia",
       "slug": "amphibia",
       "language": "vf",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/amphibia.jpg",
-      "banner": null,
-      "description": "Anne Boonchuy, ado narcissique de 13 ans, est envoyée dans le monde magique d'Amphibia, peuplé d'hommes-grenouilles. Avec l'aide du jeune Sprig, Anne va devenir l'héroïne de ce monde parallèle et entamer une véritable amitié pour la première fois.",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/amphibia/saison1/vf/",
+          "language": "vf",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:28.391Z",
-      "lastUpdated": "2026-01-01T09:12:28.391Z"
+      "scrapedAt": "2026-01-01T09:42:39.294Z",
+      "lastUpdated": "2026-01-01T09:42:39.294Z"
     },
     "an-archdemons-dilemma-how-to-love-your-elf-bride": {
       "id": "an-archdemons-dilemma-how-to-love-your-elf-bride",
@@ -41866,7 +41871,7 @@
       "OneUpload": 8,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T09:42:37.739Z"
+    "lastUpdate": "2026-01-01T09:42:39.294Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
