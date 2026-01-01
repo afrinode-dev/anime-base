@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:43:47.491Z",
+  "lastUpdated": "2026-01-01T09:43:49.025Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1686,
@@ -2090,17 +2090,22 @@
     "apocalyptic-thief": {
       "id": "apocalyptic-thief",
       "title": "Apocalyptic Thief",
-      "originalLink": "https://anime-sama.tv/catalogue/apocalyptic-thief",
       "slug": "apocalyptic-thief",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/apocalyptic-thief.jpg",
-      "banner": null,
-      "description": "Un mouvement dans l'univers a apporté des mutations au niveau des espèces vivantes. Un poison, des morts vivants, des géants et des monstres rugissent dans la ville en agitant leurs armes. Alors que des bêtes dans les bois se battent pour des territoires, certains humains éveillent une capacité spéciale connue sous le nom de pouvoir des étoiles... Zhou Zheng, déficient de ce pouvoir, va traverser ce nouveau monde post apocalyptique. Utilisant ses capacités de voleur issues d'un autre jeu, il dét",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/apocalyptic-thief/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:38.987Z",
-      "lastUpdated": "2026-01-01T09:12:38.987Z"
+      "scrapedAt": "2026-01-01T09:43:49.024Z",
+      "lastUpdated": "2026-01-01T09:43:49.024Z"
     },
     "apotheosis": {
       "id": "apotheosis",
@@ -49755,8 +49760,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 81,
-      "vostfr": 68
+      "vf": 80,
+      "vostfr": 69
     },
     "byType": {
       "anime": 149,
@@ -49770,7 +49775,7 @@
       "OneUpload": 10,
       "Smoothpre": 9
     },
-    "lastUpdate": "2026-01-01T09:43:47.490Z"
+    "lastUpdate": "2026-01-01T09:43:49.024Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
