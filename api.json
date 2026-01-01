@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:18:10.212Z",
-  "totalAnimes": 106,
+  "lastUpdated": "2026-01-01T10:18:11.745Z",
+  "totalAnimes": 107,
   "totalScans": 0,
   "totalEpisodes": 1933,
   "totalChapters": 0,
@@ -2232,6 +2232,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:18:07.103Z"
+    },
+    "ashita-no-joe": {
+      "id": "ashita-no-joe",
+      "title": "Ashita no Joe",
+      "slug": "ashita-no-joe",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/ashita-no-joe/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/ashita-no-joe/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/ashita-no-joe/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "ashita-no-joe_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:18:11.743Z"
     }
   },
   "scans": {},
@@ -64811,10 +64832,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 24,
-      "vostfr": 82
+      "vostfr": 83
     },
     "byType": {
-      "anime": 106,
+      "anime": 107,
       "scan": 0
     },
     "byPlayer": {
@@ -64825,6 +64846,6 @@
       "OneUpload": 13,
       "Smoothpre": 10
     },
-    "lastUpdate": "2026-01-01T10:18:10.212Z"
+    "lastUpdate": "2026-01-01T10:18:11.743Z"
   }
 }
