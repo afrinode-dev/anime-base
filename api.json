@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:39:55.948Z",
+  "lastUpdated": "2026-01-01T09:39:58.091Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 782,
@@ -1005,17 +1005,22 @@
     "afro-samurai": {
       "id": "afro-samurai",
       "title": "Afro Samurai",
-      "originalLink": "https://anime-sama.tv/catalogue/afro-samurai",
       "slug": "afro-samurai",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/afro-samurai.jpg",
-      "banner": null,
-      "description": "Suite à la mort de son père dans un duel contre un mystérieux personnage, le jeune Afro décida de s'entraîner dur dans le but de le venger. Pour cela il apprendra l'art du maniement du sabre, tout au long de son parcours à la recherche de cet homme, il fera la rencontre de différents individus décidés à lui mettre des bâtons dans les roues ; il règlera ses comptes dans des combats tout aussi sanglants les uns que les autres.",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/afro-samurai/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:05.682Z",
-      "lastUpdated": "2026-01-01T09:12:05.682Z"
+      "scrapedAt": "2026-01-01T09:39:58.090Z",
+      "lastUpdated": "2026-01-01T09:39:58.090Z"
     },
     "afterlife-inn-cooking": {
       "id": "afterlife-inn-cooking",
@@ -22302,8 +22307,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 117,
-      "vostfr": 32
+      "vf": 116,
+      "vostfr": 33
     },
     "byType": {
       "anime": 149,
@@ -22317,7 +22322,7 @@
       "OneUpload": 3,
       "Smoothpre": 1
     },
-    "lastUpdate": "2026-01-01T09:39:55.948Z"
+    "lastUpdate": "2026-01-01T09:39:58.090Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
