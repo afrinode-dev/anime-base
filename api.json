@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:09:21.770Z",
-  "totalAnimes": 1,
+  "lastUpdated": "2026-01-01T10:09:22.726Z",
+  "totalAnimes": 2,
   "totalScans": 0,
   "totalEpisodes": 25,
   "totalChapters": 0,
@@ -27,6 +27,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:09:19.319Z"
+    },
+    "16bit-sensation-another-layer": {
+      "id": "16bit-sensation-another-layer",
+      "title": "16bit Sensation Another Layer",
+      "slug": "16bit-sensation-another-layer",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/16bit-sensation-another-layer/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/16bit-sensation-another-layer/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/16bit-sensation-another-layer/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "16bit-sensation-another-layer_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:09:22.726Z"
     }
   },
   "scans": {},
@@ -998,10 +1019,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 0,
-      "vostfr": 1
+      "vostfr": 2
     },
     "byType": {
-      "anime": 1,
+      "anime": 2,
       "scan": 0
     },
     "byPlayer": {
@@ -1010,6 +1031,6 @@
       "Scan": 2,
       "Sendvid": 2
     },
-    "lastUpdate": "2026-01-01T10:09:21.770Z"
+    "lastUpdate": "2026-01-01T10:09:22.726Z"
   }
 }
