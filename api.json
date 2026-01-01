@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:20:00.381Z",
-  "totalAnimes": 126,
+  "lastUpdated": "2026-01-01T10:20:02.040Z",
+  "totalAnimes": 127,
   "totalScans": 0,
   "totalEpisodes": 2272,
   "totalChapters": 0,
@@ -2652,6 +2652,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:19:55.282Z"
+    },
+    "baka-to-test-to-shoukanjuu": {
+      "id": "baka-to-test-to-shoukanjuu",
+      "title": "Baka to Test to Shoukanjuu",
+      "slug": "baka-to-test-to-shoukanjuu",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/baka-to-test-to-shoukanjuu/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/baka-to-test-to-shoukanjuu/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/baka-to-test-to-shoukanjuu/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "baka-to-test-to-shoukanjuu_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:20:02.040Z"
     }
   },
   "scans": {},
@@ -75790,10 +75811,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 29,
-      "vostfr": 97
+      "vostfr": 98
     },
     "byType": {
-      "anime": 126,
+      "anime": 127,
       "scan": 0
     },
     "byPlayer": {
@@ -75804,6 +75825,6 @@
       "OneUpload": 15,
       "Smoothpre": 10
     },
-    "lastUpdate": "2026-01-01T10:20:00.380Z"
+    "lastUpdate": "2026-01-01T10:20:02.040Z"
   }
 }
