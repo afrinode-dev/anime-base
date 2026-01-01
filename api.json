@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:41:03.912Z",
+  "lastUpdated": "2026-01-01T09:41:05.232Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1073,
@@ -1290,17 +1290,22 @@
     "akebi-chan-no-sailor-fuku": {
       "id": "akebi-chan-no-sailor-fuku",
       "title": "Akebi-chan no Sailor Fuku",
-      "originalLink": "https://anime-sama.tv/catalogue/akebi-chan-no-sailor-fuku",
       "slug": "akebi-chan-no-sailor-fuku",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/akebi-chan-no-sailor-fuku.jpg",
-      "banner": null,
-      "description": "La jeune Komichi Akebi a passé les examens d'entrée pour l'académie privée Roubai, une école pour filles prestigieuse dont elle a toujours rêvé de porter leur uniforme de marin emblématique. Mais entre temps, les uniformes ont changé et il s'agit dorénavant de classiques blazers. Pour autant, Komichi se voit octroyer le droit de continuer à porter son uniforme qu'a créé sa mère rien que pour elle. Son but de se faire plein d'amies est sur le point de commencer !",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/akebi-chan-no-sailor-fuku/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:13.683Z",
-      "lastUpdated": "2026-01-01T09:12:13.683Z"
+      "scrapedAt": "2026-01-01T09:41:05.232Z",
+      "lastUpdated": "2026-01-01T09:41:05.232Z"
     },
     "akira": {
       "id": "akira",
@@ -30413,8 +30418,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 110,
-      "vostfr": 39
+      "vf": 109,
+      "vostfr": 40
     },
     "byType": {
       "anime": 149,
@@ -30428,7 +30433,7 @@
       "OneUpload": 3,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T09:41:03.910Z"
+    "lastUpdate": "2026-01-01T09:41:05.232Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
