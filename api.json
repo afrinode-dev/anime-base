@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:42:32.509Z",
+  "lastUpdated": "2026-01-01T09:42:34.029Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1422,
@@ -1720,17 +1720,22 @@
     "amnesia": {
       "id": "amnesia",
       "title": "Amnesia",
-      "originalLink": "https://anime-sama.tv/catalogue/amnesia",
       "slug": "amnesia",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/amnesia.jpg",
-      "banner": null,
-      "description": "L'héroïne (qui n'a pas de nom) fait un jour un malaise au café où elle travaille. A son réveil, elle ne se souvient plus de rien, mais peut désormais voir un être étrange du nom d'Orion. Ce dernier réussit à la convaincre de ne parler de son problème de mémoire à personne, afin de pouvoir retrouver ses souvenirs grâce à des situations déjà vécues. Le problème, c'est que les garçons travaillant avec elle ne sont pas dupes et se posent rapidement des questions. L'un d'entre eux, Shin, est particul",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/amnesia/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:26.860Z",
-      "lastUpdated": "2026-01-01T09:12:26.860Z"
+      "scrapedAt": "2026-01-01T09:42:34.029Z",
+      "lastUpdated": "2026-01-01T09:42:34.029Z"
     },
     "amour-sucre": {
       "id": "amour-sucre",
@@ -41302,8 +41307,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 94,
-      "vostfr": 55
+      "vf": 93,
+      "vostfr": 56
     },
     "byType": {
       "anime": 149,
@@ -41317,7 +41322,7 @@
       "OneUpload": 8,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T09:42:32.509Z"
+    "lastUpdate": "2026-01-01T09:42:34.029Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
