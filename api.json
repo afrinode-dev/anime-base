@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:13:35.873Z",
-  "totalAnimes": 49,
+  "lastUpdated": "2026-01-01T10:13:37.197Z",
+  "totalAnimes": 50,
   "totalScans": 0,
   "totalEpisodes": 1013,
   "totalChapters": 0,
@@ -1035,6 +1035,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:13:34.499Z"
+    },
+    "akame-ga-kill": {
+      "id": "akame-ga-kill",
+      "title": "Akame Ga Kill",
+      "slug": "akame-ga-kill",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/akame-ga-kill/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/akame-ga-kill/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/akame-ga-kill/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "akame-ga-kill_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:13:37.196Z"
     }
   },
   "scans": {},
@@ -32139,10 +32160,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 14,
-      "vostfr": 35
+      "vostfr": 36
     },
     "byType": {
-      "anime": 49,
+      "anime": 50,
       "scan": 0
     },
     "byPlayer": {
@@ -32153,6 +32174,6 @@
       "OneUpload": 3,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T10:13:35.872Z"
+    "lastUpdate": "2026-01-01T10:13:37.196Z"
   }
 }
