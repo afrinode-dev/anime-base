@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:45:04.215Z",
+  "lastUpdated": "2026-01-01T09:45:05.877Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1901,
@@ -2515,17 +2515,22 @@
     "ascendance-of-a-bookworm": {
       "id": "ascendance-of-a-bookworm",
       "title": "Ascendance of a Bookworm",
-      "originalLink": "https://anime-sama.tv/catalogue/ascendance-of-a-bookworm",
       "slug": "ascendance-of-a-bookworm",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ascendance-of-a-bookworm.jpg",
-      "banner": null,
-      "description": "Après son décès prématuré, Urano Motosu émet le souhait de se réincarner dans un monde où elle serait entourée de livres, sa grande passion. Lorsqu'elle s'éveille dans le corps de Main, 5 ans, avec tous ses souvenirs de sa vie antérieure, Urano espère que sa prière a été exaucée mais elle est rapidement déçue. En effet, dans ce nouveau monde qu'elle découvre petit à petit, les livres sont rares et extrêmement chers. Seuls une poignée de privilégiés, fortunés, y ont accès et la famille de Main ne",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/ascendance-of-a-bookworm/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:53.034Z",
-      "lastUpdated": "2026-01-01T09:12:53.034Z"
+      "scrapedAt": "2026-01-01T09:45:05.875Z",
+      "lastUpdated": "2026-01-01T09:45:05.875Z"
     },
     "ascension": {
       "id": "ascension",
@@ -56052,8 +56057,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 66,
-      "vostfr": 83
+      "vf": 65,
+      "vostfr": 84
     },
     "byType": {
       "anime": 149,
@@ -56067,7 +56072,7 @@
       "OneUpload": 13,
       "Smoothpre": 10
     },
-    "lastUpdate": "2026-01-01T09:45:04.214Z"
+    "lastUpdate": "2026-01-01T09:45:05.875Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
