@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:42:54.949Z",
+  "lastUpdated": "2026-01-01T09:42:55.862Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1497,
@@ -1835,17 +1835,22 @@
     "angels-of-death": {
       "id": "angels-of-death",
       "title": "Angels of Death",
-      "originalLink": "https://anime-sama.tv/catalogue/angels-of-death",
       "slug": "angels-of-death",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/angels-of-death.jpg",
-      "banner": null,
-      "description": "Rachel Gardner est une enfant de 13 ans qui se réveille dans le sous-sol d'un immense immeuble abandonné sans aucun souvenir de ce qu'il s'est passé.\n\nEn cherchant une sortie, elle rencontre Zack, un mystérieux tueur en série muni d'une faux et bandé de la tête aux pieds. Suite à cette rencontre Rachel lui demande de la tuer, ce dernier accepte à une seule condition : qu'elle l'aide à sortir de cet endroit.\n\nTous les deux ont alors décidé de s'associer pour trouver une issue...",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/angels-of-death/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:31.313Z",
-      "lastUpdated": "2026-01-01T09:12:31.313Z"
+      "scrapedAt": "2026-01-01T09:42:55.862Z",
+      "lastUpdated": "2026-01-01T09:42:55.862Z"
     },
     "anime-de-wakaru-shinryounaika": {
       "id": "anime-de-wakaru-shinryounaika",
@@ -43590,8 +43595,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 91,
-      "vostfr": 58
+      "vf": 90,
+      "vostfr": 59
     },
     "byType": {
       "anime": 149,
@@ -43605,7 +43610,7 @@
       "OneUpload": 8,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T09:42:54.949Z"
+    "lastUpdate": "2026-01-01T09:42:55.862Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
