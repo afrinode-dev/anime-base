@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:20:37.545Z",
-  "totalAnimes": 133,
+  "lastUpdated": "2026-01-01T10:20:39.330Z",
+  "totalAnimes": 134,
   "totalScans": 0,
   "totalEpisodes": 2503,
   "totalChapters": 0,
@@ -2799,6 +2799,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:20:34.940Z"
+    },
+    "banished-from-the-heros-party": {
+      "id": "banished-from-the-heros-party",
+      "title": "Banished From the Hero's Party",
+      "slug": "banished-from-the-heros-party",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/banished-from-the-heros-party/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/banished-from-the-heros-party/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/banished-from-the-heros-party/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "banished-from-the-heros-party_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:20:39.330Z"
     }
   },
   "scans": {},
@@ -83377,10 +83398,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 31,
-      "vostfr": 102
+      "vostfr": 103
     },
     "byType": {
-      "anime": 133,
+      "anime": 134,
       "scan": 0
     },
     "byPlayer": {
@@ -83391,6 +83412,6 @@
       "OneUpload": 16,
       "Smoothpre": 11
     },
-    "lastUpdate": "2026-01-01T10:20:37.545Z"
+    "lastUpdate": "2026-01-01T10:20:39.330Z"
   }
 }
