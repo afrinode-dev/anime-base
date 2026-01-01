@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:15:30.169Z",
-  "totalAnimes": 73,
+  "lastUpdated": "2026-01-01T10:15:31.769Z",
+  "totalAnimes": 74,
   "totalScans": 0,
   "totalEpisodes": 1442,
   "totalChapters": 0,
@@ -1539,6 +1539,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:15:26.472Z"
+    },
+    "amphibia": {
+      "id": "amphibia",
+      "title": "Amphibia",
+      "slug": "amphibia",
+      "language": "vf",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/amphibia/saison1/vf/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/amphibia/saison1/vf/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/amphibia/saison1/vf/episodes.js",
+          "language": "vf",
+          "type": "anime",
+          "episodeId": "amphibia_saison1_vf"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:15:31.767Z"
     }
   },
   "scans": {},
@@ -47355,11 +47376,11 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 19,
+      "vf": 20,
       "vostfr": 54
     },
     "byType": {
-      "anime": 73,
+      "anime": 74,
       "scan": 0
     },
     "byPlayer": {
@@ -47370,6 +47391,6 @@
       "OneUpload": 8,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T10:15:30.168Z"
+    "lastUpdate": "2026-01-01T10:15:31.767Z"
   }
 }
