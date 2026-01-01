@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:39:15.308Z",
+  "lastUpdated": "2026-01-01T09:39:17.299Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 563,
@@ -850,17 +850,22 @@
     "accel-world": {
       "id": "accel-world",
       "title": "Accel World",
-      "originalLink": "https://anime-sama.tv/catalogue/accel-world/",
       "slug": "accel-world",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/accel-world0.jpg",
-      "banner": null,
-      "description": "L'histoire se passe au cours de l'année 2046, dans un monde où le virtuel est omniprésent, notamment grâce aux",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/accel-world/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:00.694Z",
-      "lastUpdated": "2026-01-01T09:12:00.694Z"
+      "scrapedAt": "2026-01-01T09:39:17.299Z",
+      "lastUpdated": "2026-01-01T09:39:17.299Z"
     },
     "ace-attorney": {
       "id": "ace-attorney",
@@ -17752,8 +17757,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 122,
-      "vostfr": 27
+      "vf": 121,
+      "vostfr": 28
     },
     "byType": {
       "anime": 149,
@@ -17766,7 +17771,7 @@
       "Sendvid": 38,
       "OneUpload": 2
     },
-    "lastUpdate": "2026-01-01T09:39:15.307Z"
+    "lastUpdate": "2026-01-01T09:39:17.299Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
