@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:43:05.860Z",
+  "lastUpdated": "2026-01-01T09:43:07.540Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1554,
@@ -1895,17 +1895,22 @@
     "ano-natsu-de-matteru": {
       "id": "ano-natsu-de-matteru",
       "title": "Ano Natsu de Matteru",
-      "originalLink": "https://anime-sama.tv/catalogue/ano-natsu-de-matteru",
       "slug": "ano-natsu-de-matteru",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ano-natsu-de-matteru.jpg",
-      "banner": null,
-      "description": "Lors des vacances d'été, des amis souhaitent faire un film sur le déroulement de leur temps libre jusqu'à la rentrée scolaire. Au cours de cette expérience, tous apprendront des choses sur le domaine du cinéma, mais obtiendront aussi des révélations sur leurs camarades et eux-mêmes. Cette idée de réaliser un film est tout d'abord entreprise afin d'éviter l'ennui perpétuel des vacances. Cependant, cette occupation va prendre une tournure inattendue, et construire des relations complexes et mature",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/ano-natsu-de-matteru/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:32.529Z",
-      "lastUpdated": "2026-01-01T09:12:32.529Z"
+      "scrapedAt": "2026-01-01T09:43:07.539Z",
+      "lastUpdated": "2026-01-01T09:43:07.539Z"
     },
     "anohana": {
       "id": "anohana",
@@ -45396,8 +45401,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 88,
-      "vostfr": 61
+      "vf": 87,
+      "vostfr": 62
     },
     "byType": {
       "anime": 149,
@@ -45411,7 +45416,7 @@
       "OneUpload": 9,
       "Smoothpre": 4
     },
-    "lastUpdate": "2026-01-01T09:43:05.859Z"
+    "lastUpdate": "2026-01-01T09:43:07.540Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
