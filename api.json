@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:09:42.621Z",
-  "totalAnimes": 6,
+  "lastUpdated": "2026-01-01T10:09:43.602Z",
+  "totalAnimes": 7,
   "totalScans": 0,
   "totalEpisodes": 97,
   "totalChapters": 0,
@@ -132,6 +132,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:09:37.704Z"
+    },
+    "7-seeds": {
+      "id": "7-seeds",
+      "title": "7 Seeds",
+      "slug": "7-seeds",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/7-seeds/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/7-seeds/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/7-seeds/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "7-seeds_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:09:43.601Z"
     }
   },
   "scans": {},
@@ -3371,10 +3392,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 0,
-      "vostfr": 6
+      "vostfr": 7
     },
     "byType": {
-      "anime": 6,
+      "anime": 7,
       "scan": 0
     },
     "byPlayer": {
@@ -3384,6 +3405,6 @@
       "Sendvid": 7,
       "OneUpload": 1
     },
-    "lastUpdate": "2026-01-01T10:09:42.621Z"
+    "lastUpdate": "2026-01-01T10:09:43.602Z"
   }
 }
