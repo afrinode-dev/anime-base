@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:44:41.356Z",
+  "lastUpdated": "2026-01-01T09:44:42.983Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1826,
@@ -2385,17 +2385,22 @@
     "arknights": {
       "id": "arknights",
       "title": "Arknights",
-      "originalLink": "https://anime-sama.tv/catalogue/arknights",
       "slug": "arknights",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/arknights.jpg",
-      "banner": null,
-      "description": "Arknights se déroule dans le monde dystopique de Terra, un monde similaire à la Terre, à l'exception du fait que de nombreux Terriens, ou 'Anciens', possèdent des traits animaliers. Le monde de Terra est constamment ravagé par des catastrophes, forçant ses habitants à adopter une vie de nomade. Ces catastrophes ont apporté avec elles la pandémie connue sous le nom d'Oripathy, une maladie mortelle causée par l'exposition à l'Originium, un minéral cristallin laissé sur place après les catastrophes",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/arknights/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:48.784Z",
-      "lastUpdated": "2026-01-01T09:12:48.784Z"
+      "scrapedAt": "2026-01-01T09:44:42.983Z",
+      "lastUpdated": "2026-01-01T09:44:42.983Z"
     },
     "arrietty-le-petit-monde-des-chapardeurs": {
       "id": "arrietty-le-petit-monde-des-chapardeurs",
@@ -53632,8 +53637,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 71,
-      "vostfr": 78
+      "vf": 70,
+      "vostfr": 79
     },
     "byType": {
       "anime": 149,
@@ -53647,7 +53652,7 @@
       "OneUpload": 12,
       "Smoothpre": 9
     },
-    "lastUpdate": "2026-01-01T09:44:41.355Z"
+    "lastUpdate": "2026-01-01T09:44:42.983Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
