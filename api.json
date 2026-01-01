@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:45:13.062Z",
+  "lastUpdated": "2026-01-01T09:45:14.638Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1945,
@@ -2570,17 +2570,22 @@
     "asobi-asobase": {
       "id": "asobi-asobase",
       "title": "Asobi Asobase",
-      "originalLink": "https://anime-sama.tv/catalogue/asobi-asobase",
       "slug": "asobi-asobase",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/asobi-asobase.jpg",
-      "banner": null,
-      "description": "Hanako est une élève qui a intégré le club de soft tennis dans l'espoir de vivre la vie d'une lycéenne sociable et branchée. Malheureusement pour elle, en raison de son talent pour ce sports, elle doit participer aux tournois et rate ainsi les sorties organisées par ses camarades.\nSa nouvelle amie, Olivia, est une américaine ayant grandi au Japon et ne maitrisant pas du tout sa langue natale. Celle-ci profite d'être nouvelle dans l'école pour faire croire à tout le monde (pour s'amuser) qu'elle ",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/asobi-asobase/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:54.850Z",
-      "lastUpdated": "2026-01-01T09:12:54.850Z"
+      "scrapedAt": "2026-01-01T09:45:14.637Z",
+      "lastUpdated": "2026-01-01T09:45:14.637Z"
     },
     "assassination-classroom": {
       "id": "assassination-classroom",
@@ -56984,8 +56989,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 64,
-      "vostfr": 85
+      "vf": 63,
+      "vostfr": 86
     },
     "byType": {
       "anime": 149,
@@ -56999,7 +57004,7 @@
       "OneUpload": 13,
       "Smoothpre": 10
     },
-    "lastUpdate": "2026-01-01T09:45:13.062Z"
+    "lastUpdate": "2026-01-01T09:45:14.637Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
