@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:13:02.546Z",
-  "totalAnimes": 43,
+  "lastUpdated": "2026-01-01T10:13:04.670Z",
+  "totalAnimes": 44,
   "totalScans": 0,
   "totalEpisodes": 837,
   "totalChapters": 0,
@@ -909,6 +909,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:13:00.447Z"
+    },
+    "aharen-san-wa-hakarenai": {
+      "id": "aharen-san-wa-hakarenai",
+      "title": "Aharen-san wa Hakarenai",
+      "slug": "aharen-san-wa-hakarenai",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/aharen-san-wa-hakarenai/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/aharen-san-wa-hakarenai/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/aharen-san-wa-hakarenai/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "aharen-san-wa-hakarenai_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:13:04.669Z"
     }
   },
   "scans": {},
@@ -26416,10 +26437,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 12,
-      "vostfr": 31
+      "vostfr": 32
     },
     "byType": {
-      "anime": 43,
+      "anime": 44,
       "scan": 0
     },
     "byPlayer": {
@@ -26430,6 +26451,6 @@
       "OneUpload": 3,
       "Smoothpre": 2
     },
-    "lastUpdate": "2026-01-01T10:13:02.546Z"
+    "lastUpdate": "2026-01-01T10:13:04.670Z"
   }
 }
