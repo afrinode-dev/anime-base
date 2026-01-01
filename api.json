@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:41:20.280Z",
+  "lastUpdated": "2026-01-01T09:41:21.679Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1122,
@@ -1355,17 +1355,22 @@
     "akuyaku-reijou-tensei-ojisan": {
       "id": "akuyaku-reijou-tensei-ojisan",
       "title": "Akuyaku Reijou Tensei Ojisan",
-      "originalLink": "https://anime-sama.tv/catalogue/akuyaku-reijou-tensei-ojisan",
       "slug": "akuyaku-reijou-tensei-ojisan",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/akuyaku-reijou-tensei-ojisan.jpg",
-      "banner": null,
-      "description": "L'histoire nous entraîne au cœur de l'aventure farfelue d'un employé du gouvernement âgé de 52 ans. Un jour, il décède dans un accident de la route. Il se réincarne dans un monde nouveau, peuplé de magie... mais un détail le chagrine : dans ce monde, qui ressemble étrangement à celui d'un otome game (jeu de drague pour filles), il n'est plus le quinquagénaire qu'il était... mais une charmante jeune femme !",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/akuyaku-reijou-tensei-ojisan/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:15.874Z",
-      "lastUpdated": "2026-01-01T09:12:15.874Z"
+      "scrapedAt": "2026-01-01T09:41:21.674Z",
+      "lastUpdated": "2026-01-01T09:41:21.674Z"
     },
     "alderamin-on-the-sky": {
       "id": "alderamin-on-the-sky",
@@ -32038,8 +32043,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 106,
-      "vostfr": 43
+      "vf": 105,
+      "vostfr": 44
     },
     "byType": {
       "anime": 149,
@@ -32053,7 +32058,7 @@
       "OneUpload": 4,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T09:41:20.279Z"
+    "lastUpdate": "2026-01-01T09:41:21.675Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
