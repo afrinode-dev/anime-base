@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:45:51.607Z",
+  "lastUpdated": "2026-01-01T09:45:53.104Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 2082,
@@ -2775,17 +2775,22 @@
     "avatar-le-dernier-maitre-de-l-air": {
       "id": "avatar-le-dernier-maitre-de-l-air",
       "title": "Avatar le dernier maitre de l'air",
-      "originalLink": "https://anime-sama.tv/catalogue/avatar-le-dernier-maitre-de-l-air",
       "slug": "avatar-le-dernier-maitre-de-l-air",
       "language": "vf",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/avatar-le-dernier-maitre-de-l-air0.jpg",
-      "banner": null,
-      "description": "Prisonnier à l'intérieur d'un iceberg pendant un siècle, Aang, maître de l'air d'une douzaine d'années, est libéré des glaces par deux jeunes membres de la tribu de l'eau du pôle Sud.\n\nAang a une destinée hors du commun : il est l'Avatar, chargé de maintenir l'équilibre entre les maîtres des quatre éléments. Ceux-ci sont répartis en quatre civilisations : les tribus de l'eau, le royaume de la terre, la nation du feu et les nomades de l'air.\nToutefois, sa tâche se complique lorsqu'il découvre que",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/avatar-le-dernier-maitre-de-l-air/saison1/vf/",
+          "language": "vf",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:13:01.402Z",
-      "lastUpdated": "2026-01-01T09:13:01.402Z"
+      "scrapedAt": "2026-01-01T09:45:53.103Z",
+      "lastUpdated": "2026-01-01T09:45:53.103Z"
     },
     "ayaka": {
       "id": "ayaka",
@@ -60504,7 +60509,7 @@
       "OneUpload": 14,
       "Smoothpre": 10
     },
-    "lastUpdate": "2026-01-01T09:45:51.606Z"
+    "lastUpdate": "2026-01-01T09:45:53.104Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
