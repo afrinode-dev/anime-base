@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:41:11.332Z",
+  "lastUpdated": "2026-01-01T09:41:12.842Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1097,
@@ -1280,17 +1280,22 @@
     "akudama-drive": {
       "id": "akudama-drive",
       "title": "Akudama Drive",
-      "originalLink": "https://anime-sama.tv/catalogue/akudama-drive/",
       "slug": "akudama-drive",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/akudama-drive.jpg",
-      "banner": null,
-      "description": "Kanto et Kansai, deux régions adjacentes, se sont autrefois déchirées à l'occasion d'une guerre particulièrement violente. Le conflit prit fin lorsqu'une bombe fût lâchée sur Kansai, créant un dôme infranchissable autour de la région. Désormais, le seul moyen de quitter les lieux est d'emprunter le Shinkansen, devenu un objet sacré et révéré à Kansai.\nCoupée du monde, affaiblie par la guerre, la région de Kansai est progressivement devenue une zone de non-droit où les criminels, surnommés Akudam",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/akudama-drive/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:13.289Z",
-      "lastUpdated": "2026-01-01T09:12:13.289Z"
+      "scrapedAt": "2026-01-01T09:41:12.842Z",
+      "lastUpdated": "2026-01-01T09:41:12.842Z"
     },
     "akebi-chan-no-sailor-fuku": {
       "id": "akebi-chan-no-sailor-fuku",
@@ -31111,8 +31116,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 108,
-      "vostfr": 41
+      "vf": 107,
+      "vostfr": 42
     },
     "byType": {
       "anime": 149,
@@ -31126,7 +31131,7 @@
       "OneUpload": 3,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T09:41:11.332Z"
+    "lastUpdate": "2026-01-01T09:41:12.842Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
