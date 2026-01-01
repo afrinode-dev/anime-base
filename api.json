@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:47:06.664Z",
-  "totalAnimes": 160,
+  "lastUpdated": "2026-01-01T09:47:07.891Z",
+  "totalAnimes": 161,
   "totalScans": 0,
   "totalEpisodes": 2430,
   "totalChapters": 0,
@@ -3051,6 +3051,26 @@
       "availableScans": [],
       "scrapedAt": "2026-01-01T09:47:04.981Z",
       "lastUpdated": "2026-01-01T09:47:04.981Z"
+    },
+    "bakuten": {
+      "id": "bakuten",
+      "title": "Bakuten",
+      "slug": "bakuten",
+      "language": "vostfr",
+      "type": "anime",
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/bakuten/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
+      "availableScans": [],
+      "scrapedAt": "2026-01-01T09:47:07.887Z",
+      "lastUpdated": "2026-01-01T09:47:07.887Z"
     }
   },
   "scans": {},
@@ -70053,10 +70073,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 62,
-      "vostfr": 98
+      "vostfr": 99
     },
     "byType": {
-      "anime": 160,
+      "anime": 161,
       "scan": 0
     },
     "byPlayer": {
@@ -70067,7 +70087,7 @@
       "OneUpload": 15,
       "Smoothpre": 10
     },
-    "lastUpdate": "2026-01-01T09:47:06.664Z"
+    "lastUpdate": "2026-01-01T09:47:07.888Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
