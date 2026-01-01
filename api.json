@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:14:49.253Z",
-  "totalAnimes": 64,
+  "lastUpdated": "2026-01-01T10:14:50.887Z",
+  "totalAnimes": 65,
   "totalScans": 0,
   "totalEpisodes": 1274,
   "totalChapters": 0,
@@ -1350,6 +1350,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:14:46.915Z"
+    },
+    "almachan-wa-kazoku-ni-naritai": {
+      "id": "almachan-wa-kazoku-ni-naritai",
+      "title": "Alma-chan wa Kazoku ni Naritai",
+      "slug": "almachan-wa-kazoku-ni-naritai",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/almachan-wa-kazoku-ni-naritai/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/almachan-wa-kazoku-ni-naritai/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/almachan-wa-kazoku-ni-naritai/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "almachan-wa-kazoku-ni-naritai_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:14:50.886Z"
     }
   },
   "scans": {},
@@ -40602,10 +40623,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 18,
-      "vostfr": 46
+      "vostfr": 47
     },
     "byType": {
-      "anime": 64,
+      "anime": 65,
       "scan": 0
     },
     "byPlayer": {
@@ -40616,6 +40637,6 @@
       "OneUpload": 4,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T10:14:49.253Z"
+    "lastUpdate": "2026-01-01T10:14:50.886Z"
   }
 }
