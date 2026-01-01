@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:19:03.639Z",
-  "totalAnimes": 117,
+  "lastUpdated": "2026-01-01T10:19:05.377Z",
+  "totalAnimes": 118,
   "totalScans": 0,
   "totalEpisodes": 2107,
   "totalChapters": 0,
@@ -2463,6 +2463,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:19:01.343Z"
+    },
+    "ayakashi-triangle": {
+      "id": "ayakashi-triangle",
+      "title": "Ayakashi Triangle",
+      "slug": "ayakashi-triangle",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/ayakashi-triangle/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/ayakashi-triangle/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/ayakashi-triangle/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "ayakashi-triangle_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:19:05.376Z"
     }
   },
   "scans": {},
@@ -70487,10 +70508,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 26,
-      "vostfr": 91
+      "vostfr": 92
     },
     "byType": {
-      "anime": 117,
+      "anime": 118,
       "scan": 0
     },
     "byPlayer": {
@@ -70501,6 +70522,6 @@
       "OneUpload": 14,
       "Smoothpre": 10
     },
-    "lastUpdate": "2026-01-01T10:19:03.639Z"
+    "lastUpdate": "2026-01-01T10:19:05.377Z"
   }
 }
