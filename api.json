@@ -1,9 +1,9 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:17:22.738Z",
+  "lastUpdated": "2026-01-01T10:17:24.414Z",
   "totalAnimes": 98,
   "totalScans": 0,
-  "totalEpisodes": 1783,
+  "totalEpisodes": 1792,
   "totalChapters": 0,
   "mainDomain": "anime-sama.tv",
   "animes": {
@@ -2084,14 +2084,14 @@
     "Vidmoly": {
       "name": "Vidmoly",
       "type": "video",
-      "count": 74,
-      "lastUsed": "2026-01-01T10:17:21.418Z",
+      "count": 75,
+      "lastUsed": "2026-01-01T10:17:24.413Z",
       "exampleUrls": [
-        "https://vidmoly.to/embed-drqea7xze4bx.html",
         "https://vidmoly.to/embed-.html",
         "https://vidmoly.to/embed-fsw6r3vc1zeo.html",
         "https://vidmoly.to/embed-nxh92e4sj5b2.html",
-        "https://vidmoly.to/embed-hez8caov1tzg.html"
+        "https://vidmoly.to/embed-hez8caov1tzg.html",
+        "https://vidmoly.to/embed-ucwd2sz747ad.html"
       ]
     },
     "Scan": {
@@ -59892,6 +59892,172 @@
       },
       "scrapedAt": "2026-01-01T10:17:21.418Z",
       "lastUpdated": "2026-01-01T10:17:21.418Z"
+    },
+    "arcane_saison1_vf": {
+      "episodeId": "arcane_saison1_vf",
+      "animeId": "arcane",
+      "title": "Arcane",
+      "slug": "arcane",
+      "season": "saison1",
+      "language": "vf",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/arcane/saison1/vf/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/arcane/saison1/vf/",
+      "totalEpisodes": 9,
+      "episodesList": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "players": {
+        "Vidmoly": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Vidmoly",
+          "totalEpisodes": 9,
+          "firstUrl": "https://vidmoly.to/embed-ucwd2sz747ad.html",
+          "lastUrl": "https://vidmoly.to/embed-j958huf9y02f.html",
+          "isScan": false
+        }
+      },
+      "availablePlayers": [
+        "Vidmoly"
+      ],
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-ucwd2sz747ad.html",
+              "embedUrl": "https://vidmoly.to/embed-ucwd2sz747ad.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:17:24.413Z"
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T10:17:24.413Z"
+        },
+        "2": {
+          "number": 2,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-ocvl5016mn1h.html",
+              "embedUrl": "https://vidmoly.to/embed-ocvl5016mn1h.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:17:24.413Z"
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T10:17:24.413Z"
+        },
+        "3": {
+          "number": 3,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-jtsajvpk5qnh.html",
+              "embedUrl": "https://vidmoly.to/embed-jtsajvpk5qnh.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:17:24.413Z"
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T10:17:24.413Z"
+        },
+        "4": {
+          "number": 4,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-t1mcl6vvb3h7.html",
+              "embedUrl": "https://vidmoly.to/embed-t1mcl6vvb3h7.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:17:24.413Z"
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T10:17:24.413Z"
+        },
+        "5": {
+          "number": 5,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-4qtdjmbtulbu.html",
+              "embedUrl": "https://vidmoly.to/embed-4qtdjmbtulbu.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:17:24.413Z"
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T10:17:24.413Z"
+        },
+        "6": {
+          "number": 6,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-u3kfviss5ow6.html",
+              "embedUrl": "https://vidmoly.to/embed-u3kfviss5ow6.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:17:24.413Z"
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T10:17:24.413Z"
+        },
+        "7": {
+          "number": 7,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-rf6aja82khl6.html",
+              "embedUrl": "https://vidmoly.to/embed-rf6aja82khl6.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:17:24.413Z"
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T10:17:24.413Z"
+        },
+        "8": {
+          "number": 8,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-wqree17zzc25.html",
+              "embedUrl": "https://vidmoly.to/embed-wqree17zzc25.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:17:24.413Z"
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T10:17:24.413Z"
+        },
+        "9": {
+          "number": 9,
+          "players": {
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-j958huf9y02f.html",
+              "embedUrl": "https://vidmoly.to/embed-j958huf9y02f.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "scrapedAt": "2026-01-01T10:17:24.413Z"
+            }
+          },
+          "totalOptions": 1,
+          "scrapedAt": "2026-01-01T10:17:24.413Z"
+        }
+      },
+      "scrapedAt": "2026-01-01T10:17:24.413Z",
+      "lastUpdated": "2026-01-01T10:17:24.413Z"
     }
   },
   "chapters": {},
@@ -59906,12 +60072,12 @@
     },
     "byPlayer": {
       "Sibnet": 103,
-      "Vidmoly": 74,
+      "Vidmoly": 75,
       "Scan": 64,
       "Sendvid": 108,
       "OneUpload": 12,
       "Smoothpre": 9
     },
-    "lastUpdate": "2026-01-01T10:17:22.738Z"
+    "lastUpdate": "2026-01-01T10:17:24.413Z"
   }
 }
