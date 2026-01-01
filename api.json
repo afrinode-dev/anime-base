@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:44:32.508Z",
+  "lastUpdated": "2026-01-01T09:44:34.000Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1804,
@@ -2345,17 +2345,22 @@
     "are-you-lost": {
       "id": "are-you-lost",
       "title": "Are You Lost",
-      "originalLink": "https://anime-sama.tv/catalogue/are-you-lost",
       "slug": "are-you-lost",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/are-you-lost.jpg",
-      "banner": null,
-      "description": "À la suite d'un crash de leur avion, un groupe de lycéennes se retrouve échoué sur une île déserte. Leur unique but désormais est de survivre, et pour cela, il faut se résigner à faire des choses qu'elles n'auraient jamais imaginé faire en temps normal : manger des insectes vivants, construire des pièges, apprendre à s'orienter en forêt...",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/are-you-lost/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:47.086Z",
-      "lastUpdated": "2026-01-01T09:12:47.086Z"
+      "scrapedAt": "2026-01-01T09:44:33.999Z",
+      "lastUpdated": "2026-01-01T09:44:33.999Z"
     },
     "arifureta": {
       "id": "arifureta",
@@ -52984,8 +52989,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 73,
-      "vostfr": 76
+      "vf": 72,
+      "vostfr": 77
     },
     "byType": {
       "anime": 149,
@@ -52999,7 +53004,7 @@
       "OneUpload": 12,
       "Smoothpre": 9
     },
-    "lastUpdate": "2026-01-01T09:44:32.507Z"
+    "lastUpdate": "2026-01-01T09:44:33.999Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
