@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:15:57.069Z",
-  "totalAnimes": 79,
+  "lastUpdated": "2026-01-01T10:15:58.580Z",
+  "totalAnimes": 80,
   "totalScans": 0,
   "totalEpisodes": 1541,
   "totalChapters": 0,
@@ -1665,6 +1665,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:15:54.780Z"
+    },
+    "anne-shirley": {
+      "id": "anne-shirley",
+      "title": "Anne Shirley",
+      "slug": "anne-shirley",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/anne-shirley/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/anne-shirley/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/anne-shirley/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "anne-shirley_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:15:58.579Z"
     }
   },
   "scans": {},
@@ -51028,10 +51049,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 21,
-      "vostfr": 58
+      "vostfr": 59
     },
     "byType": {
-      "anime": 79,
+      "anime": 80,
       "scan": 0
     },
     "byPlayer": {
@@ -51042,6 +51063,6 @@
       "OneUpload": 9,
       "Smoothpre": 4
     },
-    "lastUpdate": "2026-01-01T10:15:57.069Z"
+    "lastUpdate": "2026-01-01T10:15:58.579Z"
   }
 }
