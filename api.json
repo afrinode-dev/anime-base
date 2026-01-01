@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:41:45.055Z",
+  "lastUpdated": "2026-01-01T09:41:46.434Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1201,
@@ -1505,17 +1505,22 @@
     "all-of-us-are-dead": {
       "id": "all-of-us-are-dead",
       "title": "All of Us Are Dead",
-      "originalLink": "https://anime-sama.tv/catalogue/all-of-us-are-dead",
       "slug": "all-of-us-are-dead",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/all-of-us-are-dead.jpg",
-      "banner": null,
-      "description": "Dans une petite ville tranquille, où rien ne se passe habituellement, un étrange virus apparaît, transformant les personnes en zombies. Sa propagation se multiplie d'heure en heure. Et alors que la population essaye d'y faire face, un groupe de jeunes, dont Cheong San et On Jo, se retrouve piégé dans son école. S'ensuit alors une course pour sortir d'ici, tout en évitant d'être contaminé.",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/all-of-us-are-dead/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:20.549Z",
-      "lastUpdated": "2026-01-01T09:12:20.549Z"
+      "scrapedAt": "2026-01-01T09:41:46.434Z",
+      "lastUpdated": "2026-01-01T09:41:46.434Z"
     },
     "all-out": {
       "id": "all-out",
@@ -34035,8 +34040,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 101,
-      "vostfr": 48
+      "vf": 100,
+      "vostfr": 49
     },
     "byType": {
       "anime": 149,
@@ -34050,7 +34055,7 @@
       "OneUpload": 4,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T09:41:45.055Z"
+    "lastUpdate": "2026-01-01T09:41:46.434Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
