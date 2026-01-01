@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:42:23.639Z",
+  "lastUpdated": "2026-01-01T09:42:25.122Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1398,
@@ -1680,17 +1680,22 @@
     "ame-to-kimi-to": {
       "id": "ame-to-kimi-to",
       "title": "Ame to Kimi to",
-      "originalLink": "https://anime-sama.tv/catalogue/ame-to-kimi-to",
       "slug": "ame-to-kimi-to",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ame-to-kimi-to.jpg",
-      "banner": null,
-      "description": "Un jour de pluie, une jeune femme tombe sur un étrange animal qui ne demande qu'à être recueilli par une famille. Bien qu'elle n'arrive pas vraiment à identifier son espèce, elle suppose qu'il s'agit d'un chien et le ramène chez elle pour prendre soin de lui. Mais cet animal est-il réellement un chien ?",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/ame-to-kimi-to/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:25.522Z",
-      "lastUpdated": "2026-01-01T09:12:25.522Z"
+      "scrapedAt": "2026-01-01T09:42:25.121Z",
+      "lastUpdated": "2026-01-01T09:42:25.121Z"
     },
     "ameku-takao-no-suiri-karte": {
       "id": "ameku-takao-no-suiri-karte",
@@ -40392,8 +40397,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 96,
-      "vostfr": 53
+      "vf": 95,
+      "vostfr": 54
     },
     "byType": {
       "anime": 149,
@@ -40407,7 +40412,7 @@
       "OneUpload": 7,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T09:42:23.639Z"
+    "lastUpdate": "2026-01-01T09:42:25.121Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
