@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:42:05.971Z",
+  "lastUpdated": "2026-01-01T09:42:07.401Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 1298,
@@ -1615,17 +1615,22 @@
     "amaama-to-inazuma": {
       "id": "amaama-to-inazuma",
       "title": "Amaama to Inazuma",
-      "originalLink": "https://anime-sama.tv/catalogue/amaama-to-inazuma",
       "slug": "amaama-to-inazuma",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/amaama-to-inazuma.jpg",
-      "banner": null,
-      "description": "Après avoir perdu sa femme, le professeur Kôhei Inuzuka se voit obligé d'élever sa fille Tsumugi, tout seul. Sachant très mal cuisiner, Kôhei décide d'acheter de la nourriture déjà toute prête au supermarché. Un jour, il se retrouve dans le restaurant de la mère d'une de ses élèves : Kotori Iida. Kotori étant souvent seule, nos trois compères décident de se retrouver chaque jour pour cuisiner et manger ensemble.",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/amaama-to-inazuma/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:23.772Z",
-      "lastUpdated": "2026-01-01T09:12:23.772Z"
+      "scrapedAt": "2026-01-01T09:42:07.401Z",
+      "lastUpdated": "2026-01-01T09:42:07.401Z"
     },
     "amagami-san-chi-no-enmusubi": {
       "id": "amagami-san-chi-no-enmusubi",
@@ -36632,8 +36637,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 99,
-      "vostfr": 50
+      "vf": 98,
+      "vostfr": 51
     },
     "byType": {
       "anime": 149,
@@ -36647,7 +36652,7 @@
       "OneUpload": 4,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T09:42:05.971Z"
+    "lastUpdate": "2026-01-01T09:42:07.401Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
