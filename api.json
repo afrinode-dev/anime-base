@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:17:47.396Z",
-  "totalAnimes": 101,
+  "lastUpdated": "2026-01-01T10:17:48.997Z",
+  "totalAnimes": 102,
   "totalScans": 0,
   "totalEpisodes": 1838,
   "totalChapters": 0,
@@ -2127,6 +2127,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:17:44.298Z"
+    },
+    "arte": {
+      "id": "arte",
+      "title": "Arte",
+      "slug": "arte",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/arte/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/arte/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/arte/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "arte_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:17:48.995Z"
     }
   },
   "scans": {},
@@ -61665,10 +61686,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 24,
-      "vostfr": 77
+      "vostfr": 78
     },
     "byType": {
-      "anime": 101,
+      "anime": 102,
       "scan": 0
     },
     "byPlayer": {
@@ -61679,6 +61700,6 @@
       "OneUpload": 12,
       "Smoothpre": 9
     },
-    "lastUpdate": "2026-01-01T10:17:47.396Z"
+    "lastUpdate": "2026-01-01T10:17:48.995Z"
   }
 }
