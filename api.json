@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:37:38.410Z",
+  "lastUpdated": "2026-01-01T09:37:40.143Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 270,
@@ -450,17 +450,22 @@
     "a-condition-called-love": {
       "id": "a-condition-called-love",
       "title": "A Condition Called Love",
-      "originalLink": "https://anime-sama.tv/catalogue/a-condition-called-love",
       "slug": "a-condition-called-love",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-condition-called-love.jpg",
-      "banner": null,
-      "description": "Quand un après-midi d'hiver enneigé, Hotaru tend son parapluie à Hananoi, un de ses camarades de lycée qui vient de se faire larguer, elle n'imagine pas encore que c'est le début d'une nouvelle histoire. En effet, ce garçon de la classe d'à côté débarque le lendemain, pour lui faire une déclaration d'amour... alors qu'il ne la connaît pas vraiment. Déstabilisée, elle finit pourtant par accepter d'essayer de sortir avec lui jusqu'à Noël. Et si derrière des apparences trompeuses, la rencontre de c",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/a-condition-called-love/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:11:49.166Z",
-      "lastUpdated": "2026-01-01T09:11:49.166Z"
+      "scrapedAt": "2026-01-01T09:37:40.143Z",
+      "lastUpdated": "2026-01-01T09:37:40.143Z"
     },
     "a-destructive-god-sits-next-to-me": {
       "id": "a-destructive-god-sits-next-to-me",
@@ -9152,8 +9157,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 133,
-      "vostfr": 16
+      "vf": 132,
+      "vostfr": 17
     },
     "byType": {
       "anime": 149,
@@ -9166,7 +9171,7 @@
       "Sendvid": 17,
       "OneUpload": 1
     },
-    "lastUpdate": "2026-01-01T09:37:38.410Z"
+    "lastUpdate": "2026-01-01T09:37:40.143Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
