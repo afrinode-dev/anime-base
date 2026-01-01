@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:21:31.379Z",
-  "totalAnimes": 142,
+  "lastUpdated": "2026-01-01T10:21:33.236Z",
+  "totalAnimes": 143,
   "totalScans": 0,
   "totalEpisodes": 2643,
   "totalChapters": 0,
@@ -2988,6 +2988,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:21:26.061Z"
+    },
+    "beast-tamer": {
+      "id": "beast-tamer",
+      "title": "Beast Tamer",
+      "slug": "beast-tamer",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/beast-tamer/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/beast-tamer/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/beast-tamer/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "beast-tamer_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:21:33.234Z"
     }
   },
   "scans": {},
@@ -88391,10 +88412,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 33,
-      "vostfr": 109
+      "vostfr": 110
     },
     "byType": {
-      "anime": 142,
+      "anime": 143,
       "scan": 0
     },
     "byPlayer": {
@@ -88405,6 +88426,6 @@
       "OneUpload": 17,
       "Smoothpre": 11
     },
-    "lastUpdate": "2026-01-01T10:21:31.379Z"
+    "lastUpdate": "2026-01-01T10:21:33.234Z"
   }
 }
