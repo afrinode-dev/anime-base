@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:39:27.831Z",
+  "lastUpdated": "2026-01-01T09:39:29.765Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 624,
@@ -870,17 +870,22 @@
     "ace-attorney": {
       "id": "ace-attorney",
       "title": "Ace Attorney",
-      "originalLink": "https://anime-sama.tv/catalogue/ace-attorney",
       "slug": "ace-attorney",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ace-attorney.jpg",
-      "banner": null,
-      "description": "L'histoire met en scène Ryûchi Naruhodô (Phoenix Wright), avocat de génie ayant fraîchement intégré le cabinet de la brillante Chihiro Ayasato.\nAfin de défendre au mieux ses clients, le jeune avocat n'hésite pas à réaliser sa propre enquête. Il se sert ensuite de ses découvertes pour faire éclater la vérité au cours du procès à coup",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/ace-attorney/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:02.405Z",
-      "lastUpdated": "2026-01-01T09:12:02.405Z"
+      "scrapedAt": "2026-01-01T09:39:29.765Z",
+      "lastUpdated": "2026-01-01T09:39:29.765Z"
     },
     "acchi-kocchi": {
       "id": "acchi-kocchi",
@@ -18901,8 +18906,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 121,
-      "vostfr": 28
+      "vf": 120,
+      "vostfr": 29
     },
     "byType": {
       "anime": 149,
@@ -18915,7 +18920,7 @@
       "Sendvid": 40,
       "OneUpload": 3
     },
-    "lastUpdate": "2026-01-01T09:39:27.831Z"
+    "lastUpdate": "2026-01-01T09:39:29.765Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
