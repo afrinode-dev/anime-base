@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:12:44.168Z",
-  "totalAnimes": 40,
+  "lastUpdated": "2026-01-01T10:12:46.055Z",
+  "totalAnimes": 41,
   "totalScans": 0,
   "totalEpisodes": 782,
   "totalChapters": 0,
@@ -846,6 +846,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:12:42.048Z"
+    },
+    "afro-samurai": {
+      "id": "afro-samurai",
+      "title": "Afro Samurai",
+      "slug": "afro-samurai",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/afro-samurai/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/afro-samurai/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/afro-samurai/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "afro-samurai_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:12:46.055Z"
     }
   },
   "scans": {},
@@ -24473,10 +24494,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 10,
-      "vostfr": 30
+      "vostfr": 31
     },
     "byType": {
-      "anime": 40,
+      "anime": 41,
       "scan": 0
     },
     "byPlayer": {
@@ -24487,6 +24508,6 @@
       "OneUpload": 3,
       "Smoothpre": 1
     },
-    "lastUpdate": "2026-01-01T10:12:44.168Z"
+    "lastUpdate": "2026-01-01T10:12:46.055Z"
   }
 }
