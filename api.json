@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:45:54.242Z",
+  "lastUpdated": "2026-01-01T09:45:55.706Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 2094,
@@ -2795,17 +2795,22 @@
     "ayaka": {
       "id": "ayaka",
       "title": "AYAKA",
-      "originalLink": "https://anime-sama.tv/catalogue/ayaka",
       "slug": "ayaka",
       "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ayaka.jpg",
-      "banner": null,
-      "description": "L'histoire se déroule sur l'archipel d'Ayaka. Yukito est né sur l'une de ces îles mais a dû déménager alors qu'il n'était qu'un enfant. Bien des années plus tard, il décide d'y retourner en compagnie de Jingi, mais le mystérieux pouvoir qu'il possède et qui lui permet de contrôler l'eau semble attirer quelques convoitises.",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/ayaka/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:13:01.500Z",
-      "lastUpdated": "2026-01-01T09:13:01.500Z"
+      "scrapedAt": "2026-01-01T09:45:55.706Z",
+      "lastUpdated": "2026-01-01T09:45:55.706Z"
     },
     "ayakashi-triangle": {
       "id": "ayakashi-triangle",
@@ -60853,7 +60858,7 @@
       "OneUpload": 14,
       "Smoothpre": 10
     },
-    "lastUpdate": "2026-01-01T09:45:54.241Z"
+    "lastUpdate": "2026-01-01T09:45:55.706Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
