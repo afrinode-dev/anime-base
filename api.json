@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:18:57.004Z",
-  "totalAnimes": 115,
+  "lastUpdated": "2026-01-01T10:18:58.584Z",
+  "totalAnimes": 116,
   "totalScans": 0,
   "totalEpisodes": 2082,
   "totalChapters": 0,
@@ -2421,6 +2421,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:18:51.599Z"
+    },
+    "avatar-le-dernier-maitre-de-l-air": {
+      "id": "avatar-le-dernier-maitre-de-l-air",
+      "title": "Avatar le dernier maitre de l'air",
+      "slug": "avatar-le-dernier-maitre-de-l-air",
+      "language": "vf",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/avatar-le-dernier-maitre-de-l-air/saison1/vf/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/avatar-le-dernier-maitre-de-l-air/saison1/vf/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/avatar-le-dernier-maitre-de-l-air/saison1/vf/episodes.js",
+          "language": "vf",
+          "type": "anime",
+          "episodeId": "avatar-le-dernier-maitre-de-l-air_saison1_vf"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:18:58.583Z"
     }
   },
   "scans": {},
@@ -69516,11 +69537,11 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 25,
+      "vf": 26,
       "vostfr": 90
     },
     "byType": {
-      "anime": 115,
+      "anime": 116,
       "scan": 0
     },
     "byPlayer": {
@@ -69531,6 +69552,6 @@
       "OneUpload": 14,
       "Smoothpre": 10
     },
-    "lastUpdate": "2026-01-01T10:18:57.004Z"
+    "lastUpdate": "2026-01-01T10:18:58.583Z"
   }
 }
