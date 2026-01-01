@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T09:40:04.299Z",
+  "lastUpdated": "2026-01-01T09:40:05.742Z",
   "totalAnimes": 149,
   "totalScans": 0,
   "totalEpisodes": 814,
@@ -1025,17 +1025,22 @@
     "afterlife-inn-cooking": {
       "id": "afterlife-inn-cooking",
       "title": "Afterlife Inn Cooking",
-      "originalLink": "https://anime-sama.tv/catalogue/afterlife-inn-cooking",
       "slug": "afterlife-inn-cooking",
-      "language": "vf",
+      "language": "vostfr",
       "type": "anime",
-      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/afterlife-inn-cooking.jpg",
-      "banner": null,
-      "description": "Aoi est une étudiante nippone passionnée de cuisine ayant hérité de son défunt grand-père la capacité de voir les yôkais. Il lui arrive donc régulièrement de nourrir ces créatures légendaires. Un jour, alors qu'elle vaque à ses occupations, un puissant yôkai se présente à elle et déclare que son grand-père avait une dette colossale envers lui. Pour la rembourser, Aoi doit devenir son épouse, mais la jeune femme s'oppose à cette idée. En échange, elle lui propose plutôt de travailler dans l'auber",
-      "availableSeasons": [],
+      "availableSeasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/afterlife-inn-cooking/saison1/vostfr/",
+          "language": "vostfr",
+          "type": "anime"
+        }
+      ],
       "availableScans": [],
-      "scrapedAt": "2026-01-01T09:12:06.425Z",
-      "lastUpdated": "2026-01-01T09:12:06.425Z"
+      "scrapedAt": "2026-01-01T09:40:05.742Z",
+      "lastUpdated": "2026-01-01T09:40:05.742Z"
     },
     "aggretsuko": {
       "id": "aggretsuko",
@@ -23179,8 +23184,8 @@
   "chapters": {},
   "statistics": {
     "byLanguage": {
-      "vf": 117,
-      "vostfr": 32
+      "vf": 116,
+      "vostfr": 33
     },
     "byType": {
       "anime": 149,
@@ -23194,7 +23199,7 @@
       "OneUpload": 3,
       "Smoothpre": 1
     },
-    "lastUpdate": "2026-01-01T09:40:04.299Z"
+    "lastUpdate": "2026-01-01T09:40:05.742Z"
   },
   "lastGitPush": "2026-01-01T03:28:35.543Z",
   "metadata": {
