@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:13:07.429Z",
-  "totalAnimes": 44,
+  "lastUpdated": "2026-01-01T10:13:09.696Z",
+  "totalAnimes": 45,
   "totalScans": 0,
   "totalEpisodes": 887,
   "totalChapters": 0,
@@ -930,6 +930,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:13:04.669Z"
+    },
+    "ahiru-no-sora": {
+      "id": "ahiru-no-sora",
+      "title": "Ahiru no Sora",
+      "slug": "ahiru-no-sora",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/ahiru-no-sora/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/ahiru-no-sora/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/ahiru-no-sora/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "ahiru-no-sora_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:13:09.696Z"
     }
   },
   "scans": {},
@@ -27938,10 +27959,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 12,
-      "vostfr": 32
+      "vostfr": 33
     },
     "byType": {
-      "anime": 44,
+      "anime": 45,
       "scan": 0
     },
     "byPlayer": {
@@ -27952,6 +27973,6 @@
       "OneUpload": 3,
       "Smoothpre": 2
     },
-    "lastUpdate": "2026-01-01T10:13:07.428Z"
+    "lastUpdate": "2026-01-01T10:13:09.696Z"
   }
 }
