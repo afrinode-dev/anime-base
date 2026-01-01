@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:18:42.006Z",
-  "totalAnimes": 112,
+  "lastUpdated": "2026-01-01T10:18:43.807Z",
+  "totalAnimes": 113,
   "totalScans": 0,
   "totalEpisodes": 2037,
   "totalChapters": 0,
@@ -2358,6 +2358,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:18:36.067Z"
+    },
+    "atelier-ryza": {
+      "id": "atelier-ryza",
+      "title": "Atelier Ryza",
+      "slug": "atelier-ryza",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/atelier-ryza/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/atelier-ryza/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/atelier-ryza/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "atelier-ryza_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:18:43.806Z"
     }
   },
   "scans": {},
@@ -68146,10 +68167,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 25,
-      "vostfr": 87
+      "vostfr": 88
     },
     "byType": {
-      "anime": 112,
+      "anime": 113,
       "scan": 0
     },
     "byPlayer": {
@@ -68160,6 +68181,6 @@
       "OneUpload": 13,
       "Smoothpre": 10
     },
-    "lastUpdate": "2026-01-01T10:18:42.006Z"
+    "lastUpdate": "2026-01-01T10:18:43.806Z"
   }
 }
