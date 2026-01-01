@@ -1,9 +1,9 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:17:58.825Z",
+  "lastUpdated": "2026-01-01T10:18:01.394Z",
   "totalAnimes": 104,
   "totalScans": 0,
-  "totalEpisodes": 1862,
+  "totalEpisodes": 1863,
   "totalChapters": 0,
   "mainDomain": "anime-sama.tv",
   "animes": {
@@ -2223,27 +2223,27 @@
     "Scan": {
       "name": "Scan",
       "type": "video",
-      "count": 69,
-      "lastUsed": "2026-01-01T10:17:55.095Z",
+      "count": 70,
+      "lastUsed": "2026-01-01T10:18:01.392Z",
       "exampleUrls": [
-        "https://www.myvi.tv/embed/yh81s6816yjrbq55scrshy6npy",
         "https://www.myvi.tv/embed/jz8hhymqjddwxr8e1cfbo8knjr",
         "https://www.myvi.top/embed/kjrgo4nn5zhw98j9ky68w9taxy",
         "https://vkvideo.ru/video_ext.php?oid=-229715763&id=456239118&hd=3",
-        "https://www.myvi.top/embed/qo5osowuprqwunpyttfritorqc"
+        "https://www.myvi.top/embed/qo5osowuprqwunpyttfritorqc",
+        "https://www.myvi.top/embed/4jzkt1zwf8iwjbwyasusurhfea"
       ]
     },
     "Sendvid": {
       "name": "Sendvid",
       "type": "video",
-      "count": 114,
-      "lastUsed": "2026-01-01T10:17:55.095Z",
+      "count": 115,
+      "lastUsed": "2026-01-01T10:18:01.392Z",
       "exampleUrls": [
-        "https://sendvid.com/embed/kjx3lro3",
         "https://sendvid.com/embed/hg4crdz7",
         "https://sendvid.com/embed/iihv476h",
         "https://sendvid.com/embed/hqtr22hr",
-        "https://sendvid.com/embed/z718km9u"
+        "https://sendvid.com/embed/z718km9u",
+        "https://sendvid.com/embed/xzqi9mbm"
       ]
     },
     "OneUpload": {
@@ -62802,6 +62802,69 @@
       },
       "scrapedAt": "2026-01-01T10:17:55.095Z",
       "lastUpdated": "2026-01-01T10:17:55.095Z"
+    },
+    "asagao-to-kase-san_saison1_vostfr": {
+      "episodeId": "asagao-to-kase-san_saison1_vostfr",
+      "animeId": "asagao-to-kase-san",
+      "title": "Asagao to Kase-san",
+      "slug": "asagao-to-kase-san",
+      "season": "saison1",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/asagao-to-kase-san/saison1/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/asagao-to-kase-san/saison1/vostfr/",
+      "totalEpisodes": 1,
+      "episodesList": [
+        1
+      ],
+      "players": {
+        "Scan": {
+          "playerId": "player_0",
+          "playerKey": "eps2",
+          "playerType": "Scan",
+          "totalEpisodes": 1,
+          "firstUrl": "https://www.myvi.top/embed/4jzkt1zwf8iwjbwyasusurhfea",
+          "lastUrl": "https://www.myvi.top/embed/4jzkt1zwf8iwjbwyasusurhfea",
+          "isScan": false
+        },
+        "Sendvid": {
+          "playerId": "player_1",
+          "playerKey": "eps1",
+          "playerType": "Sendvid",
+          "totalEpisodes": 1,
+          "firstUrl": "https://sendvid.com/embed/xzqi9mbm",
+          "lastUrl": "https://sendvid.com/embed/xzqi9mbm",
+          "isScan": false
+        }
+      },
+      "availablePlayers": [
+        "Scan",
+        "Sendvid"
+      ],
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Scan": {
+              "url": "https://www.myvi.top/embed/4jzkt1zwf8iwjbwyasusurhfea",
+              "embedUrl": "https://www.myvi.top/embed/4jzkt1zwf8iwjbwyasusurhfea",
+              "type": "video",
+              "player": "Scan",
+              "scrapedAt": "2026-01-01T10:18:01.392Z"
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/xzqi9mbm",
+              "embedUrl": "https://sendvid.com/embed/xzqi9mbm",
+              "type": "video",
+              "player": "Sendvid",
+              "scrapedAt": "2026-01-01T10:18:01.392Z"
+            }
+          },
+          "totalOptions": 2,
+          "scrapedAt": "2026-01-01T10:18:01.392Z"
+        }
+      },
+      "scrapedAt": "2026-01-01T10:18:01.392Z",
+      "lastUpdated": "2026-01-01T10:18:01.392Z"
     }
   },
   "chapters": {},
@@ -62817,11 +62880,11 @@
     "byPlayer": {
       "Sibnet": 109,
       "Vidmoly": 77,
-      "Scan": 69,
-      "Sendvid": 114,
+      "Scan": 70,
+      "Sendvid": 115,
       "OneUpload": 13,
       "Smoothpre": 10
     },
-    "lastUpdate": "2026-01-01T10:17:58.825Z"
+    "lastUpdate": "2026-01-01T10:18:01.392Z"
   }
 }
