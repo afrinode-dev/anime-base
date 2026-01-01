@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:15:05.950Z",
-  "totalAnimes": 68,
+  "lastUpdated": "2026-01-01T10:15:07.605Z",
+  "totalAnimes": 69,
   "totalScans": 0,
   "totalEpisodes": 1348,
   "totalChapters": 0,
@@ -1434,6 +1434,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:15:03.710Z"
+    },
+    "amagami-san-chi-no-enmusubi": {
+      "id": "amagami-san-chi-no-enmusubi",
+      "title": "Amagami-San Chi No Enmusubi",
+      "slug": "amagami-san-chi-no-enmusubi",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/amagami-san-chi-no-enmusubi/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/amagami-san-chi-no-enmusubi/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/amagami-san-chi-no-enmusubi/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "amagami-san-chi-no-enmusubi_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:15:07.605Z"
     }
   },
   "scans": {},
@@ -43487,10 +43508,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 18,
-      "vostfr": 50
+      "vostfr": 51
     },
     "byType": {
-      "anime": 68,
+      "anime": 69,
       "scan": 0
     },
     "byPlayer": {
@@ -43501,6 +43522,6 @@
       "OneUpload": 5,
       "Smoothpre": 3
     },
-    "lastUpdate": "2026-01-01T10:15:05.948Z"
+    "lastUpdate": "2026-01-01T10:15:07.605Z"
   }
 }
