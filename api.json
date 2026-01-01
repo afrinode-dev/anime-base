@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:16:56.242Z",
-  "totalAnimes": 91,
+  "lastUpdated": "2026-01-01T10:16:57.761Z",
+  "totalAnimes": 92,
   "totalScans": 0,
   "totalEpisodes": 1711,
   "totalChapters": 0,
@@ -1917,6 +1917,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:16:53.932Z"
+    },
+    "apres-la-pluie": {
+      "id": "apres-la-pluie",
+      "title": "Apres La Pluie",
+      "slug": "apres-la-pluie",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/apres-la-pluie/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/apres-la-pluie/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/apres-la-pluie/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "apres-la-pluie_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:16:57.760Z"
     }
   },
   "scans": {},
@@ -57395,10 +57416,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 23,
-      "vostfr": 68
+      "vostfr": 69
     },
     "byType": {
-      "anime": 91,
+      "anime": 92,
       "scan": 0
     },
     "byPlayer": {
@@ -57409,6 +57430,6 @@
       "OneUpload": 11,
       "Smoothpre": 9
     },
-    "lastUpdate": "2026-01-01T10:16:56.242Z"
+    "lastUpdate": "2026-01-01T10:16:57.760Z"
   }
 }
