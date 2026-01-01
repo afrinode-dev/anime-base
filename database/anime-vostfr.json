@@ -5030,6 +5030,50 @@
       "totalSeasons": 10,
       "scrapedAt": "2026-01-01T13:40:52.726Z",
       "lastUpdated": "2026-01-01T13:40:52.726Z"
+    },
+    "ame-to-kimi-to": {
+      "id": "ame-to-kimi-to",
+      "title": "Ame to Kimi to",
+      "slug": "ame-to-kimi-to",
+      "language": "vostfr",
+      "type": "anime",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ame-to-kimi-to.jpg",
+      "banner": null,
+      "description": "Un jour de pluie, une jeune femme tombe sur un étrange animal qui ne demande qu'à être recueilli par une famille. Bien qu'elle n'arrive pas vraiment à identifier son espèce, elle suppose qu'il s'agit d'un chien et le ramène chez elle pour prendre soin de lui. Mais cet animal est-il réellement un chien ?",
+      "pageUrl": "https://anime-sama.tv/catalogue/ame-to-kimi-to/",
+      "seasons": [
+        {
+          "name": "saison1",
+          "number": 1,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/ame-to-kimi-to/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/ame-to-kimi-to/saison1/vostfr/episodes.js"
+        },
+        {
+          "name": "saison2",
+          "number": 2,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/ame-to-kimi-to/saison2/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/ame-to-kimi-to/saison2/vostfr/episodes.js"
+        },
+        {
+          "name": "saison3",
+          "number": 3,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/ame-to-kimi-to/saison3/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/ame-to-kimi-to/saison3/vostfr/episodes.js"
+        },
+        {
+          "name": "saison4",
+          "number": 4,
+          "suffix": "",
+          "url": "https://anime-sama.tv/catalogue/ame-to-kimi-to/saison4/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/ame-to-kimi-to/saison4/vostfr/episodes.js"
+        }
+      ],
+      "totalSeasons": 4,
+      "scrapedAt": "2026-01-01T13:42:47.665Z",
+      "lastUpdated": "2026-01-01T13:42:47.665Z"
     }
   },
   "seasons": {
@@ -14907,6 +14951,321 @@
       ],
       "scrapedAt": "2026-01-01T13:40:52.395Z",
       "lastUpdated": "2026-01-01T13:40:52.395Z"
+    },
+    "ame-to-kimi-to_saison1_vostfr": {
+      "seasonId": "ame-to-kimi-to_saison1_vostfr",
+      "animeId": "ame-to-kimi-to",
+      "title": "Ame to Kimi to",
+      "slug": "ame-to-kimi-to",
+      "season": "saison1",
+      "seasonNumber": 1,
+      "seasonSuffix": "",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/ame-to-kimi-to/saison1/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/ame-to-kimi-to/saison1/vostfr/",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ame-to-kimi-to.jpg",
+      "banner": null,
+      "description": "Ame to Kimi to - Saison 1 | Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "totalEpisodes": 12,
+      "episodesList": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "players": {
+        "Scan": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Scan",
+          "playerProvider": "",
+          "totalEpisodes": 12,
+          "firstUrl": "https://movearnpre.com/embed/ab2hehvt03fo",
+          "lastUrl": "https://movearnpre.com/embed/2mg3ygy3fycu",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:42:47.096Z"
+        },
+        "Vidmoly": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "playerProvider": "vidmoly",
+          "totalEpisodes": 12,
+          "firstUrl": "https://vidmoly.to/embed-fenz4bl6tym1.html",
+          "lastUrl": "https://vidmoly.to/embed-zf8993dc5x6z.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:42:47.097Z"
+        },
+        "Sibnet": {
+          "playerId": "player_2",
+          "playerKey": "eps3",
+          "playerType": "Sibnet",
+          "playerProvider": "sibnet",
+          "totalEpisodes": 12,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=5954083",
+          "lastUrl": "https://video.sibnet.ru/shell.php?videoid=6017299",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:42:47.097Z"
+        },
+        "OneUpload": {
+          "playerId": "player_3",
+          "playerKey": "eps4",
+          "playerType": "OneUpload",
+          "playerProvider": "oneupload",
+          "totalEpisodes": 12,
+          "firstUrl": "https://oneupload.to/embed-nhr6pqt6ukfp.html",
+          "lastUrl": "https://oneupload.to/embed-cn9c2d6jn16e.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:42:47.097Z"
+        },
+        "Sendvid": {
+          "playerId": "player_4",
+          "playerKey": "eps5",
+          "playerType": "Sendvid",
+          "playerProvider": "sendvid",
+          "totalEpisodes": 12,
+          "firstUrl": "https://sendvid.com/embed/j1vm3avo",
+          "lastUrl": "https://sendvid.com/embed/8c3h07v8",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:42:47.097Z"
+        }
+      },
+      "availablePlayers": [
+        "Scan",
+        "Vidmoly",
+        "Sibnet",
+        "OneUpload",
+        "Sendvid"
+      ],
+      "scrapedAt": "2026-01-01T13:42:47.166Z",
+      "lastUpdated": "2026-01-01T13:42:47.166Z"
+    },
+    "ame-to-kimi-to_saison2_vostfr": {
+      "seasonId": "ame-to-kimi-to_saison2_vostfr",
+      "animeId": "ame-to-kimi-to",
+      "title": "Ame to Kimi to",
+      "slug": "ame-to-kimi-to",
+      "season": "saison2",
+      "seasonNumber": 2,
+      "seasonSuffix": "",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/ame-to-kimi-to/saison2/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/ame-to-kimi-to/saison2/vostfr/",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ame-to-kimi-to.jpg",
+      "banner": null,
+      "description": "Ame to Kimi to - Saison 2 | Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "totalEpisodes": 1,
+      "episodesList": [
+        1
+      ],
+      "players": {
+        "Sibnet": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Sibnet",
+          "playerProvider": "sibnet",
+          "totalEpisodes": 1,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "lastUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:42:47.209Z"
+        },
+        "Vidmoly": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "playerProvider": "vidmoly",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vidmoly.to/embed-.html",
+          "lastUrl": "https://vidmoly.to/embed-.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:42:47.210Z"
+        },
+        "Sendvid": {
+          "playerId": "player_2",
+          "playerKey": "eps3",
+          "playerType": "Sendvid",
+          "playerProvider": "sendvid",
+          "totalEpisodes": 1,
+          "firstUrl": "https://sendvid.com/embed/",
+          "lastUrl": "https://sendvid.com/embed/",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:42:47.210Z"
+        },
+        "Scan": {
+          "playerId": "player_3",
+          "playerKey": "eps4",
+          "playerType": "Scan",
+          "playerProvider": "",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "lastUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:42:47.210Z"
+        }
+      },
+      "availablePlayers": [
+        "Sibnet",
+        "Vidmoly",
+        "Sendvid",
+        "Scan"
+      ],
+      "scrapedAt": "2026-01-01T13:42:47.419Z",
+      "lastUpdated": "2026-01-01T13:42:47.419Z"
+    },
+    "ame-to-kimi-to_saison3_vostfr": {
+      "seasonId": "ame-to-kimi-to_saison3_vostfr",
+      "animeId": "ame-to-kimi-to",
+      "title": "Ame to Kimi to",
+      "slug": "ame-to-kimi-to",
+      "season": "saison3",
+      "seasonNumber": 3,
+      "seasonSuffix": "",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/ame-to-kimi-to/saison3/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/ame-to-kimi-to/saison3/vostfr/",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ame-to-kimi-to.jpg",
+      "banner": null,
+      "description": "Ame to Kimi to - Saison 3 | Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "totalEpisodes": 1,
+      "episodesList": [
+        1
+      ],
+      "players": {
+        "Sibnet": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Sibnet",
+          "playerProvider": "sibnet",
+          "totalEpisodes": 1,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "lastUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:42:47.449Z"
+        },
+        "Vidmoly": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "playerProvider": "vidmoly",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vidmoly.to/embed-.html",
+          "lastUrl": "https://vidmoly.to/embed-.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:42:47.449Z"
+        },
+        "Sendvid": {
+          "playerId": "player_2",
+          "playerKey": "eps3",
+          "playerType": "Sendvid",
+          "playerProvider": "sendvid",
+          "totalEpisodes": 1,
+          "firstUrl": "https://sendvid.com/embed/",
+          "lastUrl": "https://sendvid.com/embed/",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:42:47.449Z"
+        },
+        "Scan": {
+          "playerId": "player_3",
+          "playerKey": "eps4",
+          "playerType": "Scan",
+          "playerProvider": "",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "lastUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:42:47.449Z"
+        }
+      },
+      "availablePlayers": [
+        "Sibnet",
+        "Vidmoly",
+        "Sendvid",
+        "Scan"
+      ],
+      "scrapedAt": "2026-01-01T13:42:47.508Z",
+      "lastUpdated": "2026-01-01T13:42:47.508Z"
+    },
+    "ame-to-kimi-to_saison4_vostfr": {
+      "seasonId": "ame-to-kimi-to_saison4_vostfr",
+      "animeId": "ame-to-kimi-to",
+      "title": "Ame to Kimi to",
+      "slug": "ame-to-kimi-to",
+      "season": "saison4",
+      "seasonNumber": 4,
+      "seasonSuffix": "",
+      "language": "vostfr",
+      "episodesJsUrl": "https://anime-sama.tv/catalogue/ame-to-kimi-to/saison4/vostfr/episodes.js",
+      "pageUrl": "https://anime-sama.tv/catalogue/ame-to-kimi-to/saison4/vostfr/",
+      "thumbnail": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ame-to-kimi-to.jpg",
+      "banner": null,
+      "description": "Ame to Kimi to - Saison 4 | Anime-Sama - Streaming et catalogage d'animes et scans.",
+      "totalEpisodes": 1,
+      "episodesList": [
+        1
+      ],
+      "players": {
+        "Sibnet": {
+          "playerId": "player_0",
+          "playerKey": "eps1",
+          "playerType": "Sibnet",
+          "playerProvider": "sibnet",
+          "totalEpisodes": 1,
+          "firstUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "lastUrl": "https://video.sibnet.ru/shell.php?videoid=",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:42:47.537Z"
+        },
+        "Vidmoly": {
+          "playerId": "player_1",
+          "playerKey": "eps2",
+          "playerType": "Vidmoly",
+          "playerProvider": "vidmoly",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vidmoly.to/embed-.html",
+          "lastUrl": "https://vidmoly.to/embed-.html",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:42:47.537Z"
+        },
+        "Sendvid": {
+          "playerId": "player_2",
+          "playerKey": "eps3",
+          "playerType": "Sendvid",
+          "playerProvider": "sendvid",
+          "totalEpisodes": 1,
+          "firstUrl": "https://sendvid.com/embed/",
+          "lastUrl": "https://sendvid.com/embed/",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:42:47.537Z"
+        },
+        "Scan": {
+          "playerId": "player_3",
+          "playerKey": "eps4",
+          "playerType": "Scan",
+          "playerProvider": "",
+          "totalEpisodes": 1,
+          "firstUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "lastUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+          "isScan": false,
+          "scrapedAt": "2026-01-01T13:42:47.537Z"
+        }
+      },
+      "availablePlayers": [
+        "Sibnet",
+        "Vidmoly",
+        "Sendvid",
+        "Scan"
+      ],
+      "scrapedAt": "2026-01-01T13:42:47.608Z",
+      "lastUpdated": "2026-01-01T13:42:47.608Z"
     }
   },
   "episodes": {
@@ -67900,16 +68259,803 @@
       "totalPlayers": 3,
       "scrapedAt": "2026-01-01T13:40:52.395Z",
       "lastUpdated": "2026-01-01T13:40:52.395Z"
+    },
+    "ame-to-kimi-to_saison1_vostfr": {
+      "seasonId": "ame-to-kimi-to_saison1_vostfr",
+      "animeId": "ame-to-kimi-to",
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Scan": {
+              "url": "https://movearnpre.com/embed/ab2hehvt03fo",
+              "embedUrl": "https://movearnpre.com/embed/ab2hehvt03fo",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T13:42:47.096Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-fenz4bl6tym1.html",
+              "embedUrl": "https://vidmoly.to/embed-fenz4bl6tym1.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5954083",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5954083",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-nhr6pqt6ukfp.html",
+              "embedUrl": "https://oneupload.to/embed-nhr6pqt6ukfp.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/j1vm3avo",
+              "embedUrl": "https://sendvid.com/embed/j1vm3avo",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 5,
+          "scrapedAt": "2026-01-01T13:42:47.096Z"
+        },
+        "2": {
+          "number": 2,
+          "players": {
+            "Scan": {
+              "url": "https://movearnpre.com/embed/45xxp38xoczr",
+              "embedUrl": "https://movearnpre.com/embed/45xxp38xoczr",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T13:42:47.096Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-luvw6jmt6rt9.html",
+              "embedUrl": "https://vidmoly.to/embed-luvw6jmt6rt9.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5962068",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5962068",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-ece6gaugi3c7.html",
+              "embedUrl": "https://oneupload.to/embed-ece6gaugi3c7.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/t5vqh40n",
+              "embedUrl": "https://sendvid.com/embed/t5vqh40n",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 5,
+          "scrapedAt": "2026-01-01T13:42:47.096Z"
+        },
+        "3": {
+          "number": 3,
+          "players": {
+            "Scan": {
+              "url": "https://movearnpre.com/embed/r707t9d3m3pi",
+              "embedUrl": "https://movearnpre.com/embed/r707t9d3m3pi",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T13:42:47.096Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-7sol5ik0pke9.html",
+              "embedUrl": "https://vidmoly.to/embed-7sol5ik0pke9.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5969057",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5969057",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-1w5k3ag7i9hc.html",
+              "embedUrl": "https://oneupload.to/embed-1w5k3ag7i9hc.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/01e2d2b8",
+              "embedUrl": "https://sendvid.com/embed/01e2d2b8",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 5,
+          "scrapedAt": "2026-01-01T13:42:47.096Z"
+        },
+        "4": {
+          "number": 4,
+          "players": {
+            "Scan": {
+              "url": "https://movearnpre.com/embed/xs2160h83jgq",
+              "embedUrl": "https://movearnpre.com/embed/xs2160h83jgq",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T13:42:47.096Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-bmcmovgrrdfa.html",
+              "embedUrl": "https://vidmoly.to/embed-bmcmovgrrdfa.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5975524",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5975524",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-ufnt164swu1m.html",
+              "embedUrl": "https://oneupload.to/embed-ufnt164swu1m.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/va2xffdz",
+              "embedUrl": "https://sendvid.com/embed/va2xffdz",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 5,
+          "scrapedAt": "2026-01-01T13:42:47.096Z"
+        },
+        "5": {
+          "number": 5,
+          "players": {
+            "Scan": {
+              "url": "https://movearnpre.com/embed/cdw4htpe3m27",
+              "embedUrl": "https://movearnpre.com/embed/cdw4htpe3m27",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T13:42:47.096Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-hq9jpwr48ezk.html",
+              "embedUrl": "https://vidmoly.to/embed-hq9jpwr48ezk.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5980946",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5980946",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-j64hcxnseamr.html",
+              "embedUrl": "https://oneupload.to/embed-j64hcxnseamr.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/nn25ob0x",
+              "embedUrl": "https://sendvid.com/embed/nn25ob0x",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 5,
+          "scrapedAt": "2026-01-01T13:42:47.096Z"
+        },
+        "6": {
+          "number": 6,
+          "players": {
+            "Scan": {
+              "url": "https://movearnpre.com/embed/ipz3vbtaff08",
+              "embedUrl": "https://movearnpre.com/embed/ipz3vbtaff08",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T13:42:47.096Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-bocyurofe8ow.html",
+              "embedUrl": "https://vidmoly.to/embed-bocyurofe8ow.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5987445",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5987445",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-u7j27nqtmxe9.html",
+              "embedUrl": "https://oneupload.to/embed-u7j27nqtmxe9.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/s9nv3h7f",
+              "embedUrl": "https://sendvid.com/embed/s9nv3h7f",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 5,
+          "scrapedAt": "2026-01-01T13:42:47.096Z"
+        },
+        "7": {
+          "number": 7,
+          "players": {
+            "Scan": {
+              "url": "https://movearnpre.com/embed/v5npiy994m7a",
+              "embedUrl": "https://movearnpre.com/embed/v5npiy994m7a",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T13:42:47.096Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-xzb1xkhb6byh.html",
+              "embedUrl": "https://vidmoly.to/embed-xzb1xkhb6byh.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5991802",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5991802",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-mwrofiif344b.html",
+              "embedUrl": "https://oneupload.to/embed-mwrofiif344b.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/zl53av95",
+              "embedUrl": "https://sendvid.com/embed/zl53av95",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 5,
+          "scrapedAt": "2026-01-01T13:42:47.096Z"
+        },
+        "8": {
+          "number": 8,
+          "players": {
+            "Scan": {
+              "url": "https://movearnpre.com/embed/wb953220jphb",
+              "embedUrl": "https://movearnpre.com/embed/wb953220jphb",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T13:42:47.096Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-7njoteu53f1a.html",
+              "embedUrl": "https://vidmoly.to/embed-7njoteu53f1a.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=5996900",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5996900",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-tovi14ddpjm5.html",
+              "embedUrl": "https://oneupload.to/embed-tovi14ddpjm5.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/lfnoapet",
+              "embedUrl": "https://sendvid.com/embed/lfnoapet",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 5,
+          "scrapedAt": "2026-01-01T13:42:47.096Z"
+        },
+        "9": {
+          "number": 9,
+          "players": {
+            "Scan": {
+              "url": "https://movearnpre.com/embed/087k4z5wi3n6",
+              "embedUrl": "https://movearnpre.com/embed/087k4z5wi3n6",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T13:42:47.096Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-a6dgwr440jek.html",
+              "embedUrl": "https://vidmoly.to/embed-a6dgwr440jek.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=6002213",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=6002213",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-acvtretslkcz.html",
+              "embedUrl": "https://oneupload.to/embed-acvtretslkcz.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/wcelj84z",
+              "embedUrl": "https://sendvid.com/embed/wcelj84z",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 5,
+          "scrapedAt": "2026-01-01T13:42:47.096Z"
+        },
+        "10": {
+          "number": 10,
+          "players": {
+            "Scan": {
+              "url": "https://movearnpre.com/embed/30no6jac0jcv",
+              "embedUrl": "https://movearnpre.com/embed/30no6jac0jcv",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T13:42:47.096Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-39j7xjumf8ls.html",
+              "embedUrl": "https://vidmoly.to/embed-39j7xjumf8ls.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=6011167",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=6011167",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-fz3oy3zgb7tw.html",
+              "embedUrl": "https://oneupload.to/embed-fz3oy3zgb7tw.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/022z8bmk",
+              "embedUrl": "https://sendvid.com/embed/022z8bmk",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 5,
+          "scrapedAt": "2026-01-01T13:42:47.096Z"
+        },
+        "11": {
+          "number": 11,
+          "players": {
+            "Scan": {
+              "url": "https://movearnpre.com/embed/3sbrzczd8ma2",
+              "embedUrl": "https://movearnpre.com/embed/3sbrzczd8ma2",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T13:42:47.096Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-mwg0qtwwwydx.html",
+              "embedUrl": "https://vidmoly.to/embed-mwg0qtwwwydx.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=6012771",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=6012771",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-uyybgmint55y.html",
+              "embedUrl": "https://oneupload.to/embed-uyybgmint55y.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/igsi63c5",
+              "embedUrl": "https://sendvid.com/embed/igsi63c5",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 5,
+          "scrapedAt": "2026-01-01T13:42:47.096Z"
+        },
+        "12": {
+          "number": 12,
+          "players": {
+            "Scan": {
+              "url": "https://movearnpre.com/embed/2mg3ygy3fycu",
+              "embedUrl": "https://movearnpre.com/embed/2mg3ygy3fycu",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T13:42:47.096Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-zf8993dc5x6z.html",
+              "embedUrl": "https://vidmoly.to/embed-zf8993dc5x6z.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            },
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=6017299",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=6017299",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            },
+            "OneUpload": {
+              "url": "https://oneupload.to/embed-cn9c2d6jn16e.html",
+              "embedUrl": "https://oneupload.to/embed-cn9c2d6jn16e.html",
+              "type": "video",
+              "player": "OneUpload",
+              "playerProvider": "oneupload",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/8c3h07v8",
+              "embedUrl": "https://sendvid.com/embed/8c3h07v8",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:42:47.097Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 5,
+          "scrapedAt": "2026-01-01T13:42:47.096Z"
+        }
+      },
+      "totalPlayers": 5,
+      "scrapedAt": "2026-01-01T13:42:47.166Z",
+      "lastUpdated": "2026-01-01T13:42:47.166Z"
+    },
+    "ame-to-kimi-to_saison2_vostfr": {
+      "seasonId": "ame-to-kimi-to_saison2_vostfr",
+      "animeId": "ame-to-kimi-to",
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T13:42:47.209Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-.html",
+              "embedUrl": "https://vidmoly.to/embed-.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:42:47.210Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/",
+              "embedUrl": "https://sendvid.com/embed/",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:42:47.210Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vk.com/video_ext.php?oid=&hd=3",
+              "embedUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T13:42:47.210Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 4,
+          "scrapedAt": "2026-01-01T13:42:47.209Z"
+        }
+      },
+      "totalPlayers": 4,
+      "scrapedAt": "2026-01-01T13:42:47.419Z",
+      "lastUpdated": "2026-01-01T13:42:47.419Z"
+    },
+    "ame-to-kimi-to_saison3_vostfr": {
+      "seasonId": "ame-to-kimi-to_saison3_vostfr",
+      "animeId": "ame-to-kimi-to",
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T13:42:47.449Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-.html",
+              "embedUrl": "https://vidmoly.to/embed-.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:42:47.449Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/",
+              "embedUrl": "https://sendvid.com/embed/",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:42:47.449Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vk.com/video_ext.php?oid=&hd=3",
+              "embedUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T13:42:47.449Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 4,
+          "scrapedAt": "2026-01-01T13:42:47.449Z"
+        }
+      },
+      "totalPlayers": 4,
+      "scrapedAt": "2026-01-01T13:42:47.508Z",
+      "lastUpdated": "2026-01-01T13:42:47.508Z"
+    },
+    "ame-to-kimi-to_saison4_vostfr": {
+      "seasonId": "ame-to-kimi-to_saison4_vostfr",
+      "animeId": "ame-to-kimi-to",
+      "episodesByNumber": {
+        "1": {
+          "number": 1,
+          "players": {
+            "Sibnet": {
+              "url": "https://video.sibnet.ru/shell.php?videoid=",
+              "embedUrl": "https://video.sibnet.ru/shell.php?videoid=",
+              "type": "video",
+              "player": "Sibnet",
+              "playerProvider": "sibnet",
+              "scrapedAt": "2026-01-01T13:42:47.537Z",
+              "valid": true
+            },
+            "Vidmoly": {
+              "url": "https://vidmoly.to/embed-.html",
+              "embedUrl": "https://vidmoly.to/embed-.html",
+              "type": "video",
+              "player": "Vidmoly",
+              "playerProvider": "vidmoly",
+              "scrapedAt": "2026-01-01T13:42:47.537Z",
+              "valid": true
+            },
+            "Sendvid": {
+              "url": "https://sendvid.com/embed/",
+              "embedUrl": "https://sendvid.com/embed/",
+              "type": "video",
+              "player": "Sendvid",
+              "playerProvider": "sendvid",
+              "scrapedAt": "2026-01-01T13:42:47.537Z",
+              "valid": true
+            },
+            "Scan": {
+              "url": "https://vk.com/video_ext.php?oid=&hd=3",
+              "embedUrl": "https://vk.com/video_ext.php?oid=&hd=3",
+              "type": "video",
+              "player": "Scan",
+              "playerProvider": "",
+              "scrapedAt": "2026-01-01T13:42:47.537Z",
+              "valid": true
+            }
+          },
+          "totalOptions": 4,
+          "scrapedAt": "2026-01-01T13:42:47.537Z"
+        }
+      },
+      "totalPlayers": 4,
+      "scrapedAt": "2026-01-01T13:42:47.608Z",
+      "lastUpdated": "2026-01-01T13:42:47.608Z"
     }
   },
   "players": {
     "Sibnet": {
       "name": "Sibnet",
       "type": "video",
-      "count": 105,
+      "count": 109,
       "exampleUrls": [
-        "https://video.sibnet.ru/shell.php?videoid=4740934",
-        "https://video.sibnet.ru/shell.php?videoid=4986696",
         "https://video.sibnet.ru/shell.php?videoid=4757322",
         "https://video.sibnet.ru/shell.php?videoid=6026566",
         "https://video.sibnet.ru/shell.php?videoid=5185568",
@@ -67917,16 +69063,17 @@
         "https://video.sibnet.ru/shell.php?videoid=5089647",
         "https://video.sibnet.ru/shell.php?videoid=5089928",
         "https://video.sibnet.ru/shell.php?videoid=5699478",
-        "https://video.sibnet.ru/shell.php?videoid=4845527"
+        "https://video.sibnet.ru/shell.php?videoid=4845527",
+        "https://video.sibnet.ru/shell.php?videoid=5954083",
+        "https://video.sibnet.ru/shell.php?videoid="
       ],
-      "lastUsed": "2026-01-01T13:40:52.395Z"
+      "lastUsed": "2026-01-01T13:42:47.608Z"
     },
     "Vidmoly": {
       "name": "Vidmoly",
       "type": "video",
-      "count": 96,
+      "count": 100,
       "exampleUrls": [
-        "https://vidmoly.to/embed-8291q33c4bvg.html",
         "https://vidmoly.to/embed-8nv76rb1s031.html",
         "https://vidmoly.to/embed-.html",
         "https://vidmoly.net/embed-07wv76ss3ich.html",
@@ -67935,17 +69082,16 @@
         "https://vidmoly.net/embed-qg21ej8vkmdf.html",
         "https://vidmoly.to/embed-wsdvivia9911.html",
         "https://vidmoly.to/embed-22z7sejkcswm.html",
-        "https://vidmoly.to/embed-59be2r38oanj.html"
+        "https://vidmoly.to/embed-59be2r38oanj.html",
+        "https://vidmoly.to/embed-fenz4bl6tym1.html"
       ],
-      "lastUsed": "2026-01-01T13:38:51.634Z"
+      "lastUsed": "2026-01-01T13:42:47.608Z"
     },
     "Scan": {
       "name": "Scan",
       "type": "video",
-      "count": 88,
+      "count": 92,
       "exampleUrls": [
-        "https://www.myvi.top/embed/1hqb3919r5gwf8rdtoyqgkwnhw",
-        "https://www.myvi.tv/embed/xtyiajuzb49rmx5ymdfs8etw8w",
         "https://www.myvi.tv/embed/61sgfwbn79xwickufwjujcceie",
         "https://dingtezuni.com/embed/q7r3yjrpqnk1",
         "https://vk.com/video_ext.php?oid=755747641&id=456239866&hash=3fb370a6a695a8e7&hd=3",
@@ -67953,17 +69099,17 @@
         "https://www.myvi.tv/embed/5btxqx11wikr5gp1bwm78ndnuc",
         "https://www.myvi.tv/embed/uf3bwfar3qxwpesdwxj7jwftgc",
         "https://vk.com/video_ext.php?oid=751474887&id=456240433&hd=3",
-        "https://www.myvi.tv/embed/z89rwhpikrcrpnwbis9es87aic"
+        "https://www.myvi.tv/embed/z89rwhpikrcrpnwbis9es87aic",
+        "https://movearnpre.com/embed/ab2hehvt03fo",
+        "https://vk.com/video_ext.php?oid=&hd=3"
       ],
-      "lastUsed": "2026-01-01T13:40:52.395Z"
+      "lastUsed": "2026-01-01T13:42:47.608Z"
     },
     "Sendvid": {
       "name": "Sendvid",
       "type": "video",
-      "count": 112,
+      "count": 116,
       "exampleUrls": [
-        "https://sendvid.com/embed/79ejbs3b",
-        "https://sendvid.com/embed/w1apkp82",
         "https://sendvid.com/embed/wn0sz2u2",
         "https://sendvid.com/embed/knzup2tg",
         "https://sendvid.com/embed/r853xdrr",
@@ -67971,14 +69117,16 @@
         "https://sendvid.com/embed/opxdjyeh",
         "https://sendvid.com/embed/22wl9gg7",
         "https://sendvid.com/embed/balvypnk",
-        "https://sendvid.com/embed/4vdcm80k"
+        "https://sendvid.com/embed/4vdcm80k",
+        "https://sendvid.com/embed/j1vm3avo",
+        "https://sendvid.com/embed/"
       ],
-      "lastUsed": "2026-01-01T13:40:52.395Z"
+      "lastUsed": "2026-01-01T13:42:47.608Z"
     },
     "OneUpload": {
       "name": "OneUpload",
       "type": "video",
-      "count": 7,
+      "count": 8,
       "exampleUrls": [
         "https://oneupload.to/embed-fa3bfw24qud9.html",
         "https://oneupload.to/embed-mm8v9f1na7uz.html",
@@ -67986,9 +69134,10 @@
         "https://oneupload.to/embed-jc3xew51tb18.html",
         "https://oneupload.to/embed-ob1ep8z9gbo5.html",
         "https://oneupload.to/embed-77188pwgf1qw.html",
-        "https://oneupload.to/embed-7gsfar4jz8ta.html"
+        "https://oneupload.to/embed-7gsfar4jz8ta.html",
+        "https://oneupload.to/embed-nhr6pqt6ukfp.html"
       ],
-      "lastUsed": "2026-01-01T13:38:51.634Z"
+      "lastUsed": "2026-01-01T13:42:47.175Z"
     },
     "Smoothpre": {
       "name": "Smoothpre",
