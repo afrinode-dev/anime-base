@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-01-01T10:11:12.785Z",
-  "totalAnimes": 25,
+  "lastUpdated": "2026-01-01T10:11:14.430Z",
+  "totalAnimes": 26,
   "totalScans": 0,
   "totalEpisodes": 430,
   "totalChapters": 0,
@@ -531,6 +531,27 @@
         }
       ],
       "lastUpdated": "2026-01-01T10:11:10.910Z"
+    },
+    "a-returners-magic-should-be-special": {
+      "id": "a-returners-magic-should-be-special",
+      "title": "A Returner's Magic Should be Special",
+      "slug": "a-returners-magic-should-be-special",
+      "language": "vostfr",
+      "type": "anime",
+      "pageUrl": "https://anime-sama.tv/catalogue/a-returners-magic-should-be-special/saison1/vostfr/",
+      "seasons": [
+        {
+          "season": 1,
+          "suffix": "",
+          "fullName": "saison1",
+          "url": "https://anime-sama.tv/catalogue/a-returners-magic-should-be-special/saison1/vostfr/",
+          "episodesJsUrl": "https://anime-sama.tv/catalogue/a-returners-magic-should-be-special/saison1/vostfr/episodes.js",
+          "language": "vostfr",
+          "type": "anime",
+          "episodeId": "a-returners-magic-should-be-special_saison1_vostfr"
+        }
+      ],
+      "lastUpdated": "2026-01-01T10:11:14.430Z"
     }
   },
   "scans": {},
@@ -14175,10 +14196,10 @@
   "statistics": {
     "byLanguage": {
       "vf": 5,
-      "vostfr": 20
+      "vostfr": 21
     },
     "byType": {
-      "anime": 25,
+      "anime": 26,
       "scan": 0
     },
     "byPlayer": {
@@ -14188,6 +14209,6 @@
       "Sendvid": 28,
       "OneUpload": 2
     },
-    "lastUpdate": "2026-01-01T10:11:12.785Z"
+    "lastUpdate": "2026-01-01T10:11:14.430Z"
   }
 }
